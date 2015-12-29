@@ -205,7 +205,7 @@ Sure! The only meeting rooms phone calls are not allowed are the Quiet Study Roo
 iPads and other technology gadgets may be borrowed by Darien residents, those who work full-time in Darien, and [Friends of the Library](/link-needed "Friend of the Library") who have donated $300 or more per year. iPads are loaned out for 7 days. 
 
 * *Children:* [Early Literacy iPads](/link-needed "Early Literacy iPads") from the Children's Library will help your child learn to read.
-* *Adults & Teens:* Borrow iPads with apps focused on art and cooking from the Welcome Desk. Or if you want a general iPad for work, borrow one from the Help Desk on the Lower Level. 
+* *Adults & Teens:* Borrow iPads with apps focused on cooking and meditation (zen) from the Welcome Desk. Or if you want a general iPad for work, borrow one from the Help Desk on the Lower Level. 
 
 #Sign Up for Information
 If you want to learn about new programs, book recommendations, and events, [sign up for one of our emails](/link-needed "Sign up for emaisl")! 
@@ -240,3 +240,5 @@ Yes, we have video games for children to adults. Games for children's are locate
 
 #Minecraft
 We are proud to host the [Fairfield County Minecraft](http://www.fcminecraft.org/ "Fairfield County Minecraft") server. Players ages 8 to 17 are welcome to join. Read [how to get started](http://www.fcminecraft.org/players.html "Get started on the Fairfield County Minecraft server"). 
+
+Children between 8 and 12 may play Minecraft on the Children's Library computers. Teens 12-18 may play Minecraft in the Teen Lounge. You will need your own account.
