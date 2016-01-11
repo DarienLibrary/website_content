@@ -1,4 +1,4 @@
-We provide high-quality educational and entertaining programming. When permissible, we film visits from authors, lectures, and workshops to post to DarienLibrary.TV. Just because you have to miss an event in person doesn't mean you can't join in online later. 
+We provide high-quality educational and entertainment programming. When permissible, we film visits from authors, lectures, and workshops to post to DarienLibrary.TV. Just because you have to miss an event in person doesn't mean you can't join in online later. 
 
 
 #The Library: An Original Series

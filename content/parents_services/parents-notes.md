@@ -1,1 +1,1 @@
-Emailed Claire on 12/4 about what services they have for parents. 
+Emailed Claire on 12/4 about what services they have for parents. She sent me back the services listed here. Not sure how these should be laid out. Maybe a grid? 

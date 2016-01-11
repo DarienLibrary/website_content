@@ -158,7 +158,7 @@ You can print in three ways:
 * Email your document from your laptop or phone to the wireless printer. For black and white prints, send your document to dl-main-bw@printspots.com or send color documents to dl-main-color@printspots.com
 
 *Where do I pick up prints?*
-If you email or upload your document, you will need to visit the Second Level's Wireless Print Release station. Once you log in and release the document for printing, you can pick it up at the printer.  *** NEED BETTER DIRECTIONS ***
+If you email or upload your document, you will need to visit the Second Level's Wireless Print Release station. Once you log in and release the document for printing, you can pick it up at the printer. 
 
 #Scanning
 Scanning is available on the Lower Level in the [Business Center](/link-needed "Business Center") and on the Second Level. 
@@ -177,14 +177,12 @@ If a room is available, of course! All we ask is that you have a library card re
 *Can I get a study room later?*
 Yes, if you live in Darien, work full-time in Darien, or are a Friend of the Library. If you are a non-resident, you will need to become a [Friend](/link-needed "Friend of the Library") to book a room in advance. 
 
-
 #Food & Drinks
 *Can I have food and drinks in the Library?*
 Yes! We even have a cafe on the Main Level for your convenience. The only room where food or drinks is not permitted is in the Digital Media Lab on the Lower Level. 
 
 *Where is the water fountain?*
 We have three water fountains located throughout the building. One by the Cafe, another by the bathrooms on the Lower Level, and one on the Mezzanine Level by the bathrooms.
-
 
 #Quiet Places
 The Library is a busy place with people using the space in different ways. If you want a quiet place to work, our recommendations: 
