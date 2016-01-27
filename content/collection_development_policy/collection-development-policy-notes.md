@@ -1,0 +1,1 @@
+Perhaps we would like to put these sections in accordion boxes? It's quite lengthy. 

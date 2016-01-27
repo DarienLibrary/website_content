@@ -1,0 +1,1 @@
+The two charts for What it Costs need to float side by side. 

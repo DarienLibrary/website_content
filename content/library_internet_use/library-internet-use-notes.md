@@ -1,0 +1,1 @@
+Can we shorten this content? It's text-heavy. I've asked John if it can be cut down since the Library Board's notice isn't on the bottom. 

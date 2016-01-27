@@ -1,0 +1,1 @@
+Accordion or not? This page isn't nearly as long as the collection development policy. Pay attention to the ##Unattended Children Policy. Is that what we really want it to be marked up as? Probably should link to that section from the main body text where needed. 
