@@ -2,10 +2,4 @@ Our librarians are available to help you with in-depth research questions and te
 
 [SNIPPET FOR THREE TIERS]
 
-Form Fields: 
-
-Your Name
-Darien Library Barcode Number
-Contact Information (Phone or Email)
-Availability (e.g. Days or times)
-What do you need help with? 
+<script type="text/javascript" src="https://form.jotform.com/jsform/60405912416146"></script>

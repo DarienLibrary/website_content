@@ -11,11 +11,10 @@ Biographies of well known figures from all fields and countries.
 [Encyclopedia Britannica Online](http://library.eb.com/ "Encyclopedia Britannica Online")
 An online version of the entire print encyclopedia. The encyclopedia is updated daily and has special added features including Internet links.
 
-
-[ERIC](/link-needed "ERIC")
+[ERIC](http://research.darienlibrary.org/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;DARLIB=DARLIB&amp;profile=ehost_all&amp;defaultdb=eric "ERIC")
 Filled with education-related resources, ERIC contains articles, program evaluations, curricular materials, and much more.
 
-[GreenFile](/link-needed "GreenFile")
+[GreenFile](http://research.darienlibrary.org/login?url=http://search.ebscohost.com/login.aspx?authtype=ip,uid&amp;DARLIB=DARLIB&amp;profile=ehost_all&amp;defaultdb=8gh "GreenFile")
 GreenFile draws connections between the environment and human impact. Whether you're looking for topics such as climate change, green architecture, pollution, recycling, sustainable agriculture, or something similar, GreenFile is the place to start!
 
 [Literature Resource Center](http://go.galegroup.com/ps/start.do?p=LitRC&amp;u=21517&amp;authCount=1 "Literature Resource Center")
