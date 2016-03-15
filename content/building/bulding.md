@@ -14,13 +14,16 @@ Surrounding the building is native foliage. A fountain (?) and patio are located
 
 We opened at the current location on January 10, 2009. On opening day, we welcomed 7,200 patrons to see their new library. Since then, we see XXX,XXX visits each year. The Library is open 69 (?) hours per week to meet the community's needs.
 
-Shelter during/after storms
+[ALAN HASN'T READ THE LINES BELOW]
+Aside from the every day use of the Library, after severe weather, we open our doors for longer hours to be a shelter and safe place for our community. 
 
 #Building Highlights
-Materials Handling System Automatic Book Sorter
-TEA Room and Digital Media Lab
-Two Fireplaces
-Cafe
+What makes our building stand out: 
+
+* Materials Handling System Automatic Book Sorter: Books and movies get back on the shelves faster
+* TEA Room and Digital Media Lab: Creative spaces for preserving your memories or making new ones.
+* Fireplaces: Available on the First and Second Levels, the fireplaces are a favorite place to relax during cold weather.
+* Café: Enjoy fresh pastries, sandwiches, and drinks while working, meeting, and studying at the Library.
 
 
 #Gold LEED Certification & Sustainable Features
@@ -40,8 +43,8 @@ A sustainable building is not only environmentally responsible, it saves the Lib
 [I COPIED THE ABOVE WORD FOR WORD FROM THE DARIEN SUSTAINABLE FEATURES REPORT BY PETER GISOLFI ASSOSCIATES. MAY I DO THAT?]
 
 #Plants
-2014 Library Garden founded and tended to by master gardener, Susie Skerrett. She is also our Film Librarian. 
-[insert image of the garden]
+2014 Library Garden founded and tended to by master gardener and Film Librarian, Susie.
+[insert image of the garden — Emailed Susie asking for a list of plants]
 
 2008 We are proud to support the growth of native plants surrounding our building. The only exception are the honey locust trees which shade the courtyard.
 
