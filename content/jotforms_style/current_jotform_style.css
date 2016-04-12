@@ -1,0 +1,142 @@
+
+/* All boxes */
+.form-input-wide.jf-required {
+    width : 100%;
+}
+
+.form-textbox, .form-textarea {
+    width : 100%;
+    border : 1px solid #555;
+}
+
+/* -------- */
+/* How to fade out content 
+ul:hover li {
+    opacity : 0.5;
+}
+
+ul:hover li {
+    opacity : 0.5;
+}
+
+/* Makes everything else fade 
+ul:hover li:hover {
+    opacity : 1;
+}
+
+*/
+ 
+input:focus {
+    opacity : 1;
+    outline : none;
+}
+
+/* .form-line.jf-required ul li:focus {
+    background-color : red;
+    opacity : 1;
+}
+
+/* -------- */
+input[type=text]:focus, textarea:focus,
+.form-line-active textarea:focus {
+    border : 2px dashed rgba(79,176,174, 0.4);
+    outline : 0 none;
+}
+
+/* -------- */
+.form-label.form-label-top {
+    color : #666;
+    font-family : "Open Sans", Helvetica, Arial, sans-serif;
+    font-weight : 700;
+    font-size : 13px;
+}
+
+/* -------- */
+#id_7 .form-textbox {
+    padding-right : 20px;
+}
+
+#sublabel_phone {
+    margin-left : 25px;
+}
+
+#input_7_phone.form-textbox {
+    margin-left : 25px;
+}
+
+.phone-separate {
+    display : none;
+}
+
+/* -------- */
+input#last_1 {
+    margin-left : 8px;
+}
+
+#sublabel_last {
+    margin-left : 10px;
+}
+
+/* Date of Meeting */
+#month_8 {
+    margin-right : 5px;
+}
+
+#day_8 {
+    margin-left : 5px;
+    margin-right : 5px;
+}
+
+#year_8 {
+    margin-left : 10px;
+}
+
+span.date-separate {
+    display : none;
+}
+
+/* -------- */
+.form-label {
+    display : inline;
+}
+
+/* Form Errors change to pink */
+.form-required {
+    color : #fff;
+}
+
+.form-line-error 
+.form-error-message {
+    background-color : #EF6262;
+}
+
+.form-line-error .form-error-message .form-error-arrow {
+    border-bottom-color : #EF6262;
+}
+
+/* This was to remove the error text altogether 
+.form-label-top {
+    display : none;
+}
+
+.form-line-error {
+    background : none transparent;
+}
+
+.form-error-message, .form-required {
+    display : none !important;
+}
+
+#label_18, #label_17 {
+    display : block;
+}
+
+/* -------- */
+#last_17 {
+    margin-left : 7px;
+}
+
+#sublabel_last {
+    margin-left : 7px;
+}
+
