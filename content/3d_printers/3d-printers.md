@@ -1,34 +1,48 @@
-<div class="container">
-<ul class="list-unstyled row">
-	<li class="col-sm-3 col-xs-6 md-margin-bottom-30">
-		<div class="team-img">
-			<a href="http://store.makerbot.com/replicator-z18"><img class="img-responsive" alt="MakerBot Z18" src="http://3dprint.com/wp-content/uploads/2014/06/z18.png" /></a>
-		</div>
-		<h3>MakerBot Z18</h3>
-		<p>Print objects up to<br /> 11.8 L x 12 W x 18 H inches</p>
-	</li>
-	<li class="col-sm-3 col-xs-6 md-margin-bottom-30">
-		<div class="team-img">
-			<a href="http://store.makerbot.com/replicator"><img class="img-responsive" alt="MakerBot Replicator 5th Generation" src="https://www.dynamism.com/newsletter/2013/main-replicator.png" /></a>
-		</div>
-		<h3>MakerBot Replicator</h3>
-		<p>Print objects up to<br /> 9.9 L x 7.8 W x 5.9 H inches</p>
-	</li>
-	<li class="col-sm-3 col-xs-6 md-margin-bottom-30">
-		<div class="team-img">
-			<a href="https://store.makerbot.com/replicator2.html"><img class="img-responsive" alt="MakerBot Replicator 2" src="http://www.connectedly.com/sites/connectedly.com/files/styles/large/public/topic_images/2014/makerbot-replicator-2x_0.png" /></a>
-		</div>
-		<h3>MakerBot Replicator 2</h3>
-		<p>Print objects up to<br /> 11.2 L X 6.0 W X 6.1 H inches</p>
-	</li>
-	<li class="col-sm-3 col-xs-6 md-margin-bottom-30">
-		<div class="team-img">
-			<img class="img-responsive" src="http://oi68.tinypic.com/10hmuzo.jpg" />
-		</div>
-		<h3>Form 1</h3>
-		<p>Print objects up to<br /> 11.8 L x 12 W x 18 H inches</p>
-	</li>
-</ul>
+<div class="table-responsive">
+  <table class="table">
+   <tbody>
+   	<tr>
+   		<td style="vertical-align:bottom">
+   			<a href="http://store.makerbot.com/replicator-z18"><img class="img-responsive" alt="MakerBot Z18" title="MakerBot Z18 Credit: MakerBot®" src="/uploads/equipment/makerbot_z18.gif" /></a>
+   		</td>
+   		<td style="vertical-align:bottom">
+   			<a href="http://store.makerbot.com/replicator"><img class="img-responsive" alt="MakerBot Replicator 5th Generation" title="MakerBot Replicator 5th Generation Credit: MakerBot®" src="/uploads/equipment/makerbot_replicator.gif" /></a>
+   		</td>
+   		<td style="vertical-align:bottom">
+   			<a href="https://store.makerbot.com/replicator2.html"><img class="img-responsive" alt="MakerBot Replicator 2" src="/uploads/equipment/makerbot_replicator_2.gif" /></a>
+   		</td>
+   		<td style="vertical-align:bottom">
+   			<img class="img-responsive" src="/uploads/equipment/form_1.gif" alt="Form 1" title="Form 1"/>
+   		</td>
+   	</tr>
+   	<tr>
+   		<td>
+	   		<h3>MakerBot Z18</h3>
+			Print objects up to
+			<br />
+			11.8 L x 12 W x 18 H inches
+			</td>
+   		<td>
+	   		<h3>MakerBot Replicator</h3>
+			Print objects up to
+			<br /> 
+			9.9 L x 7.8 W x 5.9 H inches
+		</td>
+		<td>
+	   		<h3>MakerBot Replicator 2</h3>
+			Print objects up to
+			<br /> 
+			1.2 L X 6.0 W X 6.1 H inches
+		</td>
+		<td>
+	   		<h3>Form 1</h3>
+			Print objects up to
+			<br /> 
+                        4.9 L x 4.9 W x 6.5 H inches
+		</td>
+   	</tr>
+   </tbody>
+  </table>
 </div>
 
 <div class="margin-bottom-20"></div>
@@ -37,7 +51,7 @@ A 3D printer is a machine that takes digital files and produces a plastic print-
 
 This exciting new technology will continue to improve in the years to come. Therefore when you request an object to be printed, please keep in mind that sometimes the machines will be unavailable due to repairs.
 
-<div class="margin-bottom-20"></div>
+<div class="margin-bottom-30"></div>
 
 <div class="row">
 
@@ -56,7 +70,7 @@ This exciting new technology will continue to improve in the years to come. Ther
 #### Locations of Printers
 
 * [Business Center](/link-needed "Business Center") on the Lower Level
-* [Digital Media Lab](/link-needed "Digital Media Lab") (DML) on the Lower Level
+* [Digital Media Lab](/dml "Digital Media Lab") (DML) on the Lower Level
 * Technology Center on the Lower Level
 * Children's Library in the [TEA Room](/link-needed "TEA Room")	
 </div>
@@ -78,12 +92,13 @@ Children who live in Darien and are 12 and under may use the 3D printer in the C
 
 ### Submit Your Print
 
-[Submit your print request](/link-needed "Submit print request") file (15mb attachment limit) or send a link to the object along with the exact specifications. Otherwise bring your digital file to the Help Desk on a flash drive or other media. You may also print an object yourself in the [Digital Media Lab]/link-needed "Digital Media Lab").
+Submit your print request file (15mb attachment limit) or send a link to the object along with the exact specifications. Otherwise bring your digital file to the Help Desk on a flash drive or other media. You may also print an object yourself in the [Digital Media Lab]/link-needed "Digital Media Lab").
 
 Print time is up to 3 days from submission.
 
 <div class="margin-bottom-20"></div>
 
-<a href="/link-needed"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Submit Your Print Request</button></a>
+<a href="/page/3D-print-request"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Submit Your Print Request</button></a>
 </div>
 </div>
+<div class="margin-bottom-20"></div>

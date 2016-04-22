@@ -1,14 +1,17 @@
+<div class="row margin-bottom-10">
+<div class="col-md-10 col-md-offset-1">
+
 Your donations go directly to the purchase of all of the books, movies, and technology as well as the support of countless programming opportunities throughout the year, making Darien Library the intellectual and cultural heart of Darien. 
 
 You may also [donate](/donate "Donate") instead of becoming a Friend of the Library.
 
-#Benefits
+### Benefits
 * Storytime registration
 * Attendance to registered programs and workshops
 * Access to [digital content](/link-needed "digital content"): eBooks, eAudiobooks, movies, music, comic books
-* Home access to residents and Friends only [databases](/link-needed "databases")
-* Reserve the Bloomberg Terminal, study rooms, and [Digital Media Lab](/link-needed "Digital Media Lab")
-* Three [Book-a-Librarian](/link-needed "Book-a-Librarian") help appointments per year 
+* Home access to residents and Friends only [databases](/research "databases")
+* Reserve the Bloomberg Terminal, study rooms, and [Digital Media Lab](/dml "Digital Media Lab")
+* Three [Book-a-Librarian](/page/book-librarian "Book-a-Librarian") help appointments per year 
 * Learn from home with [Lynda.com](/link-needed "Lynda.com")
 * Place holds on DVDs
 
@@ -27,3 +30,6 @@ Your Friends of the Library donation is tax deductible since the Library is a 50
            document.getElementsByTagName('head')[0].appendChild(e);
        } ());
 </script></div>
+
+</div>
+</div>

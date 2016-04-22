@@ -1,1 +1,0 @@
-Darien Library's staff are courteous, knowledgable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it on this page. 

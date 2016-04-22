@@ -1,44 +1,193 @@
-#Loan Periods
-|Items	Loan Period	Renewals*	Overdue Fees** |
-|---------------------------------| :--------: | :-----: | --------: |
-|Books |	21 days	| Yes |	$0.10 a day |
-|14 Day Books |	14 days	| No |	$0.50 a day |
-|Downloadable eBooks and Audiobooks	| 21 days |	No	| none |
-|Books on CD |	21 days	| Yes |	$0.10 a day |
-|DVDs |	7 days |	Yes | $0.50 a day |
-|Express DVDs |	1 day (overnight) |	No|	$1.00 a day |
-|Games |	7 days |	Yes | 	$1.00 a day |
-|Children's Playaway Views |7 days |Yes | $1.00 a day |
-|Magazines	| 7 days | Yes | $0.10 a day |
-|Children's Magazines |	21 days | Yes| $0.10 a day |
-|eReaders| 21 days | Yes| $10.00 a day |
-|iPads |7 days | Yes | $10.00 a day | 
-|LCD Projector | 4 days	| Yes | $10.00 a day |
+<div class="row">
 
-#Things to Know
-* Darien residents will be issued a library card immediately. A valid ID is required.
-* All programs and services available to Darien residents are available to those who work full-time in Darien.* You may apply for a card by showing proof of employment.
-* Non-Residents may use their valid hometown library card or register by showing an ID with their current address. For additional information, please see Non-Resident Use below.
-* The Library offers a one-day grace period for all loans - any item returned on the day of grace will not incur an overdue fee for that day.
-* Senior patrons—those 65 and older—are exempt from accruing overdue fees
-* The maximum overdue charge for most materials is $5.00 per item. Items not returned will be billed at the cost of replacement plus a $5.00 processing fee.
-* If a patrons’s fees exceed $50.00, the patron will be unable to check-out items or access some library services.
+<div class="col-md-6">
 
-To find out about the wide range of technology available for circulation or to use in the Library, please visit the [Technology page](/link-needed "Technology").
+### Things to Know
 
-#How to Renew Materials
-If no one else has requested the material, we are happy to renew most materials up to five times. You can renew by:
+- Darien residents will be issued a library card immediately. A valid ID is required.
+- All programs and services available to Darien residents are available to those who work full-time in Darien.* You may apply for a card by showing proof of employment.
+- Non-Residents may use their valid hometown library card or register by showing an ID with their current address. For additional information, please see Non-Resident Use below.
+- The Library offers a one-day grace period for all loans - any item returned on the day of grace will not incur an overdue fee for that day.
+- Senior patrons — those 65 and older — are exempt from accruing overdue fees.
+- The maximum overdue charge for most materials is $5.00 per item. Items not returned will be billed at the cost of replacement plus a $5.00 processing fee.
+- If a patrons’s fees exceed $50.00, the patron will be unable to check-out items or access some library services.
 
-Calling us at (203) 655-1234, press 2
-Emailing us at [circ@darienlibrary.org](mailto:circ@darienlibrary.org)
-Logging into [your account](/link-needed "My Account") on the website
-[Chat with us](/contact "Chat with us") through our website
+<p>To find out about the wide range of technology available for circulation or to use in the Library, please visit the <a href="/link-needed" title="Technology">Technology page</a>.</p>
+</div>
 
-#Non-Resident Use
-Connecticut residents may use their hometown library card at any public library in the state. As a public library most of our programs, services and collections are available to all, but we reserve some privileges for Darien Residents, people who work in town full-time and Friends of the Library. Non-Residents are invited to become a Friend of the Library at the $300 level in order to:
+<div class="col-md-6">
 
-* Place holds on DVDs
-* Register for technology classes and children’s storytimes
-* Access eBooks, dowloadable audiobooks, magazines and research databases 
-* Borrow technology equipment
-* Reserve [study rooms](/link-needed) and the [Digital Media Lab](/link-needed "Digital Media Lab")
+### How to Renew Materials
+
+<p>If no one else has requested the material, we are happy to renew most materials up to five times. You can renew by:</p>
+
+- Calling us at (203) 655-1234, press 2
+- Emailing us at <a href="mailto:circ@darienlibrary.org">circ@darienlibrary.org</a>
+- Logging into [your account](/my-account "My Account") on the website
+- [Chat with us](/link-needed "Chat with us") through our website
+
+### Non-Resident Use
+
+<p>Connecticut residents may use their hometown library card at any public library in the state. As a public library most of our programs, services and collections are available to all, but we reserve some privileges for Darien Residents, people who work in town full-time and Friends of the Library. Non-Residents are invited to become a Friend of the Library at the $300 level in order to:</p>
+
+- Place holds on DVDs
+- Register for technology classes and children’s storytimes
+- Access eBooks, dowloadable audiobooks, magazines and research databases
+- Borrow technology equipment
+Reserve [study rooms](/page/meeting-rooms "Study Rooms") and the [Digital Media Lab](/dml "Digital Media Lab").
+
+</div>
+</div>
+
+<div class="margin-bottom-20"></div>
+
+<div class="row">
+
+<div class="col-md-8 col-md-offset-2">
+
+### Loan Periods
+
+<table class="table table-striped">
+<tr>
+<th>Items</th>
+<th>Loan Period</th>
+<th>Renewals</th>
+<th>Overdue Fees</th>
+</tr>
+<tr>
+			<td>
+				Books</td>
+			<td>
+				21 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$0.10 a day</td>
+		</tr>
+		<tr>
+			<td>
+				14 Day Books</td>
+			<td>
+				14 days</td>
+			<td>
+				No</td>
+			<td>
+				$0.50 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Downloadable eBooks and Audiobooks</td>
+			<td>
+				21 days</td>
+			<td>
+				No</td>
+			<td>
+				none</td>
+		</tr>
+		<tr>
+			<td>
+				Books on CD</td>
+			<td>
+				21 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$0.10 a day</td>
+		</tr>
+		<tr>
+			<td>
+				DVDs</td>
+			<td>
+				7 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$0.50 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Express DVDs</td>
+			<td>
+				1 day (overnight)</td>
+			<td>
+				No</td>
+			<td>
+				$1.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Games</td>
+			<td>
+				7 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$1.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Children's Playaway Views</td>
+			<td>
+				7 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$1.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Magazines</td>
+			<td>
+				7 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$0.10 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Children's Magazines</td>
+			<td>
+				21 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$0.10 a day</td>
+		</tr>
+		<tr>
+			<td>
+				eReaders</td>
+			<td>
+				21 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$10.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				iPads</td>
+			<td>
+				7 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$10.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				LCD Projector</td>
+			<td>
+				4 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$10.00 a day</td>
+		</tr>
+</table>
+
+</div>
+
+</div>
+
+<div class="margin-bottom-20"></div>

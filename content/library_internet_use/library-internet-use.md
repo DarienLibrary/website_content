@@ -7,8 +7,10 @@ Use of Darien Library's Internet connection for illegal, inappropriate, or obsce
 Materials obtained or copied on the Internet may be subject to copyright laws which govern the making of reproductions of copyrighted works.
 
 Library patrons use the public computers and the Internet at their own risk.
+<br />
+<br />
+<h4><i class="fa fa-chevron-right"></i> Internet Usage Guidelines</h4>
 
-#Internet Usage Guidelines
 * Internet users may log in to an internet workstation using their library barcode. A limited number of guest passes are available at the information desks.
 * Internet workstations may be used for one hour per day. Sessions can be extended in one hour increments as workstations are available.
 * Only two persons at a time may use an internet workstation.
@@ -17,4 +19,8 @@ Library patrons use the public computers and the Internet at their own risk.
 * Misuse of the Internet will result in suspension of Library privileges.
 * Library cards are not transferrable. If you do not have a card, please ask for assistance at the Help Desk or Reference Desk.
 
-View Darien Library’s [Policy on Privacy and Security](/link-needed "Policy on Privacy and Security").
+<div class="margin-bottom-20"></div>
+
+View Darien Library’s [Policy on Privacy and Security](/privacypolicy "Policy on Privacy and Security").
+
+<div class="margin-bottom-20"></div>
