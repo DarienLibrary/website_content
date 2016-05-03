@@ -2,14 +2,14 @@
 <div class="col-md-4">
 
 ### Ages
-Storytimes are for babies, toddlers, and children up to age 5. The Children's Library offers [other programs](/link-needed "Programs for older children") for children up to age 12.
+Storytimes are for babies, toddlers, and children up to age 5. The Children's Library offers [other programs](/events/kids "Programs for older children") for children up to age 12.
 
 **Registration for registered programs is currently closed.**
 <br />
 <br />
 
 ### Schedule
-Registered storytimes are offered in the Fall, Winter and Spring seasons. All Summer storytimes are drop-in and do not require pre-registration. Younger children have offerings in the morning, Totally Preschool is in the morning and the afternoon, Bookworms is in the afternoon. Programs for older kids during the school year are held after-school, evenings and weekends. The Darien Library provides approximately 20 programs a week during a registered session. Drop-in storytimes are available year-round &#8212; check the [calendar of events](/link-needed "Calendar of Events") for more information.
+Registered storytimes are offered in the Fall, Winter and Spring seasons. All Summer storytimes are drop-in and do not require pre-registration. Younger children have offerings in the morning, Totally Preschool is in the morning and the afternoon, Bookworms is in the afternoon. Programs for older kids during the school year are held after-school, evenings and weekends. The Darien Library provides approximately 20 programs a week during a registered session. Drop-in storytimes are available year-round &#8212; check the [Storytime calendar](/events/kids/?category=storytime "Storytime calendar") for more information.
 <br />
 <br />
 

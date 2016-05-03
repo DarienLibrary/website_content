@@ -1,3 +1,6 @@
+<div class="row margin-bottom-10">
+<div class="col-md-10 col-md-offset-1">
+
 Wondering what to read next? Darien Library is here for you!
 
 Answer the following questions (which generally takes between 5 - 10 minutes) and a Readers' Advisory Librarian will send you a list of 5 books you might enjoy.  The form is intended to describe what you are looking for right now rather than capture your overall identity as a reader. Have fun with it!
@@ -8,69 +11,7 @@ Questions or comments? Email [askus@darienlibrary.org](mailto:askus@darienlibrar
 
 Want to know what we're reading? Check out [darienreads.org](http://darienreads.org "Darien Reads").
 
-#Form Fields
-Full Name: *
+<script type="text/javascript" src="https://form.jotform.com/jsform/61235170580146"></script>
 
-Darien Library Card Number: *
-
-Email Address: *
-
-Which format do you prefer?: *
- Book
- eBook
- Audio
- Large Print
-
-Please tell us 3-5 books, authors, or subjects you currently enjoy. :
-
-Why do you enjoy them?:
-
-Please tell us 3-5 books, authors, or subjects you dislike. :
-
-Why do you dislike them?:
-
-What kind of books are you interested in?: *
- Action & Adventure
- Beach Reads & Chick Lit
- Biography or Memoir
- Classics
- Crime
- Family Saga
- Fantasy
- Graphic Novels
- Historical
- Horror
- Literary Fiction
- Mystery
- Non-Fiction
- Poetry
- Romance
- Science Fiction
- Short Stories & Essays
- Sports
- Thriller
- Western
- Women's Fiction
-
-What time period interests you at the moment?:
-E.g. Victorian era
-
-What kind of characters interest you at the moment?:
-I.e feisty heroines and street smart kids
-
-What settings interest you the most?:
-
-E.g. Spaceship
-How do you feel about adult content in this context? : *
- I prefer none at all.
- If it fits the story, that's great.
- I prefer pages and pages.
-How do you feel about violence in this context?: *
- I prefer none at all.
- If it fits the story, that's great.
- I prefer pages and pages.
-How do you feel about humor in this context?:
- I prefer none at all.
- If it fits the story, that's great.
- I prefer pages and pages.
-Is there anything else you would like us to consider when crafting our recommendations?:
+</div>
+</div>
