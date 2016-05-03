@@ -16,6 +16,11 @@ The Children’s Library invites all parents of newborns to join the [100 Before
 
 ### Early Literacy Info (Static Page)
 Need this info.
+<br />
+<br />
+
+### Early Literacy Texts
+Sign up for our weekly early literacy texts to get easy tips sent right to your phone. Your librarians will send a text every Monday with something simple you can integrate into your daily life that will help prepare your child under 5-years-old for reading and writing. [Sign up for text messages](/page/early-literacy-texts "Sign up for text messages")
 
 </div>
 <div class="col-md-6">

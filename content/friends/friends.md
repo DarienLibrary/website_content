@@ -1,9 +1,9 @@
 <div class="row margin-bottom-10">
 <div class="col-md-10 col-md-offset-1">
 
-Your donations go directly to the purchase of all of the books, movies, and technology as well as the support of countless programming opportunities throughout the year, making Darien Library the intellectual and cultural heart of Darien. 
+All [donations](/donations "Make a Donation") to the Annual Fund go directly to the purchase of all of the books, movies, and technology as well as the support of countless programming opportunities throughout the year, making Darien Library the intellectual and cultural heart of Darien.
 
-You may also [donate](/donate "Donate") instead of becoming a Friend of the Library.
+Your annual Non-Resident Membership at the $300 level gives you and your family access to all Darien resident services.
 
 ### Benefits
 * Storytime registration

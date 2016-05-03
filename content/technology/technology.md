@@ -2,13 +2,13 @@ We have 50 public computers available in the Library. The computers are primaril
 
 To use a computer, you just need your Library card. If you are not a Darien resident, just register your hometown library card at the Welcome Desk when you enter the building. We also issue one day guest passes at the Help Desk or Reference Desk when you present your photo ID.  All users are expected to abide by the Library's [Internet Use Policy and Guidelines](/link-needed "Internet Policies").
 
-#Tech Center
+### Tech Center
 Computers in the Tech Center are available when no classes or workshops are being held. These twelve computers have the Adobe Creative Suite 5.5 which includes Acrobat Pro, Dreamweaver, Fireworks, Flash, InDesign, Illustrator, and Photoshop.
 
 #Children's Library Computers
 The Children's Library has eight computers for children and their caregivers and a printer. Headphones are available for check-out for children. 
 
-#Software
+### Software
 * Office 2010 (Access, Excel, PowerPoint, Publisher, and Word) on the Lower LevelOperating system: Windows 7
 * Adobe Photoshop CS 5.5
 * Adobe Acrobat Pro X

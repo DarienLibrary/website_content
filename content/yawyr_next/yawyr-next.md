@@ -20,6 +20,7 @@ Which format do you prefer?: *
  eBook
  Audio
  Large Print
+
 Please tell us 3-5 books, authors, or subjects you currently enjoy. :
 
 Why do you enjoy them?:
@@ -50,12 +51,13 @@ What kind of books are you interested in?: *
  Thriller
  Western
  Women's Fiction
+
 What time period interests you at the moment?:
-
 E.g. Victorian era
-What kind of characters interest you at the moment?:
 
+What kind of characters interest you at the moment?:
 I.e feisty heroines and street smart kids
+
 What settings interest you the most?:
 
 E.g. Spaceship
