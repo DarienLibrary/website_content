@@ -15,6 +15,13 @@ Visit the [Darien USGenWeb Project](http://www.ctgenweb.org/county/cofairfield/p
 
 Educational programs and exhibits may be seen at the [Darien Historical Society](http://www.darienhistorical.org/ "Darien Historical Society"). 
 
+* [Wikipedia entry](https://en.wikipedia.org/wiki/Darien,_Connecticut "Wikipedia entry on Darien") on Darien
+* [Darien on LocalWiki](https://localwiki.org/darien/ "Darien LocalWiki"): contemporary information about living here
+* [Books on Historical Darien](/list/14 "Historical Darien books")
+* [History of Darien](https://en.wikipedia.org/wiki/History_of_Darien,_Connecticut "History of Darien") Wikipedia page
+* [Boston Post Road](https://en.wikipedia.org/wiki/Boston_Post_Road "Boston Post Road") Wikipedia page
+* [Walking the Post Road](http://www.walkingthepostroad.net/Walking_the_Post_Road/Blog/Blog.html "Walking the Post Road")
+
 </div>
 <div class="col-md-6">
 

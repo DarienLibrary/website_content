@@ -2,7 +2,7 @@
 <div class="col-md-6">
 
 ### Homework Help
-Need help with your report or finding an article your teacher will approve of? [Check out our list of best homework resources](/link-needed "Homework Help"). 
+Need help with your report or finding an article your teacher will approve of? [Check out our list of best homework resources](/homework "Homework Help"). 
 <br />
 <br />
 
@@ -12,15 +12,15 @@ Enter our [child and teen friendly virtual room](http://darien.lib.overdrive.com
 <br />
 
 ### Circulating Technology 
-Borrow an iPad to ...
+Work on your studies using a [Tween Tab iPad Mini](/link-needed "Tween Tab") or borrow an [iPad](/link-needed "iPad"). If you are working in the Children's Library, you may borrow a pair of headphones from the Children's Library desk. 
 
-I don't know what technology you have which is geared towards students. 
+Other [gadgets you can borrow](/link-needed "Tech you can borrow") includes a camcorder, Roku Media Player, WiFi Hotspot, Doxie Flip Scanner, LCD Projector, and Projector Screen. 
 
 </div>
 <div class="col-md-6">
 
 ### TEA Room Makerspace Appointments 
-We support <abbr title="Science Technology Engineering Arts Mathematics">STEAM</abbr> education with our <abbr title="Technology Engineering Arts">TEA</abbr> Room. Aside from [scheduled classes](/link-needed "TEA Room classes") with Children's staff, a child and their grownup may also [make an appointment](/link-needed "Schedule the TEA Room") to use the Room.
+We support <abbr title="Science Technology Engineering Arts Mathematics">STEAM</abbr> education with our <abbr title="Technology Engineering Arts">TEA</abbr> Room. Aside from [scheduled classes](/link-needed "TEA Room classes") with Children's staff, a child and their grownup may also [make an appointment](/page/tearoom-reserve "Reserve the TEA Room") to use the Room.
 <br />
 <br />
 
@@ -35,7 +35,7 @@ Need to get your paper for school or travel notarized? The Library tries to have
 <br />
 
 ### Volunteering Hours
-Get your volunteer hours in at the Library. We have [lots of positions available](/link-needed "Volunteer Opportunities") to fit your interest. 
+Get your volunteer hours in at the Library. We have [lots of positions available](/page/volunteers "Volunteer Opportunities") to fit your interest. 
 
 </div>
 </div>

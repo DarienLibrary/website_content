@@ -16,17 +16,19 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 
 </div>
 <div class="col-md-4">
-	
-### Featured Museum
-
-[will get text and image from Barbara]
-<br />
-<br />
 
 ### Start Here
 * [Search by Museum](http://www.libraryinsight.net/mpbymuseum.asp?jx=da "Search by Museum") 
 * [Search by Date](http://www.libraryinsight.net/mpSmallcal.asp?jx=dap "Search by Date")
 * [View or Cancel a Reservation](http://www.libraryinsight.net/mpviewmyreservations.asp?jx=da "View or Cancel a Reservation")
+
+<br />
+<br />
+
+### Featured Museum
+
+[The Frick Collection](http://www.libraryinsight.net/mpCalendar.asp?t=2673011&jx=dap&pInstitution=Frick%20Collection&mps=2461 "The Frick Collection") is currently hosting Van Dyck: The Anatomy of Portraiture. Anthony van Dyck (1599–1641), one of the most celebrated and influential portraitists of all time, enjoyed an international career that took him from his native Flanders to Italy, France, and, ultimately, the court of Charles I in London. Van Dyck’s supremely elegant manner and convincing evocation of a sitter’s inner life — whether real or imagined — made him the favorite portraitist of many of the most powerful and interesting figures of the seventeenth century. The show runs from March 2, 2016 through June 5, 2016.
+
 
 </div>
 </div>

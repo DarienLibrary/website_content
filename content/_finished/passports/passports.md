@@ -2,7 +2,7 @@
 
 <div class="col-md-6">
 
-Get your passport at Darien Library! We will process and accept new and renewal applications on Tuesday and Thursday evenings. Once a month, we have a Passport Day on a Saturday. Please check the [event listings](/link-needed "Event listings") to see when we will offer a Saturday Passport Day. 
+Get your passport at Darien Library! We will process and accept new and renewal applications on Tuesday and Thursday evenings. Once a month, we have a Passport Day on a Saturday. Please check the [event listings](/events/?category=special-event "Event listings") to see when we will offer a Saturday Passport Day. 
 
 We will provide all the paperwork. Passport photos can be taken in Darien at CVS or Big Shots. Passport photos are regulated by the law, so they need to fit [legal requirements](http://travel.state.gov/content/passports/english/passports/photos/photos.html "Information about Passport Photos"). 
 <br />
