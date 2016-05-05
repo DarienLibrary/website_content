@@ -59,7 +59,7 @@ This exciting new technology will continue to improve in the years to come. Ther
 
 ### 3D Objects
 
-3D objects can be downloaded from a site like [Thingiverse](http://thingiverse.com "Thingiverse"). While staff members are unable to show you how to create designs, you can teach yourself using our access to [Lynda.com](/link-needed "Lynda.com").
+3D objects can be downloaded from a site like [Thingiverse](http://thingiverse.com "Thingiverse"). While staff members are unable to show you how to create designs, you can teach yourself using our access to [Lynda.com](https://www.lynda.com/portal/sip?org=darienlibrary.org "Lynda.com").
 
 #### Design Your Own 3D Object
 
@@ -69,10 +69,10 @@ This exciting new technology will continue to improve in the years to come. Ther
 
 #### Locations of Printers
 
-* [Business Center](/link-needed "Business Center") on the Lower Level
+* [Business Center](/business-center "Business Center") on the Lower Level
 * [Digital Media Lab](/dml "Digital Media Lab") (DML) on the Lower Level
 * Technology Center on the Lower Level
-* Children's Library in the [TEA Room](/link-needed "TEA Room")	
+* Children's Library in the [TEA Room](/tearoom "TEA Room")	
 </div>
 
 <div class="col-md-4">
