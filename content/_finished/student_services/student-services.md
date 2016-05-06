@@ -12,15 +12,15 @@ Enter our [child and teen friendly virtual room](http://darien.lib.overdrive.com
 <br />
 
 ### Circulating Technology 
-Work on your studies using a [Tween Tab iPad Mini](/link-needed "Tween Tab") or borrow an [iPad](/link-needed "iPad"). If you are working in the Children's Library, you may borrow a pair of headphones from the Children's Library desk. 
+Work on your studies using a [Tween Tab iPad Mini](/catalog/work/51230 "Tween Tab") or borrow an [iPad](/catalog/work/89368 "iPad"). If you are working in the Children's Library, you may borrow a pair of headphones from the Children's Library desk. 
 
-Other [gadgets you can borrow](/link-needed "Tech you can borrow") includes a camcorder, Roku Media Player, WiFi Hotspot, Doxie Flip Scanner, LCD Projector, and Projector Screen. 
+Other [gadgets you can borrow](/catalog/search/keyword?search=%2A&formats=equipment&page=1 "Tech you can borrow") includes a camcorder, Roku Media Player, WiFi Hotspot, Doxie Flip Scanner, LCD Projector, and Projector Screen. 
 
 </div>
 <div class="col-md-6">
 
 ### TEA Room Makerspace Appointments 
-We support <abbr title="Science Technology Engineering Arts Mathematics">STEAM</abbr> education with our <abbr title="Technology Engineering Arts">TEA</abbr> Room. Aside from [scheduled classes](/link-needed "TEA Room classes") with Children's staff, a child and their grownup may also [make an appointment](/page/tearoom-reserve "Reserve the TEA Room") to use the Room.
+We support <abbr title="Science Technology Engineering Arts Mathematics">STEAM</abbr> education with our <abbr title="Technology Engineering Arts">TEA</abbr> Room. Aside from [scheduled classes](/events/kids/?category=games-and-play "TEA Room classes") with Children's staff, a child and their grownup may also [make an appointment](/page/tearoom-reserve "Reserve the TEA Room") to use the Room.
 <br />
 <br />
 
