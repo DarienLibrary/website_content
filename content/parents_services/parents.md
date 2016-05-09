@@ -5,7 +5,7 @@
 ### Parenting Collection and Programs
 Children don't come with instructions, but that doesn't mean you have to raise your child alone. We have [books and videos](/link-needed "Parenting Books and Videos") to help you get through those early days, the tantrums, all the way up to the Birds and the Bees. 
 
-We also offer programs throughout the year to address common childhood issues. [View upcoming programs](/link-needed "View upcoming parenting programs").
+We also offer programs throughout the year to address common childhood issues. [View upcoming programs](/link-needed "View upcoming parenting programs")
 <br />
 <br />
 
@@ -26,7 +26,7 @@ Sign up for our weekly early literacy texts to get easy tips sent right to your 
 <div class="col-md-6">
 
 ### Storytimes and Programs 
-Storytimes are for babies, toddlers and children up to age 5. The Children's Library offers other programs for children up to age 12. 
+Storytimes are for babies, toddlers and children up to age 5. The Children's Library offers other programs for children up to age 12. Some programs are registered which is done during an open registration period. Others are weekly Drop-In Programs for anyone to join without prior notice. [View Storytime listings](/storytimes "Storytimes")
 <br />
 <br />
 
