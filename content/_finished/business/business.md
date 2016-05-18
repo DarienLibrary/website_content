@@ -1,24 +1,49 @@
-#Databases
-[AtoZdatabases](http://www.atozdatabases.com/search "AtoZdatabases")
-AtoZdatabases' Premier Business Database has over 30 million U.S. business and executive profiles.Detailed data includes: industry specifics, employee size, sales, competitors, executive titles and email addresses, historic data, and more. Search by geography, industry, executives, ownership, and much more!
+<div class="row margin-bottom-10">
 
-[Business Insights: Essentials](http://infotrac.galegroup.com/itweb/21517?db=BIE "Business Insights: Essentials")
-A user-friendly database, accessible from home, with company profiles including company history, chronology, investment reports, and up-to-the minute news. Use from home with your library card.
-
-[Mergent Intellect](http://www.mergentintellect.com/ "Mergent Intellect")
-Mergent Intellect features a deep collection of worldwide business information. Coupling Mergent's expertise in developing products for the reference marketplace with D&B®'s private company database, Mergent Intellect offers a unique opportunity to access private and public U.S and international business data, industry news, facts and figures, executive contact information, the ability to access industry profiles and much more.
-
-[Morningstar Investment Research Center](//library.morningstar.com/ "Morningstar Investment Research Center")
-In Library use only. One of today’s most comprehensive financial databases for information about stocks, mutual funds, ETF’s and markets. Also includes analyst reports providing an extensive overview on the company's place in today's market. Available for in-library-use only.
-
-[NetAdvantage](http://research.darienlibrary.org/login?url=http://www.netadvantage.standardandpoors.com/ "NetAdvantage") 
-From Standard & Poor's, a professional source for company analysis and investment rankings, including tools to understand personal & family financial matters. Works best with Internet Explorer.
-
-[Value Line Investment Survey](https://research.valueline.com/secure/dashboard "Value Line Investment Survey")
-In Library use only. Reliable, unbiased and continuously updated compendium of current and historical market and financial data spanning thousands of U.S. companies, mutual funds and other securities, industry sectors, indices and economic variables.
-
-#Services
-##### [Bloomberg Terminal](/link-needed)
+<div class="col-md-6">
 
 
-##### [Business Center](/link-needed)
+### Bloomberg Terminal
+The Bloomberg Terminal, which tracks real-time financial market data, is an invaluable financial tool whether you are a job seeker looking for openings or an aspiring investor. The Terminal is open to all patrons. Darien residents, people who work in Darien, and [Friends](/friends "Friend of the Library") may reserve the Terminal in advance. Just stop by the Reference Desk on the Second Level to make your reserve your spot. Or call [203-669-5236](tel:2036695236 "Call the Reference Desk") or [email us](mailto:askus@darienlibrary.org "Email the Reference Desk"). 
+<br />
+<br />
+
+### Meeting Rooms
+Darien Library is equipped with nine private [meeting rooms](/page/meeting-rooms "Meeting rooms") which may be reserved online. There are three large rooms which may be rented for your business meetings. Small meeting rooms are available for two hour blocks of time and may be reserved by Darien residents, those who work full-time in Darien, and [Friends](/friends "Friends of the Library") at the $300 level. Some rooms can be reserved up to a month in advance and are available to non-residents on a first-come, first-served basis. [Make your reservation](/page/meeting-rooms "Reserve a meeting room")
+<br />
+<br />
+
+### Business Center
+The [Business Center](/business-center "Business Center") is located on the Lower Level in the Power Library. The Center is fully equipped with copier/printers, a fax machine, a coil book binder, headphones, DVDs, and CDs. It is ready to meet the needs of business owners, students, and job searchers. All services and supplies are affordable and competitively priced for patrons. 
+<br />
+<br />
+
+### Database Access
+Find information about businesses, financial data, career guidance, and industry journals through our [Business and Investing databases](/research/category/business-and-investing "Business and Investing databases"). Our other [research databases](/research "Research databases") are useful for searching thousands of journals. 
+<br />
+<br />
+
+
+</div>
+<div class="col-md-6">
+
+### Research Assistance
+Our reference librarians are experts in finding articles and data relevant to your business needs. From looking up elusive historical stock quotes to providing demographics for your business proposal, we can get you the information you need to meet your business goals. Just [submit a Book-a-Librarian request](/page/book-librarian "Email us") to the Reference Desk with your query and we will set up an appointment to learn more about your project.
+<br />
+<br />
+
+### Notaries
+A Notary Public is available at Darien Library free of charge during most normal hours of operation. Notaries witness and verify the signing of important documents and administer oaths. You will need to bring two forms of ID containing your signature (e.g. valid driver license, passport, credit card), one which must also have your photo. Please do not sign the documents prior to appearing before the Notary Public.   
+<br />
+<br />
+
+### Agati Media Station
+The Agati Media Station is a collaborative work station outfitted with a large-screen computer well-suited for presentations and group projects. Amenities include a large table, a 50-inch monitor, connections for four laptops, WiFi, and power outlets. It is ideal for hosting small group presentations.
+<br />
+<br />
+
+
+_Photo by Robert Mintzes_
+
+</div>
+</div> 
