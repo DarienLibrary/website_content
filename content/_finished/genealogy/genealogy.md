@@ -12,6 +12,9 @@ The Library has its own Local History collection on the Second Level. We also ho
 
 Items listed in our catalog by the [Darien Historical Society](http://www.darienhistorical.org/ "Darien Historical Society") can be found at their location: [45 Old Kings Highway North, Darien, CT 06820](https://www.google.com/maps/place/45+Old+Kings+Highway+North,+Darien,+CT+06820/@41.0802318,-73.4648786,3a,75y,115.72h,90t/data=!3m4!1e1!3m2!1sk8yC7A9qEs6YWF_IQj9A4A!2e0!4m2!3m1!1s0x0:0x7156cce62ffba408?sa=X&ved=0ahUKEwikiPnZuJjMAhUDwj4KHRrhD98QxB0IHTAA "Directions to the Darien Historical Society").
 
+<br/>
+<br/>
+
 </div>
 <div class="col-md-4">
 
@@ -32,7 +35,10 @@ Need help getting started with your genealogy research? A volunteer from the Mid
 
 [New York Genealogical and Biographical Society](http://www.newyorkfamilyhistory.org/ "New York Genealogical and Biographical Society")
 
-[New England Historic Genealogical Society](http://www.americanancestors.org/home.html "New England Historic Genealogical Society") 
+[New England Historic Genealogical Society](http://www.americanancestors.org/home.html "New England Historic Genealogical Society")
+
+<br/>
+<br/>
 
 </div>
 <div class="col-md-4">
