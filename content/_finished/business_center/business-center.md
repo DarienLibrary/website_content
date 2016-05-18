@@ -1,7 +1,10 @@
-The Business Center is located on the Lower Level inside the Power Library.  The equipment is perfect for the small business owner, entrepreneur, or student users. These services and supplies are competitively priced. Additional venues in the Library which may of be interest to a business user is the [Digital Media Lab](/dml "Digital Media Lab") and the [Agati Media Station](/page/meeting-rooms "Agati Media Station"). Book scanning and microfilm reading is available on the Second Level at the Reference Desk. 
+The Business Center is located on the Lower Level inside the Power Library.  The equipment is perfect for the small business owner, entrepreneur, or student users. These services and supplies are competitively priced. Additional venues in the Library which may of be interest to a business user is the [Digital Media Lab](/dml "Digital Media Lab") and the [Agati Media Station](/page/meeting-rooms "Agati Media Station"). Book scanning and microfilm reading is available on the Second Level at the Reference Desk.
+<br/>
+<br/>
+<br/>
 
 <div class="text-center margin-bottom-50">
-	<h2 class="title-v2 title-center">Self-Serve</h2>
+  <h2 class="title-v2 title-center">Self-Serve</h2>
 </div>
 
 <div class="row margin-bottom-30">
@@ -60,15 +63,13 @@ WiFi
           </div>
     </div>
 </div>
-
+<br/>
 
 <div class="text-center margin-bottom-50">
-	<h2 class="title-v2 title-center">Business Services</h2>
+  <h2 class="title-v2 title-center">Business Services</h2>
 </div>
+ 
 
-Please submit your orders 24 hours ahead of time. We will contact you to confirm your order before completing it. 
-<br />
-<br />
 <div class="row margin-bottom-30">
   <div class="col-md-2">
     <img class="img-responsive margin-bottom-10" src="/uploads/equipment/3D_printed_sculptures_web.jpg" alt="3D Printer" />
@@ -89,10 +90,10 @@ Please submit your orders 24 hours ahead of time. We will contact you to confirm
       Choose from a variety of spiral coil colors, sizes, and covers for your report binding needs.
   </div>
   <div class="col-md-2">
-      <img class="img-responsive margin-bottom-10" src="/uploads/staff_photos/hylton_a.jpg" alt="Scanner" />
+      <img class="img-responsive margin-bottom-10" src="/uploads/equipment/wide_format_scanner.JPG" alt="Scanner" />
       Wide Format Scanner
 <div class="margin-bottom-10"></div>    
-      Scan posters or architectural drawings up to XX inches wide to a digital file.
+      Scan posters or architectural drawings up to 36 inches wide to a digital file.
   </div>
   <div class="col-md-2">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/lamination_close_up.jpg" alt="Laminator" />
@@ -108,9 +109,13 @@ Please submit your orders 24 hours ahead of time. We will contact you to confirm
   </div>
 </div>
 
+Please submit your orders 24 hours ahead of time. We will contact you to confirm your order before completing it.
+<br/>
+<br/>
+
 
 <div class="text-center margin-bottom-50">
-	<h2 class="title-v2 title-center">Items for Sale</h2>
+  <h2 class="title-v2 title-center">Items for Sale</h2>
 </div>
 
 <div class="row margin-bottom-30">
