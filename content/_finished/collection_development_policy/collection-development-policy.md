@@ -118,7 +118,7 @@ Concerns about materials in the Library’s collections may be directed to any s
 
 In the interest of protecting the individual’s right to have access to materials, the Library supports the following documents:
 
-* [First Amendment of the Constitution](http://www.ala.org/offices/oif/firstamendment/firstamendment "First Amendment of the Constitution")
+* [First Amendment of the Constitution](http://www.ala.org/advocacy/intfreedom/censorshipfirstamendmentissues/firstamendment "First Amendment of the Constitution")
 * [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill "Library Bill of Rights") Adopted June 18, 1948, amended February 2, 1967, and June 23, 1980, inclusion of “age” reaffirmed January 23, 1996, by the ALA Council.
 * [The Freedom to Read Statement](http://www.ala.org/ala/aboutala/offices/oif/statementspols/ftrstatement/freedomreadstatement.cfm "The Freedom to Read Statement") – Adopted June 25, 1953; revised January 28, 1972, January 16, 1991, July 12, 2000, June 30, 2004, by the ALA Council and the AAP Freedom to Read Committee.
 
