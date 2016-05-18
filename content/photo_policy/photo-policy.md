@@ -1,3 +1,0 @@
-We take photos and videos of our events and programs to share with the community. Videos are uploaded to [DarienLibrary.TV](http://darienlibrary.tv "DarienLibrary.TV") as soon as we process them. Photos are uploaded to our website, [Facebook](https://www.facebook.com/DarienLibrary/ "Facebook"), [Twitter](http://twitter.com/darienlibrary "Twitter"), or [Flickr](https://www.flickr.com/photos/darienlibrary/ "Flickr") accounts. 
-
-If you would like your photo to be removed from online, [please let us know](mailto:askus@darienlibrary.org "Ask to remove your photo"). It would be helpful to have a link to the page your photo is displayed upon.[]
