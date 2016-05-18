@@ -2,7 +2,10 @@ The DML gives the Darien community access to high quality equipment for their di
 
 To make a reservation, please contact the Help Desk via [email](mailto:helpdesk@darienlibrary.org "Help Desk") or call [203-669-5238](tel:203-669-5238 "Call the Help Desk"). If you will need help in using the equipment, please ask for a one-on-one appointment as well.
 
-All library cardholders may use the DML. Reserving the DML in advance and scheduling one-on-one appointments is limited to Darien residents, those who work in Town, and [Friends of the Library](/link-needed "Friends of the Library"). The Lab will be available for 2 to 4 hour reservable time slots. Members 14+ may use the Lab unassisted while anyone younger needs to be with an adult. Up to four people may be in the DML at one time. The person who makes the reservation needs to be present in the room. 
+All library cardholders may use the DML. Reserving the DML in advance and scheduling one-on-one appointments is limited to Darien residents, those who work in Town, and [Friends of the Library](/friends "Friends of the Library"). The Lab will be available for 2 to 4 hour reservable time slots. Members 14+ may use the Lab unassisted while anyone younger needs to be with an adult. Up to four people may be in the DML at one time. The person who makes the reservation needs to be present in the room.
+<br/>
+<br/>
+<br/>
 
 <div class="row margin-bottom-10">
 
@@ -13,8 +16,8 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 
 <div class="row  margin-bottom-30">
 	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>3D Printers</h3>
-		<p>Print your own creation or an object from Thingiverse. Learn more about 3D printing.</p>
+		<h3>3D Printer</h3>
+		<p>Print your own creation or an object from Thingiverse. <a href="/page/3d-printers">Learn more</a> about 3D printing.</p>
 	</div>
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Mac Pro Computer</h3>
@@ -81,7 +84,7 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 	</div>
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Record LPs to MP3</h3>
-		<p>Love tha scratching sound of a record player? Digitize your records to keep it around.</p>
+		<p>Love the scratching sound of a record player? Digitize your records to keep it around.</p>
 	</div>
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Light Box</h3>
@@ -94,7 +97,7 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 </div>
 </div>
 </div>
-
+<br/>
 
 <div class="container content">
 <div class="text-center margin-bottom-50">
