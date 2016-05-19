@@ -11,7 +11,7 @@ Your annual Non-Resident Membership at the $300 level gives you and your family 
 * Access to [digital content](/link-needed "digital content"): eBooks, eAudiobooks, movies, music, comic books
 * Home access to residents and Friends only [databases](/research "databases")
 * Reserve the Bloomberg Terminal, study rooms, and [Digital Media Lab](/dml "Digital Media Lab")
-* Three [Book-a-Librarian](/page/book-librarian "Book-a-Librarian") help appointments per year 
+* Three [Book-a-Librarian](/book-librarian "Book-a-Librarian") help appointments per year 
 * Learn from home with [Lynda.com](/link-needed "Lynda.com")
 * Place holds on DVDs
 

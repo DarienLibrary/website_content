@@ -7,7 +7,7 @@ The Darien Library regards the availability and use of its Meeting Rooms as an i
 <br />
 <h4><i class="fa fa-chevron-right"></i> What's Available</h4>
 
-The following Meeting Rooms are available for use on approval of [written application](/page/request-meeting-room "Meeting Rooms Application"):
+The following Meeting Rooms are available for use on approval of [written application](/request-meeting-room "Meeting Rooms Application"):
 
 * Community Room (maximum seating for 171 people; room capacity 225)
 * Conference Room (maximum of 22 people seated at a conference table, or approximately 40 if seated for a presentation; room capacity 50)
@@ -53,7 +53,7 @@ The Community Room and Conference Room may be available for use at times outside
 <br />
 <h4><i class="fa fa-chevron-right"></i> Application Procedure</h4>
 
-The Facilities Manager or Office Manager will provide an Application form to any qualified applicant, and will process Applications in order of their receipt. The application is [available online](/page/request-meeting-room "Meeting Room application") at the Library’s web site. The Library’s Director reserves the right to cancel any approved reservation with notice. An appeal of this decision may be made to the Library’s Board of Trustees.
+The Facilities Manager or Office Manager will provide an Application form to any qualified applicant, and will process Applications in order of their receipt. The application is [available online](/request-meeting-room "Meeting Room application") at the Library’s web site. The Library’s Director reserves the right to cancel any approved reservation with notice. An appeal of this decision may be made to the Library’s Board of Trustees.
 
 Every applicant will designate the individual responsible for supervision of the use of the Meeting Room, and who will be responsible for damages and additional cleaning required afterwards.
 

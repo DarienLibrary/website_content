@@ -9,7 +9,7 @@ Any donation amount is appreciated. Your donation is tax deductible since the Li
 
 Special items purchased thanks to donations:
 
-[Agati Media Center](/page/meeting-rooms "Agati Media Center")
+[Agati Media Center](/meeting-rooms "Agati Media Center")
 
 
 <div>

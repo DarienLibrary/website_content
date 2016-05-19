@@ -26,4 +26,4 @@ The Senior Advisory Board advocates for the needs and services of elder adults i
 </div>
 </div>
 
-View the [Library Board of Trustees](/page/trustees "Library Board of Trustees")
+View the [Library Board of Trustees](/trustees "Library Board of Trustees")

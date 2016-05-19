@@ -17,7 +17,7 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 <div class="row  margin-bottom-30">
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>3D Printer</h3>
-		<p>Print your own creation or an object from Thingiverse. <a href="/page/3d-printers">Learn more</a> about 3D printing.</p>
+		<p>Print your own creation or an object from Thingiverse. <a href="/3d-printers">Learn more</a> about 3D printing.</p>
 	</div>
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Mac Pro Computer</h3>

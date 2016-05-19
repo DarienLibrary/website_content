@@ -20,7 +20,7 @@ Please only register for one class per session.
 <br />
 
 ### Early Literacy Texts
-Sign up for our weekly early literacy texts to get easy tips sent right to your phone! It’s totally free (though standard messaging rates apply), and is a service of Darien Library. Your librarians will send a text every Monday with something simple you can integrate into your daily life that will help prepare your child (under 5-years-old) for reading and writing. Text messages will begin on the first day of Registered storytimes. [Sign up for text messages](/page/early-literacy-texts "Sign up for text messages")
+Sign up for our weekly early literacy texts to get easy tips sent right to your phone! It’s totally free (though standard messaging rates apply), and is a service of Darien Library. Your librarians will send a text every Monday with something simple you can integrate into your daily life that will help prepare your child (under 5-years-old) for reading and writing. Text messages will begin on the first day of Registered storytimes. [Sign up for text messages](/early-literacy-texts "Sign up for text messages")
 <br />
 <br />
 

@@ -1,6 +1,6 @@
 We have 50 public computers available in the Library. The computers are primarily on the Lower Level in the Power Library and Tech Center. There are 8 computers for children in the Children's Library with and additional 8 on the Second Level. You are guaranteed one hour session every day. [Printers and copiers](/link-needed "Printers and copiers") are also available. Business supplies are services are available in the [Business Center](/link-needed "Business Center"). 
 
-To use a computer, you just need your Library card. If you are not a Darien resident, just register your hometown library card at the Front Desk when you enter the building. We also issue one day guest passes at the Help Desk when you present your photo ID. All users are expected to abide by the Library's [Internet Use Policy and Guidelines](/page/internet-use "Internet Use Policy and Guidelines").
+To use a computer, you just need your Library card. If you are not a Darien resident, just register your hometown library card at the Front Desk when you enter the building. We also issue one day guest passes at the Help Desk when you present your photo ID. All users are expected to abide by the Library's [Internet Use Policy and Guidelines](/internet-use "Internet Use Policy and Guidelines").
 
 ### Tech Center
 Computers in the Tech Center are available when no classes or workshops are being held. These 12 computers have the Adobe Creative Suite 5.5 which includes Acrobat Pro, Dreamweaver, Fireworks, Flash, InDesign, Illustrator, and Photoshop in addition to standard software mentioned below.
@@ -71,7 +71,7 @@ We're not all play, we also help you work. The [Business Center](/link-needed "B
 
 ### 3D Printers
 
-Bring your ideas to life with one of our four [3D printers](/page/3d-printers "3D Printers"). The printers are available for child and adult-use alike. If you [submit your 3D order online](/page/3D-print-request "Submit your 3D print order"), we will print it for you to pick up. 
+Bring your ideas to life with one of our four [3D printers](/3d-printers "3D Printers"). The printers are available for child and adult-use alike. If you [submit your 3D order online](/3D-print-request "Submit your 3D print order"), we will print it for you to pick up. 
 
 <br />
 <br />

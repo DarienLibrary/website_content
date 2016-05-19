@@ -1,4 +1,4 @@
-The Business Center is located on the Lower Level inside the Power Library.  The equipment is perfect for the small business owner, entrepreneur, or student users. These services and supplies are competitively priced. Additional venues in the Library which may of be interest to a business user is the [Digital Media Lab](/dml "Digital Media Lab") and the [Agati Media Station](/page/meeting-rooms "Agati Media Station"). Book scanning and microfilm reading is available on the Second Level at the Reference Desk.
+The Business Center is located on the Lower Level inside the Power Library.  The equipment is perfect for the small business owner, entrepreneur, or student users. These services and supplies are competitively priced. Additional venues in the Library which may of be interest to a business user is the [Digital Media Lab](/dml "Digital Media Lab") and the [Agati Media Station](/meeting-rooms "Agati Media Station"). Book scanning and microfilm reading is available on the Second Level at the Reference Desk.
 <br/>
 <br/>
 <br/>
@@ -75,7 +75,7 @@ WiFi
     <img class="img-responsive margin-bottom-10" src="/uploads/equipment/3D_printed_sculptures_web.jpg" alt="3D Printer" />
       3D Printing
 <div class="margin-bottom-10"></div>    
-      Turn your two-dimensional idea into 3D reality. <a href="/page/3d-printers" alt="Learn more about 3D printing">Learn more about 3D printing</a>
+      Turn your two-dimensional idea into 3D reality. <a href="/3d-printers" alt="Learn more about 3D printing">Learn more about 3D printing</a>
   </div>
   <div class="col-md-2">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/banner_printer.jpg" alt="Banner Printer" />

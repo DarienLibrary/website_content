@@ -10,7 +10,7 @@ Need a place to study or have a meeting? We have a variety of spaces to meet you
 Call [203-669-5236](tel:203-669-5236 "Call the Reference Desk"). Non-resident members may use these rooms on a first-come first-served basis. Just stop by the Reference Desk on the Second Level to sign up for your room!
   </div>
   <div class="col-xs-12 col-sm-8 col-md-3">
-      <a href="/page/request-study-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Request a Study Room</button></a>
+      <a href="/request-study-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Request a Study Room</button></a>
   </div>
 </div>
 
@@ -100,11 +100,11 @@ This is a silent study space.
 <div class="row margin-bottom-10">
   <div class="col-xs-12 col-sm-8 col-md-9">
 
-These rooms may be rented for a fee per the [Meeting Rooms Policy](/page/meeting-rooms-policy "Meeting Rooms Policy"). All rooms include WiFi access, power outlets, a table, and chairs.
+These rooms may be rented for a fee per the [Meeting Rooms Policy](/meeting-rooms-policy "Meeting Rooms Policy"). All rooms include WiFi access, power outlets, a table, and chairs.
 
   </div>
   <div class="col-xs-12 col-sm-8 col-md-3">
-      <a href="/page/request-meeting-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply Online</button></a>
+      <a href="/request-meeting-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply Online</button></a>
   </div>
 </div>
 

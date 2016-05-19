@@ -46,7 +46,7 @@ We're not all play, we also help you work. The [Business Center](/link-needed "B
 
 ### 3D Printers
 
-Bring your ideas to life with one of our four [3D printers](/page/3d-printers "3D Printers"). The printers are available for child and adult-use alike. If you [submit your 3D order online](/page/3D-print-request "Submit your 3D print order"), we will print it for you to pick up. 
+Bring your ideas to life with one of our four [3D printers](/3d-printers "3D Printers"). The printers are available for child and adult-use alike. If you [submit your 3D order online](/3D-print-request "Submit your 3D print order"), we will print it for you to pick up. 
 <br />
 <br />
 

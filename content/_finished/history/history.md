@@ -110,7 +110,7 @@ The Library was founded in May 1894. The two Darien residents responsible for th
 
 There were previous attempts to found a library before the 1894 launch going back to the early 1800s. Andrew Carnegie offered funds to create a Carnegie Library, but he was turned down. The town then decided to start the Library themselves. Lucretia Cullen was the first librarian. 
 
-We have had the good fortunate to have been guided by future-thinking [Board of Trustees](/page/trustees "Board of Trustees") over the years.
+We have had the good fortunate to have been guided by future-thinking [Board of Trustees](/trustees "Board of Trustees") over the years.
 
 </div>
 <div class="col-md-6">
@@ -154,7 +154,7 @@ Aside from the everyday use of the Library, if severe weather affects the Town, 
 <br />
 
 ### Building Information
-Our building is special. It was thoughtfully put together with patron satifiscation and sustainability features in mind. To view the building highlights, Gold LEED Certification & sustainable features, and plant names, view the [Building Information](/page/building "Building Information"). 
+Our building is special. It was thoughtfully put together with patron satifiscation and sustainability features in mind. To view the building highlights, Gold LEED Certification & sustainable features, and plant names, view the [Building Information](/building "Building Information"). 
 
 </div>
 </div>

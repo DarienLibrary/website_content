@@ -20,7 +20,7 @@ Other [gadgets you can borrow](/catalog/search/keyword?search=%2A&formats=equipm
 <div class="col-md-6">
 
 ### TEA Room Makerspace Appointments 
-We support <abbr title="Science Technology Engineering Arts Mathematics">STEAM</abbr> education with our <abbr title="Technology Engineering Arts">TEA</abbr> Room. Aside from [scheduled classes](/events/kids/?category=games-and-play "TEA Room classes") with Children's staff, a child and their grownup may also [make an appointment](/page/tearoom-reserve "Reserve the TEA Room") to use the Room.
+We support <abbr title="Science Technology Engineering Arts Mathematics">STEAM</abbr> education with our <abbr title="Technology Engineering Arts">TEA</abbr> Room. Aside from [scheduled classes](/events/kids/?category=games-and-play "TEA Room classes") with Children's staff, a child and their grownup may also [make an appointment](/tearoom-reserve "Reserve the TEA Room") to use the Room.
 <br />
 <br />
 
@@ -35,7 +35,7 @@ Need to get your paper for school or travel notarized? The Library tries to have
 <br />
 
 ### Volunteering Hours
-Get your volunteer hours in at the Library. We have [lots of positions available](/page/volunteers "Volunteer Opportunities") to fit your interest. 
+Get your volunteer hours in at the Library. We have [lots of positions available](/volunteers "Volunteer Opportunities") to fit your interest. 
 
 </div>
 </div>

@@ -99,7 +99,7 @@ Print time is up to 3 days from submission.
 
 <div class="margin-bottom-20"></div>
 
-<a href="/page/3D-print-request"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Submit Your Print Request</button></a>
+<a href="/3D-print-request"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Submit Your Print Request</button></a>
 </div>
 </div>
 <div class="margin-bottom-20"></div>

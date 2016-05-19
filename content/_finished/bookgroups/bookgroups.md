@@ -26,10 +26,10 @@ While we try to maintain a current collection of hot books, if you do not see wh
 <br />
 <br />
 
-<a href="/page/bookgroups-register">Register Your Book Group</a><br />
+<a href="/bookgroups-register">Register Your Book Group</a><br />
 <a href="/catalog/search/keyword?search=%2A&ages=adult&formats=bookgroup">Browse Books in a Bag</a><br />
 <a href="/lists/book-groups">View Themed Books in a Bag Lists</a><br />
-<a href="/page/bookgroups-request-BIAB">Request a Book in a Bag</a><br />
+<a href="/bookgroups-request-BIAB">Request a Book in a Bag</a><br />
 <a href="http://darienlibrary.tv/categories/dlrecommends.html">View all Book Group Videos</a><br />
 
 </div>

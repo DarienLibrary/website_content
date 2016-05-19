@@ -183,10 +183,10 @@ Meeting & Study Rooms
 If a room is available, of course! All we ask is that you have a library card registered in our system. 
 
 **Can I get a study room later?** <br />
-Yes, if you live in Darien, work full-time in Darien, or are a Friend of the Library. [Place your request online](/page/request-study-room "Request a study room"). If you are a non-resident, you will need to become a [Friend](/friends "Friend of the Library") to book a room in advance. 
+Yes, if you live in Darien, work full-time in Darien, or are a Friend of the Library. [Place your request online](/request-study-room "Request a study room"). If you are a non-resident, you will need to become a [Friend](/friends "Friend of the Library") to book a room in advance. 
 
 **What's the difference between meeting rooms and study rooms?** <br />
-Meeting rooms are available for larger groups to rent out. Study rooms are for groups eight or fewer. [View all our rooms](/page/meeting-rooms "Meeting Rooms")
+Meeting rooms are available for larger groups to rent out. Study rooms are for groups eight or fewer. [View all our rooms](/meeting-rooms "Meeting Rooms")
 
 </div>
 </div>
@@ -467,13 +467,13 @@ Yes, we have video games for children, teens, and adults. Games for children's a
 <div class="panel-body">
 
 **What are 3D printers?**<br />
-3D Printers allow you to print a digital file into a physical object. You can download designs online or create your own. [Learn more about 3D printing](/page/3d-printers "3D Printing") at Darien Library.
+3D Printers allow you to print a digital file into a physical object. You can download designs online or create your own. [Learn more about 3D printing](/3d-printers "3D Printing") at Darien Library.
 
 **Can I use the 3D Printer?**<br />
-Yes! You may use the printers directly or submit a print order. Read about your [3D printing options](/page/3d-printers "3D Printing").
+Yes! You may use the printers directly or submit a print order. Read about your [3D printing options](/3d-printers "3D Printing").
 
 **Does it cost anything to print a 3D object?**<br />
-If you are a child twelve and under, you may print your object for free in the TEA Room. If you are older, you may use one of the other printers for a [low fee](/page/3d-printers "3D printers"). 
+If you are a child twelve and under, you may print your object for free in the TEA Room. If you are older, you may use one of the other printers for a [low fee](/3d-printers "3D printers"). 
 
 **Can I make a 3D print from a photo?**<br />
 We wish! The technology isn't there yet. 

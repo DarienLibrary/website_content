@@ -9,7 +9,7 @@ The Bloomberg Terminal, which tracks real-time financial market data, is an inva
 <br />
 
 ### Meeting Rooms
-Darien Library is equipped with nine private [meeting rooms](/page/meeting-rooms "Meeting rooms") which may be reserved online. There are three large rooms which may be rented for your business meetings. Small meeting rooms are available for two hour blocks of time and may be reserved by Darien residents, those who work full-time in Darien, and [Friends](/friends "Friends of the Library") at the $300 level. Some rooms can be reserved up to a month in advance and are available to non-residents on a first-come, first-served basis. [Make your reservation](/page/meeting-rooms "Reserve a meeting room")
+Darien Library is equipped with nine private [meeting rooms](/meeting-rooms "Meeting rooms") which may be reserved online. There are three large rooms which may be rented for your business meetings. Small meeting rooms are available for two hour blocks of time and may be reserved by Darien residents, those who work full-time in Darien, and [Friends](/friends "Friends of the Library") at the $300 level. Some rooms can be reserved up to a month in advance and are available to non-residents on a first-come, first-served basis. [Make your reservation](/meeting-rooms "Reserve a meeting room")
 <br />
 <br />
 
@@ -28,7 +28,7 @@ Find information about businesses, financial data, career guidance, and industry
 <div class="col-md-6">
 
 ### Research Assistance
-Our reference librarians are experts in finding articles and data relevant to your business needs. From looking up elusive historical stock quotes to providing demographics for your business proposal, we can get you the information you need to meet your business goals. Just [submit a Book-a-Librarian request](/page/book-librarian "Email us") to the Reference Desk with your query and we will set up an appointment to learn more about your project.
+Our reference librarians are experts in finding articles and data relevant to your business needs. From looking up elusive historical stock quotes to providing demographics for your business proposal, we can get you the information you need to meet your business goals. Just [submit a Book-a-Librarian request](/book-librarian "Email us") to the Reference Desk with your query and we will set up an appointment to learn more about your project.
 <br />
 <br />
 

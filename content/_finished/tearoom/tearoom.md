@@ -158,7 +158,7 @@ _*The Makerbot can be used during these appointment times_
 
 <div class="margin-bottom-20"></div>
 
-<a href="/page/tearoom-reserve"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Reserve the TEA Room</button></a>
+<a href="/tearoom-reserve"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Reserve the TEA Room</button></a>
 	
 </div>
 

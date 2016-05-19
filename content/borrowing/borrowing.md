@@ -38,7 +38,7 @@
 - Register for technology classes and children’s storytimes
 - Access eBooks, dowloadable audiobooks, magazines and research databases
 - Borrow technology equipment
-Reserve [study rooms](/page/meeting-rooms "Study Rooms") and the [Digital Media Lab](/dml "Digital Media Lab").
+Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](/dml "Digital Media Lab").
 
 </div>
 </div>
