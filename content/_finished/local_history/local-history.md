@@ -1,3 +1,4 @@
+
 <div class="row margin-bottom-30">
 <div class="col-md-6">
 
@@ -21,6 +22,8 @@ Educational programs and exhibits may be seen at the [Darien Historical Society]
 * [History of Darien](https://en.wikipedia.org/wiki/History_of_Darien,_Connecticut "History of Darien") Wikipedia page
 * [Boston Post Road](https://en.wikipedia.org/wiki/Boston_Post_Road "Boston Post Road") Wikipedia page
 * [Walking the Post Road](http://www.walkingthepostroad.net/Walking_the_Post_Road/Blog/Blog.html "Walking the Post Road")
+
+<br/>
 
 </div>
 <div class="col-md-6">

@@ -17,6 +17,8 @@
 
 <div class="col-md-6">
 
+<br/>
+
 ### How to Renew Materials
 
 <p>If no one else has requested the material, we are happy to renew most materials up to five times. You can renew by:</p>
@@ -25,6 +27,8 @@
 - Emailing us at <a href="mailto:circ@darienlibrary.org">circ@darienlibrary.org</a>
 - Logging into [your account](/my-account "My Account") on the website
 - [Chat with us](/link-needed "Chat with us") through our website
+
+<br/>
 
 ### Non-Resident Use
 
@@ -44,6 +48,8 @@ Reserve [study rooms](/page/meeting-rooms "Study Rooms") and the [Digital Media 
 <div class="row">
 
 <div class="col-md-8 col-md-offset-2">
+
+<br/>
 
 ### Loan Periods
 

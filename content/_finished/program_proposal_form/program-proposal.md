@@ -6,6 +6,8 @@
 * Sale of products or mention of any types of goods or services that come at a cost is strictly prohibited.
 * Business cards can be made available for attendees to take, but they cannot be passed around as handouts.
 * Presenters may not collect email addresses. Raffle tickets or giveaways of any kind cannot be distributed in exchange for email addresses or other information. Proposals are reviewed on a monthly basis.
+<br/>
+<br/>
 
 </div>
 <div class="col-md-6">
