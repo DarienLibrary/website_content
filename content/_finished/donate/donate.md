@@ -7,15 +7,10 @@ Please give to Darien Library today.
 
 Any donation amount is appreciated. Your donation is tax deductible since the Library is a 501(c)(3) non-profit.
 
-Special items purchased thanks to donations:
-
-[Agati Media Center](/meeting-rooms "Agati Media Center")
-
-
 <div>
-	<div id="bbox-root">
-		&nbsp;</div>
-	<script type="text/javascript">
+  <div id="bbox-root">
+     </div>
+  <script type="text/javascript">
        window.bboxInit = function () {
            bbox.showForm('5bc54255-c66b-4f0d-9076-7e9d405b2e2b');
        };

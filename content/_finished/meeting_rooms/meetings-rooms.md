@@ -93,14 +93,14 @@ This is a silent study space.
 
 
 <div class="text-center margin-bottom-50">
-  <h2 class="title-v2 title-center">Available on Approval of your Application</h2>
+  <h2 class="title-v2 title-center">Available to Large Groups</h2>
 </div>
 
 
 <div class="row margin-bottom-10">
   <div class="col-xs-12 col-sm-8 col-md-9">
 
-These rooms may be rented for a fee per the [Meeting Rooms Policy](/meeting-rooms-policy "Meeting Rooms Policy"). All rooms include WiFi access, power outlets, a table, and chairs.
+These rooms may be rented for a fee per the [Meeting Rooms Policy](/meeting-rooms-policy "Meeting Rooms Policy") by submitting an application. All rooms include WiFi access, power outlets, a table, and chairs.
 
   </div>
   <div class="col-xs-12 col-sm-8 col-md-3">

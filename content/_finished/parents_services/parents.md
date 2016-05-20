@@ -3,9 +3,9 @@
 <div class="col-md-6">
 
 ### Parenting Collection and Programs
-Children don't come with instructions, but that doesn't mean you have to raise your child alone. We have [books and videos](/link-needed "Parenting Books and Videos") to help you get through those early days, the tantrums, all the way up to the Birds and the Bees. We support early literacy in pre-readers with special services and programs for them.
+Children don't come with instructions, but that doesn't mean you have to raise your child alone. We have [books and videos](/catalog/search/keyword?search=parenting "Parenting Books and Videos") to help you get through those early days, the tantrums, all the way up to the Birds and the Bees. We support early literacy in pre-readers with special services and programs for them.
 
-We also offer programs throughout the year to address common childhood issues. [View upcoming programs](/link-needed "View upcoming parenting programs")
+We also offer programs throughout the year to address common childhood issues. [View upcoming programs](/events/calendar/kids/ "View upcoming parenting programs")
 <br />
 <br />
 
@@ -14,10 +14,19 @@ Storytimes are for babies, toddlers and children up to age 5. The Children's Lib
 <br />
 <br />
 
-### Book Club Kits 
-Start your very own book club with Book Club Kits from the Children's Library. Choose a book, checkout five copies, and receive a discussion guide in your kit. The guide includes a book summary, discussion questions, and further activities to enhance the reading experience. 
-* [First to Third Graders Book Choices](/list/70 "First to Third Graders Book Choices")
-* [Fourth to Sixth Graders Book Choices](/list/71 "Fourth to Sixth Graders Book Choices")
+### Early Literacy iPads
+Start your pre-reader early on the path to litearcy with our [Early Literacy iPads](/catalog/work/94235 "Early Literacy iPads"). Each iPad comes pre-loaded with apps to help build early literacy skills. The iPads are for children 5 and under. [View the current selection of apps](/early-literacy-ipads "View the current selection of apps")
+<br />
+<br />
+
+### Tween Tabs
+Keep your 8 to 12-year-olds busy with a [Tween Tab](/catalog/work/51230 "Tween Tab") and sneak in some learning while they play. These iPads feature games related to history, poetry, coding, <abbr title="Science Technology Engineering Mathematics">STEM</abbr> education, literature, languages, sports, eBooks, and more. [View the current selection of apps](/tweentabs "View the current selection of apps")
+<br />
+<br />
+
+### Scout Visits to the Library 
+Do your Scouts need to earn their Library Badge? Email the [Children's Library](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") to schedule your visit.
+<br />
 <br />
 
 </div>
@@ -40,8 +49,10 @@ Each month the Children and Teen librarians recommend great new reads, highlight
 <br />
 <br />
 
-### Scout Visits to the Library 
-Do your Scouts need to earn their Library Badge? Email the [Children's Library](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") to schedule your visit.
+### Book Club Kits 
+Start your very own book club with Book Club Kits from the Children's Library. Choose a book, checkout five copies, and receive a discussion guide in your kit. The guide includes a book summary, discussion questions, and further activities to enhance the reading experience. 
+* [First to Third Graders Book Choices](/list/70 "First to Third Graders Book Choices")
+* [Fourth to Sixth Graders Book Choices](/list/71 "Fourth to Sixth Graders Book Choices")
 <br />
 <br />
 

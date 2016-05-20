@@ -14,7 +14,7 @@
 805 Post Road
 <div class="margin-bottom-10"></div>    
 
-([what's there now](http://bit.ly/1ThUrGi "805 Post Road"))
+(<a href="http://bit.ly/1ThUrGi" target="_blank" alt="805 Post Road">what's there now</a>)
 <br />
 <br />
 
@@ -29,7 +29,7 @@
 878 Post Road
 <div class="margin-bottom-10"></div>    
 
-([what's there now](http://bit.ly/1smBMCo "878 Post Road"))
+(<a href="http://bit.ly/1smBMCo" target="_blank" alt="878 Post Road">what's there now</a>)
 <br />
 <br />
 
@@ -44,7 +44,7 @@
 236 Post Road 
 <div class="margin-bottom-10"></div>    
 
-([what's there now](http://bit.ly/1Tlzzjv "236 Post Road"))
+(<a href="http://bit.ly/1Tlzzjv" target="_blank" alt="236 Post Road">what's there now</a>)
 <br />
 <br />
 
@@ -62,7 +62,7 @@
 1094 Post Road
 <div class="margin-bottom-10"></div>    
 
-([what's there now](http://bit.ly/1smCfnZ "1094 Post Road"))
+(<a href="http://bit.ly/1smCfnZ" target="_blank" alt="1094 Post Road">what's there now</a>)
 <br />
 <br />
 
@@ -77,7 +77,7 @@
 35 Leroy Ave
 <div class="margin-bottom-10"></div>    
 
-([what's there now](http://bit.ly/24X9r3F "35 Leroy Ave"))
+(<a href="http://bit.ly/24X9r3F" target="_blank" alt="35 Leroy Ave">what's there now</a>)
 <br />
 <br />
 
@@ -92,7 +92,7 @@
 1441 Post Road
 <div class="margin-bottom-10"></div>    
 
-([we are here](http://bit.ly/1XiS7na "1441 Post Road"))
+(<a href="http://bit.ly/1XiS7na" target="_blank" alt="1441 Post Road">we are here</a>)
 <br />
 <br />
 
