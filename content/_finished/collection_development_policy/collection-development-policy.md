@@ -120,10 +120,9 @@ In the interest of protecting the individual’s right to have access to materia
 
 * [First Amendment of the Constitution](http://www.ala.org/advocacy/intfreedom/censorshipfirstamendmentissues/firstamendment "First Amendment of the Constitution")
 * [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill "Library Bill of Rights") Adopted June 18, 1948, amended February 2, 1967, and June 23, 1980, inclusion of “age” reaffirmed January 23, 1996, by the ALA Council.
-* [The Freedom to Read Statement](http://www.ala.org/ala/aboutala/offices/oif/statementspols/ftrstatement/freedomreadstatement.cfm "The Freedom to Read Statement") – Adopted June 25, 1953; revised January 28, 1972, January 16, 1991, July 12, 2000, June 30, 2004, by the ALA Council and the AAP Freedom to Read Committee.
+* [The Freedom to Read Statement](http://www.ala.org/advocacy/intfreedom/statementspols/freedomreadstatement "The Freedom to Read Statement") – Adopted June 25, 1953; revised January 28, 1972, January 16, 1991, July 12, 2000, June 30, 2004, by the ALA Council and the AAP Freedom to Read Committee.
 
 <div class="margin-bottom-30"></div>
 
 <h4><i class="fa fa-gavel"></i> <em>Adopted by the Darien Library Board of Trustees on January 14, 2013.</em></h4>
-
 <div class="margin-bottom-20"></div>

@@ -13,7 +13,7 @@ The following Meeting Rooms are available for use on approval of [written applic
 * Conference Room (maximum of 22 people seated at a conference table, or approximately 40 if seated for a presentation; room capacity 50)
 * Technology Training Center (maximum of 12 people)
 
-The following Rooms are available for reservation in advance by Darien residents, those who work full time in Darien, and non-resident Friends of the Darien Library at the $300 annual level.Contact [Facilities Manager](mailto:lcalka@darienlibrary.org "Lois") or [Knowledge and Learning Staff](mailto:lcalka@darienlibrary.org "Reference"):
+The following Rooms are available for reservation in advance by Darien residents, those who work full time in Darien, and non-resident Friends of the Darien Library at the $300 annual level.Contact [Facilities Manager](mailto:lcalka@darienlibrary.org "Lois") or [Knowledge and Learning Staff](mailto:askus@darienlibrary.org "Reference"):
 
 * Power Library Smart Study Room (maximum of 6 people)
 * Second Floor Harris Room (Open Door) (maximum of 8 people)
