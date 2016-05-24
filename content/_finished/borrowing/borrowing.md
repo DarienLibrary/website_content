@@ -5,14 +5,14 @@
 ### Things to Know
 
 - Darien residents will be issued a library card immediately. A valid ID is required.
-- All programs and services available to Darien residents are available to those who work full-time in Darien.* You may apply for a card by showing proof of employment.
+- All programs and services available to Darien residents are available to those who work full-time in Darien. You may apply for a card by showing proof of employment.
 - Non-Residents may use their valid hometown library card or register by showing an ID with their current address. For additional information, please see Non-Resident Use below.
 - The Library offers a one-day grace period for all loans - any item returned on the day of grace will not incur an overdue fee for that day.
 - Senior patrons — those 65 and older — are exempt from accruing overdue fees.
 - The maximum overdue charge for most materials is $5.00 per item. Items not returned will be billed at the cost of replacement plus a $5.00 processing fee.
 - If a patrons’s fees exceed $50.00, the patron will be unable to check-out items or access some library services.
 
-<p>To find out about the wide range of technology available for circulation or to use in the Library, please visit the <a href="/link-needed" title="Technology">Technology page</a>.</p>
+We have a wide range of technology available for [check-out](/catalog/search/keyword?search=%2A&formats=equipment "Borrow technology") or to use while [in the Library](/technology "Library Technology"). For children's technology, see the Children's Library. For everything else, visit the Help Desk on the Lower Level.
 </div>
 
 <div class="col-md-6">
@@ -21,18 +21,17 @@
 
 ### How to Renew Materials
 
-<p>If no one else has requested the material, we are happy to renew most materials up to five times. You can renew by:</p>
+If no one else has requested the material, we are happy to renew most materials up to five times. You can renew by:
 
 - Calling us at (203) 655-1234, press 2
-- Emailing us at <a href="mailto:circ@darienlibrary.org">circ@darienlibrary.org</a>
-- Logging into [your account](/my-account "My Account") on the website
-- [Chat with us](/link-needed "Chat with us") through our website
-
-<br/>
+- Emailing us at [circ@darienlibrary.org](mailto:circ@darienlibrary.org "Email us")
+- Logging into [your account](/myaccount "My Account") on the website
+- Chat with us through our website (bottom right corner)
+<br />
 
 ### Non-Resident Use
 
-<p>Connecticut residents may use their hometown library card at any public library in the state. As a public library most of our programs, services and collections are available to all, but we reserve some privileges for Darien Residents, people who work in town full-time and Friends of the Library. Non-Residents are invited to become a Friend of the Library at the $300 level in order to:</p>
+Connecticut residents may use their hometown library card at any public library in the state. As a public library most of our programs, services and collections are available to all, but we reserve some privileges for Darien Residents, people who work in town full-time and Friends of the Library. Non-Residents are invited to become a Friend of the Library at the $300 level in order to:
 
 - Place holds on DVDs
 - Register for technology classes and children’s storytimes

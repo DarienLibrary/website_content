@@ -2,11 +2,11 @@
 
 <div class="col-md-10 col-md-offset-1">
 
-<a href="http://darienlibrary.tv"><img class="img-responsive center-block" src="/uploads/logos/dltv.png" alt="DarienLibrary.TV" /></a>
-
 <div class="margin-bottom-20"></div>
 
-We provide high-quality educational and entertainment programming. When permissible, we film visits from authors, lectures, and workshops to post to [DarienLibrary.TV](http://darienlibrary.tv/ "DarienLibrary.TV"). Just because you have to miss an event in person doesn't mean you can't join in online later. 
+We provide high-quality educational and entertainment programming. When permissible, we film visits from authors, lectures, and workshops to post to [DarienLibrary.TV](http://darienlibrary.tv/ "DarienLibrary.TV"). Just because you have to miss an event in person doesn't mean you can't join in online later.
+<br/>
+<br/>
 
 ### The Library: An Original Series
 What goes into making an award-winning library? Come behind-the-scenes with our staff as they share their work and what goes into producing the programs you love to attend. Watch [The Library: An Original Series](http://darienlibrary.tv/categories/thelibrary.html "The Library Web Series").

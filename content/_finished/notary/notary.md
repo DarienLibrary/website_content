@@ -23,7 +23,7 @@ Please don't sign the document(s) until you appear before the Notary Public.
 
 <div class="col-md-4">
 
-<img class="img-responsive" src="/uploads/equipment/notary_seal.jpg" alt="Notary Seal" />
+<img class="img-responsive" src="/uploads/equipment/notary_seal_stamp.png" alt="Notary Seal" />
 
 </div>
 </div>

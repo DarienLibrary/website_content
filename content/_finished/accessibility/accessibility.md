@@ -30,7 +30,7 @@ Bathrooms are available on every level of the Library. Each bathroom is wheelcha
 
 ### Large Print Books
 
-The Large Print Books collection is located on the Main Level [by the fireplace](/link-needed "Map to Fireplace"). The books include popular fiction and non-fiction. Digital books’ text size can be changed, so ask at the Front Desk about eBooks.
+The Large Print Books collection is located on the Main Level by the fireplace. The books include popular fiction and non-fiction. Digital books’ text size can be changed, so ask at the Front Desk about eBooks.
 <p>This collection is made possible thanks to the Anne R. Ferguson Large Print Book Fund, a generous endowment given to the capital fund by Eric Ferguson.
 <br />
 <br />

@@ -81,7 +81,7 @@ WiFi
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/banner_printer.jpg" alt="Banner Printer" />
       Banner Printing
 <div class="margin-bottom-10"></div>    
-      We offer banner prints up to 48 inches wide in blueprint, matte, glossy, or vinyl sticker paper. <a href="/link-needed" alt="Submit your print order">Submit your print order</a>
+      We offer banner prints up to 48 inches wide in blueprint, matte, glossy, or vinyl sticker paper. <a href="/submit-banner-print" alt="Submit your print order">Submit your print order</a>
   </div>
   <div class="col-md-2">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/spiral_binders_close_up.jpg" alt="Coil Binding" />

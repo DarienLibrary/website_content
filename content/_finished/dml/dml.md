@@ -1,6 +1,6 @@
 The DML gives the Darien community access to high quality equipment for their digital projects. The room and equipment is reserved for special projects instead of general computing which is available in the Power Library. The lab was made possible thanks to the Friends of the Library and a reverse auction held at the 2012 spring's Imagination Gala.
 
-To make a reservation, please contact the Help Desk via [email](mailto:helpdesk@darienlibrary.org "Help Desk") or call [203-669-5238](tel:203-669-5238 "Call the Help Desk"). If you will need help in using the equipment, please ask for a one-on-one appointment as well.
+To make a reservation, please contact the Help Desk via [email](mailto:helpdesk@darienlibrary.org "Help Desk") or call [203-669-5238](tel:2036695238 "Call the Help Desk"). If you will need help in using the equipment, please ask for a one-on-one appointment as well.
 
 All library cardholders may use the DML. Reserving the DML in advance and scheduling one-on-one appointments is limited to Darien residents, those who work in Town, and [Friends of the Library](/friends "Friends of the Library"). The Lab will be available for 2 to 4 hour reservable time slots. Members 14+ may use the Lab unassisted while anyone younger needs to be with an adult. Up to four people may be in the DML at one time. The person who makes the reservation needs to be present in the room.
 <br/>
