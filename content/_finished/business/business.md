@@ -42,6 +42,10 @@ The Agati Media Station is a collaborative work station outfitted with a large-s
 <br />
 <br />
 
+### Mailbox
+Skip the line at the post office and mail your documents at the Library. You will pass the blue mailbox as you walk into the building from the parking lot. We sell stamps at the Welcome Desk. Need more? You can buy stamps and envelopes in the Business Center on the Lower Level. 
+<br />
+<br />
 
 _Photo by Robert Mintzes_
 

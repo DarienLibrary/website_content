@@ -5,7 +5,7 @@ Do you want to join Darien Library? That's great! We're glad to have you here. T
 
 <br />
 
-### To get a Darien Libary card
+### To get a Darien Libary Card
 Bring in to the Welcome Desk something with your Darien address on it (e.g. a piece of mail, your license, lease/mortgage agreement, etc.). If you work in Town full-time, bring your pay stub or your employer's phone number so we can verify it. Friends at the $300 level automatically get a Non-Resident membership card.
 
 <br />

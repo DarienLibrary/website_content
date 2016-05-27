@@ -3,12 +3,12 @@
 <div class="col-md-6">
 
 ### Assignment Alert
-Teachers, [let us know](mailto:childrenslibrary.org "Assignment Alert") about your class assignments ahead of time. We will then set aside resources to meet your students' needs. 
+Teachers, [let us know](mailto:childrenslibrary@darienlibrary.org "Assignment Alert") about your class assignments ahead of time. We will then set aside resources to meet your students' needs. 
 <br />
 <br />
 
 ### Preschool Visits 
-The Children's Library will come [visit your preschool](mailto:childrenslibrary.org "Preschool Visits"). We'll bring books and be ready to talk about specific topics per your request.
+The Children's Library will come [visit your preschool](mailto:childrenslibrary@darienlibrary.org "Preschool Visits"). We'll bring books and be ready to talk about specific topics per your request.
 
 The Children's Library will visit your preschool to provide Early Literacy storytimes.
 <br />
@@ -20,7 +20,7 @@ Need help with your report or finding an article your teacher will approve of? C
 <br />
 
 ### Booklists
-Help foster a love of reading in your students with our professionally selected booklists for [kids](/lists/kids "Kids") and [teens](/lists/teens "Teens"). Each booklist's items are thematically related or group the latest books added to the collection. If you would help developing booklists for your students, [email us](mailto:childrenslibrary.org "Email us").
+Help foster a love of reading in your students with our professionally selected booklists for [kids](/lists/kids "Kids") and [teens](/lists/teens "Teens"). Each booklist's items are thematically related or group the latest books added to the collection. If you would help developing booklists for your students, [email us](mailto:childrenslibrary@darienlibrary.org "Email us").
 <br />
 <br />
 
@@ -33,7 +33,7 @@ Find articles to help in your teaching. We offer access to [databases](/research
 <br />
 
 ### Presentations on Literacy and Technology
-The Children's librarians are available to visit local schools, parenting organizations, and other libraries to present on a variety of topics including literacy, youth and technology, STEAM education and programming, makerspaces, and more! [Email us](mailto:childrenslibrary.org "Email us") for a presentation
+The Children's librarians are available to visit local schools, parenting organizations, and other libraries to present on a variety of topics including literacy, youth and technology, STEAM education and programming, makerspaces, and more! [Email us](mailto:childrenslibrary@darienlibrary.org "Email us") for a presentation
 <br />
 <br />
 

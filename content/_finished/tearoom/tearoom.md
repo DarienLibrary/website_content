@@ -2,7 +2,6 @@
 <ul class="nav nav-tabs">
 <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
 <li><a href="/events/?category=tea-room-class">Classes</a></li>
-<li><a href="#projects">Projects</a></li>
 <li><a href="#links" data-toggle="tab">Links</a></li>
 <li><a href="#details" data-toggle="tab">Details</a></li>
 </ul>
@@ -32,31 +31,25 @@ We offer classes in the TEA room on everything from circuitry to printmaking. Cl
 
 ### What's in the TEA Room?
 * MakerBot 3D Printer
-* Yeti Microphone
 * Raspberry Pi
 * iMac Computer
 * Coding PC Computer
 * 6 iPads
-* 6 Canon Digital Cameras
+* Canon Rebel SLR Digital Cameras
 * Adjustable Green Screen
-* 2 Flip Cameras
 * Lightbox
 * LEGO Architecture Kits
 * Buttonmaker
-* A Rainbow Loom
 * Paper Craft Supplies
 * KAPLA Blocks
 * SpinBot Kits
+* LittleBits
+* Lincoln Logs
+* Maker Supplies
 * Duct Tape
 
 </div>
 </div>
-</div>
-
-<div class="tab-pane fade in" id="projects">
-
-<div style="position: relative; padding-bottom: 65.25%; padding-top: 30px; height: 0; overflow: auto;  -webkit-overflow-scrolling:touch;" id="1PPWAAKLCY"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://flickrit.com/noscript_embed.php?slideshow_id=1PPWAAKLCY" scrolling="no" frameborder="0"></iframe></div>
-
 </div>
 
 
@@ -154,7 +147,7 @@ _*The Makerbot can be used during these appointment times_
 
 * Appointments are reserved on a first-come, first served basis.
 
-* To find out more about reserving the TEA Room, please stop by the Children's Library or contact a children's librarian via [email](childrenslibrary@darienlibrary.org "Email the Children's Library") or [203-669-5235](tel:203-669-5235 "203-669-5235"). 
+* To find out more about reserving the TEA Room, please stop by the Children's Library or contact a children's librarian via [email](childrenslibrary@darienlibrary.org "Email the Children's Library") or [203-669-5235](tel:2036695235 "203-669-5235"). 
 
 <div class="margin-bottom-20"></div>
 

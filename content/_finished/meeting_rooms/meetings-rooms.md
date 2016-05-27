@@ -171,6 +171,6 @@ Capacity: 12
 
 The Technology Training Center is a powerful classroom for small groups. Students face a large screen at the front of the room where the teacher demonstrates their lesson. The small room is ideal for in-depth technology classes or for computer project work. The Technology Training Center is located on the Lower Level by the Power Library.
 
-Amenities include 12 PC computers outfitted with Adobe Creative Suite 5.5 and [many other programs](/link-needed), an instructor's PC, the large wall-mounted television screen, and a podium.
+Amenities include 12 PC computers outfitted with Adobe Creative Suite 5.5 and [many other programs](/technology "Computers & Technology"), an instructor's PC, the large wall-mounted television screen, and a podium.
   </div>
 </div>

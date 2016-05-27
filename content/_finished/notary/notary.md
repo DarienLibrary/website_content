@@ -2,7 +2,7 @@
 <div class="col-md-8">
 
 
-Do you need your paperwork notarized? Our Notary Publics are available to notarize your documents free of charge. We try to have a Notary in the building at all times. Please call ahead to check for a Notary at [203-669-5236](tel:203-669-5236 "203-669-5236").
+Do you need your paperwork notarized? Our Notary Publics are available to notarize your documents free of charge. We try to have a Notary in the building at all times. Please call ahead to check for a Notary at [203-669-5236](tel:2036695236 "203-669-5236").
 
 _A Notary Public is a public servant appointed by state government to witness the signing of important documents and administer oaths._ 
 

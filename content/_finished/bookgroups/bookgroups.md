@@ -11,7 +11,7 @@ For registration, book selection, reservations, guides, reviews and leader train
 Books in a Bag are bags of 10 books with a reader's guide that your book group can check out for six weeks.
 
 **Can my book group register with the Library?**<br />
-Yes! Just [register online](/link-needed "Register your book group"). One or more members of your book group needs to be a resident of Darien. Books in a bag are available only to book groups that are registered with us. 
+Yes! Just [register online](/bookgroups-register "Register your book group"). One or more members of your book group needs to be a resident of Darien. Books in a bag are available only to book groups that are registered with us. 
 
 **Can I request a title for a Books in a Bag?**<br />
 Yes! We ask that you work with us at least two weeks before your group needs the book.
