@@ -75,13 +75,13 @@ WiFi
     <img class="img-responsive margin-bottom-10" src="/uploads/equipment/3D_printed_sculptures_web.jpg" alt="3D Printer" />
       3D Printing
 <div class="margin-bottom-10"></div>    
-      Turn your two-dimensional idea into 3D reality. <a href="/3d-printers" alt="Learn more about 3D printing">Learn more about 3D printing</a>
+      Turn your two-dimensional idea into 3D reality on a 3D printer. <a href="/3d-printers" alt="Discover 3D Printing">Discover 3D Printing</a>
   </div>
   <div class="col-md-2">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/banner_printer.jpg" alt="Banner Printer" />
       Banner Printing
 <div class="margin-bottom-10"></div>    
-      We offer banner prints up to 48 inches wide in blueprint, matte, glossy, or vinyl sticker paper. <a href="/submit-banner-print" alt="Submit your print order">Submit your print order</a>
+      Print banners or school projects up to 48 inches wide on four paper types. <a href="/submit-banner-print" alt="Submit your print order">Submit your print order</a>
   </div>
   <div class="col-md-2">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/spiral_binders_close_up.jpg" alt="Coil Binding" />
@@ -105,7 +105,7 @@ WiFi
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/photo_pile.jpg" alt="Photo Printer" />
       Photo Printing
 <div class="margin-bottom-10"></div>    
-      Print your photos on glossy paper in sizes ranging from 4 x 6 in. to 13 x 19 in. <a href="/link-needed" alt="Submit your photo print order">Submit your photo order</a>
+      Print your photos on glossy paper in sizes ranging from 4 x 6 in. to 13 x 19 in.
   </div>
 </div>
 

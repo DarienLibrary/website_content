@@ -1,4 +1,3 @@
-
 <div class="row">
 <!-- Begin Tab v1 -->
 <div class="col-md-12">
@@ -36,7 +35,7 @@ The Library's website does not have a password. Instead, it relies on your libra
 <br />
 
 #### Why can't I login with my username and password from the previous site?
-For your convenience, we've changed how you log into your library website account. You will need your library card number and the email address you gave the Library when you registered. The advantage of this new login system is that you can now manage your family member's library accounts through linked account feature &#8212; a very popular request!
+For your convenience, we've changed how you log into your library website account. You will need your library card number and the email address you gave the Library when you registered. The advantage of this new login system is that you can now manage your family member's library accounts through linked account feature — a very popular request!
 <br />
 <br />
 
@@ -334,7 +333,7 @@ View Events I've Attended
 <div class="panel-body">
 
 #### How do I RSVP for an Events?
-When you are on an event listing, click on **I Plan on Attending**. 
+When you are on an event listing, click on **I Might Attend**. 
 <br />
 <br />
 
@@ -344,7 +343,7 @@ If an event is registered, on the event's page, click on **Register Now**. Then 
 <br />
 
 #### Which upcoming events am I attending?
-Once you've either RSVPed for an event by clicking on **I Plan on Attending** or **Register Now**, go to [My Account](/myaccount "My Account"). On your library account summary page, you'll see a listing of Your Upcoming Events. 
+Once you've either RSVPed for an event by clicking on **I Might Attend** or **Register Now**, go to [My Account](/myaccount "My Account"). On your library account summary page, you'll see a listing of Your Upcoming Events. 
 <br />
 <br />
 
@@ -514,7 +513,7 @@ Faxing
 <div class="panel-collapse collapse" id="collapse-v3-One">
 <div class="panel-body">
 
-Faxes are 25&#162; per page and needs to be paid for by coin. You can fax in the [Business Center](/business-center "Business Center") on the Lower Level and on the Second Level. 
+Faxes are 25¢ per page and needs to be paid for by coin. You can fax in the [Business Center](/business-center "Business Center") on the Lower Level and on the Second Level. 
 
 </div>
 </div>
@@ -532,8 +531,8 @@ Copying
 <div class="panel-body">
 
 To make copies, come down to the [Business Center](/business-center "Business Center").
-* **8.5 x 11" and 8.5 x 14" pages:** 10&#162; B&W or 25&#162; Color
-* **11 x 17" pages:** 25&#162; or 50&#162; Color
+* **8.5 x 11" and 8.5 x 14" pages:** 10¢ B&W or 25¢ Color
+* **11 x 17" pages:** 25¢ or 50¢ Color
 
 </div>
 </div>
@@ -551,10 +550,10 @@ Printing
 <div class="panel-body">
 
 #### How much does it cost?
-Good news: you get 50&#162; of free printing a day! After that, the cost are:
+Good news: you get 50¢ of free printing a day! After that, the cost are:
 
-* **8.5 x 11" and 8.5 x 14" pages:** 10&#162; B&W or 25&#162; Color
-* **11 x 17" pages:** 25&#162; or 50&#162; Color
+* **8.5 x 11" and 8.5 x 14" pages:** 10¢ B&W or 25¢ Color
+* **11 x 17" pages:** 25¢ or 50¢ Color
 
 For banner and poster printing, please see the [Business Center](/business-center "Business Center").
 <br />
@@ -909,7 +908,7 @@ Manage My Events
 <div class="panel-body">
 
 #### How do I RSVP for an Events?
-When you are on an event listing, click on **I Plan on Attending**. 
+When you are on an event listing, click on **I Might Attend**. 
 <br />
 <br />
 
@@ -919,7 +918,7 @@ If an event is registered, on the event's page, click on **Register Now**. Then 
 <br />
 
 #### Which upcoming events am I attending?
-Once you've either RSVPed for an event by clicking on **I Plan on Attending** or **Register Now**, go to [My Account](/myaccount "My Account"). On your library account summary page, you'll see a listing of Your Upcoming Events. 
+Once you've either RSVPed for an event by clicking on **I Might Attend** or **Register Now**, go to [My Account](/myaccount "My Account"). On your library account summary page, you'll see a listing of Your Upcoming Events. 
 <br />
 <br />
 

@@ -4,12 +4,17 @@
 We know you’re busy! We also know your little one is growing up fast and you want to make sure you’re helping them gain early literacy skills. So, why don't you sign up for our weekly early literacy texts to get easy tips sent right to your phone? It’s totally free (though standard messaging rates apply), and is a service of Darien Library. Your librarians will send a text every Monday with something simple you can integrate into your daily life that will help prepare your child (under 5 years old) for reading and writing.
 
 We also offer the text messages in Spanish! We will contact you by follow-up email and you can select Spanish as an option.
+<br />
+<br />
 
 ### The Nitty Gritty:
 * For parents of children 5 years or younger.
 * Unsubscribe easily. Just respond to 313131 with the word “STOP” and we will take you off the list!
 * It’s free, but your mobile plan’s regular text messaging and data rates apply.
 * To sign up, you need a mobile phone with a U.S. number able to receive text messages.
+
+<br />
+
 </div>
 
 <div class="col-md-4">

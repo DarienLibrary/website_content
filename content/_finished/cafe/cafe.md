@@ -1,11 +1,11 @@
 <div class="row margin-bottom-10">
 <div class="col-md-8">
 
-Don't work hungry at the Library. The Frosty Bear Caf&#233;, conveniently located on the First Floor next to the Community Room, is a great place to pick up a snack or even a meal. We offer a variety of breakfast, lunch, dinner, and snack choices. You won't have to interrupt your work to go grab a meal. Food and drinks are allowed throughout the Library.
+Don't work hungry at the Library. The Frosty Bear Café, conveniently located on the First Floor next to the Community Room, is a great place to pick up a snack or even a meal. We offer a variety of breakfast, lunch, dinner, and snack choices. You won't have to interrupt your work to go grab a meal. Food and drinks are allowed throughout the Library.
 
-Enjoy the Soup of the Day and beef or turkey chili. Sandwiches, wraps, veggie balls and veggie burgers are made on-site. New options appear on a regular basis, so check back often. The Caf&#233; also offers custom made ice cream cakes and pies that [you can order](http://www.frostybearicecream.com/order_a_cake) for your next special occasion. 
+Enjoy the Soup of the Day and beef or turkey chili. Sandwiches, wraps, veggie balls and veggie burgers are made on-site. New options appear on a regular basis, so check back often. The Café also offers custom made ice cream cakes and pies that [you can order](http://www.frostybearicecream.com/order_a_cake) for your next special occasion. 
 
-We also cater any meetings or special event that you are having at the Library. Just call John, the owner/operator of the Caf&#233; at [203-669-5250](tel:203-669-5250 "203-669-5250") to help plan your next event.
+We also cater any meetings or special event that you are having at the Library. Just call John, the owner/operator of the Café at [203-669-5250](tel:203-669-5250 "203-669-5250") to help plan your next event.
 
 </div>
 <div class="col-md-4">
@@ -100,7 +100,7 @@ We also cater any meetings or special event that you are having at the Library. 
 
 <br />
 
-Caf&#233; Phone: [203-669-5250](tel:203-669-5250 "203-669-5250")<br />
+Café Phone: [203-669-5250](tel:2036695250 "203-669-5250")<br />
 [Frosty Bear Ice Cream Website](http://frostybearicecream.com "Frosty Bear Ice Cream") <br />
 
 </div>

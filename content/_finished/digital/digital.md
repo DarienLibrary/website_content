@@ -17,7 +17,7 @@ After clicking on your digital item in the catalog, you will need to open the ap
 
 Downloadable e-Books, Audiobooks, and more are available to Darien residents, those who work full-time in Darien, and [Friends](/friends "Friends of the Library") who have donated $300.
 
-For assistance, please contact the Help Desk at [203-669-5238](tel:203-669-5238 "203-669-5238").
+For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "203-669-5238").
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Enjoy online access to 30+ downloadable magazines. You can read magazines on you
 
 * e-Magazines
 
-[Get Zinio Help](https://www.rbdigital.com/help/zinio-faq "Bibliotheca help")
+[Get Zinio Help](https://www.rbdigital.com/help/zinio-faq "Zinio help")
 
 </div>
 </div>

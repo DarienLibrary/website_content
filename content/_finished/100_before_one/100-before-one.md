@@ -2,7 +2,7 @@
 
 <div class="col-md-10 col-md-offset-1">
 
-<img class="img-responsive center-block" src="/uploads/logos/owl-long%20header.jpg" alt="100 Before One" />
+<img class="img-responsive center-block" src="/uploads/logos/100_before_one_owl_header.jpg" alt="100 Before One" />
 
 <div class="margin-bottom-20"></div>
 
