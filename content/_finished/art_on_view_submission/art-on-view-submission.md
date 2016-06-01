@@ -1,6 +1,6 @@
 Darien Library exhibits artwork on a rotating basis in its Gallery on the Lower Level. Our desire is to offer the community an opportunity to benefit from viewing various forms of art in a cultural and educational setting. The Art Committee of Darien Library meets on an ongoing basis to review the work of interested artists. In order to assist us with our selection of artists, we ask them to submit slides, pictures, or samples of their work. A member of our art committee will contact you prior to this meeting.
 
-[View the current Art On View exhibit](/events/?category=art-on-view "Art On View") 
+[View the current Art On View exhibit](/art-on-view "Art On View") 
 
 <p>
 <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseGuidelines" aria-expanded="false" aria-controls="collapseGuidelines">

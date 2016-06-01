@@ -9,7 +9,7 @@ Because we like to keep things interesting, Darien Library includes a Wildcard R
 
 Questions or comments? Email [askus@darienlibrary.org](mailto:askus@darienlibrary.org "Ask Us email") or call 203-669-5239.
 
-Want to know what we're reading? Check out [darienreads.org](http://darienreads.org "Darien Reads").
+Want to know what we're reading? Check out [Darien Reads](http://darienlibrary.tumblr.com/tagged/darien-reads "Darien Reads").
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/61235170580146"></script>
 

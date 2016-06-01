@@ -20,9 +20,6 @@ Help clean up our website by fixing broken links and getting rid of outdated inf
 **Digitization Wizard**<br /> 
 Bring our paper materials into the 21st Century! Digitization Wizards will scan materials and help us make them accessible digitally.
 
-</div>
-<div class="col-md-6">
-
 **Community Readers' Adviser**<br /> 
 Love to talk about books? Have you seen a great movie recently? Write reviews and rate materials on our website.  
 
@@ -39,6 +36,15 @@ We are happy to work with you to create a volunteer position that will match you
 <br />
 <br />
 
+</div>
+<div class="col-md-6">
+
+<div class="responsive-video">
+        <iframe src="//player.vimeo.com/video/149770190?color=567fc7" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+    </div>
+<br />
+<br />
+
 ### To Learn More
 
 [Email Stephanie Anderson](mailto:sanderson@darienlibrary.org "Email Stephanie"), Assistant Director of Public Services. If you are inquiring about a specific volunteer position or schedule, please fill out the application form before emailing. Thanks!
@@ -49,7 +55,3 @@ We are happy to work with you to create a volunteer position that will match you
 
 </div>
 </div>
-
-<div class="responsive-video">
-        <iframe src="//player.vimeo.com/video/149770190?color=567fc7" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-    </div>

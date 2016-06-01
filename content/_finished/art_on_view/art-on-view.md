@@ -1,3 +1,6 @@
+<div class="row">
+<div class="col-md-8">
+
 ### Current Exhibit: John Coots
 
 **Tuesday, May 3rd through Monday, June 13th**
@@ -15,4 +18,17 @@ John and his wife Sandy have lived in Darien for 26 years and raised their four 
 <br />
 <br />
 
-_The Darien Library Art Gallery is located on the Lower Level. Throughout the year, local artists across all mediums display their work. [Submit to Exhibit](/art-on-view-submission "Submission for Art on View")_
+### Apply to be an Artist on View 
+The Darien Library Art Gallery is located on the Lower Level. Throughout the year, local artists across all mediums display their work. 
+
+[Submit your artwork for consideration](/art-on-view-submission "Submit your artwork for consideration")
+<br />
+<br />
+
+</div>
+<div class="col-md-4">
+
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/john_coots_art.jpg" alt="Artwork of John Coots" />
+
+</div>
+</div>
