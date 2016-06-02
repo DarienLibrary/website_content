@@ -27,7 +27,7 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 
 ### Featured Museum
 
-[The Frick Collection](http://www.libraryinsight.net/mpCalendar.asp?t=2673011&jx=dap&pInstitution=Frick%20Collection&mps=2461 "The Frick Collection") is currently hosting Van Dyck: The Anatomy of Portraiture. Anthony van Dyck (1599–1641), one of the most celebrated and influential portraitists of all time, enjoyed an international career that took him from his native Flanders to Italy, France, and, ultimately, the court of Charles I in London. Van Dyck’s supremely elegant manner and convincing evocation of a sitter’s inner life — whether real or imagined — made him the favorite portraitist of many of the most powerful and interesting figures of the seventeenth century. The show runs from March 2, 2016 through June 5, 2016.
+The [Museum of Modern Art](http://www.libraryinsight.net/mpCalendar.asp?t=3604649&jx=dap&pInstitution=Museum%20of%20Modern%20Art&mps=2503 "MoMA") is currently hosting _Edgar Degas: A Strange New Beauty_. More than 100 rarely seen monotypes &#8212; along with some fifty related paintings, drawings, pastels, sketchbooks, and prints &#8212; show Degas at his most experimental. The show runs through July 24th.
 
 
 </div>

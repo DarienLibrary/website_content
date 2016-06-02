@@ -73,9 +73,12 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
-<img src="/uploads/logos/3m_icon.png" alt= "Bibliotheca" />
+<a href="http://ebook.3m.com/library/darienlibrary/Featured"><img src="/uploads/logos/3m_icon.png" alt= "Bibliotheca" /></a>
 
 ### Bibliotheca
+
+[View the Bibliotheca Catalog](http://ebook.3m.com/library/darienlibrary/Featured "Bibliotheca")
+
 Download the Bibliotheca app to your mobile device from the Apple or Android app store. Bibliotheca makes reading your book between different devices seamless. Bibliotheca was formally 3M Cloud Library.
 
 * e-Books
@@ -89,9 +92,12 @@ Download the Bibliotheca app to your mobile device from the Apple or Android app
 </div>
 <div class="col-md-6">
 
-<img src="/uploads/logos/overdrive_icon.jpg" alt= "OverDrive" />
+<a href="http://digital.darienlibrary.org/"><img src="/uploads/logos/overdrive_icon.jpg" alt= "OverDrive" /></a>
  
 ### OverDrive 
+
+[View the OverDrive Catalog](http://digital.darienlibrary.org/ "OverDrive")
+
 Download the OverDrive app to your mobile device from the Apple or Android app store. For Kindle owners, download your e-Books from the OverDrive collection.
 
 * e-Books
@@ -107,9 +113,12 @@ Download the OverDrive app to your mobile device from the Apple or Android app s
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
-<img src="/uploads/logos/hoopla_icon.png" alt= "Hoopla Digital" />
+<a href="https://www.hoopladigital.com/home"><img src="/uploads/logos/hoopla_icon.png" alt= "Hoopla Digital" /></a>
 
 ### Hoopla Digital 
+
+[View the Hoopla Catalog](https://www.hoopladigital.com/home "Hoopla")
+
 Hoopla Digital provides you with access to thousands of movies and TV shows. On your computer, your Hoopla digital checkout will stream just like a YouTube video or Pandora audio. 
 
 If you are on a mobile device like your tablet or smartphone, you can download your checkouts to the Hoopla app. Download 7 items of any combination of movies, music, TV episodes, or audiobooks each calendar month. 
@@ -128,9 +137,12 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 </div>
 <div class="col-md-6">
 
-<img src="/uploads/logos/zinio_icon.png" alt= "Zinio" />
+<a href="https://www.rbdigital.com/darienct/service/zinio/landing?"><img src="/uploads/logos/zinio_icon.png" alt= "Zinio" /></a>
 
 ### Zinio
+
+[View the Zinio Catalog](https://www.rbdigital.com/darienct/service/zinio/landing? "Zinio")
+
 Enjoy online access to 30+ downloadable magazines. You can read magazines on your computer or download the _Zinio for Libraries_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://www.rbdigital.com/darienct/service/zinio/landing? "Online magazines") to select your next magazine and not Zinio.com.
 
 * e-Magazines
