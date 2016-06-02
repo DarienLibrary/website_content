@@ -98,7 +98,7 @@ Download the OverDrive app to your mobile device from the Apple or Android app s
 * e-Audiobooks
 
 [OverDrive computer app](http://app.overdrive.com/ "OverDrive")<br />
-[Get OverDrive Help](http://www.3m.com/us/library/eBook/support.html "OverDrive help")
+[Get OverDrive Help](http://help.overdrive.com/ "OverDrive help")
 
 
 </div>
@@ -121,7 +121,7 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 * TV Shows
 * Music
 
-[Get Hoopla Help](http://www.3m.com/us/library/eBook/support.html "Hoopla help")
+[Get Hoopla Help](https://www.hoopladigital.com/support "Hoopla help")
 <br />
 <br />
 
