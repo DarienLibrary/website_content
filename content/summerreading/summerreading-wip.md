@@ -1,4 +1,4 @@
-<div class="row margin-bottom">
+<div class="row margin-bottom-30">
 <div class="col-md-4">
 <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_SR_logo.jpg" alt="Darien Olympics" />
 <br />
@@ -10,10 +10,26 @@
 </div>
 </div>
 
+<!-- 
+<div class="row margin-bottom-30">
+<div class="col-md-4" style="background-color:orange; height:5px; width:100%;"> 
+<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_SR_vase.jpg" />
+</div>	
+<div class="col-md-4" style="background-color:orange; height:5px; width:100%;">
+<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_SR_vase.jpg" />
+</div>
+<div class="col-md-4" style="background-color:orange; height:5px; width:100%;">
+</div>		
+</div> --> 
+
 <div class="row margin-bottom-30">
 <div class="col-md-4">
 
-## Read Books
+<div style="background-color:#dda826;">
+
+### Read Books
+
+</div>
 
 <div class="row">
 <div class="col-md-4">
@@ -28,26 +44,23 @@
 Over the summer, use the Read to Me Log to record all the books you read together. Ascend Mt. Olympus by reading all 20 books and you will be entered in a special Read to Me Club raffle. 
 
 </div>
+
+[Pre-Readers Registration](https://dlchildrenslibrary.wufoo.com/forms/read-to-me-club-summer-2016/ "Pre-Readers Registration")
+<br />
 <br />
 
-<p>
-<a href="https://dlchildrenslibrary.wufoo.com/forms/read-to-me-club-summer-2016/" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Pre-Readers Registration</a>
-</p>
-<br />
+<div style="background-color:#f7c64d; padding:6px;">
 
-<div style="background-color:#b1bee1; padding:6px;">
-
-### K to 6 Readers
+### Readers in Grades K to 6
 
 **Olympic Reading Challenge:** The Reading Challenge consists of 20 books that will test your mettle to see if you are a true Olympian. Kids will fill out their own personal Reading Challenge sheet each time they visit the Library. Olympians who complete the Reading Challenge will be entered into a Grand Prize Raffle, which will be drawn at the Summer Reading Finale Party on Thursday, August 18.
 
-</div>
+</div> 
+
+<br />
 <br />
 
-<p>
-<a href="https://dlchildrenslibrary.wufoo.com/forms/summer-reading-registration-form-summer-2016/" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">K to 6 Registration</a>
-</p>
-<br />
+[K to 6 Registration](https://dlchildrenslibrary.wufoo.com/forms/summer-reading-registration-form-summer-2016/ "K to 6 Registration")
 
 <img class="center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_owl.jpg" alt="Athena's Owl" title="Whoooo are u?" />
 
@@ -59,7 +72,7 @@ K to 2 Challenges
 <div class="collapse" id="collapsePreReaders">
 <div class="card card-block">
 
-[Download Bookmark](/uploads/departments/youth/summer_reading/darien_olympians_K-2_challenge_bookmark.pdf "K to 2 Challenges")
+[Challenges Bookmark](/uploads/departments/youth/summer_reading/darien_olympians_K-2_challenge_bookmark.pdf "Pre-Readers Challenges")
 
 Read all 20 types of books in our Olympic Reading Challenge and be entered in our Grand Prize Finale Raffle!
 
@@ -90,7 +103,7 @@ Read all 20 types of books in our Olympic Reading Challenge and be entered in ou
 <div class="collapse" id="collapseKto6">
 <div class="card card-block">
 
-[Download Bookmark](/uploads/departments/youth/summer_reading/darien_olympians_3-6_challenge_bookmark.pdf.pdf "3 to 6 Challenges")
+[Challenges Bookmark](/uploads/departments/youth/summer_reading/darien_olympians_3-6_challenge_bookmark.pdf.pdf "K to 6 Challenges")
 
 Read all 20 types of books in our Olympic Reading Challenge and be entered in our Grand Prize Finale Raffle!
 
@@ -132,17 +145,17 @@ Read all 20 types of books in our Olympic Reading Challenge and be entered in ou
 </div>
 <div class="col-md-4">
 
-## Go On Quests
+<div style="background-color:#b1bee1;">
+
+### Go On Quests
+
+</div>
 
 <div class="row">
 <div class="col-md-12">
 
-<div style="background-color:#f69472; padding:6px;">
-
 ### Digital Demigods
 Each week, a new Quest can be completed on the Library’s website or in person at the Library. Kids who complete a weekly Quest can choose a prize from the prize locker.
-
-</div>
 <br />
 <br />
 
@@ -150,17 +163,10 @@ Each week, a new Quest can be completed on the Library’s website or in person 
 <br />
 <br />
 
-<div style="background-color:#f7c64d; padding:6px;">
-
-### Your Weekly Quest 
 Like Percy Jackson you are a demigod and have been blessed with the power of the Gods. Which God’s power do you possess?  
-</div>
 <br />
 
-<p>
-<a href="https://dlchildrenslibrary.wufoo.com/forms/digital-demigods-quest-week-1/" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Accept Your Quest</a>
-</p>
-<br />
+[Accept Your Quest](https://dlchildrenslibrary.wufoo.com/forms/digital-demigods-quest-week-1/ "Accept Your Quest")
 
 <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_hermes.jpg" alt="Hermes' " title="Hermes, god of 'I'll steal your stuff and bless your house guests.' " />
 
@@ -172,12 +178,14 @@ Like Percy Jackson you are a demigod and have been blessed with the power of the
 
 <div class="col-md-4">
 
-## Earn Prizes
+<div style="background-color:#8ebfb9;">
+
+### Earn Prizes
+
+</div>
 
 <div class="row">
 <div class="col-md-8">
-
-<div style="background-color:#78d0e7; padding:6px;">
 
 ### Registration Raffle
 
@@ -186,8 +194,6 @@ If you register for Summer Reading between June 6th and June 16th, you will be e
 <br />
 
 When you sign up, you receive a free book! Just visit the Children's Library (also known as Mount Olympus) to receive it.
-
-</div>
 <br />
 <br />
 
@@ -195,41 +201,29 @@ When you sign up, you receive a free book! Just visit the Children's Library (al
 <br />
 <br />
 
-<div style="background-color:#8ebfb9; padding:6px;">
-
-### Summer Events
-Join us for a variety of educational and fun programs this summer. We offer a mix of open drop-in programs like storytimes, book groups, and special programs in the Community Room. 
-
-Come back to this page to register for programs: 
+### Summer Reading Events
+Join us for a variety of educational and fun programs this summer. We offer a mix of open drop-in programs like storytimes, book groups, and special programs in the Community Room. Come back to this page to register for other programs: 
 
 * June 13th for July events
 * July 18th for August events
 
-</div> 
-<br />
+The Summer Reading Programs are made possible by the generous support of the Friends of the Library.
 
-<p>
-<a href="https://www.darienlibrary.org/tag?search=Summer+Reading&filter=Event" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">View all Events</a>
-</p>
+[View all Events](https://www.darienlibrary.org/tag?search=Summer+Reading&filter=Event "Summer Reading Events")
 <br />
-
-<div style="background-color:#ffd776; padding:6px;">
+<br />
 
 ### Finale Party
 Save the date! We will celebrate the end of Darien Olympians in August. 
-
-</div>
 <br />
 <br />
 
 </div>
 
 <div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_poseidon.jpg" alt="Poseidon" title="Poseidon, god of Deep Waters and Freaky Fish." />
+<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_athena.jpg" alt="Poseidon" title="Poseidon, god of Deep Waters and Freaky Fish." />
 </div>
 
 </div>
 </div>
 </div>
-
-Summer Reading is made possible by the generous support of the [Friends of the Library](/friends "Friends of the Library").
