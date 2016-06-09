@@ -51,7 +51,7 @@ We are happy to work with you to create a volunteer position that will match you
 
 <div class="margin-bottom-20"></div>
 
-<a href="https://docs.google.com/forms/d/1inPW7BAiRDPW4gdkXpzjCcyHJlLFGtDmsH79Z1IqbjE/viewform"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply to be a Volunteer</button></a>
+<a href="/apply-volunteer"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply to be a Volunteer</button></a>
 
 </div>
 </div>
