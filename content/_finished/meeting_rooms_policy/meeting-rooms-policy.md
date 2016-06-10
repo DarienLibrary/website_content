@@ -63,7 +63,7 @@ Every applicant will designate the individual responsible for supervision of the
 <div class="row margin-bottom-10">
 <div class="col-md-6">
 
-#### For Use by For-Profit Organizations
+#### For Use by Not-for-Profit Organizations
 <table class="table table-striped">
 <tr>
 <th>Meeting Rooms</th>
@@ -71,19 +71,19 @@ Every applicant will designate the individual responsible for supervision of the
 </tr>
 <tr>
 <td>Community Room</td>
-<td>$150.00 /hr. (2 hour minimum)</td>
+<td>$25/hr. (2 hour minimum)</td>
 </tr>
 <tr>
 <td>Conference Room</td>
-<td>$100.00 /hr. (2 hour minimum)</td>
+<td>$25/hr. (2 hour minimum)</td>
 </tr>
 <tr>
 <td>Technology Training Center</td>
-<td>$150.00 /hr. (2 hour minimum)</td>
+<td>$75/hr. (2 hour minimum)</td>
 </tr>
 <tr>
 <td>Other Meeting Rooms</td>
-<td>$50.00 /hr. (2 hour minimum)</td>
+<td>No Charge</td>
 </tr>
 </table>
 </div>
@@ -97,19 +97,19 @@ Every applicant will designate the individual responsible for supervision of the
 </tr>
 <tr>
 <td>Community Room</td>
-<td>$150.00 /hr. (2 hour minimum)</td>
+<td>$150/hr. (2 hour minimum)</td>
 </tr>
 <tr>
 <td>Conference Room</td>
-<td>$100.00 /hr. (2 hour minimum)</td>
+<td>$100/hr. (2 hour minimum)</td>
 </tr>
 <tr>
 <td>Technology Training Center</td>
-<td>$150.00 /hr. (2 hour minimum)</td>
+<td>$150/hr. (2 hour minimum)</td>
 </tr>
 <tr>
 <td>Other Meeting Rooms</td>
-<td>$50.00 /hr. (2 hour minimum)</td>
+<td>$50/hr. (2 hour minimum)</td>
 </tr>
 </table>
 </div>
