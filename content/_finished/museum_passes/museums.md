@@ -8,6 +8,7 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 * You need to live in Darien, work full-time in Darien, or be a Friend at the $300 level
 * Passes may be picked up after 3 p.m. the day before your museum visit and then returned by 10 a.m. the day after. They are not renewable. 
 * Late fines are $10 per day. If a pass is lost, you will need to pay the full replacement cost.
+* Museum passes are very popular, so please cancel your reservation if you can't make it so that another patron can enjoy a visit to the museum. Otherwise, after not picking up two passes, you'll be unable to reserve any museum pass for six months. After that, you'll be able to reserve passes again. 
 * Some passes may not be valid to attend special events at that museum. If you have questions, contact that museum directly.
 * All passes are to picked up and returned to the Welcome Desk.
 * Please call or visit the website of the museum to verify their hours of operation.
