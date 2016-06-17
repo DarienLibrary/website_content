@@ -1,5 +1,5 @@
 <div class="row margin-bottom-10">
-<div class="col-md-10 col-md-offset-1">
+<div class="col-md-10">
 
 Are you up for a summer of great reading? As a community, we are challenging everyone to collectively read 10,000 books by Friday, September 2nd. 
 <br />
@@ -13,6 +13,12 @@ Continue to add stickers to the reading columns for every book you read througho
 Every week, we will tally the number of books read to watch our numbers grow.
 
 No registration and open to all book lovers! Help Darien Library reach this significant goal.
+
+</div>
+<div class="col-md-2">
+
+### Books Read
+Coming Soon
 
 </div>
 </div>
