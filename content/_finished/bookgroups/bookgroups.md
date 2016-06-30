@@ -31,6 +31,7 @@ While we try to maintain a current collection of hot books, if you do not see wh
 <a href="/lists/book-groups">View Themed Books in a Bag Lists</a><br />
 <a href="/bookgroups-request-BIAB">Request a Book in a Bag</a><br />
 <a href="http://darienlibrary.tv/categories/dlrecommends.html">View all Book Group Videos</a><br />
+<a href="http://darienlibrary.tv/dltechcast/2016/06/30/book-groups-new-site">Book Groups Website Help</a><br />
 
 </div>
 </div>
