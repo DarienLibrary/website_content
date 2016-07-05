@@ -119,6 +119,8 @@ Read all 20 types of books in our Olympic Reading Challenge and be entered in ou
 </div>
 <br />
 
+<div style="background-color:#7bcfe7; padding:6px;"> 
+
 ### Summer Booklists
 
 [K to 1 Books](/uploads/departments/youth/summer_reading/2016_SR_list_K-1.pdf "K to 1 Recommended Summer Reads")<br /><br />
@@ -126,6 +128,7 @@ Read all 20 types of books in our Olympic Reading Challenge and be entered in ou
 [4 to 5 Books](/uploads/departments/youth/summer_reading/2016_SR_list_4-5.pdf "4 to 5 Recommended Summer Reads")
 <br />
 <br />
+</div> 
 
 </div>
 </div>
@@ -153,12 +156,11 @@ Each week, a new Quest can be completed on the Library’s website or in person 
 <div style="background-color:#f7c64d; padding:6px;">
 
 ### Your Weekly Quest 
-Like Percy Jackson you are a demigod and have been blessed with the power of the Gods. Which God’s power do you possess?  
-</div>
+Correctly unscramble the names of these Greek, Roman, Norse, and Egyptian gods and send your foes to the Underworld!</div>
 <br />
 
 <p>
-<a href="https://dlchildrenslibrary.wufoo.com/forms/digital-demigods-quest-week-1/" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Accept Your Quest</a>
+<a href="https://dlchildrenslibrary.wufoo.com/forms/digital-demigods-quest-week-5/" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Accept Your Quest</a>
 </p>
 <br />
 
