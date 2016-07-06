@@ -14,11 +14,13 @@ Every week, we will tally the number of books read to watch our numbers grow.
 
 No registration and open to all book lovers! Help Darien Library reach this significant goal.
 
+<script type="text/javascript" src="https://form.jotform.com/jsform/61685141998166"></script>
+
 </div>
 <div class="col-md-2">
 
 ### Books Read
-Coming Soon
+2,755
 
 </div>
 </div>

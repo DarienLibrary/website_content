@@ -43,6 +43,11 @@ Need help getting started with your genealogy research? A volunteer from the Mid
 </div>
 <div class="col-md-4">
 
+### Request FamilySearch Microfilm
+Access billions of records from FamilySearch by borrowing microfilm. [Order your film](https://familysearch.org/films/ "Order your microfilm") for $7.50 per reel. Select Darien Library as your family history center. You will receive an email when it arrives.
+<br />
+<br />
+
 ### DNA Testing
 "A genealogical DNA test looks at a person's genetic code at specific locations. Results give information about genealogy or personal ancestry. In general, these tests compare the results of an individual to others from the same lineage or to current and historic groups. The test results are not meant for medical use." [Source](http://en.wikipedia.org/wiki/Genealogical_DNA_test "Genealogical DNA Testing")
 
