@@ -1,20 +1,20 @@
 <div class="row">
 <div class="col-md-8">
 
-### Current Exhibit: John Coots
+### Current Exhibit: Ella Moore
 
-**Tuesday, May 3rd through Monday, June 13th**
+**Thursday, July 7th through Saturday, July 16th**
 
-Local landscape and still life painter John Coots exhibit his oil paintings. Showing recent work, this will be his first solo show since he last exhibited publicly at Atria’s Gratia Gillespie Gallery in January 2012. 
+Ella Moore is the winner of this year's Ginny Wright Scholarship and Award. 
 <br />
 <br />
 
 #### About the artist
-John Coots has taken painting classes for 20 years at the Silvermine Art School in New Canaan, studying with Alex McFarlane, David Dunlop, Kirill Doron, and Claire Watson Garcia. Coots paints contemporary still life and local landscapes. He is a self-described “precocious hobbyist” who most admires the art of Sir Winston Churchill “because Churchill found time to paint while doing other things.”
+My name is Ella Moore and I recently graduated Darien High School. Throughout my high school career I transitioned from being afraid to make a mark on a piece of paper to doing oil paintings on huge canvases. Through this experience I have learnt a lot about myself as an artist.
 
-Coots publishes two dozen weekly newspapers in small towns scattered around New England. His career in journalism started in college at the Yale Daily News. After business school at University of Virginia, Coots spent twenty years running newspapers for a large publicly-traded corporation until 1994 when he started his own company.
+I have loved to paint, draw, and design for as long as I can remember. I loved to tell stories with my artwork by capturing a passing moment or utilizing expression to convey an atmosphere. I tried to draw upon this life long fascination the past academic year in my AP Studio Art class. My concentration explored how shadows can manipulate portraiture and the human form and an overall atmosphere within a painting. While I delved into this concentration I began to develop an individual voice and passion for my artwork. I like to bring in expressive mark making and texture to my pieces along with dynamic compositions and provocative subjects in an effort to use my artwork as a platform to connect and empathize with others.
 
-John and his wife Sandy have lived in Darien for 26 years and raised their four boys here.
+I was honored to receive this year’s Ginny Wright Scholarship and Award. It means so much for me to have my artwork recognized and respected by so many. I’m excited to continue growing in confidence and in my skills as I continue my education at Rhode Island School of Design.
 <br />
 <br />
 
@@ -28,7 +28,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/john_coots_art.jpg" alt="Artwork of John Coots" />
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/ella_moore_art.jpg" alt="Artwork of Ella Moore" />
 
 </div>
 </div>
