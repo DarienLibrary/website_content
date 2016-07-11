@@ -82,36 +82,76 @@ A sustainable building is not only environmentally responsible, it saves the Lib
 <div class="row margin-bottom-10">
 <div class="col-md-3">
 
-The Library Garden was founded in 2014. It is tended by master gardener and Film Librarian, Susie. Visit the garden on the Post Road facing side of the Library.
+The Library Garden was founded in 2014. It is tended by master gardener and Film Librarian, Susie. Visit the garden on the Post Road facing side of the Library. 
 <br />
-<br /> 
+<br />
 
 </div>
 <div class="col-md-3">
+
+### Brand New
+* Fennel
+* Mammoth Sunflowers
+<br />
+</div>
+<div class="col-md-3">
+
+### Eggplants
+* Black Beauty
+* Rosa Bianca
+
+<br />
+
+</div>
+<div class="col-md-3">
+
+<img class="img-responsive center-block" src="/uploads/general_stock_photos/tomato_vine.jpg" alt="Tomatoes from the Library Garden" />
+<br />
+
+</div>
+</div>
+
+<div class="row margin-bottom-10">
+<div class="col-md-4">
 
 ### Permanent Plants
-
-* Sage
 * Kale
-* Baked Potato Chives
+* Parsley
+* Sage
+* Rosemary 
+* Thyme
+* Oregano
+* Lemon Verbena
+* Sweet Basil
+* Dill
+* Marigolds
+
 <br />
-<br /> 
 
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 
-### Plants of the Year
+### Tomatoes
+* Yellow Pear
+* Mountain Spring
+* Chocolate Cherry
+* Grafted Bumblebee Purple
+* Hillbilly
+* Belgium Giant
+* German Johnson Pink
 
-* Tomatoes
-* Peppers
-* Eggplants
 <br />
-<br /> 
 
 </div>
-<div class="col-md-3">
+<div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/library_building/exterior/green_tomato.jpg" alt="Green tomato from the Library garden" />
+### Peppers
+* Hungarian Hot Wax
+* Mucho Nacho – Jalapenos
+* Thai Hot
+* Cayenne Long Red Slim 
+
+<br />
 
 </div>
 </div>
