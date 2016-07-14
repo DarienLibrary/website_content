@@ -12,9 +12,13 @@ Enter our [child and teen friendly virtual room](http://darien.lib.overdrive.com
 <br />
 
 ### Circulating Technology 
-Work on your studies using a [Tween Tab iPad Mini](/catalog/work/51230 "Tween Tab") or borrow an [iPad](/catalog/work/89368 "iPad"). If you are working in the Children's Library, you may borrow a pair of headphones from the Children's Library desk. 
+Work on your studies using a [Tween Tab iPad Mini](/catalog/work/51230 "Tween Tab") or borrow an [iPad](/catalog/work/89368 "iPad"). If you are working in the Children's Library, you may borrow a pair of headphones from the Children's Library desk.  Other [gadgets you can borrow](/catalog/search/keyword?search=%2A&formats=equipment&page=1 "Tech you can borrow").
+<br />
+<br />
 
-Other [gadgets you can borrow](/catalog/search/keyword?search=%2A&formats=equipment&page=1 "Tech you can borrow") includes a camcorder, Roku Media Player, WiFi Hotspot, Doxie Flip Scanner, LCD Projector, and Projector Screen. 
+### Exam Proctoring
+Take your exam at the Library! Make arrangements with your school then contact the [Reference librarians](mailto:askus@darienlibrary.org "Email Sally") to schedule your exam. Tests are administered on the Second Level by the Reference Desk Staff. Proctoring services are available to Darien residents, those who work full-time in Darien, and Friends at the $300 level. 
+
 <br />
 <br />
 
