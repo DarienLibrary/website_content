@@ -1,20 +1,20 @@
 <div class="row">
 <div class="col-md-8">
 
-### Current Exhibit: Ella Moore
+### Current Exhibit: Lori DuBois-Caruso
 
-**Thursday, July 7th through Saturday, July 16th**
-
-Ella Moore is the winner of this year's Ginny Wright Scholarship and Award. 
+**Monday, July 18th through Saturday, September 6th**
 <br />
 <br />
 
-#### About the artist
-My name is Ella Moore and I recently graduated Darien High School. Throughout my high school career I transitioned from being afraid to make a mark on a piece of paper to doing oil paintings on huge canvases. Through this experience I have learnt a lot about myself as an artist.
+#### About the Artist
+Born into a culture of artists, in New York, art was the fabric of her family. She went on to study Business and Marketing at Dominican College in NY. After a successful career in marketing and graphic design at Sony, she rekindled her passion for art and returned to her painting roots. This reunion brought new direction for her life's work and next chapter. Today is her focus is creating soothing art to enhance the power of healing and relaxation. 
 
-I have loved to paint, draw, and design for as long as I can remember. I loved to tell stories with my artwork by capturing a passing moment or utilizing expression to convey an atmosphere. I tried to draw upon this life long fascination the past academic year in my AP Studio Art class. My concentration explored how shadows can manipulate portraiture and the human form and an overall atmosphere within a painting. While I delved into this concentration I began to develop an individual voice and passion for my artwork. I like to bring in expressive mark making and texture to my pieces along with dynamic compositions and provocative subjects in an effort to use my artwork as a platform to connect and empathize with others.
+Her fine-art collection of acrylic abstracts, seascapes, and landscapes are inspired by the magnetism of water, the beauty of nature, and the ever-changing skyline. Her style and color spectrums are spontaneous and reflect passion for the freedom of creative response. Lori stated, "I never know which direction the painting will take until it begins to take form and assume personality." Within each work, the intent is to engage emotion, curiosity, and perspective.
 
-I was honored to receive this year’s Ginny Wright Scholarship and Award. It means so much for me to have my artwork recognized and respected by so many. I’m excited to continue growing in confidence and in my skills as I continue my education at Rhode Island School of Design.
+Her award-winning works have been exhibited at the Memorial Sloan Kettering Cancer Center, NY; The Greens at Cannondale, Wilton, CT; Greenwich Flinn Gallery; Greenwich Bendheim Gallery; Stamford Art Association; Stamford Ferguson Library; Stamford Loft Artists Gallery, NY; Mattatuck Museum; Darien/Rowayton Bank; Art Society of Old Greenwich; Pequot Library; Carriage Barn Arts Center; Ridgefield Guild of Artists; Darien Arts Center; Saint Aloysius Parish, New Canaan; New Rochelle Art Association; and the NYC Architectural Digest Home Design Show.
+
+As a Connecticut resident, she enjoys the coastal backdrop of New England. Her work is featured in local venues and private collections. [Visit Her Website](http://www.camelotart.com "Visit Her Website")
 <br />
 <br />
 
@@ -28,7 +28,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/ella_moore_art.jpg" alt="Artwork of Ella Moore" />
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/lori_duBois-Caruso_art.jpg" alt="Artwork of Lori DuBois-Caruso" />
 
 </div>
 </div>
