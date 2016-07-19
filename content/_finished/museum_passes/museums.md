@@ -28,7 +28,11 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 
 ### Featured Museum
 
-The [Museum of Modern Art](http://www.libraryinsight.net/mpCalendar.asp?t=3604649&jx=dap&pInstitution=Museum%20of%20Modern%20Art&mps=2503 "MoMA") is currently hosting _Edgar Degas: A Strange New Beauty_. More than 100 rarely seen monotypes &#8212; along with some fifty related paintings, drawings, pastels, sketchbooks, and prints &#8212; show Degas at his most experimental. The show runs through July 24th.
+The [Bruce Museum](https://brucemuseum.org/site/exhibitions_detail/electric-paris "Bruce Museum") is currently hosting Electric Paris. Paris had been known as the _City of Light_ long before the widespread use of gaslight and electricity. The name arose during the Enlightenment, when philosophers made Paris a center of ideas and of metaphorical illumination. 
+
+By the mid-nineteenth century, the epithet became associated with the city’s adoption of artificial lighting. Light remains to this day a key signature of the French capital. Electric Paris will feature approximately 50 works––paintings, prints, photographs, and drawings––by such artists as Edgar Degas, Mary Cassatt, Pierre Bonnard, Édouard Vuillard, Henri de Toulouse-Lautrec, Charles Marville, Jean Béraud, James Tissot, Childe Hassam, Charles Courtney Curran, Alfred Maurer, and Maurice Prendergast, among others. 
+
+The exhibit will run through September 4th.
 
 
 </div>
