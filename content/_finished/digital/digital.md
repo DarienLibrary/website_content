@@ -40,7 +40,8 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <i class="fa fa-tablet fa-5x" aria-hidden="true"></i>
 
 ### e-Books
-[Read e-Books](/catalog/search/keyword?search=%2A&formats=ebook "e-Books")
+[Read e-Books](/catalog/search/keyword?search=%2A&formats=ebook "e-Books")<br />
+[Get Kindle e-Books](/kindle "Get Kindle e-Books")
 
 <div class="margin-bottom-10"></div>    
 </div>
@@ -104,7 +105,8 @@ Download the OverDrive app to your mobile device from the Apple or Android app s
 * e-Audiobooks
 
 [OverDrive computer app](http://app.overdrive.com/ "OverDrive")<br />
-[Get OverDrive Help](http://help.overdrive.com/ "OverDrive help")
+[Get OverDrive Help](http://help.overdrive.com/ "OverDrive help")<br />
+[Read Kindle e-Books](/kindle "Kindle e-Books")
 
 
 </div>
