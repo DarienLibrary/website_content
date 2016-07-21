@@ -3,9 +3,9 @@
 <div class="col-md-6">
 
 ### Choose OverDrive e-Books
-When choosing which e-Book provider to use for your Kindle e-Reader, choose **OverDrive**. Select **Checkout** then head over to your [OverDrive account](https://darien.libraryreserve.com/10/50/en/SignIn.htm?URL=MyAccount%2ehtm%3fPerPage%3d40 "OverDrive account"). You need to use a computer to finish your download through Amazon. If you have a Kindle Fire, you can download books directly to your device. Read the Kindle Fire section below for more information.
+When selecting which e-Book provider to use for your Kindle e-Reader, choose **OverDrive**. Select **Checkout** then head over to your [OverDrive account](https://darien.libraryreserve.com/10/50/en/SignIn.htm?URL=MyAccount%2ehtm%3fPerPage%3d40 "OverDrive account"). You need to use a computer to finish your download through Amazon. If you have a Kindle Fire, you can download books directly to your device. Read the Kindle Fire section below for more information. Kindles need to be connected to Wi-Fi to download OverDrive e-Books.
 
-Please note that not all OverDrive e-Books are for Kindles. [Search for only Kindle e-Books](http://digital.darienlibrary.org/605067DB-8FAB-4350-951E-646C9A1E7D08/10/50/en/SearchResults.htm?SearchID=42850402s&SortBy=Relevancy "Search only for Kindle e-Books").
+Please note that not all OverDrive e-Books are for Kindles. [Search for only Kindle e-Books](http://digital.darienlibrary.org/605067DB-8FAB-4350-951E-646C9A1E7D08/10/50/en/AdvancedSearch.htm "Search only for Kindle e-Books") by changing **All Formats** to **Kindle Book** then clicking **Search**.
 
 Did you run into an error? Check out the help section on this page.
 <br />
@@ -19,7 +19,7 @@ If you are not already signed into your Amazon account, do so now. You will see 
 <br />
 
 ### Kindle Fire
-You may download Kindle e-Books directly to your device without using a computer. Simply download the OverDrive app then create an OverDrive account. This account is different from your Library one. It will allow your reading progress and bookmarks to be synced to any other device you have the OverDrive app on (e.g. tablet or smartphone). [More help](http://help.overdrive.com/customer/portal/articles/1481257-getting-started-with-kindle-fire-devices "More help").
+Download the OverDrive app then create an OverDrive account. This account is different from your Library one. It will allow your reading progress and bookmarks to be synced to any other device you have the OverDrive app on (e.g. tablet or smartphone). [More help](http://help.overdrive.com/customer/portal/articles/1481257-getting-started-with-kindle-fire-devices "More help").
 
 In the OverDrive app, search for Darien Library. Tap on the star to favorite the Library. Then you can browse for books or search for a specific title. 
 
