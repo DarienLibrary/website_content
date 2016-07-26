@@ -49,22 +49,10 @@ ARE YOUR STAFF PICKS MANDATORY?
 - What is the quality of writing?
 - Proofread or to not proofread?
 
-</div>
-</div>
-</div>
+<br />
+<br />
 
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Two" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Book Face Friday
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Two">
-<div class="panel-body">
-
+### Book Face Friday
 (secondary to the book itself)
 
 - Library Aware (terrible interface) BUT pulls info +covers very easily
@@ -124,22 +112,10 @@ Book Face Friday
 
 - Staff meetings -- staff talk about books they read
 
-</div>
-</div>
-</div>
+<br />
+<br />
 
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Three" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Book Discussions on Websites
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Three">
-<div class="panel-body">
-
+### Book Discussions on Websites
 - How much is too much?
 
 - Link to Goodreads- people are checking out books but not participating +viewing page
@@ -148,22 +124,10 @@ Book Discussions on Websites
 
 - Start in-person then move online? -- these people need to be comfortable online
 
-</div>
-</div>
-</div>
+<br />
+<br />
 
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Four" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Programming by the Library
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Four">
-<div class="panel-body">
-
+### Programming by the Library
 - When people don’t know it’s from the library
 
 - ohLibrary as rental space/venue, use Meet up!!
@@ -185,7 +149,7 @@ Programming by the Library
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-Five" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Book Club RA
+Book Groups and RA
 </a>
 </h4>
 </div>
@@ -209,7 +173,7 @@ Book Club RA
 
 #### How do you outreach to local book groups?
 
-- Darien has ___ registered bookgroups, w/ calendar of reading list. Use eNewsletter ,video to  broadcast, book buzz
+- Darien has ___ registered bookgroups, w/ calendar of reading list. Use eNewsletter, video to  broadcast, Book Buzz
 
 - October is book group month
 
@@ -309,36 +273,8 @@ Book Club RA
 <div class="panel panel-default">
 <div class="panel-heading">
 <h4 class="panel-title">
-<a href="#collapse-Six" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Audiobook for car ride? 
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Six">
-<div class="panel-body">
-
-- Ask length of trip
-
-- Audiofile magazine
-
-- If going on a trip-book about that place
-
-- [Audible.com](http://audible.com "Audible") –- will give a list of all the books the reader has read (narrator)
-
-- Staff intranet-staff write reviews there
-
-- Ask patrons how they felt about the book when they are returning it
-
-</div>
-</div>
-</div>
-
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
 <a href="#collapse-Seven" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Display +Merchandising
+Display and Merchandising
 </a>
 </h4>
 </div>
@@ -367,21 +303,10 @@ Display +Merchandising
 
 - Recently returned
 
-</div>
-</div>
-</div>
+<br />
+<br />
 
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Eight" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-In Stacks Display
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Eight">
-<div class="panel-body">
-
+### In Stacks Display
 - 8 ½ X 11 in stacks of read-alike authors
 
 - Mailing labels on books (removable)
@@ -416,21 +341,10 @@ In Stacks Display
 
 - “What’s available (in library) is what’s being published”
 
-</div>
-</div>
-</div>
+<br />
+<br />
 
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Nine" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Promoting Digital Collections
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Nine">
-<div class="panel-body">
-
+### Promoting Digital Collections
 - [Hoopla](http://hoopladigital.com "Hoopla") wall, QR codes imprinted movie covers
 
 - Bookmarks from vendor
@@ -448,7 +362,7 @@ Promoting Digital Collections
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-Ten" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Partnerships
+Outreach and Embedded RA
 </a>
 </h4>
 </div>
@@ -491,7 +405,7 @@ Partnerships
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-Eleven" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Social Media
+Social Media and RA
 </a>
 </h4>
 </div>
@@ -574,7 +488,7 @@ Social Media
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-Tweleve" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Format
+Tricks for the RA Interview
 </a>
 </h4>
 </div>
@@ -631,6 +545,21 @@ Format
 
 - How much time do you have?
 
+<br />
+<br />
+
+### Audiobooks for the Car Ride
+- Ask length of trip
+
+- Audiofile magazine
+
+- If going on a trip-book about that place
+
+- [Audible.com](http://audible.com "Audible") –- will give a list of all the books the reader has read (narrator)
+
+- Staff intranet-staff write reviews there
+
+- Ask patrons how they felt about the book when they are returning it
 
 </div>
 </div>
