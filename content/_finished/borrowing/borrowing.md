@@ -133,7 +133,7 @@ Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](
 			<td>
 				Children's Playaway Views</td>
 			<td>
-				7 days</td>
+				21 days</td>
 			<td>
 				Yes</td>
 			<td>
