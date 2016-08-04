@@ -4,11 +4,8 @@
 <br />
 <br />
 
-### [Full-Time Children’s Librarian](/jobs-childrens-librarian "Full-Time Children’s Librarian")
-
-Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join an incredibly dedicated Children’s Department as a full-time Children’s Librarian. This librarian will serve as the Early Literacy Outreach Coordinator for the department, planning and facilitating programs that support Early Literacy and Kindergarten Readiness.
-
-The highly-motivated candidate will have a passion for public service, knowledge of children’s literature, experience working with youth, and a desire to thrive in a fast-paced environment.
+### [Full-Time Readers' Advisor](/jobs-RA "Full-Time Readers' Advisor")
+Darien Library is actively seeking an enthusiastic, collegial, and motivated candidate to join our dynamic Reader Services department full-time. The successful candidate will have a strong focus on customer service, a love of books and reading, and the ability to work collaboratively in a fast-paced, friendly environment. This position reports to the Head of Welcome Desk.
 <br />
 <br />
 
