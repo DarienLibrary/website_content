@@ -4,20 +4,16 @@
 <br />
 <br />
 
-### [Full-Time Readers' Advisor](/jobs-RA "Full-Time Readers' Advisor")
-Darien Library is actively seeking an enthusiastic, collegial, and motivated candidate to join our dynamic Reader Services department full-time. The successful candidate will have a strong focus on customer service, a love of books and reading, and the ability to work collaboratively in a fast-paced, friendly environment. This position reports to the Head of Welcome Desk.
-<br />
-<br />
-
 ### [Passport Acceptance Agent](/jobs-passport-agent "Passport Acceptance Agent")
 
 To expand ongoing Passport Services, Darien Library is seeking a part-time Passport Acceptance Agent to assist in reviewing and intake of documents, forms, and identification related to completing passport applications. Candidates must be detail-oriented, focused, and the friendliest people in their circles!
 <br />
 <br />
 
-### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
+### [Senior Technology Assistant](/jobs-senior-tech "Senior Technology Assistant")
 
-Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users.
+While all our Technology Assistants help our patrons to fully utilize the Library’s technological services, the Senior Technology Assistant is additionally responsible for much more. As so many of the responsibilities of the Senior Technology Assistant require understanding the duties of the other Technology Assistants, it is essential that this position include regular shifts of Help Desk customer service.
+
 <br />
 <br />
 

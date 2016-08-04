@@ -7,8 +7,11 @@ Use of Darien Library's internet connection for illegal, inappropriate, or obsce
 Materials obtained or copied on the internet may be subject to copyright laws which govern the making of reproductions of copyrighted works.
 
 Library patrons use the public computers and the internet at their own risk.
+
+Computer guest passes are available upon request and are valid for 1 day. A photo ID must be provided in order to receive a guest pass.
 <br />
 <br />
+
 <h4><i class="fa fa-chevron-right"></i> Internet Usage Guidelines</h4>
 
 * Internet users may log in to an internet workstation using their library barcode. A limited number of guest passes are available at the information desks.

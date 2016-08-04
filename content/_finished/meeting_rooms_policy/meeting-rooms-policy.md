@@ -23,7 +23,7 @@ The following Rooms are available for reservation in advance by Darien residents
 Rooms are booked in two-hour slots. Rooms are held for 15 minutes after reservation begins and may be forfeited after that time.
 
 <div class="row margin-bottom-10">
-<div class="col-md-4">
+<div class="col-md-5">
 
 #### When
 <table class="table table-striped">
