@@ -12,7 +12,7 @@ To expand ongoing Passport Services, Darien Library is seeking a part-time Passp
 
 ### [Senior Technology Assistant](/jobs-senior-tech "Senior Technology Assistant")
 
-While all our Technology Assistants help our patrons to fully utilize the Library’s technological services, the Senior Technology Assistant is additionally responsible for much more. As so many of the responsibilities of the Senior Technology Assistant require understanding the duties of the other Technology Assistants, it is essential that this position include regular shifts of Help Desk customer service.
+While all our Technology Assistants help our patrons to fully utilize the Library’s technological services, the Senior Technology Assistant additionally works within the Users Experience department to provide technology assistance to the Library staff. Candidates must be able to problem solve and communicate effectively.  
 
 <br />
 <br />
