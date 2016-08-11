@@ -11,9 +11,15 @@ Daily issues of the <em>Wall Street Journal</em> and <em>The New York Times</em>
 </div>
 <div class="col-md-4">
 
-### Online Access
-Enjoy online access to 30+ downloadable magazines. Simply create a new account using your Darien Library card number. You can read magazines on your computer or download the <em>Zinio for Libraries</em> app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://www.rbdigital.com/darienct/service/zinio/landing? "Online magazines") to select your next magazine and not Zinio.com. 
+### Zinio
 
+[View the Zinio Catalog](https://www.rbdigital.com/darienct/service/zinio/landing? "Zinio")
+
+Enjoy online access to 30+ downloadable magazines. You can read magazines on your computer or download the _Zinio for Libraries_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://www.rbdigital.com/darienct/service/zinio/landing? "Online magazines") to select your next magazine and not Zinio.com.
+
+<br />
+
+### Articles Search
 Over 1,400 current and historical newspapers are available through our [online databases](/research/category/magazines-and-newspapers "Magazines and Newspapers databases"). <em>Consumer Reports</em>, <em>Cook's Illustrated</em>, <em>The Economist</em>, <em>New York Times Historical</em>, and <em>The Wall Street Journal</em> are just a few of the titles you can access using your Darien Library card.
 
 </div>
