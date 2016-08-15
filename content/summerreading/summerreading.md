@@ -149,21 +149,6 @@ Each week, a new Quest can be completed on the Library’s website or in person 
 <br />
 <br />
 
-<img class="center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_medal.jpg" alt="Medal" title="Simply the best." />
-<br />
-<br />
-
-<div style="background-color:#f7c64d; padding:6px;">
-
-### Your Weekly Quest 
-Correctly unscramble the names of these Greek, Roman, Norse, and Egyptian gods and send your foes to the Underworld!</div>
-<br />
-
-<p>
-<a href="https://dlchildrenslibrary.wufoo.com/forms/digital-demigods-quest-week-5/" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Accept Your Quest</a>
-</p>
-<br />
-
 <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_hermes.jpg" alt="Hermes' " title="Hermes, god of 'I'll steal your stuff and bless your house guests.' " />
 
 </div>
@@ -179,48 +164,16 @@ Correctly unscramble the names of these Greek, Roman, Norse, and Egyptian gods a
 <div class="row">
 <div class="col-md-8">
 
-<div style="background-color:#78d0e7; padding:6px;">
+<div style="background-color:#ffd776; padding:6px;">
 
-### Registration Raffle
-
-If you register for Summer Reading between June 6th and June 16th, you will be entered into this special raffle for a BB-8™ robot. We’ll draw a winner on Friday, June 17th at 5:30 p.m. 
-<br />
-<br />
-
-When you sign up, you receive a free book! Just visit the Children's Library (also known as Mount Olympus) to receive it.
-
+### Finale Party
+Join us on Thursday, August 18th for the Olympic Reading Challenge Finale Party. Registration is limited, so [sign up now](/event/32 "Sign up now")!
 </div>
+
 <br />
 <br />
 
 <img class="center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_medusa_ipad.jpg" alt="Medusa on an iPad" title="Winner of Best Hair 3,000 years running" />
-<br />
-<br />
-
-<div style="background-color:#8ebfb9; padding:6px;">
-
-### Summer Events
-Join us for a variety of educational and fun programs this summer. We offer a mix of open drop-in programs like storytimes, book groups, and special programs in the Community Room. 
-
-Come back to this page to register for programs: 
-
-* June 13th for July events
-* July 18th for August events
-
-</div> 
-<br />
-
-<p>
-<a href="https://www.darienlibrary.org/tag?search=Summer+Reading&filter=Event" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">View all Events</a>
-</p>
-<br />
-
-<div style="background-color:#ffd776; padding:6px;">
-
-### Finale Party
-Save the date! We will celebrate the end of Darien Olympians in August. 
-
-</div>
 <br />
 <br />
 
