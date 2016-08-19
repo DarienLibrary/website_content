@@ -4,6 +4,9 @@
 
 NYC and Connecticut are home to some of the greatest museums in the country. Renaissance masterpieces, visionary modern art, and celebrations of great historical figures are an easy train or car ride away. As part of our continuing dedication to enriching the lives of our patrons, Darien Library is pleased to provide a variety of museum passes that will engage, excite, and inform you in a cultural learning experience.
 
+<br />
+<br />
+
 ### To Check Out a Library Pass
 * You need to live in Darien, work full-time in Darien, or be a Friend at the $300 level
 * Passes may be picked up after 3 p.m. the day before your museum visit and then returned by 10 a.m. the day after. They are not renewable. 
@@ -28,12 +31,7 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 
 ### Featured Museum
 
-The [Bruce Museum](https://brucemuseum.org/site/exhibitions_detail/electric-paris "Bruce Museum") is currently hosting Electric Paris. Paris had been known as the _City of Light_ long before the widespread use of gaslight and electricity. The name arose during the Enlightenment, when philosophers made Paris a center of ideas and of metaphorical illumination. 
-
-By the mid-nineteenth century, the epithet became associated with the city’s adoption of artificial lighting. Light remains to this day a key signature of the French capital. Electric Paris will feature approximately 50 works––paintings, prints, photographs, and drawings––by such artists as Edgar Degas, Mary Cassatt, Pierre Bonnard, Édouard Vuillard, Henri de Toulouse-Lautrec, Charles Marville, Jean Béraud, James Tissot, Childe Hassam, Charles Courtney Curran, Alfred Maurer, and Maurice Prendergast, among others. 
-
-The exhibit will run through September 4th.
-
+The [New York Historical Society](http://www.nyhistory.org/exhibitions/picassos-le-tricorne "New York Historical Society") has a newly acquired and conserved Picasso in the exhibition Picasso's "Le Tricorne." It is the first work by Picasso to enter New-York Historical's collection. Pablo Picasso painted the stage curtain for the two-act ballet The Three-Cornered Hat (El sombrero de tres picos or Le tricorne). The ballet and curtain were commissioned by the impresario Sergei Diaghilev for his avant-garde, Paris-based Ballets Russes. The ballet was choreographed by Léonide Massine with music by the Spanish composer Manuel de Falla. It premiered on July 22, 1919, at the Alhambra Theatre in London with sets, costume designs, and the monumental stage curtain created by Picasso. [Watch](http://p.nyhsvod.newyorkhistorica.netdna-cdn.com/vod/nyhsvod.newyorkhistorica/video/picasso.mp4 "Watch") the installation of the curtain.
 
 </div>
 </div>
