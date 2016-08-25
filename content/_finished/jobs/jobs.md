@@ -4,6 +4,12 @@
 <br />
 <br />
 
+### [Full-Time Teen Librarian](/jobs-teen-librarian "Full-Time Teen Librarian")
+
+Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join an incredibly dedicated Children’s and Teen Department as a full-time librarian. The highly-motivated candidate will have a passion for hospitality, experience working with youth, a love of young adult literature, and a desire to thrive in a fast-paced environment. 
+<br />
+<br />
+
 ### [Passport Acceptance Agent](/jobs-passport-agent "Passport Acceptance Agent")
 
 To expand ongoing Passport Services, Darien Library is seeking a part-time Passport Acceptance Agent to assist in reviewing and intake of documents, forms, and identification related to completing passport applications. Candidates must be detail-oriented, focused, and the friendliest people in their circles!
