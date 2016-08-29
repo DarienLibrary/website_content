@@ -10,6 +10,12 @@ Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to j
 <br />
 <br />
 
+### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
+
+Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users.
+<br />
+<br />
+
 ### [Passport Acceptance Agent](/jobs-passport-agent "Passport Acceptance Agent")
 
 To expand ongoing Passport Services, Darien Library is seeking a part-time Passport Acceptance Agent to assist in reviewing and intake of documents, forms, and identification related to completing passport applications. Candidates must be detail-oriented, focused, and the friendliest people in their circles!
