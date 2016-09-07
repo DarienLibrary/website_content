@@ -48,7 +48,7 @@ Amanda is always an artist first, everything else second. She remembers attempti
 <div class="col-md-4">
 
 
-<img src="/uploads/staff_photos/moore_c_edit.jpg"  class="img-circle img-responsive" alt="Artwork of Claire Moore">
+<img src="/uploads/departments/art_on_view/art_claire_moore.jpg"  class="img-circle img-responsive" alt="Artwork of Claire Moore">
 
 ### Claire Moore
 Claire Moore studied art all throughout high school and won the Student Art Medal. this piece was one of her final projects. 
@@ -92,7 +92,7 @@ Lois has absolutely no artistic training but loves to photograph the beauty in h
 </div>
 
 <div class="col-md-4">
-<img src="/uploads/staff_photos/magallanes_me2.jpg" class="img-circle img-responsive" alt="Artwork of Maria Esther Magallanes">
+<img src="/uploads/departments/art_on_view/art_maria_esther_magalanes.jpg" class="img-circle img-responsive" alt="Artwork of Maria Esther Magallanes">
 
 ### Maria Esther Magallanes
 Maria Esther Magallanes was born and raised in Mexico City and has lived in Darien since the early 2000s. She has been an artist for more than 25 years, having started painting when she was in college. She has exhibited her work and has clients in many parts of the world. A mother of two, she loves spending time with her family and three dogs. 
@@ -102,7 +102,7 @@ Maria Esther Magallanes was born and raised in Mexico City and has lived in Dari
 </div> 
 
 <div class="col-md-4">
-<img src="/uploads/staff_photos/bothe_t.jpg" class="img-circle img-responsive" alt="Artwork of Tina Bothe">
+<img src="/uploads/departments/art_on_view/art_tina_bothe.jpg" class="img-circle img-responsive" alt="Artwork of Tina Bothe">
 
 ### Tina Bothe
 Studied at Penn State and Silvermine Arts Center.
