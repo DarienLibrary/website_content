@@ -68,7 +68,7 @@ Jen learned needlepoint from her grandmother at the age of 8 and has been an ent
 </div>
 
 <div class="col-md-4">
-<img src="/uploads/staff_photos/cavers_l_edit.jpg" class="img-circle img-responsive" alt="Artwork of L. Woodward Cavers">
+<img src="/uploads/departments/art_on_view/art_laura_cavers.jpg" class="img-circle img-responsive" alt="Artwork of L. Woodward Cavers">
 
 ### L. Woodward Cavers
 Laura received her MFA in Creative Writing from Manhattanville College and is currently finishing her novel, <em>Bellwethers</em>. She teaches writing classes at the Darien Library and the Darien Community Association.
