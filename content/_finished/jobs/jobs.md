@@ -1,12 +1,6 @@
 <div class="row margin-bottom-30">
 <div class="col-md-6">
-	Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it on this page. 
-<br />
-<br />
-
-### [Full-Time Teen Librarian](/jobs-teen-librarian "Full-Time Teen Librarian")
-
-Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join an incredibly dedicated Children’s and Teen Department as a full-time librarian. The highly-motivated candidate will have a passion for hospitality, experience working with youth, a love of young adult literature, and a desire to thrive in a fast-paced environment. 
+	Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. 
 <br />
 <br />
 
