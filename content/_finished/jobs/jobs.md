@@ -10,13 +10,6 @@ Darien Library is seeking a friendly, energetic, dedicated individual with excel
 <br />
 <br />
 
-### [Senior Technology Assistant](/jobs-senior-tech "Senior Technology Assistant")
-
-While all our Technology Assistants help our patrons to fully utilize the Library’s technological services, the Senior Technology Assistant additionally works within the Users Experience department to provide technology assistance to the Library staff. Candidates must be able to problem solve and communicate effectively.  
-
-<br />
-<br />
-
 </div>
 <div class="col-md-6">
 

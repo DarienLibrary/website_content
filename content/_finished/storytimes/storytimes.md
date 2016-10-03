@@ -4,7 +4,7 @@
 ### Ages
 Storytimes are for babies, toddlers, and children up to age 5. The Children's Library offers [other programs](/events/kids "Programs for older children") for children up to age 12.
 
-**Registration for registered programs is currently closed.**
+**Registration: Monday, 10/3 — Monday, 10/17**
 <br />
 <br />
 
@@ -14,7 +14,8 @@ Registered storytimes are offered in the Fall, Winter and Spring seasons. All Su
 <br />
 
 ### How to Register
-Parents/caregivers may register online during the specified registration period. **Registration is currently closed.** Each child can participate in one registered program per session. **Registration is a lottery.** Register your infants and 1-year-olds based on their ability to walk. Register children ages 2 and up based on their age. Registered storytimes are for children whose parents are Darien residents, employed full-time in Darien, or [Friends of Darien Library](/friends "Friends of Darien Library") who contribute annually at the $300 level. Parents will need a Library card to register.<br />
+Parents/caregivers may register online during the specified registration period.Each child can participate in one registered program per session. **Registration is a lottery.** Register your infants and 1-year-olds based on their ability to walk. Register children ages 2 and up based on their age. Registered storytimes are for children whose parents are Darien residents, employed full-time in Darien, or [Friends of Darien Library](/friends "Friends of Darien Library") who contribute annually at the $300 level. Parents will need a Library card to register.
+
 Please only register for one class per session.
 <br />
 <br />
@@ -29,38 +30,42 @@ Sign up for our weekly early literacy texts to get easy tips sent right to your 
 
 ### Registered Programs
 
-**Giggles and Rhymes**<br />
+**[Giggles and Rhymes](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
 Pre-walking babies and a parent/caregiver. Join us for fingerplays, songs, rhymes, and movement.<br />
 _Wednesdays 11:15 to 11:45 a.m._
 
-**Born to Read**<br />
-Walkers (up to 24 months) and a parent/caregiver. This fast-paced storytime for lively toddlers includes books, songs, fingerplays, and movement.<br />
-_Mondays 10:30 to 11 a.m. OR Tuesdays 9:30 to 10 a.m._
+**[Baby Sign](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
+Lapsit up to 24 months and parent/caregiver. Learn how to communicate non-verbally with your little one using rhymes, songs and stories.<br />
+_Mondays 9:30 to 10:00 a.m._
 
-**Creative Music for Children**<br />
+**[Born to Read](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
+Walkers (up to 24 months) and a parent/caregiver. This fast-paced storytime for lively toddlers includes books, songs, fingerplays, and movement.<br />
+_Tuesdays 9:30 to 10 a.m. OR Wednesdays 10:30 to 11 a.m._
+
+**[Creative Music for Children](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
 Walkers (up to 3 years old ) with a parent/caregiver. Miss Debbie will engage children through music and instrument play.<br />
 _Fridays 10:30 to 11 a.m. OR Fridays 11:15 to 11:45 a.m._
 
-**Side by Side**<br />
+**[Side by Side](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
 2-year-olds and 3-year-olds with a parent/caregiver. This introduction to storytime features books, rhymes, and movement activities.<br />
-_Mondays 11:15 to 11:45 a.m.  OR Thursdays 11:15 to 11:45 a.m._
+_Mondays 11:15 to 11:45 a.m. OR Thursdays 11:15 to 11:45 a.m._
 
-**All Together Now**<br />
+**[All Together Now](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
 0-5 years old and a parent/caregiver.
-Bring all your kids, from little to bigger, to sit together at this storytime.<br />
-_Monday 9:30 to 10 a.m. OR Tuesday 10:30 to 11 a.m._
+Bring all your kids to sit together at this sibling storytime.<br />
+_Monday 10:30 to 11 a.m. OR Tuesday 10:30 to 11 a.m._
 
-**Young Yogis**<br />
+**[Libros y Cuentos](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
+2-year-olds to 3-year-olds and a parent/caregiver. This bilingual storytime introduces children to Spanish vocabulary, books, rhymes, and songs.<br />
+Tuesdays 11:15 to 11:45 a.m.
+
+**[Young Yogis](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
 3-year-olds to 5-year-olds. Relax.Refresh.Regroup. Your little Yoginis will be introduced to Yoga movement and a story.<br />
 _Mondays 1:30 to 2 p.m._
 
-**Totally Preschool**<br />
-4-year-olds and 5-year  olds. Join us for stories, act-outs and songs.<br />
+**[STEAM Storytime](https://dlchildrenslibrary.wufoo.com/forms/peu7zkh18qoizv/)**<br />
+4-year-olds to 5-year-olds.  Join us for stories, STEAM (Science, Technology, Engineering, Art, and Math) concepts, and hands-on activities.<br />
 _Fridays 9:30 to 10 a.m._
-
-**Preschool Art Party**<br />
-3-year-olds to 5-year-olds.  Explore art concepts through a picture book lens, with a fun art creation session following.<br />
-_Tuesday 1:30 to 2 p.m._
 <br />
 <br />
 
@@ -68,11 +73,6 @@ _Tuesday 1:30 to 2 p.m._
 <div class="col-md-4">
 
 ### Drop-In Programs
-
-**Stories by the Sea (September Only)**<br />
-A family storytime for all ages at Darien's Weed Beach Park. This program is co-sponsored by Darien Parks and Recreation department. *Attendees are required to have a beach sticker for beach access<br />
-_Tuesdays 10:30 to 11:00 a.m._<br />
-_September 6, 13, 20, and 27_
 
 **Toddler Tales** on _Wednesdays at 9:30 a.m._<br />
 Walkers (up to 36 months) and a parent/caregiver. This fast-paced storytime for lively toddlers includes books, songs, fingerplays, and movement.
@@ -84,13 +84,8 @@ Pre-walking babies and a parent/caregiver. Join us for fingerplays, songs, and b
 Ages 4 to 7 and a parent/caregiver.
 Listen to a picture book, and then make art based on the ideas or themes in the book.
 
-**Picnic in the Park (September Only)**<br />
-All ages with a parent/caregiver. Bring your lunch and join us at Tilley Pond Park for a storytime among the fall foliage.<br />
-_Thursdays 1:00 to 1:30 p.m._<br />
-_September 1,8 15, 22 and 29_
-
 **Storytime Saturdays** on _Saturdays at 11:00 a.m._<br />
-Walkers (up to 36 months) and a parent/caregiver. This weekend storytime for families will include some of our favorite books, rhymes, songs and fingerplays. _September 3 and October 1_
+Walkers (up to 36 months) and a parent/caregiver. This weekend storytime for families will include some of our favorite books, rhymes, songs and fingerplays. _October 1, November 5, and December 3_
 
 </div>
 </div>
