@@ -3,9 +3,9 @@
 <div class="col-md-10 margin-bottom-30">
 Cost: $5 per player, each player will also receive a free hot dog
 
-Miniature golf is coming to the Library! We are happy to announce the third annual Darien Library Mini Golf Event. Players of all ages will putt their way through the Library on an 18-hole miniature golf course with the course set up throughout the building. You can also enjoy face painting, corn hole, crafts and other activities.
+Miniature golf is coming to the Library! We are happy to announce the third annual Darien Library Mini Golf Event. Players of all ages will putt their way through the Library on an 18-hole miniature golf course with the course set up throughout the building. You can also enjoy face painting and other activities.
 
-This event is organized by the Darien Board of Trustees Fundraising Committee: Tara Ochman (Chair), Sara Franzese, Kerrie Kelley and Susan Weaver.
+This event is organized by the Darien Board of Trustees Fundraising Committee: Alexandra Eising, Tara Ochman, Tammy Sload and Susan Weaver.
 
 All proceeds from Darien Library Mini Golf will go directly to the purchase of books, movies, and technology as well as the support of countless programming opportunities throughout the year. 
 Holes are being sponsored by generous businesses and individuals.
@@ -65,7 +65,7 @@ Holes are being sponsored by generous businesses and individuals.
 
 
 <div class="text-center margin-bottom-50">
-<h2 class="title-v2 title-center">Middle Sponsors</h2>
+<h2 class="title-v2 title-center">Hole Sponsors</h2>
 </div>
 
 <div class="row margin-bottom-30">
@@ -187,7 +187,7 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 
 <div class="text-center margin-bottom-50">
-<h2 class="title-v2 title-center">Lower Sponsors</h2>
+<h2 class="title-v2 title-center">Tee and Green Sponsors</h2>
 </div>
 
 <div class="row margin-bottom-30">
