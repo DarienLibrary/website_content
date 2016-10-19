@@ -5,7 +5,7 @@
 
 We have fifty public computers available throughout the Library. The computers are primarily on the Lower Level. You are guaranteed one hour session every day. Bring your laptop, tablet, or phone in to enjoy access to WiFi anywhere in the building. 
 
-[View the Libary Internet Use Policy](/internet-use "Library Internet Use Policy")
+[View the Library Internet Use Policy](/internet-use "Library Internet Use Policy")
 <br />
 <br />
 

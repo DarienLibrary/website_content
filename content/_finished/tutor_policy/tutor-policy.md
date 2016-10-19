@@ -3,7 +3,7 @@ Darien Library recognizes the benefit to the students and parents of the communi
 In order for Darien Library to assure that tutoring is in line with the Library's service to the community, the following is applicable to all tutoring with the Library: 
 <br />
 <br />
-<h4><i class="fa fa-chevron-right"></i> Internet Usage Guidelines</h4>
+<h4><i class="fa fa-chevron-right"></i> Tutor Guidelines</h4>
 
 * Either the tutor, or the client, or both, must be a resident of Darien.
 * All tutoring must take place in the Fiction section or by the Café on the First Floor of the Library, except by prior written agreement. Tutors are expected to restrict their use of space to an acceptable minimum, and observe all Library regulations. 
