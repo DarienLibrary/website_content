@@ -31,7 +31,9 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 
 ### Featured Museum
 
-The [New York Historical Society](http://www.nyhistory.org/exhibitions/picassos-le-tricorne "New York Historical Society") has a newly acquired and conserved Picasso in the exhibition Picasso's "Le Tricorne." It is the first work by Picasso to enter New-York Historical's collection. Pablo Picasso painted the stage curtain for the two-act ballet The Three-Cornered Hat (El sombrero de tres picos or Le tricorne). The ballet and curtain were commissioned by the impresario Sergei Diaghilev for his avant-garde, Paris-based Ballets Russes. The ballet was choreographed by Léonide Massine with music by the Spanish composer Manuel de Falla. It premiered on July 22, 1919, at the Alhambra Theatre in London with sets, costume designs, and the monumental stage curtain created by Picasso. [Watch](http://p.nyhsvod.newyorkhistorica.netdna-cdn.com/vod/nyhsvod.newyorkhistorica/video/picasso.mp4 "Watch") the installation of the curtain.
+The Cooper Hewitt Museum's new exhibit, [Scraps: Fashion, Textiles, and Creative Reuse](http://www.cooperhewitt.org/2016/04/19/cooper-hewitt-to-present-exhibition-on-textile-industry-innovations-this-fall/ "Scraps: Fashion, Textiles, and Creative Reuse") offers creative, alternative approaches to textile waste.The show presents the work of three designers whose work involves innovative and sophisticated reuse of textile materials and resources, while engaging in preservation of local craft traditions. Through more than forty works, the exhibition explores key facets of sustainability, such as the efficient use of materials and resources, the preservation of local craft traditions, and the integration of new technologies in the recycling process. 
+
+The exhibit runs till April 16, 2017.
 
 </div>
 </div>
