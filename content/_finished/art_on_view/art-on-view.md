@@ -1,124 +1,28 @@
-### Current Exhibit: Staff Art Show
+ <div class="row">
+ <div class="col-md-8">
 
-**Wednesday, September 7th to Tuesday, October 18th**
+### Current Exhibit: Pierre Gagnon
+
+**Wednesday, October 19 through Tuesday, November 29th**
+<br />
+<br />
+ 
+#### About the Artist
+Pierre Gagnon born in Paris, studied Art in the south of France, then move to New York City where he obtain a BFA, majoring in illustration and sculpture from Parson School of Design. Attended the Art Student League in New York City, and then work as a textile designer for 2 majors companies. 18 years ago he moved to Connecticut and opened with his wife The French store in Darien called Couleur Provence where his work is displayed. He was also a member of Silvermine Center for the Arts.
+<br />
+<br />
+ 
+### Pierre and His Art
+ 
+Achieving a sense of self through the process of painting, drawing and the visual arts alike is a task rarely found amongst the faint hearted. When we place emphasis on the process and discipline that are required of the Arts we pay homage to ourselves, the Art and the messages we were meant to convey. Some people associate me with darkness and my answer is, I need to look at the dialogue between light and dark. That explains my choices of topics which deal with the battles between angels and demons, rigidity and softness as well as architecture, portraits, all elements of emotion. I find many abandoned places and objects giving me a precarious sense of belonging where every phase of discoloration identifies the traces of time.
+
 <br />
 <br />
 
-<div class="text-center margin-bottom-50">
-  <h2 class="title-v2 title-center">About the Artists</h2>
 </div>
-
-<div class="row margin-bottom-10">
 <div class="col-md-4">
 
-<img src="/uploads/departments/art_on_view/art_abby_sesselberg.jpg" class="img-circle img-responsive" alt="Artwork of Abby Sesselberg">
-
-### Abby Sesselberg
-Abby recently re-discovered her life-long passion for photography. She had a darkroom as a teen, and always had her camera ready to go. With updated equipment and software, she's eager to tap into old knowledge, and learn the ways of modern photography.
-<br />
-<br />
-
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/pierre_gagnon_artwork.jpg" alt="Artwork of Pierre Gagnon" />
+ 
 </div>
-
-<div class="col-md-4">
-<img src="/uploads/departments/art_on_view/art_larissa_scott.jpg" class="img-circle img-responsive" alt="Artwork of Algae">
-
-### Algae 
-Larissa makes this junk in her spare time. She once ate four lobsters in one sitting and is only allowed outside during autumn. It means whatever you want it to mean. 
-
-<br />
-<br />
-
 </div>
-
-<div class="col-md-4">
-<img src="/uploads/departments/art_on_view/art_amanda_l_goodman.jpg" class="img-circle img-responsive" alt="Artwork of Amanda L. Goodman">
-
-### Amanda L. Goodman
-Amanda is always an artist first, everything else second. She remembers attempting to write as a toddler and now mostly draws for her and her muse's amusement. She has drawn 5,000 pictures in the last 14 years. 
-<br />
-<br />
-
-</div>
-
-</div>
-</div> 
-
-<div class="row margin-bottom-10">
-<div class="col-md-4">
-
-
-<img src="/uploads/departments/art_on_view/art_claire_moore.jpg"  class="img-circle img-responsive" alt="Artwork of Claire Moore">
-
-### Claire Moore
-Claire Moore studied art all throughout high school and won the Student Art Medal. this piece was one of her final projects. 
-<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-<img src="/uploads/departments/art_on_view/art_jen_dayton.jpg" class="img-circle img-responsive" alt="Artwork of Jennifer Dayton">
-
-### Jennifer Dayton
-Jen learned needlepoint from her grandmother at the age of 8 and has been an enthusiastic stitcher ever since.
-<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-<img src="/uploads/departments/art_on_view/art_laura_cavers.jpg" class="img-circle img-responsive" alt="Artwork of L. Woodward Cavers">
-
-### L. Woodward Cavers
-Laura received her MFA in Creative Writing from Manhattanville College and is currently finishing her novel, <em>Bellwethers</em>. She teaches writing classes at the Darien Library and the Darien Community Association.
-
-<br />
-<br />
-
-</div>
-
-</div> 
-
-<div class="row margin-bottom-10">
-<div class="col-md-4">
-<img src="/uploads/departments/art_on_view/art_lois_calka.jpg" class="img-circle img-responsive" alt="Artwork of Lois Calka">
-
-### Lois Calka
-Lois has absolutely no artistic training but loves to photograph the beauty in her garden.
-<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-<img src="/uploads/departments/art_on_view/art_maria_esther_magalanes.jpg" class="img-circle img-responsive" alt="Artwork of Maria Esther Magallanes">
-
-### Maria Esther Magallanes
-Maria Esther Magallanes was born and raised in Mexico City and has lived in Darien since the early 2000s. She has been an artist for more than 25 years, having started painting when she was in college. She has exhibited her work and has clients in many parts of the world. A mother of two, she loves spending time with her family and three dogs. 
-<br />
-<br />
-
-</div> 
-
-<div class="col-md-4">
-<img src="/uploads/departments/art_on_view/art_tina_bothe.jpg" class="img-circle img-responsive" alt="Artwork of Tina Bothe">
-
-### Tina Bothe
-Studied at Penn State and Silvermine Arts Center.
-<br />
-<br />
-
-</div>
-
-</div>
-
-<br />
-<br />
-
-### Apply to be an Artist on View 
-The Darien Library Art Gallery is located on the Lower Level. Throughout the year, local artists across all mediums display their work. 
-
-[Submit your artwork for consideration](/art-on-view-submission "Submit your artwork for consideration")
-<br />
-<br />
