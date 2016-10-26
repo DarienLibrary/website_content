@@ -44,13 +44,13 @@ James E. Steinthal
 <br />
 
 ### Honorary Trustees
-Anne Morrow Lindbergh (1906-2001)<br />
 Harold W. McGraw, Jr. (1918-2010)<br />
-Suzanne McGraw
+Anne Morrow Lindbergh (1906-2001)<br />
 Ann S. Mandel<br />
 Stephen F. Mandel (1931-2009)<br />
 Kimberly D. Huffard<br />
-George U. Wyper
+George U. Wyper<br />
+Suzanne McGraw
 
 </div>
 </div>
