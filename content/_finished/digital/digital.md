@@ -97,7 +97,7 @@ Download the Bibliotheca app to your mobile device from the Apple or Android app
  
 ### OverDrive 
 
-[View the OverDrive Catalog](http://digital.darienlibrary.org/ "OverDrive")
+[View the OverDrive Catalog](https://darien.overdrive.com/ "OverDrive")
 
 Download the OverDrive app to your mobile device from the Apple or Android app store. For Kindle owners, download your e-Books from the OverDrive collection.
 
