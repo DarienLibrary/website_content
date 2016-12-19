@@ -49,6 +49,10 @@ We are happy to work with you to create a volunteer position that will match you
 
 [Email Stephanie Anderson](mailto:sanderson@darienlibrary.org "Email Stephanie"), Assistant Director of Public Services. If you are inquiring about a specific volunteer position or schedule, please fill out the application form before emailing. Thanks!
 
+Volunteer applications are reviewed regularly, but it may take us 2-3 days to evaluate your application and investigate whether there are any opportunities that match with your interests and schedule. If you need an answer urgently, please fill out the application and email Stephanie to let her know. 
+
+Please note: almost all of our volunteer applications require a training period, and we ask our volunteers to commit to at least a few months of volunteering as a result, depending on the work. If you need to volunteer immediately, or to volunteer a large number of hours in a short timeframe, we might not be the best fit. If you haven’t already, please check out [VolunteerSquare](https://www.volunteersquare.com/ "Volunteer Square") &mdash; they have a lot of other amazing volunteer opportunities available!
+
 <div class="margin-bottom-20"></div>
 
 <a href="/apply-volunteer"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply to be a Volunteer</button></a>

@@ -4,6 +4,9 @@
 <br />
 <br />
 
+### [Full-Time Children's Librarian](/jobs-childrens-librarian-programs "Full-Time Children's Librarian")
+Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join an incredibly dedicated Children’s Department as a full-time Children’s Librarian. This librarian will serve as the Program Coordinator, which plans and manages programming and special events for the children’s department.
+
 </div>
 <div class="col-md-6">
 
