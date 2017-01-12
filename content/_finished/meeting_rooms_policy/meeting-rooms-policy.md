@@ -10,13 +10,13 @@ The Darien Library regards the availability and use of its Meeting Rooms as an i
 The following Meeting Rooms are available for use on approval of [written application](/request-meeting-room "Meeting Rooms Application"):
 
 * Community Room (maximum seating for 171 people; room capacity 225)
-* Conference Room (maximum of 22 people seated at a conference table, or approximately 40 if seated for a presentation; room capacity 50)
+* Conference Room (maximum of 22 people seated at a conference table, or approximately 40 if seated for a presentation; room capacity 45)
 * Technology Training Center (maximum of 12 people)
 
 The following Rooms are available for reservation in advance by Darien residents, those who work full time in Darien, and non-resident Friends of the Darien Library at the $300 annual level.Contact [Facilities Manager](mailto:lcalka@darienlibrary.org "Lois") or [Knowledge and Learning Staff](mailto:askus@darienlibrary.org "Reference"):
 
 * Power Library Smart Study Room (maximum of 6 people)
-* Second Floor Harris Room (Open Door) (maximum of 8 people)
+* Second Floor Harris Room (maximum of 8 people)
 * Mezzanine Lautenbach Writer’s Room (maximum of 6 people)
 * Mezzanine Quiet Study Rooms (Three) (maximum of 2 people)
 
@@ -139,7 +139,7 @@ For events outside of regular Library hours, a Certificate of Insurance in the a
 6. The Facilities Manager, in consultation with the Library Director, is authorized to determine the appropriate use of the room. In case of denial of use, appeal may be made in writing to the Library Board of Trustees. The decision of the Board of Trustees will be final.
 7. Admission fees are not to be charged by any group using the Meeting Rooms.
 8. Non-library groups and individuals are not to use the Library’s address and phone number as their own.
-9. Smoking is not permitted anywhere in the Library or on Library grounds.
+9. Smoking is permitted on Library grounds as long as it is at least 25 feet from Library doors.
 
 <div class="margin-bottom-30"></div>
 

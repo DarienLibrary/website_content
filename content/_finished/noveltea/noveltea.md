@@ -9,6 +9,8 @@ Wee Burn Country Club<br />
  
 Benefactor tables are currently available for purchase at $2,500. Guests at Benefactor tables will be invited to a private meet-and-greet pre-reception with Yaa Gyasi from 11:30 a.m. to 12 noon, and receive a signed copy of <em><a href="/catalog/work/44303">Homegoing</a></em>. Each Benefactor table host will receive a picture of their guests with Yaa Gyasi. Single tickets will go on sale, pending availability, in February.
 
+Yaa Gyasi is a recipient of the National Book Foundation's 2016 "5 Under 35" Award, and was just named to the _Forbes_ 30 Under 30 List.
+
 <br />
 <div class="row margin-bottom-20">
 <div class="col-md-3">
@@ -17,7 +19,7 @@ Benefactor tables are currently available for purchase at $2,500. Guests at Bene
 <div class="col-md-9">
 
 ### “Homegoing is an inspiration.” 
-&mdash;Ta-Nehisi Coates
+—Ta-Nehisi Coates
 
 <br />
 
@@ -41,7 +43,17 @@ One of Oprah’s 10 Favorite Books of 2016<br />
 NPR’s Debut Novel of the Year<br />
 One of Buzzfeed’s Best Fiction Books Of 2016<br />
 One of Time’s Top 10 Novels of 2016
- 
+<br />
+<br />
+
+### Sponsored By
+
+<div class="row">
+<div class="col-md-8">
+<a href="http://www.newcanaandarienmag.com/"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="Moffly Media" /></a>
+</div>
+</div> 
+
 </div>
 </div>
 
