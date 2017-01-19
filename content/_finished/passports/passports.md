@@ -3,7 +3,7 @@
 <div class="col-md-6">
 
 ### Get your passport at Darien Library! 
-Resuming in the fall, we will have a Passport Day on a Saturday. Please check the [event listings](/events/?category=special-event "Event listings") to see when we will offer a Saturday Passport Day. 
+There are no currently scheduled Passport Days at Darien Library. Our friends at the [Darien Post Office](https://www.usps.com/international/passports.htm "Darien Post Office") and [Ferguson Library](http://fergusonlibrary.org/services/passport/ "Ferguson Library") would be happy to help you apply for your passport.
 
 We will provide all the paperwork. Passport photos can be taken in Darien at CVS or Big Shots. Passport photos are regulated by the law, so they need to fit [legal requirements](http://travel.state.gov/content/passports/english/passports/photos/photos.html "Information about Passport Photos"). 
 <br />

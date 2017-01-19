@@ -597,7 +597,7 @@ Great for students, the KIC Book Scanner on the Second Level makes it easy to sc
 <br />
 <br />
 
-#### can Photos
+#### Scan Photos
 Use a flatbed scanner to digitize your photos. If you have a lot of photos, the [Digital Media Lab](/dml "Digital Media Lab") may be a better option.
 
 </div>
