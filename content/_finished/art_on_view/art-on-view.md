@@ -1,18 +1,19 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Sally Bushing
+### Current Exhibit: Lynne Byrne
 
-**Wednesday, November 30th through Monday, January 9th**
+**Thursday, January 12th through Thursday, March 9th**
 <br />
 <br />
  
 #### About the Artist
-Sally Bushing has lived in Darien for thirty-one years, in just about every neighborhood. She does like to change the view outside her windows more than the average person. Sally has been a participating artist in The Fairfield County "Plein Air" group and The Rowayton Art Center. Previously, as a Board Member of The Rowayton Art Center, she hosted their 50th Anniversary at The Tokeneke Club. She has donated paintings to many fundraising events including The Darien Nature Center, The Darien Garden Club, The Darien Historical Society, and Darien Library. Her paintings were displayed at the Darien Toy Box, as a participant in "Art Around Town." 
+Lynne Byrne’s unique photographic imagery offers a glimpse of the everyday miracles seen in our natural environment. The photographer uses natural light, and close up photography to explore the intricate textures, surfaces, reflections and variations in color that often go unnoticed until we take a longer, closer, more deliberate world around us.
 <br />
 <br />
 
-Sally loves living in Darien, and thoroughly enjoys it's beauty. When not at her easel, she can be found biking, golfing, skiing and playing tennis. We hope you enjoy her colorful show.
+#### Coffee Reception
+Join our Lynne Byrne for a coffee reception featuring fine art and good friends on Thursday, February 2nd between 9:30 a.m. to 12 noon. The reception will be held on the Lower Level in the Art Gallery.
 <br />
 <br />
 
@@ -24,7 +25,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/sally_bushing_art.jpg" alt="Artwork of Sally Bushing" />
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/lynne_byrne_art.png" alt="Artwork of Lynne Byrne" />
  
 </div>
 </div>
