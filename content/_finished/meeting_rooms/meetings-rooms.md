@@ -32,13 +32,13 @@ Amenities include a 50 inch monitor and connections for four laptops.
 
 <div class="col-md-4 md-margin-bottom-50">
 
-#### Power Library Conference Room
+#### Traver Room
 
 Capacity: 6 
 
 <img src="/uploads/library_building/interior/pla_study.jpg" alt="Power Library Conference Room" class="img-responsive margin-bottom-10" />
 
-The Power Library Conference Room is ideal for a small meeting or study group. You can print and copy your papers next door in the Business Center. It is located on the Lower Level inside the Power Library. 
+The Traver Room is ideal for a small meeting or study group. You can print and copy your papers next door in the Business Center. It is located on the Lower Level inside the Power Library. 
 
 Cellphone reception is very weak as it's underground.
 
@@ -46,13 +46,13 @@ Cellphone reception is very weak as it's underground.
 
 <div class="col-md-4 md-margin-bottom-50">
 
-#### Harris Room
+#### Harris Writer's Room
 
 Capacity: 8 
 
 <img src="/uploads/library_building/interior/harris_room.jpg" alt="Harris Room" class="img-responsive margin-bottom-10" />
 
-The Harris Room is great for quiet working groups! From this room you are just a few feet away from a reference librarian and all of the non-fiction materials when you work in this room! It is located on the Second Level in the Research Room.
+The Harris Writer's Room is great for quiet working groups! From this room you are just a few feet away from a reference librarian and all of the non-fiction materials when you work in this room! It is located on the Second Level in the Research Room.
 
 Cellphone use is permitted.
 
@@ -63,13 +63,13 @@ Cellphone use is permitted.
 <div class="row margin-bottom-50">
 <div class="col-md-4 md-margin-bottom-50">
 
-#### Writer's Room
+#### Lautenbach Writer's Room
 
 Capacity: 6 
 
 <img src="/uploads/library_building/interior/writers_room_sml.jpg" alt="Writer's Room" class="img-responsive margin-bottom-10" />
 
-The Writer's Room features seclusion for the talkative work group. With plenty of light, it is our most charming meeting room. It is located on the Mezzanine Level of the Library. 
+The Lautenbach Writer's Room features seclusion for the talkative work group. With plenty of light, it is our most charming meeting room. It is located on the Mezzanine Level of the Library. 
 
 Cellphone use is permitted.
 
@@ -77,13 +77,13 @@ Cellphone use is permitted.
 
 <div class="col-md-4 md-margin-bottom-50">
 
-#### Mezzanine Study Room
+#### Quiet Study Room
 
 Capacity: 2 
 
 <img src="/uploads/library_building/interior/mezzanine_study_room.jpg" alt="Mezzanine Study Room" class="img-responsive margin-bottom-10" />
 
-The Mezzanine Study Rooms are built for solitude! Two people may be in these rooms if they are doing silent study. The three Mezzanine Study Rooms are located on the Mezzanine Level of the Library.
+The Quiet Study Rooms are built for solitude! Two people may be in these rooms if they are doing silent study. The three Quiet Study Rooms are located on the Mezzanine Level of the Library.
 
 This is a silent study space.
 
