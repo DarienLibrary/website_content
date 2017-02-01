@@ -6,8 +6,10 @@
 <strong>Wednesday, March 29th from 12 noon to 2 p.m.</strong><br />
 Wee Burn Country Club<br />
 410 Hollow Tree Ridge Rd, Darien, CT
- 
-Benefactor tables are currently available for purchase at $2,500. Guests at Benefactor tables will be invited to a private meet-and-greet pre-reception with Yaa Gyasi from 11:30 a.m. to 12 noon, and receive a signed copy of <em><a href="/catalog/work/44303">Homegoing</a></em>. Each Benefactor table host will receive a picture of their guests with Yaa Gyasi. Single tickets will go on sale, pending availability, in February.
+
+Single tickets are currently on sale for $135 each ($100 is tax-deductible), and Benefactor tables may be purchased for $2,500 ($2,150 is tax-deductible). Each table seats 10 guests. 
+
+Guests at Benefactor tables will be invited to a private meet-and-greet pre-reception with Yaa Gyasi from 11:30 a.m. to 12 noon, and receive a signed copy of <em><a href="/catalog/work/44303">Homegoing</a></em>. Each Benefactor table host will receive a picture of their guests with Yaa Gyasi. 
 
 Yaa Gyasi is a recipient of the National Book Foundation's 2016 "5 Under 35" Award, and was just named to the _Forbes_ 30 Under 30 List.
 
@@ -38,24 +40,27 @@ For more information, please contact the Darien Library Administrative Office at
 
 ### Praise
 
-A <em>New York Times</em> 2016 Notable Book<br />
-One of Oprah’s 10 Favorite Books of 2016<br />
-NPR’s Debut Novel of the Year<br />
-One of Buzzfeed’s Best Fiction Books Of 2016<br />
-One of Time’s Top 10 Novels of 2016
-<br />
+* A <em>New York Times</em> 2016 Notable Book
+* One of Oprah’s 10 Favorite Books of 2016
+* NPR’s Debut Novel of the Year
+* One of _Time’s_ Top 10 Novels of 2016
+* 2017 John Leonard Prize
+* 2017 PEN/Robert W. Bingham Prize for Debut Fiction Finalist
 <br />
 
 ### Sponsored By
 
 <div class="row">
-<div class="col-md-8">
+<div class="col-md-6">
 <a href="http://www.newcanaandarienmag.com/"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="Moffly Media" /></a>
+<br />
 </div>
 </div> 
 
 </div>
 </div>
+
+Please indicate all seating requests in the "comment" section.
 
 <div id="bbox-root"></div>
 <script type="text/javascript">
