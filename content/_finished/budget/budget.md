@@ -23,5 +23,9 @@ These, and other actions, are detailed later in this report.
 ### Read the Library Budget Report
 [View the 2016-2017 Library Budget](/uploads/pdfs/budget_reports/2016_budget_report_to_RTM.pdf "2016-2017 Library Budget")
 
+<br />
+
+[View the Proposed 2017-2018 Budget](/uploads/pdfs/budget_reports/2017-2018_proposed_budget.pdf "Proposed Budget")
+
 </div>
 </div>
