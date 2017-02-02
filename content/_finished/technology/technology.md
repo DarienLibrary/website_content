@@ -59,7 +59,6 @@ Programs available on all PC computers:
 * Internet Explorer
 * iTunes
 * Mozilla Firefox
-* Roxio Creator 9 (for CD/DVD burning)
 * Windows Media Player
 
 </div>
