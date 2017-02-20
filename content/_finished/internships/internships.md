@@ -69,44 +69,6 @@ This position reports to the Head of the Welcome Desk.
 <div class="panel panel-default">
 <div class="panel-heading">
 <h4 class="panel-title">
-<a href="#collapse-Four" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Knowledge and Learning Services Intern
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Four">
-<div class="panel-body">
-
-Are you a coding ninja who loves Jeopardy? If so, this internship is for you! Knowledge and Learning Services has a trove of historical information from Darien newspapers and is looking for a student to create a simple database to be used by Library staff and the public. In addition, the KLS intern will be assisting at the Reference Desk, learning how to provide reliable answers to the dozens of questions that are asked every day. No two questions are alike, and you never know what the next question will be!
-<br />
-<br />
-
-#### What will you learn from this internship?
-
-* Ready Reference skills
-* Basic database development
-* Archival research
-
-The final project will be creating a database that will index historic articles from Darien newspapers.
-<br />
-<br />
-
-#### Prospective candidates should have the following:
-
-* Excellent customer service skills
-* Inquisitive mind
-* Strong technological aptitude, including coding experience
-* Ability to work independently
-This position reports to the Head of Knowledge and Learning Services.
-
-</div>
-</div>
-</div>
-
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
 <a href="#collapse-Five" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
 Book Group Intern
 </a>
