@@ -22,85 +22,6 @@ Darien Library is looking for six Darien High School Senior interns during the 2
 <!-- Tab Content 1 -->
 <div id="home" class="tab-pane fade in active">
 <div id="accordion-v1" class="panel-group acc-v1">
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-One" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Children's Library Intern
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-One">
-<div class="panel-body">
-
-Do you enjoy working with youth? The Children’s Library is looking for a student who is passionate about Children's literature and is friendly, creative, and has a penchant for technology. The Children’s Library Intern will assist with outreach visits, storytimes, and collection maintenance during the spring term.
-<br />
-<br />
-
-#### The following areas of library service will be explored during the internship:
-
-* History of Children’s Services
-* Collection overview and development
-* Program planning and offerings
-* Outreach services to the community
-
-The student’s final project will be the planning, conducting, and evaluation of a program for kids.
-<br />
-<br />
-
-#### Prospective candidates should have the following:
-
-* Excellent customer service skills
-* Passion for working with youth
-* Strong technological aptitude
-* Ability to work independently
-
-This position reports to the Head of Children and Teen Services.
-
-</div>
-</div>
-</div>
-
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Two" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Teen Lounge Intern
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Two">
-<div class="panel-body">
-
-Do you enjoy working with youth? The Teen Lounge of Darin Library is looking for a student who is passionate about YA literature and is friendly, creative, and has a penchant for technology. The Teen Lounge Intern will assist with outreach visits, programs, and collection maintenance during the spring term.
-<br />
-<br />
-
-#### The following areas of library service will be explored during the internship:
-
-* History of Teen Services
-* Collection overview and development
-* Program planning and offerings
-* Outreach services to the community
-
-The student’s final project will be the planning, conducting, and evaluation of a program for teens.
-<br />
-<br />
-
-#### Prospective candidates should have the following:
-
-* Excellent customer service skills
-* Passion for working with youth
-* Strong technological aptitude
-* Ability to work independently
-
-This position reports to the Teen Services Librarian.
-
-</div>
-</div>
-</div>
-
 
 <div class="panel panel-default">
 <div class="panel-heading">
@@ -257,6 +178,42 @@ We’ll give you some ideas, and point you to some reading (this is a library, a
 * Capacity to perform detailed work consistently and accurately
 
 This position reports to the Director of the Library.
+
+</div>
+</div>
+</div>
+
+<div class="panel panel-default">
+<div class="panel-heading">
+<h4 class="panel-title">
+<a href="#collapse-Seven" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
+User Experience Intern
+</a>
+</h4>
+</div>
+<div class="panel-collapse collapse" id="collapse-Seven">
+<div class="panel-body">
+
+Darien Library User Experience (UX) team is looking for a motivated, analytically-minded student to reinvigorate our 3D printing program. The intern will be responsible for testing, diagnosing problems with, and repairing our fleet of 3D printers. Additionally, the intern will be responsible for coming up with a system for managing a “printer queue” that manages the increasing demand for 3D prints. Finally, the intern will be encouraged to present ideas on how 3D printing can be offered as a service in the library setting and given the resources to try out those ideas.
+<br />
+<br />
+
+#### What will you learn from this internship?
+
+* You will learn to work in a team setting on a project that has a direct impact on customer service.
+* You will learn about working with hardware vendors while maintaining their products.
+* You will learn how to manage a budget for repair and replacement of parts.
+* You will learn how to address real-world challenges with practical procedures.
+* You will learn about what goes on behind the scenes in a world-class library.
+<br />
+
+#### Prospective candidates should have to following:
+
+* A strong desire to provide excellent customer service.
+* A predisposition toward technology.
+* Ability to work independently.
+* Strong communication skills, both written and verbally.
+* Curiosity about the world.
 
 </div>
 </div>
