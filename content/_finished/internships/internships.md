@@ -219,40 +219,7 @@ Darien Library User Experience (UX) team is looking for a motivated, analyticall
 </div>
 </div>
 
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Seven" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-User Experience Intern
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Seven">
-<div class="panel-body">
 
-Darien Library User Experience (UX) team is looking for a motivated, analytically-minded student to reinvigorate our 3D printing program. The intern will be responsible for testing, diagnosing problems with, and repairing our fleet of 3D printers. Additionally, the intern will be responsible for coming up with a system for managing a “printer queue” that manages the increasing demand for 3D prints. Finally, the intern will be encouraged to present ideas on how 3D printing can be offered as a service in the library setting and given the resources to try out those ideas.
-<br />
-<br />
-
-#### What will you learn from this internship?
-
-* You will learn to work in a team setting on a project that has a direct impact on customer service.
-* You will learn about working with hardware vendors while maintaining their products.
-* You will learn how to manage a budget for repair and replacement of parts.
-* You will learn how to address real-world challenges with practical procedures.
-* You will learn about what goes on behind the scenes in a world-class library.
-<br />
-
-#### Prospective candidates should have to following:
-
-* A strong desire to provide excellent customer service.
-* A predisposition toward technology.
-* Ability to work independently.
-* Strong communication skills, both written and verbally.
-* Curiosity about the world.
-
-</div>
-</div>
 </div>
 
 </div>
