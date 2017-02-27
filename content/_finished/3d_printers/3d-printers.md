@@ -47,7 +47,7 @@
 
 <div class="margin-bottom-20"></div>
 
-A 3D printer is a machine that takes digital files and produces a plastic print-out of your design. The arrival of 3D printers allows anyone to create physical models their own designs without the need to send out to a special manufacturer. [Learn more](http://www.3dprinter.net/reference/what-is-3d-printing "Learn more about 3D Printers") about 3D printers. Objects printed with our 3D printers may not be suitable for all applications, such as coming in contact with food, beverages, and consumable products. Please do not place objects in dishwashers, microwaves, or aquariums. If you would like to see a 3D printer, come down to the Help Desk located in the computer labs on the Lower Level.
+A 3D printer is a machine that takes digital files and produces a plastic print-out of your design. The arrival of 3D printers allows anyone to create physical models of their own designs without the need to send out to a special manufacturer. [Learn more](http://www.3dprinter.net/reference/what-is-3d-printing "Learn more about 3D Printers") about 3D printers. Objects printed with our 3D printers may not be suitable for all applications, such as coming in contact with food, beverages, and consumable products. Please do not place objects in dishwashers, microwaves, or aquariums. If you would like to see a 3D printer, come down to the Help Desk located in the computer labs on the Lower Level.
 
 This exciting new technology will continue to improve in the years to come. Therefore when you request an object to be printed, please keep in mind that sometimes the machines will be unavailable due to repairs.
 
