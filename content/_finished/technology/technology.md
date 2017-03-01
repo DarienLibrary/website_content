@@ -3,7 +3,7 @@
 
 ### Computers & Internet
 
-We have fifty public computers available throughout the Library. The computers are primarily on the Lower Level. You are guaranteed one hour session every day. Bring your laptop, tablet, or phone in to enjoy access to WiFi anywhere in the building. 
+We have fifty public computers available throughout the Library. The computers are primarily on the Lower Level. You are guaranteed one hour session every day. Bring your laptop, tablet, or phone in to enjoy access to open or WPA-enabled [WiFi](/wifi "WiFi").
 
 [View the Library Internet Use Policy](/internet-use "Library Internet Use Policy")
 <br />

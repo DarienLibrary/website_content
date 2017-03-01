@@ -648,9 +648,17 @@ WiFi
 <div class="panel-collapse collapse" id="collapse-v3-Six">
 <div class="panel-body">
 
-Do you have your own laptop, tablet, or phone? Then you can sign onto our WiFi network! Just connect to _Darien Library_. WiFi reaches out into the courtyard, so you can enjoy browsing the web outside on beautiful days. 
+#### How do I log into the WiFi network?
+Do you have your own laptop, tablet, or phone? Then you can sign onto our WiFi network! Just connect to **Darien Library**. WiFi reaches out into the courtyard, so you can enjoy browsing the web outside on beautiful days. 
 
-**Note:** The Library's WiFi is public which means you should be careful about checking your email, bank accounts, doing taxes, or shopping while our own unprotected WiFi. If you want to check such sensitive accounts, we recommend logging onto a public computer.
+If you need to log into websites or apps, please use the **Darien Library WPA** network. The password: **lovemylibrary**
+
+[Need help?](/wifi "Need help?")
+<br />
+<br />
+
+#### How secure is the Library's WiFi?
+The Library's WPA-enabled WiFi provides an additional layer of security to your online browsing. However, it does not replace end-to-end encryption in the browser or in apps. To learn more ways to help protect yourself online, visit our [online security page](/online-security "Online security page"). 
 
 </div>
 </div>
