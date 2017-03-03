@@ -22,16 +22,16 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 <div class="col-md-4">
 
 ### Start Here
-* [Search by Museum](http://www.libraryinsight.net/mpbymuseum.asp?jx=da "Search by Museum") 
-* [Search by Date](http://www.libraryinsight.net/mpSmallcal.asp?jx=dap "Search by Date")
-* [View or Cancel a Reservation](http://www.libraryinsight.net/mpviewmyreservations.asp?jx=da "View or Cancel a Reservation")
+* [Search by Museum](https://dar.to/2lDqrul "Search by Museum") 
+* [Search by Date](https://dar.to/2lDn4mS "Search by Date")
+* [View or Cancel a Reservation](https://dar.to/2lDlZLS "View or Cancel a Reservation")
 
 <br />
 <br />
 
 ### Featured Museum
 
-The Cooper Hewitt Museum's new exhibit, [Scraps: Fashion, Textiles, and Creative Reuse](http://www.cooperhewitt.org/2016/04/19/cooper-hewitt-to-present-exhibition-on-textile-industry-innovations-this-fall/ "Scraps: Fashion, Textiles, and Creative Reuse") offers creative, alternative approaches to textile waste.The show presents the work of three designers whose work involves innovative and sophisticated reuse of textile materials and resources, while engaging in preservation of local craft traditions. Through more than forty works, the exhibition explores key facets of sustainability, such as the efficient use of materials and resources, the preservation of local craft traditions, and the integration of new technologies in the recycling process. 
+The Cooper Hewitt Museum's new exhibit, [Scraps: Fashion, Textiles, and Creative Reuse](https://dar.to/2lDhCk7 "Scraps: Fashion, Textiles, and Creative Reuse") offers creative, alternative approaches to textile waste.The show presents the work of three designers whose work involves innovative and sophisticated reuse of textile materials and resources, while engaging in preservation of local craft traditions. Through more than forty works, the exhibition explores key facets of sustainability, such as the efficient use of materials and resources, the preservation of local craft traditions, and the integration of new technologies in the recycling process. 
 
 The exhibit runs till April 16, 2017.
 

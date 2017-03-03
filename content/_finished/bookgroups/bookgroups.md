@@ -25,12 +25,39 @@ While we try to maintain a current collection of hot books, if you do not see wh
 <br />
 <br />
 
-<a href="/bookgroups-register">Register Your Book Group</a><br />
-<a href="/catalog/search/keyword?search=%2A&ages=adult&formats=bookgroup">Browse Books in a Bag</a><br />
-<a href="/lists/book-groups">View Themed Books in a Bag Lists</a><br />
-<a href="/bookgroups-request-BIAB">Request a Book in a Bag</a><br />
-<a href="http://darienlibrary.tv/categories/dlrecommends.html">View all Book Group Videos</a><br />
-<a href="http://darienlibrary.tv/dltechcast/2016/06/30/book-groups-new-site">Book Groups Website Help</a><br />
+
+<div class="row">
+<div class="col-md-6">
+
+### Sign Up
+* [Register Your Book Group](/bookgroups-register "Register your book group")
+<br />
+
+### Books Available to Book Groups
+* [Browse Books in a Bag](/catalog/search/keyword?search=%2A&ages=adult&formats=bookgroup "Browse Books in a Bag")
+* [View Themed Books in a Bag Lists](/lists/book-groups "View themed Books in a Bag")
+* [Request a Book in a Bag](/bookgroups-request-BIAB "Request a Book in a Bag")
+<br />
+
+### Book Group Videos & Help
+* [View all Book Group Videos](https://dar.to/2lDvpHh "View all book group videos")
+* [Book Groups Website Help](https://dar.to/2lDlC43 "Book Groups website help")
+</div>
+<div class="col-md-6">
+
+### Managing a Book Group
+* [How to Start a Book Club](https://dar.to/2mjvNyK "How to start a book club")
+<br />
+
+### Book Discussion Guides
+* [LitLovers Reading Guides](https://dar.to/2mjkZAD "LitLovers Reading Guides")
+* [Fiction Discussion Questions](https://dar.to/2mjoN4Z 
+"Fiction discussion questions")
+* [Memoir Discussion Questions](https://dar.to/2mjv4gP "Memoir discussion questions")
+* [Nonfiction Discussion Questions](https://dar.to/2mjFsVX "Nonfiction discussion questions")
+* [Reading Group Guides](https://dar.to/2lDhFwf "Reading group guides")
+</div>
+</div>
 
 </div>
 </div>
