@@ -101,4 +101,19 @@ Print time is up to 3 days from submission.
 <a href="/3D-print-request"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Submit Your Print Request</button></a>
 </div>
 </div>
+<div class="margin-bottom-30"></div>
+
+### 3D Printing Policies
+Darien Library offers 3D printing services to all users. Objects to be printed should be submitted via email or thumb drive or [web form](/3D-print-request "Web form") to the Library 3 days before the desired day of pick-up. The cost to print is discussed in the pricing section above.
+<br />
+<br />
+
+#### Printing Errors    
+You will not be charged for misprints caused by our error or printer malfunction, however we are not responsible for designs flaws and you will be charged for all successful prints. Not all designs can be successfully printed and library staff may make a determination that our equipment cannot print a particular design. Printed items which are not picked up within 10 days will be disposed of however you will still be responsible for the cost.
+<br />
+<br />
+
+#### Copyright    
+Objects submitted for printing need to adhere to all copyright and intellectual property laws. The object’s copyright should belong or be licensed to you or be public domain or hold a Creative Commons license. As the submitter of the print, you are responsible for obeying local, state, and federal copyright laws. The Library reserves the right to refuse to print objects which are deemed obscene or harmful.
+
 <div class="margin-bottom-20"></div>
