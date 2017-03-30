@@ -752,7 +752,7 @@ Video Games
 <div class="panel-body">
 
 #### Can I play video games in the Library?
-Teens between the ages of 8 and 18 may play the video games within the Teen Lounge. Just ask at the Help Desk to open the cabinet. 
+Teens between the ages of 12 and 18 may play the video games within the Teen Lounge. Just ask at the Help Desk to open the cabinet. 
 <br />
 <br />
 
