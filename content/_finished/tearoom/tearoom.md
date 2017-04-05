@@ -3,7 +3,7 @@
 <li class="active"><a href="#home" data-toggle="tab">Home</a></li>
 <li><a href="/events/?category=tea-room-class">Classes</a></li>
 <li><a href="#links" data-toggle="tab">Links</a></li>
-<li><a href="#details" data-toggle="tab">Details</a></li>
+<li><a href="#details" data-toggle="tab">Using the TEA Room</a></li>
 </ul>
 <div class="tab-content">
 <div class="tab-pane fade in active" id="home">
@@ -17,6 +17,11 @@ The TEA in TEA Room stands for Technology, Engineering, & the Arts. It is a mini
 
 ### What kinds of things can I do there?
 We offer classes in the TEA room on everything from circuitry to printmaking. Click on the classes tab to learn more. You're also welcome to reserve the room to explore all of our supplies and technologies. To see what people have made in the TEA Room, click here, or check out our projects tab.
+
+<div class="margin-bottom-20"></div>
+
+<a href="/tearoom-reserve"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Reserve the TEA Room</button></a>
+
 <br />
 <br />
 
