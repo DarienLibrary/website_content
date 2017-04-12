@@ -8,6 +8,8 @@ Unlock the magic of the Library with a festive party in the courtyard...share an
 
 All funds raised from the event will be dedicated to expanding library resources, including purchasing new books, technology, and supporting programs and guest speakers. Which author will join us in the coming year? By attending The Secret Garden Gala, you'll be mingling with your friends and neighbors, and bringing new resources and speakers to the Library.
 
+Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
+
 <a href="#tickets" class="btn-u btn-u-lg btn-u-primary" style="text-decoration: none;">Buy Tickets</a>
 
 <div class="margin-bottom-30"></div>

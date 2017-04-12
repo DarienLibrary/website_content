@@ -53,6 +53,8 @@ Volunteer applications are reviewed regularly, but it may take us 2-3 days to ev
 
 Please note: almost all of our volunteer applications require a training period, and we ask our volunteers to commit to at least a few months of volunteering as a result, depending on the work. If you need to volunteer immediately, or to volunteer a large number of hours in a short timeframe, we might not be the best fit. If you haven’t already, please check out [VolunteerSquare](https://www.volunteersquare.com/ "Volunteer Square") &mdash; they have a lot of other amazing volunteer opportunities available!
 
+Volunteer applicants under 18, please note: Over the summer, Children’s Library volunteers are assigned volunteer shifts for one month. For example, a volunteer might come in each Monday in July for a 1 to 2 p.m. shift. Weekly, on-going volunteer shifts in the Children’s Library will resume in September.
+
 <div class="margin-bottom-20"></div>
 
 <a href="/apply-volunteer"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply to be a Volunteer</button></a>
