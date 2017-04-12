@@ -30,10 +30,9 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 <br />
 
 ### Featured Museum
+We have a brand new pass available! Founded in 1958, [Earthplace](https://dar.to/2o6BZHK "Earthplace") in Westport is a 62 acre trailed wildlife sanctuary with an interactive natural history museum, a nature center and wildlife for public viewing.
 
-The Cooper Hewitt Museum's new exhibit, [Scraps: Fashion, Textiles, and Creative Reuse](https://dar.to/2lDhCk7 "Scraps: Fashion, Textiles, and Creative Reuse") offers creative, alternative approaches to textile waste.The show presents the work of three designers whose work involves innovative and sophisticated reuse of textile materials and resources, while engaging in preservation of local craft traditions. Through more than forty works, the exhibition explores key facets of sustainability, such as the efficient use of materials and resources, the preservation of local craft traditions, and the integration of new technologies in the recycling process. 
-
-The exhibit runs till April 16, 2017.
+<a href="https://dar.to/2o6BZHK"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/earthplace_logo.jpg" alt="Earthplace" /></a>
 
 </div>
 </div>
