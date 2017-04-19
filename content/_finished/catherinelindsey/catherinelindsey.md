@@ -29,13 +29,15 @@ of Darien Library Theater for over 25 years.
 
 </div>
 <div class="col-md-3">
-
-<a href="https://form.jotform.com/70404858986167" class="btn-u btn-u-lg btn-u-dark-blue">Submit a Play</a>
+Play submissions are now closed. 
 <br />
 <br />
 
-#### Submit Scripts By
-April 7th 
+#### Four Plays for 2017:
+"Hoover Street" by Carson Stewart<br />
+"Play Date" by Jeffrey Wyant<br />
+"Untitled Number 2" by Jim Gordon<br />
+"Dead...But Wait!" by Thea Belak<br />
 <br />
 <br />
 
@@ -54,5 +56,6 @@ Thursday, May 4th at 6:30 p.m.<br />
 
 #### Public Staged Reading
 Sunday, May 21st at 2 p.m.
+[Information](https://dar.to/2oOK9Gy "Information")
 </div>
 </div>
