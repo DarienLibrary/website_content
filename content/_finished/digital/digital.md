@@ -31,8 +31,8 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <i class="fa fa-headphones fa-5x" aria-hidden="true"></i>
 
 ### e-Audio
-[Listen to e-Audiobooks](/catalog/search/keyword?search=%2A&formats=eaudiobook "e-Audiobooks")<br />
-[Enjoy e-Audio Music](/catalog/search/keyword?search=%2A&formats=emusic "e-Audio Music")
+[Listen to e-Audiobooks](https://dar.to/2pI6UOM "e-Audiobooks")<br />
+[Enjoy e-Audio Music](https://dar.to/2qz6xnV "e-Audio Music")
 
 <div class="margin-bottom-10"></div>     
 </div>
@@ -40,7 +40,7 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <i class="fa fa-tablet fa-5x" aria-hidden="true"></i>
 
 ### e-Books
-[Read e-Books](/catalog/search/keyword?search=%2A&formats=ebook "e-Books")<br />
+[Read e-Books](https://dar.to/2p8YQ6A "e-Books")<br />
 [Get Kindle e-Books](/kindle "Get Kindle e-Books")
 
 <div class="margin-bottom-10"></div>    
@@ -53,7 +53,7 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <i class="fa fa-file-text-o fa-5x" aria-hidden="true"></i>
 
 ### e-Magazines
-[Find e-Magazines](https://www.rbdigital.com/darienct/service/zinio/landing? "e-Magazines")
+[Find e-Magazines](https://dar.to/2oY1hgj "e-Magazines")
 <br />
 <div class="margin-bottom-80"></div>       
 </div> 
@@ -61,7 +61,7 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <i class="fa fa-film fa-5x" aria-hidden="true"></i>
 
 ### e-Videos
-[View e-Videos](/catalog/search/keyword?search=%2A&formats=evideo "e-Videos")
+[View e-Videos](https://dar.to/2qsfhiz "e-Videos")
 </div>
 </div>
 </div>
@@ -74,38 +74,38 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
-<a href="http://ebook.3m.com/library/darienlibrary/Featured"><img src="/uploads/logos/3m_icon.png" alt= "Bibliotheca" /></a>
+<a href="https://dar.to/2pYrprC"><img src="/uploads/logos/cloudLibrary_icon.png" alt= "Bibliotheca" /></a>
 
 ### Bibliotheca
 
-[View the Bibliotheca Catalog](http://ebook.3m.com/library/darienlibrary/Featured "Bibliotheca")
+[View the Bibliotheca Catalog](https://dar.to/2pYrprC "cloudLibrary")
 
-Download the Bibliotheca app to your mobile device from the Apple or Android app store. Bibliotheca makes reading your book between different devices seamless. Bibliotheca was formally 3M Cloud Library.
+Download the cloudLibrary app to your mobile device from the Apple or Android app store. cloudLibrary makes reading your book between different devices seamless. cloudLibrary was formally the 3M Cloud Library.
 
 * e-Books
 * e-Audiobooks
 
-[Bibliotheca computer app](http://www.3m.com/us/library/eBook/index.html "Bibliotheca")<br />
-[Get Bibliotheca Help](http://www.3m.com/us/library/eBook/support.html "Bibliotheca help")
+[Bibliotheca computer app](https://dar.to/2pwV6P2 "Bibliotheca")<br />
+[Get Bibliotheca Help](https://dar.to/2oXTyPj "Bibliotheca help")
 <br />
 <br />
 
 </div>
 <div class="col-md-6">
 
-<a href="http://digital.darienlibrary.org/"><img src="/uploads/logos/overdrive_icon.jpg" alt= "OverDrive" /></a>
+<a href="https://dar.to/2qyVM4X"><img src="/uploads/logos/overdrive_icon.jpg" alt= "OverDrive" /></a>
  
 ### OverDrive 
 
-[View the OverDrive Catalog](https://darien.overdrive.com/ "OverDrive")
+[View the OverDrive Catalog](https://dar.to/2qyVM4X "OverDrive")
 
 Download the OverDrive app to your mobile device from the Apple or Android app store. For Kindle owners, download your e-Books from the OverDrive collection.
 
 * e-Books
 * e-Audiobooks
 
-[OverDrive computer app](http://app.overdrive.com/ "OverDrive")<br />
-[Get OverDrive Help](http://help.overdrive.com/ "OverDrive help")<br />
+[OverDrive computer app](https://dar.to/2pwPKU6 "OverDrive")<br />
+[Get OverDrive Help](https://dar.to/2p5WB3i "OverDrive help")<br />
 [Read Kindle e-Books](/kindle "Kindle e-Books")
 
 
@@ -115,11 +115,11 @@ Download the OverDrive app to your mobile device from the Apple or Android app s
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
-<a href="https://www.hoopladigital.com/home"><img src="/uploads/logos/hoopla_icon.png" alt= "Hoopla Digital" /></a>
+<a href="https://dar.to/2p8K27Z"><img src="/uploads/logos/hoopla_icon.png" alt= "Hoopla Digital" /></a>
 
 ### Hoopla Digital 
 
-[View the Hoopla Catalog](https://www.hoopladigital.com/home "Hoopla")
+[View the Hoopla Catalog](https://dar.to/2p8K27Z "Hoopla")
 
 Hoopla Digital provides you with access to thousands of movies and TV shows. On your computer, your Hoopla digital checkout will stream just like a YouTube video or Pandora audio. 
 
@@ -132,24 +132,24 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 * TV Shows
 * Music
 
-[Get Hoopla Help](https://www.hoopladigital.com/support "Hoopla help")
+[Get Hoopla Help](https://dar.to/2qskfM0 "Hoopla help")
 <br />
 <br />
 
 </div>
 <div class="col-md-6">
 
-<a href="https://www.rbdigital.com/darienct/service/zinio/landing?"><img src="/uploads/logos/zinio_icon.png" alt= "Zinio" /></a>
+<a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/zinio_icon.png" alt= "Zinio" /></a>
 
 ### Zinio
 
-[View the Zinio Catalog](https://www.rbdigital.com/darienct/service/zinio/landing? "Zinio")
+[View the Zinio Catalog](https://dar.to/2oY1hgj "Zinio")
 
-Enjoy online access to 30+ downloadable magazines. You can read magazines on your computer or download the _Zinio for Libraries_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://www.rbdigital.com/darienct/service/zinio/landing? "Online magazines") to select your next magazine and not Zinio.com.
+Enjoy online access to 30+ downloadable magazines. You can read magazines on your computer or download the _Zinio for Libraries_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://dar.to/2oY1hgj "Online magazines") to select your next magazine and not Zinio.com.
 
 * e-Magazines
 
-[Get Zinio Help](https://www.rbdigital.com/help/zinio-faq "Zinio help")
+[Get Zinio Help](https://dar.to/2p5Xx7B "Zinio help")
 
 </div>
 </div>
