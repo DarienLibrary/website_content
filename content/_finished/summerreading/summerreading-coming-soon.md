@@ -1,15 +1,12 @@
 <div class="row margin-bottom-30">
-<div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_SR_logo.jpg" alt="Darien Olympics" />
+<div class="col-md-12">
+<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2017_landing_page_summer_reading.png" alt="Camp Darien" />
 <br />
 <br />
 
-</div>
-<div class="col-md-8">
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/darien_olympics_SR_banner.jpg" alt="Summer Reading 2016" />
-</div>
 </div>
 
 <div class="text-center margin-bottom-50">
-  <h2 class="title-v2 title-center">Coming June 6, 2016</h2>
+  <h2 class="title-center">Sign-up begins Monday, June 5th</h2>
+</div>
 </div>
