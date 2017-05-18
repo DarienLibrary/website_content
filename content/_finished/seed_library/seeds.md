@@ -67,14 +67,15 @@ Flowers
 * Black-eyed Susan Vine
 * Cosmos – Double Click Bi-color Pink
 * Cosmos – Seashells Mix
-* Flax – Scarlett
-* Lupine – Pixie Delight
-* Marigold – Queen Sophia
-* Tip Top Nasturtium
 * Edible Sunflowers
+* Flax – Scarlett
+* Giant Coral Zinnia
 * Giant Sunflowers – Heirloom Titan
+* Lupine – Pixie Delight
 * Lemon Queen
+* Marigold – Queen Sophia
 * Sunspot
+* Tip Top Nasturtium
 * Torch
 * Zinnia – Paintbrush Mixed Colors
 <br />
@@ -93,6 +94,7 @@ Flowers
 <div class="col-md-4">
 
 **Perennials**
+* Black Berry Lily
 * Butterfly Weed / Milkweed – Asclepias tuberosa
 * Catnip
 * Coreopsis – Double Sunburst
@@ -191,6 +193,7 @@ Vegetables
 * Garden Bean- Heavy Harvest
 * Garden Bean – Kitchen King
 * Garden Bean – Tendergreen
+* Windsor Fava Bean
 
 **Beets**<br />
 * Chioggia
@@ -203,6 +206,7 @@ Vegetables
 
 **Bok Choy**<br />
 * Tatsoi – Rosette
+* Waltham 29 Broccoli
 * White Stem
 
 **Broccoli**<br />
@@ -296,12 +300,14 @@ Vegetables
 * Buttercrunch
 * Chef’s Medley
 * Gala Mache
+* Heirloom  Arugula – Rustic Style
 * Iceberg
 * Mesclun
 * Mesclun – Asian Baby Leaf
 * Oak Leaf Blend
 * Romaine – Little Gem
 * Romaine - Freckles
+* Rouge d’Hiver
 
 **Melon**<br />
 * Cantaloup – Hearts of Gold
@@ -319,6 +325,7 @@ Vegetables
 * Red Burgundy
 
 **Onion**<br />
+* Heirloom Torpedo Onions
 * Yellow Granex
 
 **Parsnip**<br />
@@ -334,13 +341,16 @@ Vegetables
 **Peppers**<br />
 * Ancho Gigantea
 * Georgia Flame
+* Heirloom Italian Sweet Peppers Sunset Mix
 * Jalapeño, Traveler Strain
 * Red Habanero
+* Sweet Chocolate Pepper
 * Sweet Pepper – Emerald Giant
 
 **Pumpkin**<br />
 * Cinderella’s Carriage
 * Early Sugar or Pie
+* New England Pie Pumpkin
 
 **Radicchio**<br />
 * Early Treviso
