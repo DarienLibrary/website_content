@@ -11,9 +11,6 @@
          <td style="vertical-align:bottom">
             <a href="https://store.makerbot.com/replicator2.html"><img class="img-responsive" alt="MakerBot Replicator 2" src="/uploads/equipment/makerbot_replicator_2.gif" /></a>
          </td>
-         <td style="vertical-align:bottom">
-            <img class="img-responsive" src="/uploads/equipment/form_1.gif" alt="Form 1" title="Form 1"/>
-         </td>
       </tr>
       <tr>
          <td>
@@ -33,12 +30,6 @@
          Print objects up to
          <br /> 
          1.2 L X 6.0 W X 6.1 H inches
-      </td>
-      <td>
-            <h3>Form 1</h3>
-         Print objects up to
-         <br /> 
-                        4.9 L x 4.9 W x 6.5 H inches
       </td>
       </tr>
    </tbody>
@@ -69,7 +60,6 @@ This exciting new technology will continue to improve in the years to come. Ther
 
 #### Locations of Printers
 
-* [Business Center](/business-center "Business Center") on the Lower Level
 * [Digital Media Lab](/dml "Digital Media Lab") (DML) on the Lower Level
 * Technology Center on the Lower Level
 * Children's Library in the [TEA Room](/tearoom "TEA Room") 
@@ -79,12 +69,11 @@ This exciting new technology will continue to improve in the years to come. Ther
 
 ### Cost to Print
 
-We charge by weight in grams. We will give you an estimate of how much the final object will cost before we print. The weight of the [supports and rafts](https://www.simplify3d.com/support/tutorials/rafts-skirts-and-brims/ "Supports and rafts") are included in the cost. Therefore, we cannot give an exact cost at the time of the print order. The Form 1 printer costs more since it produces a higher quality print.
+We charge by weight in grams. We will give you an estimate of how much the final object will cost before we print. The weight of the [supports and rafts](https://www.simplify3d.com/support/tutorials/rafts-skirts-and-brims/ "Supports and rafts") are included in the cost. Therefore, we cannot give an exact cost at the time of the print order. 
 
 Children who live in Darien and are 12 and under may use the 3D printer in the Children's Library at no cost.
 
-* Form1: 25¢ per gram
-* Other 3D printers: 10¢ per gram
+* 10¢ per gram
 * Minimum charge: $2
 
 </div>
