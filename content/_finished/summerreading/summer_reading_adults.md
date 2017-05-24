@@ -16,7 +16,7 @@ Join us for programs, a game, and an opportunity to win prizes throughout the su
 <div class="col-md-4">
 
 #### Books and Bikes
-<img class="img-responsive center-block" src="/uploads/departments/mallory/literature/mary_simses.jpg" alt="Mary Simses" title="Let's Go!" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/mary_simses_asr.jpg" alt="Mary Simses" title="Let's Go!" />
 Saturday, June 10th at 2 p.m.<br />
 Courtyard<br />
 
@@ -27,7 +27,7 @@ Attendees are invited to ride their way to the Library’s courtyard to meet loc
 <div class="col-md-4">
 
 #### Book Readers Festival
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/barbara_stephanie_ann_book_bike_2015.jpg" alt="Three women sitting on and around bikes" title="Book Readers Festival" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/book_readers_festival_logo_asr.jpg" alt="Book Readers Festival" title="Book Readers Festival" />
 Monday, June 19th, 11 a.m. to 1 p.m.<br />
 Courtyard<br />
 
