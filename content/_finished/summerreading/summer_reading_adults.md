@@ -12,6 +12,8 @@ Summer reading is for everyone! Join us for our Adult Summer Reading program fea
 <div class="row">
 <div class="col-md-8">
 
+Starting Saturday, June 10th
+
 * Pick up a bingo card at the Welcome Desk or download the card.
 * Complete five challenges in any column row to score bingo.
 * Return a completed bingo card to the Library between June 10th and August 31st to be entered into monthly drawings.
@@ -94,9 +96,9 @@ Post it to Facebook, Twitter, Instagram, or Tumblr and use the hashtag **#thumbr
 <h3 style="color: #2193b2;">Book Bingo Inspiration</h3>
 
 * [Listen to an Audiobook](https://dar.to/2rbQEH2 "Listen to an Audiobook")
-* Read a First in Series
+* [Read a First in a Series](https://dar.to/2qKP2Vc "Read a First in a Series")
 * [Read a Staff Favorite](https://dar.to/2qs3azw "Read a Staff Favorite")
-* Read a Second Look Book
+* [Read a Second Look Book](https://dar.to/2syo6ED "Read a Second Look Book")
 * [Use NoveList](https://dar.to/2r228MO "Use NoveList")
 * [Read a Book by a CT Author](https://dar.to/2qkwoPW "Read a Book by a Connecticut Author")
 * [Check Out a DVD](https://dar.to/2qs46nn "Check Out a DVD")
@@ -104,18 +106,18 @@ Post it to Facebook, Twitter, Instagram, or Tumblr and use the hashtag **#thumbr
 * [Download a Digital Item](https://dar.to/2rmdAQi "Download a Digital Item")
 * [Check Out a Cookbook](https://dar.to/2qnPQOB "Check Out a Cookbook")
 * [Read a YA Crossover](https://dar.to/2qkZn68 "Read a YA Crossover") 
-* Read an Award Winner
+* [Read an Award Winner](https://dar.to/2sn9Q2v "Read an Award Winner")
 * [Read a Detective Mystery](https://dar.to/2qs1KF0 "Read a Detective Mystery")
 * [Read a Book from Our Booklists](https://dar.to/2pQONn2 "Read a Book from Our Website")
 * [Read a Memoir](https://dar.to/2pSplwI "Read a Memoir")
 * [Read a _NY Times_ Bestseller](https://dar.to/2rmEZCn "Read a New York Times Bestseller")
-* Try a New Genre 
+* [Try a New Genre](https://dar.to/2s2QWAG "Try a New Genre") 
 * [Renew a Book](https://dar.to/2pGFYQW "Renew a Book")
 * [Read a Book Under 200 Pages](https://dar.to/2qoJCKs "Read a Book Under 200 Pages")
 * [Attend a Library Event](https://dar.to/2rmF8pA "Attend a Library Event")
 * [Read on the Beach](https://dar.to/2pQESOC "Read on the Beach")
 * Recommend a Book to a Friend
-* Read a Book That Takes Place Abroad
+* [Read a Book That Takes Place Abroad](https://dar.to/2qKVFa4 "Read a Book That Takes Place Abroad")
 * [Read a Romance](https://dar.to/2qs7ej3 "Read a Romance")
 
 </div>
