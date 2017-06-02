@@ -3,6 +3,9 @@
 <br />
 <br />
 
+<div class="text-center margin-bottom-50">
+  <h2 class="title-center">Sign-up begins Monday, June 5th</h2>
+</div>
 </div>
 
 <div class="row">
@@ -17,10 +20,10 @@ Over the summer, use the Read to Me Log to record all the books you read togethe
 
 </div>
 <br />
-<p>
-<a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Read to Me Club Sign Ups</a>
+<!-- <p>
+<a href="https://dar.to/2qQzPjT" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Read to Me Club Sign Ups</a>
 </p>
-<br />
+<br /> -->
 </div>
 <div class="col-md-5">
 <div style="background-color:#b9da96; padding:10px;">
@@ -30,9 +33,9 @@ Over the summer, use the Read to Me Log to record all the books you read togethe
 If you register for Summer Reading between June 5th and June 15th, you will be entered into a special raffle for an awesome camp prize! We'll draw a winner on Friday, June 16th at 5:30 p.m.
 </div>
 <br />
-<p>
-<a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">K to 6 Sign Ups</a>
-</p>
+<!-- <p>
+<a href="https://dar.to/2qQelE2" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">K to 6 Sign Ups</a>
+</p> -->
 <br />
 </div>
 </div>
@@ -73,9 +76,9 @@ Each participant in Camp Darien will receive a Trail Map that consists of 5 read
 
 <h3 style="color: purple;">Summer Booklists</h3>
 
-[K to 1 Books](# "K to 1 Recommended Summer Reads")<br /><br />
-[2 to 3 Books](# "2 to 3 Recommended Summer Reads")<br /><br />
-[4 to 5 Books](# "4 to 5 Recommended Summer Reads")
+[K to 1 Books](https://dar.to/2rjdsnw "K to 1 Recommended Summer Reads")<br /><br />
+[2 to 3 Books](https://dar.to/2slU1c2 "2 to 3 Recommended Summer Reads")<br /><br />
+[4 to 5 Books](https://dar.to/2ryD1l4 "4 to 5 Recommended Summer Reads") 
 <br />
 </div> 
 </div>

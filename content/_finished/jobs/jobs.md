@@ -4,6 +4,14 @@
 <br />
 <br />
 
+### [Children's Librarian](/jobs-childrens-librarian "Full-Time Children's Librarian")
+Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join a dedicated Children’s Department as a full-time Children’s Librarian. This librarian will serve as the Early Literacy and Outreach Coordinator, planning and managing programming for the First Five Years, coordinating well-established outreach to community organizations, and managing the Children’s Services Public Relations.  
+<br />
+<br />
+
+### [Knowledge and Learning Services Librarian](/jobs-kls "Knowledge and Learning Services Librarian")
+Do you find joy in curiosity? Do you love to go the extra mile to help a patron? Is your glass always half full? The Darien Library (CT) Knowledge and Learning Services Department is looking to add a new member to be an active part of a close-knit, forward-thinking reference team. The ideal candidate is passionate about the future of reference and seeking a position with growth potential. This is a unique opportunity for a librarian who is equally excited about community interaction, parsing data, and creating cutting-edge reference services. 
+
 </div>
 <div class="col-md-6">
 
