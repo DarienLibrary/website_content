@@ -9,7 +9,7 @@ You may have heard of a vegetable box or farm share before. CSA stands for Commu
 ### Pickup at Darien Library
 In 2017, Darien Library will once again be the pickup location for [Stoneledge Farm's CSA](https://dar.to/2m8rS5g "Stoneledge Farm's CSA"). The farm share pickup will be every Wednesday evening from 4:30 to 7:30 p.m. running from June 7th until November 15th (24 weeks).
 
-To take part, you have to [sign up](https://dar.to/2m8rS5g "Sign up") for a vegetable share. If you do, you can also sign up for a fruit, mushroom and/or coffee share too.
+To take part, you had to sign up for a vegetable share. If you do, you can also sign up for a fruit, mushroom and/or coffee share too. Registration is full. The next signups will be in February 2018. 
 <br />
 <br />
 
@@ -52,7 +52,7 @@ $120
 
 The vegetables are grown locally so they are fresher than anything you'll find in a grocery store, and incredibly varied.
 
-Visit [Stoneledge Farm](https://dar.to/2m8Riji "Stoneledge Farm") for more information, and [register online](https://dar.to/2m8rS5g "Register online").
+Visit [Stoneledge Farm](https://dar.to/2m8Riji "Stoneledge Farm") for more information.
 <br />
 <br />
 
@@ -67,10 +67,8 @@ As a member of the CSA, you will be asked to complete two hours of volunteer wor
 </div>
 <div class="col-md-3">
 
-### Sign Up
-[Register for a Farm Share](https://dar.to/2m8rS5g "Register")
-<br />
-<br />
+### Registration is Full
+Sign ups for next year will open in February 2018. 
 
 ### Pickup Dates
 Wednesday evenings <br />
