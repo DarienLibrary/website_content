@@ -101,6 +101,9 @@ Ages 10 to 14
 
 ### For the Makers (Make It and Take It)
 Tuesday, July 18th from 2 to 3:30 p.m.
+
+Tweens will make-and-take a DIY project of their choice in this Makerspace program.<br />
+[Register](https://dar.to/2ryocyB "Register for Makers")
 <br />
 <br />
 </div>
@@ -108,6 +111,9 @@ Tuesday, July 18th from 2 to 3:30 p.m.
 
 ### Make a Terrarium
 Wednesday, July 19th from 2 to 3:30 p.m.
+
+Do you have a green thumb? Find out when you make your own terrarium in this creative program!<br /> 
+[Register](https://dar.to/2rRGUSs "Register for Terrarium")
 <br />
 <br />
 </div>
@@ -115,6 +121,9 @@ Wednesday, July 19th from 2 to 3:30 p.m.
 
 ### Intro to Soldering
 Thursday, July 20th from 2 to 3:30 p.m.
+
+Get ready to solder your heart out in this beginner's workshop on the exciting art of soldering!<br />
+[Register](https://dar.to/2ryihJS "Register for Soldering")
 <br />
 <br />
 </div>
