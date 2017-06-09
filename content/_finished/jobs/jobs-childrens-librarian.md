@@ -45,3 +45,5 @@ Begins at $52,650 annually for a 37.5 hour week, and is commensurate with experi
 ### To Apply
 
 For consideration please send a cover letter and resume to Elisabeth Marrocolla, Head of Children and Teen Services, at [CLOutreachJob@darienlibrary.org](mailto:CLOutreachJob@darienlibrary.org "Email Elisabeth Marrocolla") by Wednesday, June 7th. 
+
+Applications are no longer being accepted. 

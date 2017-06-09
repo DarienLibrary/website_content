@@ -29,4 +29,4 @@ $52,650 - $60,000 annually, and is commensurate with experience. Salary includes
 <br />
 
 ### To Apply
-This is a full-time position (37.5 hour/week) that will include weekdays, evenings, and up to two weekends per month. Apply with a cover letter and copy of your resume to Sally Ijams, Head of Knowledge and Learning Services, [KLSJob@darienlibrary.org](mailto:KLSJob@darienlibrary.org "Sally Ijams"). Applications will be accepted through Wednesday, June 7th. 
+This is a full-time position (37.5 hour/week) that will include weekdays, evenings, and up to two weekends per month. Applications are no longer being accepted.
