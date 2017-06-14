@@ -16,7 +16,7 @@
 
 <h3 style="color: purple;">Read to Me Club</h3>
 
-Over the summer, use the Read to Me Log to record all the books you read together. For every 10 books (up to 30 books) you share with grownup, you will be entered into a special raffle. 
+Over the summer, use the Read to Me Log to record all the books you read together. For every 10 books (up to 30 books) you share with a grownup, you will be entered into a special raffle. 
 
 </div>
 <br />
@@ -86,7 +86,7 @@ Each participant in Camp Darien will receive a Trail Map that consists of 5 read
 <div style="background-color:#c7a1c6; padding:10px;"> 
 
 <h3 style="color: purple;">Events</h3>
-Summer Reading evets are pre-registred in advance or drop-in programs which all are welcome to attend. Many of our programs support <abbr title="Science, Technology, Enginnering, Arts, and Mathematics">S.T.E.A.M.</abbr> education. 
+Summer Reading events are pre-registered in advance or drop-in programs which all are welcome to attend. Many programs support <abbr title="Science, Technology, Enginnering, Arts, and Mathematics">S.T.E.A.M.</abbr> education. 
 <br />
 <br />
 
@@ -121,7 +121,7 @@ Thursday, August 17th from 6 to 7:30 p.m.<br />
 Courtyard
 <br />
 <br />
-Participants in Camp Darien (K to 6) are invited to join our Finale Party. There will be music, raffles, food, games, and photo-ops. The winner of the Camp Darien Challenge will also be announced. Registration begins on Tuesday, August 1st. 
+Participants in Camp Darien (K to 6) are invited to join our Finale Party. There will be music, raffles, food, games, and photo-ops. The winner of the Camp Darien Challenge will be announced. Registration begins on Tuesday, August 1st. 
 <br />
 </div>
 </div>

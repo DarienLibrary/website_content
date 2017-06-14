@@ -16,7 +16,7 @@ The TEA in TEA Room stands for Technology, Engineering, & the Arts. It is a mini
 <br />
 
 ### What kinds of things can I do there?
-We offer classes in the TEA room on everything from circuitry to printmaking. Click on the classes tab to learn more. You're also welcome to reserve the room to explore all of our supplies and technologies. To see what people have made in the TEA Room, click here, or check out our projects tab.
+We offer classes in the TEA room on everything from circuitry to printmaking. Click on the classes tab to learn more. You're also welcome to reserve the room to explore all of our supplies and technologies. 
 
 <div class="margin-bottom-20"></div>
 
@@ -35,7 +35,7 @@ We offer classes in the TEA room on everything from circuitry to printmaking. Cl
 <div class="col-md-4">
 
 ### What's in the TEA Room?
-* MakerBot 3D Printer
+* Lulzbot 3D Printer
 * Raspberry Pi
 * iMac Computer
 * Coding PC Computer
@@ -141,7 +141,7 @@ The TEA Room can be reserved in advance by Darien Residents, those who work full
 
 * The TEA Room is available for appointments on Mondays, Thursdays and Fridays at _3 p.m.*_, _4 p.m.*_, 5 p.m. and 6 p.m., and Saturdays at _1 p.m.*_ and _3 p.m*_ and Sundays at 2 p.m. and 3 p.m.
 
-_*The Makerbot can be used during these appointment times_
+_*The Lulzbot 3D Printer can be used during these appointment times_
 <br />
 <br />
 
