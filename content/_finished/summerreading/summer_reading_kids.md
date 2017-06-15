@@ -20,10 +20,10 @@ Over the summer, use the Read to Me Log to record all the books you read togethe
 
 </div>
 <br />
-<!-- <p>
+<p>
 <a href="https://dar.to/2qQzPjT" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Read to Me Club Sign Ups</a>
 </p>
-<br /> -->
+<br />
 </div>
 <div class="col-md-5">
 <div style="background-color:#b9da96; padding:10px;">
@@ -33,9 +33,9 @@ Over the summer, use the Read to Me Log to record all the books you read togethe
 If you register for Summer Reading between June 5th and June 15th, you will be entered into a special raffle for an awesome camp prize! We'll draw a winner on Friday, June 16th at 5:30 p.m.
 </div>
 <br />
-<!-- <p>
+<p>
 <a href="https://dar.to/2qQelE2" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">K to 6 Sign Ups</a>
-</p> -->
+</p>
 <br />
 </div>
 </div>
