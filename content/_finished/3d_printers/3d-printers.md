@@ -3,33 +3,24 @@
    <tbody>
       <tr>
          <td style="vertical-align:bottom">
-            <a href="http://store.makerbot.com/replicator-z18"><img class="img-responsive" alt="MakerBot Z18" title="MakerBot Z18 Credit: MakerBot®" src="/uploads/equipment/makerbot_z18.gif" /></a>
+            <a href="https://dar.to/2s9jZ4z"><img class="img-responsive" alt="Lulzbot TAZ 6" title="Lulzbot TAZ 6 Credit: Lulzbot®" src="/uploads/equipment/lulzbot_TAZ.jpg" /></a>
          </td>
          <td style="vertical-align:bottom">
-            <a href="http://store.makerbot.com/replicator"><img class="img-responsive" alt="MakerBot Replicator 5th Generation" title="MakerBot Replicator 5th Generation Credit: MakerBot®" src="/uploads/equipment/makerbot_replicator.gif" /></a>
-         </td>
-         <td style="vertical-align:bottom">
-            <a href="https://store.makerbot.com/replicator2.html"><img class="img-responsive" alt="MakerBot Replicator 2" src="/uploads/equipment/makerbot_replicator_2.gif" /></a>
+            <a href="https://dar.to/2s9sUmC"><img class="img-responsive" alt="MakerBot Replicator 5th Generation" title="MakerBot Replicator 5th Generation Credit: MakerBot®" src="/uploads/equipment/makerbot_replicator.gif" /></a>
          </td>
       </tr>
       <tr>
          <td>
-            <h3>MakerBot Z18</h3>
+            <h3>Lulzbot TAZ 6</h3>
          Print objects up to
          <br />
-         11.8 L x 12 W x 18 H inches
+         11.02 L x 11.02 W x 9.8 H inches
          </td>
          <td>
             <h3>MakerBot Replicator</h3>
          Print objects up to
          <br /> 
          9.9 L x 7.8 W x 5.9 H inches
-      </td>
-      <td>
-            <h3>MakerBot Replicator 2</h3>
-         Print objects up to
-         <br /> 
-         1.2 L X 6.0 W X 6.1 H inches
       </td>
       </tr>
    </tbody>
