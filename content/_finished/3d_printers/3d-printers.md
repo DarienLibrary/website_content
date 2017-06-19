@@ -52,7 +52,6 @@ This exciting new technology will continue to improve in the years to come. Ther
 #### Locations of Printers
 
 * [Digital Media Lab](/dml "Digital Media Lab") (DML) on the Lower Level
-* Technology Center on the Lower Level
 * Children's Library in the [TEA Room](/tearoom "TEA Room") 
 </div>
 
