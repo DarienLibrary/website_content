@@ -1,22 +1,20 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Steve Fritsch
+### Current Exhibit: Darien Arts Center's Adult 2017 Art Show Winners
 
-**Tuesday, May 16th through Monday, June 26th**
+**Monday, June 26th through Friday, July 14th**
 <br />
 <br />
  
-#### About the Artist
-After studying illustration and painting for five years at Paier School of Art in New Haven, Connecticut, Steve graduated and went on to exhibit his artwork at various art shows along the East Coast.
+#### About the Show
+Darien artist Amy Schott won Best in Show with a mixed media entry, Salzburg Swallows at the Darien Art Center’s 58th Darien Art Show & Sale, which kicked off with a packed gallery at their opening reception on June 2. The DAC, received 244 entries from 157 artists from kindergarten age to adult. 
+ 
+This year’s judge, Arianne Faber Kolb, Ph.D., commented, “It was a great pleasure judging the Darien Art Show, which features such a range of artistic talent, from established local artists to students of all ages working in a variety of media. It is challenging at times to award prizes, since the artworks are different in approaches and styles yet equally deserving of recognition. This wonderfully diverse show has something for everyone: contemplative abstract works, landscapes, portraits, still lifes, and whimsical cows! I particularly applaud the student artists who submitted their work to this show and I look forward to seeing these budding talents continue to pursue their creative interests.”
 
-In 1969, he married his wife Linda and accepted a position as Art Director with BBDO in New York City. In his free time, he painted and freelanced doing illustrations, cartooning, and finished art.
+This year’s show featured 14 categories and 42 winners. All adult first-, second- and third-place winners will be on display at Darien Library.
 
-Art Direction and freelance kept him pretty busy. In 1978, he left the agency and started his own studio in New York City. Twenty years later, he decided to work out of his house in Darien, Connecticut and moved his studio home.
-
-Steve has created art for many years, be it illustrations in mixed media or fine art in oils and has recently started exhibiting his work at art shows in the local area.
-
-He hopes you enjoy them.
+Adult first place winners included Kaz Oda for Oil, Joyce Grasso for Acrylic, Adriana Robles for Color Photography, Sophie Cirillo for Black and White Photography, Christina Klumb for Sculpture, Sandra Aldrich for Watercolor, Meg Tweedy for Mixed Media and Dana Goodfellow for Drawing, Pastel and Graphics.
 <br />
 <br />
 
@@ -29,7 +27,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/steve_fritsch_art_2017.jpg" alt="Steve Fritsch" />
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/dac_art_show_karen_vogel_2017.jpg" alt="Karen Vogel" />
  
 </div>
 </div>
