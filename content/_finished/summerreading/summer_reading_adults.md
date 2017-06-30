@@ -26,7 +26,7 @@ Starting Saturday, June 10th
 <div class="col-md-4">
 
 <p>
-<a href="/uploads/pdfs/2017_summer_reading_bingo_card.pdf" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Bingo Card</a>
+<a href="https://dar.to/2t9E89J" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Bingo Card</a>
 </p>
 <br />
 
