@@ -95,30 +95,20 @@ Post it to Facebook, Twitter, Instagram, or Tumblr and use the hashtag **#thumbr
 
 <h3 style="color: #2193b2;">Book Bingo Inspiration</h3>
 
-* [Listen to an Audiobook](https://dar.to/2rbQEH2 "Listen to an Audiobook")
-* [Read a First in a Series](https://dar.to/2qKP2Vc "Read a First in a Series")
-* [Read a Staff Favorite](https://dar.to/2qs3azw "Read a Staff Favorite")
-* [Read a Second Look Book](https://dar.to/2syo6ED "Read a Second Look Book")
-* [Use NoveList](https://dar.to/2r228MO "Use NoveList")
-* [Read a Book by a CT Author](https://dar.to/2qkwoPW "Read a Book by a Connecticut Author")
-* [Check Out a DVD](https://dar.to/2qs46nn "Check Out a DVD")
-* [Read a Historical Fiction Novel](https://dar.to/2qnDTYW "Read a Historical Fiction Novel")
-* [Download a Digital Item](https://dar.to/2rmdAQi "Download a Digital Item")
-* [Check Out a Cookbook](https://dar.to/2qnPQOB "Check Out a Cookbook")
-* [Read a YA Crossover](https://dar.to/2qkZn68 "Read a YA Crossover") 
-* [Read an Award Winner](https://dar.to/2sn9Q2v "Read an Award Winner")
-* [Read a Detective Mystery](https://dar.to/2qs1KF0 "Read a Detective Mystery")
-* [Read a Book from Our Booklists](https://dar.to/2pQONn2 "Read a Book from Our Website")
-* [Read a Memoir](https://dar.to/2pSplwI "Read a Memoir")
-* [Read a _NY Times_ Bestseller](https://dar.to/2rmEZCn "Read a New York Times Bestseller")
-* [Try a New Genre](https://dar.to/2s2QWAG "Try a New Genre") 
-* [Renew a Book](https://dar.to/2pGFYQW "Renew a Book")
-* [Read a Book Under 200 Pages](https://dar.to/2qoJCKs "Read a Book Under 200 Pages")
-* [Attend a Library Event](https://dar.to/2rmF8pA "Attend a Library Event")
-* [Read on the Beach](https://dar.to/2pQESOC "Read on the Beach")
-* Recommend a Book to a Friend
-* [Read a Book That Takes Place Abroad](https://dar.to/2qKVFa4 "Read a Book That Takes Place Abroad")
-* [Read a Romance](https://dar.to/2qs7ej3 "Read a Romance")
-
+* Books from the Times Glade
+* [Spy/Intrigue Novels](https://dar.to/2uK0saf "Read a Spy/Intrigue Novel")
+* [Movie Based on a Book](https://dar.to/2sIFYNB "Movie Based on a Book")
+* [Travel Guides](https://dar.to/2ubdmB4 "Travel Guides")
+* [Books Loved by Book Groups](https://dar.to/2uJFPLb "Read a Book Loved by Book Groups")
+* [Psychological Suspense Novel](https://dar.to/2sIQ7tC "Read a Psychological Suspense Novel")
+* [Set During War Time](https://dar.to/2tBukaj "Set During War Time")
+* [Books by International Authors](https://dar.to/2v5b4Qh "Books by International Authors")
+* [Books Set in the Future](https://dar.to/2u1zLQX "Books Set in the Future")
+* [Enjoy some Sci-Fi](https://dar.to/2sIxk1T "Enjoy some Sci-Fi")
+* [Celebrity Memoirs](https://dar.to/2tGTeUq "Celebrity Memoirs")
+* [Books Written in 2017](https://dar.to/2t6Z1AN "Books Written in 2017")
+* [Sports Books](https://dar.to/2sXxV3O "Sports Books")
+* [Short Stories](https://dar.to/2sYc2Bl "Short Stories")
+* [Books with Numbers in the Titles](https://dar.to/2sY9nHS "Books with Numbers in the Titles")
 </div>
 </div>
