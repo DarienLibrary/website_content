@@ -108,8 +108,10 @@ Currently useful items withdrawn by reason of condition, loss or damage will be 
 Suggestions are welcome and we will consider all requests from Darien residents using the same selection criteria that we use for the collection.
 
 If an item is unavailable for purchase we will attempt to obtain the item via Inter Library Loan for Darien residents to the best of our ability.
+<br />
+<br />
 
-#Controversial Materials and Intellectual Freedom:
+#### Controversial Materials and Intellectual Freedom:
 Darien Library does not promote particular beliefs or views. The Library provides materials for the various opinions, which can apply to important, complex, and controversial questions, including unpopular and unorthodox viewpoints. Language, situations, or subjects that may be offensive to some community members do not disqualify material whose value is to be judged in its entirety.
 
 The Library recognizes parents and legal guardians as the parties responsible for the reading and viewing habits of their children. The selection of materials for the adult collection is not restricted by the possibility that children may obtain materials their parents or guardians consider inappropriate.
@@ -121,6 +123,29 @@ In the interest of protecting the individual’s right to have access to materia
 * [First Amendment of the Constitution](http://www.ala.org/advocacy/intfreedom/censorshipfirstamendmentissues/firstamendment "First Amendment of the Constitution")
 * [Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill "Library Bill of Rights") Adopted June 18, 1948, amended February 2, 1967, and June 23, 1980, inclusion of “age” reaffirmed January 23, 1996, by the ALA Council.
 * [The Freedom to Read Statement](http://www.ala.org/advocacy/intfreedom/statementspols/freedomreadstatement "The Freedom to Read Statement") – Adopted June 25, 1953; revised January 28, 1972, January 16, 1991, July 12, 2000, June 30, 2004, by the ALA Council and the AAP Freedom to Read Committee.
+
+<br />
+<h4><i class="fa fa-chevron-right"></i> Appendix A</h4>
+The Local History and Genealogy collection of the Darien Library provides a wealth of historical and genealogical resources that focus on Darien, Fairfield County, and Connecticut. In addition, the collection offers genealogy research guides and reference works that focus on North American and European ancestry. The Library is committed to its important role in preserving the history of the town of Darien and making those materials accessible to patrons from many backgrounds, as well as to providing high-quality materials to genealogical researchers. The majority of this collection does not circulate, and its primary purpose is to inform and educate, making it quite different from the rest of the Library’s collection. Accordingly, the policy governing its growth and maintenance is different as well.
+<br />
+<br />
+
+#### Selection Guidelines:
+The following criteria are considered when adding materials to the collection:
+* Geographic relevance
+* Families of local interest
+* Accuracy and ease of use
+* Price, availability, and condition
+* Digital access
+<br />
+
+#### Gifts:
+Gifts and donations are important supplements to the collection. The Library will accept gifts of local (Darien) family histories, local histories for all towns in Connecticut, and material otherwise related to Darien. The Library will not accept family bibles, personal papers, artifacts, or items in poor condition.
+<br />
+<br />
+
+#### Collection Maintenance:
+Historical and genealogical resources are rarely removed. Research guides and reference works are updated as new materials become available. Because of the unique nature of the materials, the collection is predominantly non-circulating.
 
 <div class="margin-bottom-30"></div>
 
