@@ -38,45 +38,6 @@ Are you ready? Let’s play!
 </div>
 <br />
 
-<h3 style="color: #2193b2;">Three Programs</h3>
-
-<div class="row">
-<div class="col-md-4">
-
-#### Books and Bikes
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/mary_simses_asr.jpg" alt="Mary Simses" title="Let's Go!" />
-Saturday, June 10th at 2 p.m.<br />
-Courtyard<br />
-
-Attendees are invited to ride their way to the Library’s courtyard to meet local author Mary Simses and learn bicycle maintenance tips from the experts at Schwinn Bicycle. Win a book, a bike, or some handy bicycle accessories. Refreshments will be served and books will be sold. [Details](https://dar.to/2qnTnfO "More information about Books and Bikes")
-
-
-</div>
-<div class="col-md-4">
-
-#### Book Readers Festival
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/book_readers_festival_logo_asr.jpg" alt="Book Readers Festival" title="Book Readers Festival" />
-Monday, June 19th, 11 a.m. to 1 p.m.<br />
-Courtyard<br />
-
-We're celebrating readers this summer! Join us at the [Book Readers Festival](https://dar.to/2qo0cOb "More information about the Book Readers Festival") to discover your favorite new books. Our Readers' Advisors will share books from their favorite genres. We'll help you decide what to read next. Take a leap of courage and try something new!
-
-</div>
-<div class="col-md-4">
-
-#### Bingo Night
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/bingo_red_numbers.jpg" alt="Bingo Pieces" title="Bingo Night" />
-
-Sunday, July 23rd <br />
-Community Room<br />
-
-Get ready to shout Bingo! Whether you’re a novice or seasoned player, all are welcome to join us for an evening of epic bingo battles at the first ever Adult Summer Reading Bingo Night. Refreshments, giveaways and lots of healthy competition will be on hand during this free event. [Register](https://dar.to/2sm8s02 "Register for Bingo Night")
-
-</div>
-</div>
-
-
-
 <div style="background-color:#b2c8ce; padding:10px;">
 
 <h3 style="color: #2193b2;">Thumbtastic Reviews</h3>
