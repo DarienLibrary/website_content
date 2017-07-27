@@ -126,7 +126,7 @@ In the interest of protecting the individual’s right to have access to materia
 
 <br />
 <h4><i class="fa fa-chevron-right"></i> Appendix A</h4>
-The Local History and Genealogy collection of the Darien Library provides a wealth of historical and genealogical resources that focus on Darien, Fairfield County, and Connecticut. In addition, the collection offers genealogy research guides and reference works that focus on North American and European ancestry. The Library is committed to its important role in preserving the history of the town of Darien and making those materials accessible to patrons from many backgrounds, as well as to providing high-quality materials to genealogical researchers. The majority of this collection does not circulate, and its primary purpose is to inform and educate, making it quite different from the rest of the Library’s collection. Accordingly, the policy governing its growth and maintenance is different as well.
+The Local History and Genealogy collection of the Darien Library provides a wealth of historical and genealogical resources that focus on Darien, Fairfield County, and Connecticut. In addition, the collection offers genealogy research guides and reference works. The Library is committed to its important role in preserving the history of the town of Darien and making those materials accessible to patrons from many backgrounds, as well as to providing high-quality materials to genealogical researchers. The majority of this collection does not circulate, and its primary purpose is to inform and educate, making it quite different from the rest of the Library’s collection. Accordingly, the policy governing its growth and maintenance is different as well.
 <br />
 <br />
 
