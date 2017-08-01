@@ -139,17 +139,17 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 </div>
 <div class="col-md-6">
 
-<a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/zinio_icon.png" alt= "Zinio" /></a>
+<a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/rbdigital_logo.jpg" alt= "RBdigital" /></a>
 
-### Zinio
+### RBdigital
 
-[View the Zinio Catalog](https://dar.to/2oY1hgj "Zinio")
+[View the RBdigital Catalog](https://dar.to/2oY1hgj "RBdigital")
 
-Enjoy online access to 30+ downloadable magazines. You can read magazines on your computer or download the _Zinio for Libraries_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://dar.to/2oY1hgj "Online magazines") to select your next magazine and not Zinio.com.
+Enjoy online access to 30+ downloadable magazines. You can read magazines on your computer or download the _RBdigital_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://dar.to/2oY1hgj "Online magazines") to select your next magazine.
 
 * e-Magazines
 
-[Get Zinio Help](https://dar.to/2p5Xx7B "Zinio help")
+[Get RBdigital Help](https://dar.to/2p5Xx7B "RBdigital help")
 
 </div>
 </div>
