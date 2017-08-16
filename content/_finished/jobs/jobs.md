@@ -4,8 +4,15 @@
 <br />
 <br />
 
-### [Knowledge and Learning Services Librarian](/jobs-kls "Knowledge and Learning Services Librarian")
-Do you find joy in curiosity? Do you love to go the extra mile to help a patron? Is your glass always half full? The Darien Library (CT) Knowledge and Learning Services Department is looking to add a new member to be an active part of a close-knit, forward-thinking reference team. The ideal candidate is passionate about the future of reference and seeking a position with growth potential. This is a unique opportunity for a librarian who is equally excited about community interaction, parsing data, and creating cutting-edge reference services. 
+#### [Part-Time Program Specialist](/jobs-pt-programs "Part-Time Program Specialist")
+Darien Library (CT) seeks a dynamic, community-minded Program Specialist. The ideal candidate is highly collaborative, creative, and flexible while dedicated to providing extreme customer service to patrons. This opportunity is perfect for a MLIS student or person looking to rejoin the workforce.
+ 
+Reporting to the Head of Adult Programming and Community Engagement, the Specialist supports and implements innovative public programming for adults. The Adult Programming and Community Engagement Department works to position Darien Library as a vibrant hub of intellectual and creative activity, with a wide range of lectures, performances, hands-on workshops, town-wide events, and out-of-the-box library programs for adults.
+<br />
+<br />
+
+### [Part-Time Reference Assistant](/jobs-pt-kls "Part-Time Reference Assistant")
+Darien Library (CT) is seeking a friendly, energetic, dedicated self-starter with excellent reference and technology skills to provide extraordinary customer service and technology support to library users.
 
 </div>
 <div class="col-md-6">
