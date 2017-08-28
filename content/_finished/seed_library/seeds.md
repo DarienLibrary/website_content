@@ -64,19 +64,25 @@ Flowers
 <div class="col-md-4">
 
 **Annuals**
+* Autumn Beauty Sunflower
 * Black-eyed Susan Vine
+* Citrus Sunflower
 * Cosmos – Double Click Bi-color Pink
 * Cosmos – Seashells Mix
 * Edible Sunflowers
 * Flax – Scarlett
 * Giant Coral Zinnia
 * Giant Sunflowers – Heirloom Titan
+* Jerusalem Gold Hybrid Sunflower
 * Lupine – Pixie Delight
 * Lemon Queen
+* Mammoth Sunflower
 * Marigold – Queen Sophia
+* Morning Glory Heavenly Blue
 * Sunspot
 * Tip Top Nasturtium
 * Torch
+* Velvet Queen Sunflower
 * Zinnia – Paintbrush Mixed Colors
 <br />
 
@@ -103,6 +109,7 @@ Flowers
 * Echinacea – Purple Coneflower
 * Lupine – Russell Blend
 * Shasta Daisy - Alaska
+* Swamp Milkweed
 * Verbena – Brazilian Vervain
 <br />
 
@@ -144,6 +151,7 @@ Herbs
 * Lamb’s Ears
 * Lavender Lady – Lavendula angustifolia
 * Lemon Balm
+* Mammoth Dill Heirloom
 * Marjoram - Sweet
 * Oregano – Ferry Morse
 * Oregano – Origanum vulgar hirtum
@@ -191,8 +199,10 @@ Vegetables
 * Bush Filet – French Filet
 * French Long Podded Shelling Beans
 * Garden Bean- Heavy Harvest
+* Garden Bean – Kentucky Wonder
 * Garden Bean – Kitchen King
 * Garden Bean – Tendergreen
+* Lima Bean – Ford Hook 242
 * Windsor Fava Bean
 
 **Beets**<br />
@@ -255,6 +265,7 @@ Vegetables
 * Casino (Sweet)
 * Delectable (Sweet)
 * Earth Tones
+* Inca Blue Indian Corn
 * Strawberry
 
 **Cucumber**<br />
@@ -265,9 +276,10 @@ Vegetables
 * Marketmore
 * Persian Baby
 * Persian Baby – Green Fingers
+* Pickle Barrel Hybrid
 * Spacemaster
 * Sweet Armenia – Heirloom
-* True lemon
+* True Lemon
 <br />
 
 </div>
@@ -296,6 +308,7 @@ Vegetables
 
 **Lettuce**<br />
 * Australian Yellowleaf
+* Bibb Lettuce
 * Black Seeded Simpson
 * Buttercrunch
 * Chef’s Medley
@@ -308,6 +321,7 @@ Vegetables
 * Romaine – Little Gem
 * Romaine - Freckles
 * Rouge d’Hiver
+* Simpson Elite
 
 **Melon**<br />
 * Cantaloup – Hearts of Gold
@@ -341,6 +355,7 @@ Vegetables
 **Peppers**<br />
 * Ancho Gigantea
 * Georgia Flame
+* Habanero Hot Pepper
 * Heirloom Italian Sweet Peppers Sunset Mix
 * Jalapeño, Traveler Strain
 * Red Habanero
