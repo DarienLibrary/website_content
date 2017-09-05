@@ -30,9 +30,11 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 <br />
 
 ### Featured Museum
-We have a brand new pass available! Founded in 1958, [Earthplace](https://dar.to/2o6BZHK "Earthplace") in Westport is a 62 acre trailed wildlife sanctuary with an interactive natural history museum, a nature center and wildlife for public viewing.
+[Frank Lloyd Wright at 150: Unpacking the Archive](https://dar.to/2eCqkOo "Frank Lloyd Wright at 150") through October 1st
+The exhibition comprises approximately 450 works made from the 1890s through the 1950s, including architectural drawings, models, building fragments, films, television broadcasts, print media, furniture, tableware, textiles, paintings, photographs, and scrapbooks, along with a number of works that have rarely or never been publicly exhibited. Only at the Museum of Modern Art. <br />
+[Reserve a Pass to MoMA](https://dar.to/2f0ZpMV "Reserve a Pass to MoMA")
 
-<a href="https://dar.to/2o6BZHK"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/earthplace_logo.jpg" alt="Earthplace" /></a>
+<a href="https://dar.to/2eCqkOo"><img class="img-responsive center-block" src="https://www.darienlibrary.org/uploads/departments/mallory/art/frank_lloyd_wright_talk.jpg" alt="Frank Lloyd Wright" /></a>
 
 </div>
 </div>
