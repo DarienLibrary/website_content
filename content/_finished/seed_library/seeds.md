@@ -64,22 +64,28 @@ Flowers
 <div class="col-md-4">
 
 **Annuals**
+* Alyssum – Carpet of Snow
 * Autumn Beauty Sunflower
 * Black-eyed Susan Vine
 * Citrus Sunflower
 * Cosmos – Double Click Bi-color Pink
+* Cosmos – Psyche White
 * Cosmos – Seashells Mix
 * Edible Sunflowers
 * Flax – Scarlett
 * Giant Coral Zinnia
 * Giant Sunflowers – Heirloom Titan
+* Great Quaking Grass
 * Jerusalem Gold Hybrid Sunflower
 * Lupine – Pixie Delight
 * Lemon Queen
 * Mammoth Sunflower
 * Marigold – Queen Sophia
 * Morning Glory Heavenly Blue
+* Nasturtium - Mahogany
 * Sunspot
+* Sweet Pea – Perfume Delight
+* Sweet Pea – Old Spice Blend
 * Tip Top Nasturtium
 * Torch
 * Velvet Queen Sunflower
@@ -111,6 +117,7 @@ Flowers
 * Shasta Daisy - Alaska
 * Swamp Milkweed
 * Verbena – Brazilian Vervain
+* Viola – Johnny-Jump-up
 <br />
 
 
@@ -387,6 +394,9 @@ Vegetables
 
 **Rutabaga**<br />
 * American Purple Top
+
+**Sorrel**<br />
+* Common Sorrel
 
 **Squash**<br />
 * Acorn – Table King
