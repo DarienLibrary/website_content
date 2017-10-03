@@ -67,7 +67,10 @@ Flowers
 * Alyssum – Carpet of Snow
 * Autumn Beauty Sunflower
 * Black-eyed Susan Vine
+* Chrysanthemum Mini - Red
 * Citrus Sunflower
+* Cleome – White
+* Cockscomb Flower
 * Cosmos – Double Click Bi-color Pink
 * Cosmos – Psyche White
 * Cosmos – Seashells Mix
@@ -75,7 +78,9 @@ Flowers
 * Flax – Scarlett
 * Giant Coral Zinnia
 * Giant Sunflowers – Heirloom Titan
+* Godetia
 * Great Quaking Grass
+* Impatiens  
 * Jerusalem Gold Hybrid Sunflower
 * Lupine – Pixie Delight
 * Lemon Queen
@@ -83,6 +88,7 @@ Flowers
 * Marigold – Queen Sophia
 * Morning Glory Heavenly Blue
 * Nasturtium - Mahogany
+* Pansy - Blue
 * Sunspot
 * Sweet Pea – Perfume Delight
 * Sweet Pea – Old Spice Blend
@@ -96,10 +102,16 @@ Flowers
 <div class="col-md-4">
 
 **Biennials**
+* Black-Eyed Susan 
 * Hollyhock – Charter’s Double
 * Hollyhock – Happy Lights
 * Hollyhock – Indian Spring
+* Money Plant – Lunaria
 * Sweet William – Lace Mantle
+<br />
+
+**Wild Flower Mixes**
+* Six Native Varities
 <br />
 
 </div>
@@ -114,10 +126,15 @@ Flowers
 * Dianthus – Ipswich Pnks
 * Echinacea – Purple Coneflower
 * Lupine – Russell Blend
+* Meadow Rue – Lavender Mist
+* Primrose Mix
 * Shasta Daisy - Alaska
 * Swamp Milkweed
+* Sweet Pea – Lathyrus Latijolius
 * Verbena – Brazilian Vervain
 * Viola – Johnny-Jump-up
+* Wild Columbine - Light Purple
+* Winter Aconite – Eranthis hyemalis – Yellow
 <br />
 
 
@@ -204,6 +221,7 @@ Vegetables
 
 **Beans**<br />
 * Bush Filet – French Filet
+* Dwarf Horticultural Bean
 * French Long Podded Shelling Beans
 * Garden Bean- Heavy Harvest
 * Garden Bean – Kentucky Wonder
