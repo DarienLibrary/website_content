@@ -1,6 +1,6 @@
 <div class="row margin-bottom-30">
 <div class="col-md-6">
-	Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. 
+Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. 
 <br />
 <br />
 
@@ -11,8 +11,10 @@ Reporting to the Head of Adult Programming and Community Engagement, the Special
 <br />
 <br />
 
-### [Part-Time Reference Assistant](/jobs-pt-kls "Part-Time Reference Assistant")
-Darien Library (CT) is seeking a friendly, energetic, dedicated self-starter with excellent reference and technology skills to provide extraordinary customer service and technology support to library users.
+### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
+Darien Library (CT) is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users. 
+<br />
+<br />
 
 </div>
 <div class="col-md-6">
