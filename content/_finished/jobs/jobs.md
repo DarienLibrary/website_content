@@ -4,13 +4,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
-#### [Part-Time Program Specialist](/jobs-pt-programs "Part-Time Program Specialist")
-Darien Library (CT) seeks a dynamic, community-minded Program Specialist. The ideal candidate is highly collaborative, creative, and flexible while dedicated to providing extreme customer service to patrons. This opportunity is perfect for a MLIS student or person looking to rejoin the workforce.
- 
-Reporting to the Head of Adult Programming and Community Engagement, the Specialist supports and implements innovative public programming for adults. The Adult Programming and Community Engagement Department works to position Darien Library as a vibrant hub of intellectual and creative activity, with a wide range of lectures, performances, hands-on workshops, town-wide events, and out-of-the-box library programs for adults.
-<br />
-<br />
-
 ### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
 Darien Library (CT) is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users. 
 <br />
