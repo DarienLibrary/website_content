@@ -96,14 +96,19 @@ to historic and contemporary design.<br />
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2eCqkOo"><img class="img-responsive center-block" src="https://www.darienlibrary.org/uploads/departments/mallory/art/frank_lloyd_wright_talk.jpg" alt="Frank Lloyd Wright" /></a>
+<a href="https://dar.to/2eCqkOo"><img class="img-responsive center-block" src="https://www.darienlibrary.org/uploads/departments/readers_advisory/tiffany_lamps.jpg" alt="Tiffany Lamps" /></a>
 <br />
+
+[Photo](https://dar.to/2xie0JX "Photo") by nostri-imago / [CC BY 2.0](https://dar.to/2xhMoVA "CC BY 2.0")
 </div>
 <div class="col-md-8">
 
-[Frank Lloyd Wright at 150: Unpacking the Archive](https://dar.to/2eCqkOo "Frank Lloyd Wright at 150") through October 1st
-The exhibition comprises approximately 450 works made from the 1890s through the 1950s, including architectural drawings, models, building fragments, films, television broadcasts, print media, furniture, tableware, textiles, paintings, photographs, and scrapbooks, along with a number of works that have rarely or never been publicly exhibited. Only at the Museum of Modern Art. <br />
-[Reserve a Pass to MoMA](https://dar.to/2f0ZpMV "Reserve a Pass to MoMA")<br />
+[Henry Luce III Center](https://dar.to/2xhrLJ9 "Henry Luce III Center")
+The new Henry Luce III Center on the fourth floor opened in April and is home to the Center for Women’s History which focuses on the contributions that women have made in New York and nationally. The center also has a Gallery of Tiffany Lamps featuring 100 illuminated Tiffany lamps from their spectacular collection. <br />
+<br />
+Did you know that the DiMenna Children's History Museum is the first-ever museum bringing American history to life through the eyes of children! It is in the lower level of the New-York Historical Society. Designed for children ages 8 to 13 and most families can explore the children’s museum in one visit.<br />
+
+[Reserve a Pass to NY Historical Society](https://dar.to/2j4ftlD "Reserve a Pass to NY Historical Society")<br />
 
 </div>
 </div>
