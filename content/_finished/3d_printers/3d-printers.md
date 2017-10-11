@@ -88,7 +88,7 @@ Darien Library offers 3D printing services to all users. Objects to be printed s
 <br />
 
 #### Printing Errors    
-You will not be charged for misprints caused by our error or printer malfunction, however we are not responsible for designs flaws and you will be charged for all successful prints. Not all designs can be successfully printed and library staff may make a determination that our equipment cannot print a particular design. Printed items which are not picked up within 10 days will be disposed of however you will still be responsible for the cost.
+You will not be charged for misprints caused by our error or printer malfunction, however we are not responsible for designs flaws and you will be charged for all successful prints. All prints will be printed with rafts and supports (if necessary).  Not all designs can be successfully printed and library staff may make a determination that our equipment cannot print a particular design. Printed items which are not picked up within 10 days will be disposed of however you will still be responsible for the cost.
 <br />
 <br />
 
