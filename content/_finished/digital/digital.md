@@ -78,15 +78,10 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 
 ### Bibliotheca
 
-[View the Bibliotheca Catalog](https://dar.to/2pYrprC "cloudLibrary")
-
-Download the cloudLibrary app to your mobile device from the Apple or Android app store. cloudLibrary makes reading your book between different devices seamless. cloudLibrary was formally the 3M Cloud Library.
-
-* e-Books
-* e-Audiobooks
-
-[Bibliotheca computer app](https://dar.to/2pwV6P2 "Bibliotheca")<br />
-[Get Bibliotheca Help](https://dar.to/2oXTyPj "Bibliotheca help")
+Looking for CloudLibrary, 3M, or Biblotheca? This digital service provider (with three names!) is no longer offered by Darien Library. You can still access great e-Books and e-Audiobooks by using [OverDrive](https://dar.to/2qyVM4X "OverDrive") or [Hoopla Digital](https://dar.to/2p8K27Z "Hoopla"). Just search your app store for either Libby by OverDrive or Hoopla Digital. Then log in with your Darien Library barcode number located on the back of your library card. 
+ 
+OverDrive also offers access to Kindle books while Hoopla has movies, music, and comic books in addition to e-Books and e-Audiobooks.
+ 
 <br />
 <br />
 
