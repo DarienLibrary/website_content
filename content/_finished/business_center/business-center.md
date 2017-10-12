@@ -110,6 +110,8 @@ WiFi
       Photo Printing
 <div class="margin-bottom-10"></div>    
       Print your photos on glossy paper in sizes ranging from 4 x 6 in. to 13 x 19 in.
+
+<a href="/submit-photo-print" alt="Submit your print order">Submit your print order</a>
   </div>
 </div>
 
