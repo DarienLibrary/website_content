@@ -1,16 +1,21 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Dana Goodfellow
+### Current Exhibit: Erin Dolan
 
-**Wednesday, September 6th through Friday, October 20th**
+**Tuesday, October 24th through Monday, December 11th**
+<br />
+<br />
+
+### Reception
+Friday, November 3rd from 6:30 to 8 p.m.
 <br />
 <br />
  
 #### About the Artist
-Dana Goodfellow is an award winning painter who works out of her Darien, CT studio. A third generation artist, her works are based on strong compositions, values, and color harmony. Describing herself as a “colorist”, Goodfellow’s unique ability to blend and harmonize colors was perfected during an earlier career in the fashion industry in New York City. Within the last 20 years she has won many awards, has been included in juried exhibits, and has presented numerous solo shows in the Northeast. Her work can be found in private collections throughout the U.S. and has been featured in local publications. She paints both realism and abstract work and teaches at The Rowayton Arts Center.
+Erin Dolan is an abstract painter, collage artist and sculptor who has been creating art for the past 25 years.  Erin grew up on the east end of Long Island and attended Southern Methodist University in Dallas TX where she studied painting, printmaking and sculpture (while on a full athletic scholarship). After graduating from SMU with a BFA in Fine Art, she moved to New York City to continue her career as an artist and scholar, receiving a Masters of Art in Art Education from New York University.
 
-A member of many organizations she is an artist member of the prestigious Salmagundi Club in NY, the New Haven Paint Club, the Greenwich Art Assoc., the Art Alliance of East Hampton and the Rowayton Arts Center.
+An Art Educator and Artist having taught Art in a variety of public and private schools and museums in Manhattan for 10 years prior to moving out of New York City, to Hawaii, where she worked with the non-profit Rock n Renew. Recently, moving back to the east coast, and settling outside the city in Norwalk, Ct, Erin currently teaches Upper School Art at Rye Country Day School and is a member of Wilson Avenue Loft Artists in Norwalk, Ct, and the Artistic Director for the Rock ‘n’ Renew Foundation.
 <br />
 <br />
 
@@ -23,7 +28,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/Goodfellow_Dana_The%20Curl_oil%2015x30.jpg" alt="Dana Goodfellow" />
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/erin_dolan_NYC-waikiki.jpg" alt="Erin Dolan's NYC Waikiki" />
  
 </div>
 </div>
