@@ -17,7 +17,9 @@ Bring your ideas to life with one of our [3D printers](/3d-printers "3D Printers
 
 ### Technology to Take Home
 
-We offer technology for demonstrative use and as well to keep you connected on the road with a WiFi hotspot. Borrow a Roku Media Center device to access Netflix and Hulu. Find out what your car's error message means. [View the full list](/catalog/search/keyword?search=%2A&formats=equipment "View list of gadgets") of gadgets you may borrow.
+We offer technology for demonstrative use and as well to keep you connected on the road with a WiFi hotspot. Borrow a Roku Media Center device to access Netflix and Hulu. Find out what your car's error message means. [View the full list](/catalog/search/keyword?search=%2A&formats=equipment "View list of gadgets") of gadgets you may borrow. 
+
+You may also [reserve](/reserve-tech "Reserve") the projector, projector screen, camcorder, tripod, and WiFi for specific dates.
 <br />
 <br />
 
@@ -38,7 +40,7 @@ We're not all play, we also help you work. The [Business Center](/business-cente
 <br/>
 
 ### Wireless Printing
-Everyone may print wirelessly from home or in the Library using our [Mobile Print Service](https://www.printeron.net/dl/main "Mobile Print Service").You will need to visit the print release station on the second floor to complete your transaction. 
+Everyone may print wirelessly from home or in the Library using our [Mobile Print Service](https://dar.to/2gAeFAH "Mobile Print Service").You will need to visit the print release station on the second floor to complete your transaction. 
 <br />
 <br />
 

@@ -10,17 +10,6 @@ Jan Smith, Secretary
 <br />
 <br />
 
-### Terms Expiring 2017
-Amy Cammann Cholnoky<br />
-Robert A. N. Cudd<br />
-Tara B. Ochman<br />
-David C. Ott<br />
-Todd Raker<br />
-Tamara Sload<br />
-Susan Vogel
-<br />
-<br />
-
 ### Terms Expiring 2018
 Nicholas N. Branca<br />
 Alexandra Eising<br />
@@ -28,9 +17,6 @@ John P. Shutts
 <br />
 <br />
 
-</div>
-<div class="col-md-6">
-	
 ### Terms Expiring 2019
 Erika Allen<br />
 Edgar W. Barksdale Jr.<br />
@@ -43,9 +29,23 @@ James E. Steinthal
 <br />
 <br />
 
+</div>
+<div class="col-md-6">
+
+### Terms Expiring 2020
+Tori Barnett<br />
+Jay Bennett<br />
+Robert A. N. Cudd<br />
+Emily Kroenlein<br />
+David C. Ott<br />
+Tamara Sload<br />
+Susan Vogel
+<br />
+<br />
+
 ### Honorary Trustees
-Harold W. McGraw, Jr. (1918-2010)<br />
 Anne Morrow Lindbergh (1906-2001)<br />
+Harold W. McGraw, Jr. (1918-2010)<br />
 Ann S. Mandel<br />
 Stephen F. Mandel (1931-2009)<br />
 Kimberly D. Huffard<br />
