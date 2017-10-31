@@ -4,7 +4,7 @@
 
 
 ### Bloomberg Terminal
-The Bloomberg Terminal, which tracks real-time financial market data, is an invaluable financial tool whether you are a job seeker looking for openings or an aspiring investor. The Terminal is open to all patrons. Darien residents, people who work in Darien, and [Friends](/friends "Friend of the Library") may reserve the Terminal in advance. Just stop by the Reference Desk on the Second Level to make your reserve your spot. Or call [203-669-5236](tel:2036695236 "Call the Reference Desk") or [email us](mailto:askus@darienlibrary.org "Email the Reference Desk"). 
+The Bloomberg Terminal, which tracks real-time financial market data, is an invaluable financial tool whether you are a job seeker looking for openings or an aspiring investor. The Terminal is open to all patrons. Darien residents, people who work in Darien, and [Friends](/friends "Friend of the Library") may reserve the Terminal in advance. Just stop by the Reference Desk on the Second Level to reserve your spot. Or call [203-669-5236](tel:2036695236 "Call the Reference Desk") or [email us](mailto:askus@darienlibrary.org "Email the Reference Desk"). 
 <br />
 <br />
 

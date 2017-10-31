@@ -37,7 +37,7 @@ This service is limited to Darien residents, those employed full-time in Darien,
 * 3D Printing Setup
 * Basic Computer Help
 * Digitization: slides, negatives, VHS, Hi8, cassette
-* Image and Video Editing
+* Image and Video Editing: Photoshop
 * Microsoft Word, PowerPoint, Excel
 * Online Safety
 * Social Media

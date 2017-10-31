@@ -59,37 +59,17 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 		<h3>CD/DVD Replicator</h3>
 		<p>Burn up to 10 CDs or DVDs at once!</p>
 	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>3D Mouse</h3>
-		<p>Use the 3DConnexion mouse to navigate in Google Earth.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Wacom Bamboo Tablet</h3>
-		<p>Use the Wacom tablet to create art, sign documents, or help relieve pain from Carpal Tunnel Syndrome.</p>
-	</div>
-</div>
-
-<div class="row margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
+		<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Scanner</h3>
 		<p>Scan your photos, documents, 35mm slides, and 35mm negatives.</p>
 	</div>
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Headphones</h3>
-		<p>Use these monitoring headphones for great feedback on your records in the DML.</p>
+		<p>Use these monitoring headphones for great feedback on your audio in the DML.</p>
 	</div>
-	<div class="col-sm-2">
-		<h3>External Hard Drives</h3>
-		<p>Check out an external hard drive to take your project files home. Compatible with Macs and PCs.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Record LPs to MP3</h3>
-		<p>Love the scratching sound of a record player? Digitize your records to keep it around.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Light Box</h3>
-		<p>Use this light box to film or take photos of your Etsy items!</p>
-	</div>
+</div>
+
+<div class="row margin-bottom-30">
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Yeti Microphone</h3>
 				<p>With three mics available, you can bring along friends to record a podcast, singing, and so much more!</p>
