@@ -142,11 +142,11 @@ Capacity: 22 conference seating; 40 presentation seating
 </div>
   <div class="row margin-bottom-30">
  <div class="col-xs-12 col-sm-4 col-md-4">
-      <img src="/uploads/library_building/interior/conference_room.jpg" class="img-responsive" alt="Conference Room" />
+      <img src="/uploads/library_building/interior/conference_room_2017.jpg" class="img-responsive" alt="Conference Room" />
   </div>
   <div class="col-xs-12 col-sm-8 col-md-8">
 
-The Conference Room is ideal for a more intimate group meeting or presentation. The Room features six tables that can be configured as one long conference table or rearranged to meet the needs of your group. Additionally, a large sidebar is available for placement of refreshments or other items. The Conference Room is located on the Mezzanine Level of the Library.
+The Conference Room is ideal for a more intimate group meeting or presentation. The Room features twelve tables that can be configured as one long conference table or rearranged to meet the needs of your group. Additionally, a large sidebar is available for placement of refreshments or other items. The Conference Room is located on the Mezzanine Level of the Library.
 
 Amenities include a large LCD screen, cable TV access, and a sidebar counter.
 
@@ -165,7 +165,7 @@ Capacity: 12
 </div>
   <div class="row margin-bottom-30">
  <div class="col-xs-12 col-sm-4 col-md-4">
-     <img src="/uploads/library_building/interior/tech_center.jpg" class="img-responsive" alt="Technology Training Center" />
+     <img src="/uploads/library_building/interior/tech_center_2017.jpg" class="img-responsive" alt="Technology Training Center" />
   </div>
  <div class="col-xs-12 col-sm-8 col-md-8">
 
