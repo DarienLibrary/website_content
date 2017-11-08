@@ -1,3 +1,4 @@
+[Print this policy](/uploads/pdfs/policies/patron_behavior_policy.pdf "Print this policy")<br />
 <h4><i class="fa fa-chevron-right"></i> Purpose</h4>
 
 In an effort to provide a comfortable and safe environment for all Library patrons, the Board of Trustees of the Darien Library has established a Library Patron Behavior Policy. The Policy is designed to provide clear and reasonable guidelines governing patron behavior within the Library and on the Library premises.

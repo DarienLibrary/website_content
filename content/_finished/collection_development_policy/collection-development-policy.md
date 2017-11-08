@@ -1,3 +1,5 @@
+[Print this policy](/uploads/pdfs/policies/collection_development_policy.pdf "Print this policy")<br />
+
 Darien Library is a free, non-sectarian public library whose aim is to provide a currently useful collection of materials representing different points of view for the educational, informational and recreational opportunities of its users and to give guidance in its use.
 
 It is the primary objective of the Library to provide and organize materials for people from infancy through maturity, making available carefully selected materials of purpose and quality that will meet the needs and interests of the users of the Darien community. Sensitivity to all interests, early recognition of needs before they are clearly expressed, and range of viewpoint mark the outstanding collection.
@@ -12,14 +14,14 @@ The purpose of this document is to establish the rules by which the Library deve
 <br />
 <h4><i class="fa fa-chevron-right"></i> Objectives</h4>
 
-To provide resources and materials which inform, educate, entertain and enrich our community
-To include works of enduring value as well as those timely materials on current issues
-To select materials based on community needs and interests
-To supplement resources through the use of electronic access and interlibrary loan
-To help people learn new skills, and improve literacy
-To increase social awareness and community involvement
-To preserve and encourage the free expression of ideas essential to an informed citizenry
-<br />
+* To provide resources and materials which inform, educate, entertain and enrich our community
+* To include works of enduring value as well as those timely materials on current issues
+* To select materials based on community needs and interests
+* To supplement resources through the use of electronic access and interlibrary loan
+* To help people learn new skills, and improve literacy
+* To increase social awareness and community involvement
+* To preserve and encourage the free expression of ideas essential to an informed citizenry
+
 <br />
 <h4><i class="fa fa-chevron-right"></i> Scope of the Collection</h4>
 
@@ -69,18 +71,12 @@ All or some of the following criteria may be considered when adding new items to
 * Price and availability
 * Public appeal or local interest
 * Relevance to the present and potential needs to the community
-
-Professional and special materials, such as legal, medical, and religious works, are purchased if they are of general interest.
-
-The Library does not purchase textbooks to support educational curriculums. Textbooks may be added to the collection if they provide the best or only source of information on a subject, or to complement an existing area with another perspective.
-
-Periodicals are added to the collection on the basis of relevance and community interest.
-
-Technology is selected upon usefulness, interest, and the broadness of its implications and importance.
-
-Audiovisual material is added to the Library's collection with consideration to patron demand and budget constraints. The Library acquires this material primarily in the most popular format.
-
-All works by an individual author may not be considered for purchase.
+* Professional and special materials, such as legal, medical, and religious works, are purchased if they are of general interest.
+* The Library does not purchase textbooks to support educational curriculums. Textbooks may be added to the collection if they provide the best or only source of information on a subject, or to complement an existing area with another perspective.
+* Periodicals are added to the collection on the basis of relevance and community interest.
+* Technology is selected upon usefulness, interest, and the broadness of its implications and importance.
+* Audiovisual material is added to the Library's collection with consideration to patron demand and budget constraints. The Library acquires this material primarily in the most popular format.
+* All works by an individual author may not be considered for purchase.
 
 All criteria need not be met for purchase consideration.
 <br />

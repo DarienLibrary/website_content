@@ -1,3 +1,5 @@
+[Print this policy](/uploads/pdfs/policies/tutor_policy.pdf "Print this policy")<br />
+
 Darien Library recognizes the benefit to the students and parents of the community for tutoring to be allowed within the Library. The following procedures are intended to provide a balance between the use of the Library by tutors and their clients, and the use of the Library by other members of the community. 
 
 In order for Darien Library to assure that tutoring is in line with the Library's service to the community, the following is applicable to all tutoring with the Library: 

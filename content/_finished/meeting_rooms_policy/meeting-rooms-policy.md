@@ -1,3 +1,5 @@
+[Print this policy](/uploads/pdfs/policies/meeting_rooms_policy.pdf "Print this policy")<br />
+
 <h4><i class="fa fa-chevron-right"></i> Statement of Policy</h4>
 
 The Darien Library subscribes to Article IV of the Library Bill of Rights which states that facilities should be made available to the public served by the Library on an equitable basis, regardless of the beliefs or affiliations of individuals or groups requesting their use.

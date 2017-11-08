@@ -27,6 +27,8 @@ Darien Library recognizes the benefit to the students and parents of the communi
 
 [View the Tutor Policy](/tutor-policy "Tutor Policy")
 
+<br />
+
 </div>
 <div class="col-md-6">
 
