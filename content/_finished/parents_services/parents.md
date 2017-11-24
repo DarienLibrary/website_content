@@ -19,16 +19,15 @@ Start your pre-reader early on the path to litearcy with our [Early Literacy iPa
 <br />
 <br />
 
+### Elementary iPads
+For children ages 5 to 9-years old, borrow an [Elementary iPad](/catalog/work/165370 "Elementary iPad"). The apps are organized into folders similar to our non-fiction section. App topics: coding, creationg, facts, fun, interactive books, math, reading, and science. [View the current selection of apps](/elementary-iPads "View the current selection of apps")
+<br />
+<br />
+
 ### Tween Tabs
 Keep your 8 to 12-year-olds busy with a [Tween Tab](/catalog/work/51230 "Tween Tab") and sneak in some learning while they play. These iPads feature games related to history, poetry, coding, <abbr title="Science Technology Engineering Mathematics">STEM</abbr> education, literature, languages, sports, eBooks, and more. [View the current selection of apps](/tweentabs "View the current selection of apps")
 <br />
 <br />
-
-### Scout Visits to the Library 
-Do your Scouts need to earn their Library Badge? Email the [Children's Library](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") to schedule your visit.
-<br />
-<br />
-
 </div>
 <div class="col-md-6">
 
@@ -54,7 +53,10 @@ Start your very own book club with Book Club Kits from the Children's Library. C
 * [First to Third Graders Book Choices](/list/70 "First to Third Graders Book Choices")
 * [Fourth to Sixth Graders Book Choices](/list/71 "Fourth to Sixth Graders Book Choices")
 <br />
-<br />
 
+### Scout Visits to the Library 
+Do your Scouts need to earn their Library Badge? Email the [Children's Library](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") to schedule your visit.
+<br />
+<br />
 </div>
 </div>
