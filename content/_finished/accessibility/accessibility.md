@@ -4,13 +4,13 @@
 
 ### Audiobooks
 
-We offer audiobooks in three formats: as CDs, MP3 Playaways (for children), and digital eAudiobooks. Most of the audiobooks are located on the Main Level in front of the Frosty Bear Cafe. Children’s audiobooks and Playaways are located within the Children’s Library on the left when you come in the door. Digital eAudiobooks can be downloaded from our [digital collection](/catalog/search/keyword?search=%2A&formats=eaudiobook "Download eAudiobooks").
+We offer audiobooks in three formats: as CDs, MP3 Playaways (for children), and digital e-Audiobooks. Most of the audiobooks are located on the Main Level in front of the Frosty Bear Cafe. Children’s audiobooks and Playaways are located within the Children’s Library on the left when you come in the door. Digital e-Audiobooks can be downloaded from our [digital collection](/catalog/search/keyword?search=%2A&formats=eaudiobook "Download eAudiobooks").
 <br />
 <br />
 
 ### Digital Books
 
-eBooks allow the reader to resize the text to a more comfortable reading size. You may access eBooks on your computer or on a mobile device. Just visit the app store and download the OverDrive and 3M Cloud Library apps. You will need your Darien Library card. [Search our catalog for eBooks](/catalog/search/keyword?search=%2A&formats=ebook "Search for eBooks")
+e-Books allow the reader to resize the text to a more comfortable reading size. You may access e-Books on your computer or on a mobile device. Just visit the app store and download OverDrive's Libby app. You will need your Darien Library card. [Search our catalog for e-Books](/catalog/search/keyword?search=%2A&formats=eBook "Search for e-Books")
 <br />
 <br />
 
@@ -30,7 +30,7 @@ Bathrooms are available on every level of the Library. Each bathroom is wheelcha
 
 ### Large Print Books
 
-The Large Print Books collection is located on the Main Level by the fireplace. The books include popular fiction and non-fiction. Digital books’ text size can be changed, so ask at the Front Desk about eBooks.
+The Large Print Books collection is located on the Main Level by the fireplace. The books include popular fiction and non-fiction. Digital books’ text size can be changed, so ask at the Front Desk about e-Books.
 <p>This collection is made possible thanks to the Anne R. Ferguson Large Print Book Fund, a generous endowment given to the capital fund by Eric Ferguson.
 <br />
 <br />

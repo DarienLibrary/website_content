@@ -74,20 +74,6 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
-<a href="https://dar.to/2pYrprC"><img src="/uploads/logos/cloudLibrary_icon.png" alt= "Bibliotheca" /></a>
-
-### Bibliotheca
-
-Looking for CloudLibrary, 3M, or Biblotheca? This digital service provider (with three names!) is no longer offered by Darien Library. You can still access great e-Books and e-Audiobooks by using [OverDrive](https://dar.to/2qyVM4X "OverDrive") or [Hoopla Digital](https://dar.to/2p8K27Z "Hoopla"). Just search your app store for either Libby by OverDrive or Hoopla Digital. Then log in with your Darien Library barcode number located on the back of your library card. 
- 
-OverDrive also offers access to Kindle books while Hoopla has movies, music, and comic books in addition to e-Books and e-Audiobooks.
- 
-<br />
-<br />
-
-</div>
-<div class="col-md-6">
-
 <a href="https://dar.to/2qyVM4X"><img src="/uploads/logos/overdrive_icon.jpg" alt= "OverDrive" /></a>
  
 ### OverDrive 
@@ -105,9 +91,6 @@ Download the OverDrive app to your mobile device from the Apple or Android app s
 
 
 </div>
-</div> 
-
-<div class="row margin-bottom-20">
 <div class="col-md-6">
 
 <a href="https://dar.to/2p8K27Z"><img src="/uploads/logos/hoopla_icon.png" alt= "Hoopla Digital" /></a>
@@ -120,18 +103,30 @@ Hoopla Digital provides you with access to thousands of movies and TV shows. On 
 
 If you are on a mobile device like your tablet or smartphone, you can download your checkouts to the Hoopla app. Download 7 items of any combination of movies, music, TV episodes, or audiobooks each calendar month. 
 
+<div class="row">
+<div class="col-md-6">
+
 * e-Books
 * e-Audiobooks
 * Comics
+
+</div>
+<div class="col-md-6">
+
 * Movies
 * TV Shows
 * Music
+</div>
+</div>
 
 [Get Hoopla Help](https://dar.to/2qskfM0 "Hoopla help")
 <br />
 <br />
 
 </div>
+</div> 
+
+<div class="row margin-bottom-20">
 <div class="col-md-6">
 
 <a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/rbdigital_logo.jpg" alt= "RBdigital" /></a>

@@ -17,7 +17,7 @@ To request a delivery, call Pat at [203-669-5248](tel:203-669-5248 "Call Pat").
 
 ### Digital Books
 
-eBooks allow the reader to resize the text to a more comfortable reading size. You may access eBooks on your computer or on a mobile device. Just visit the app store and download the OverDrive and 3M Cloud Library apps. You will need your Darien Library card. [Search our catalog for eBooks](/catalog/search/keyword?search=%2A&formats=ebook "Search for eBooks")
+e-Books allow the reader to resize the text to a more comfortable reading size. You may access e-Books on your computer or on a mobile device. Just visit the app store and download the Libby or Hoopla Digital apps. You will need your Darien Library card. [Search our catalog for eBooks](/catalog/search/keyword?search=%2A&formats=ebook "Search for e-Books")
 
 </div>
 </div>
