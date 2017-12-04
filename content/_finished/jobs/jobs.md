@@ -4,6 +4,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
+### [McGraw Fellowship](https://dar.to/2AolxMO "McGraw Fellowship")
+An extraordinary opportunity for an extraordinary new Children's Librarian. This fellowship funds a two-year full-salaried position for a recent Master in Library Science graduate.
+<br />
+<br />
+
 ### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
 Darien Library (CT) is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users. 
 <br />
