@@ -1,33 +1,33 @@
 <div class="row margin-bottom">
 <div class="col-md-8">
 
-### The Second Annual Novel Tea Featuring Yaa Gyasi: <em>Homegoing</em>
+### The Third Annual Novel Tea Featuring A.J. Finn: _The Woman in the Window_
 
-<strong>Wednesday, March 29th from 12 noon to 2 p.m.</strong><br />
+**Wednesday, March 28th from 12 noon to 2 p.m.**<br />
 Wee Burn Country Club<br />
 410 Hollow Tree Ridge Rd, Darien, CT
 
-Single tickets are currently on sale for $135 each ($100 is tax-deductible), and Benefactor tables may be purchased for $2,500 ($2,150 is tax-deductible). Each table seats 10 guests. 
-
-Guests at Benefactor tables will be invited to a private meet-and-greet pre-reception with Yaa Gyasi from 11:30 a.m. to 12 noon, and receive a signed copy of <em><a href="/catalog/work/44303">Homegoing</a></em>. Each Benefactor table host will receive a picture of their guests with Yaa Gyasi. 
-
-Yaa Gyasi is a recipient of the National Book Foundation's 2016 "5 Under 35" Award, and was just named to the _Forbes_ 30 Under 30 List.
+A. J. Finn has written for numerous publications, including the _Los Angeles Times_, the _Washington Post_, and the _Times Literary Supplement_. Finn’s debut novel, [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"), has been sold in thirty-eight territories worldwide and is in development as a major motion picture from Fox 2000 Studios. A native of New York, Finn lived in England for ten years before returning to New York City.
 
 <br />
 <div class="row margin-bottom-20">
 <div class="col-md-3">
-<a href="/catalog/work/44303"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/homegoing_cover.jpg" alt="Homegoing" /></a>
+<a href="/catalog/work/44303"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/woman_in_the_window_cover.jpg" alt="The Woman in the Window" /></a>
 </div> 
 <div class="col-md-9">
 
-### “Homegoing is an inspiration.” 
-—Ta-Nehisi Coates
+“Astounding. Thrilling. Amazing.” — Gillian Flynn
 
+“Unputdownable.” — Stephen King
+
+“A dark, twisty confection.” — Ruth Ware
+
+“Absolutely gripping.” — Louise Penny
 <br />
 
-All funds raised from the Novel Tea luncheon will be dedicated to Darien Library resources, including technology, purchasing new books and supporting programs and guest speakers.  
+All funds raised from the Novel Tea will be dedicated to Darien Library resources, including technology, purchasing new books and supporting programs and guest speakers.
  
-For more information, please contact the Darien Library Administrative Office at 203-669-5220.
+For more information, please contact the Darien Library Administrative Office at [203-669-5220](tel:2036695220 "Call us").
 
 </div>
 </div>
@@ -35,7 +35,7 @@ For more information, please contact the Darien Library Administrative Office at
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/yaa_gyasi_credit_michael_lionstar.jpg" alt="Yaa Gyasi" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/aj_finn.jpg" alt="A.J. Finn" />
 <br />
 
 ### Praise

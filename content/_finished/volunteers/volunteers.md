@@ -9,11 +9,11 @@ Positions include:
 * Program Assistant: smaller program assistance and prep
 
 
-If interested, please [fill out the form](https://dar.to/2AmjLJN "fill out the form") and send it to [ataylor@darienlibrary.org](mailto:ataylor@darienlibrary.org "Anna Taylor")
+If interested, please [fill out the form](https://dar.to/2AmjLJN "fill out the form") and email it to [ataylor@darienlibrary.org](mailto:ataylor@darienlibrary.org "Anna Taylor") or bring the completed form to the Children's Library.
 <br />
 <br />
 
-### Children and Adults
-The Darien Library Volunteer program for children and adults is currently full. We are not accepting applications for new volunteers at this time. For local opportunities, please check out our friends at [VolunteerSquare](https://dar.to/2j4irWZ "VolunteerSquare") – they have a lot of amazing volunteer positions available!
+### For Adults
+The Darien Library Volunteer program for adults is currently full. We are not accepting applications for new volunteers at this time. For local opportunities, please check out our friends at [VolunteerSquare](https://dar.to/2j4irWZ "VolunteerSquare") – they have a lot of amazing volunteer positions available!
  
 The Darien Library Adult Volunteer program will resume March 31, 2018. Check back for details then!

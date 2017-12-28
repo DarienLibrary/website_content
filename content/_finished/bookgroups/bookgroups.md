@@ -19,6 +19,14 @@ Yes! We ask that you work with us at least two weeks before your group needs the
 **But we really want to read the hottest bestseller!**<br /> 
 While we try to maintain a current collection of hot books, if you do not see what you are looking for, [please ask](mailto:bookgroups@darienlibrary.org "Email Book Groups")!
 
+**Can my child join a book group?**<br />
+Your child can start their own book club with one of our starter kits. Check out the books for:
+* [First to Third Graders](https://dar.to/2Bbe59v "First to Third Graders")
+* [Fourth to Sixth Graders](https://dar.to/2BbFXKo "Fourth to Sixth Graders")
+
+<br />
+<br />
+
 </div>
 <div class="col-md-8">
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/240688711' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
