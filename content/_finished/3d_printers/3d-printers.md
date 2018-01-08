@@ -71,13 +71,8 @@ Children who live in Darien and are 12 and under may use the 3D printer in the C
 
 ### Submit Your Print
 
-Submit your print request file (15mb attachment limit) or send a link to the object along with the exact specifications. Otherwise bring your digital file to the Help Desk on a flash drive or other media. You may also print an object yourself in the [Digital Media Lab](/dml "Digital Media Lab").
-
-Print time is up to 3 days from submission.
-
-<div class="margin-bottom-20"></div>
-
-<a href="/3D-print-request"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Submit Your Print Request</button></a>
+Our 3D printer is unavailable due to needed maintenance work. Enter your email below and we'll notify you when we're accepting 3D printing submissions again. 
+<script type="text/javascript" src="https://form.jotform.com/jsform/80075731679161"></script>
 </div>
 </div>
 <div class="margin-bottom-30"></div>
