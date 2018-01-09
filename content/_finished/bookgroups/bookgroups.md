@@ -42,9 +42,10 @@ Your child can start their own book club with one of our starter kits. Check out
 <br />
 
 ### Books Available to Book Groups
+* **[Request a Book in a Bag](/bookgroups-request-BIAB "Request a Book in a Bag")**
 * [Browse Books in a Bag](/catalog/search/keyword?search=%2A&ages=adult&formats=bookgroup "Browse Books in a Bag")
 * [View Themed Books in a Bag Lists](/lists/book-groups "View themed Books in a Bag")
-* [Request a Book in a Bag](/bookgroups-request-BIAB "Request a Book in a Bag")
+* [Download a Print Version of Books in a Bag](https://dar.to/2CSvUdn "Print version of Books in a Bag")
 <br />
 
 ### Book Group Videos & Help
