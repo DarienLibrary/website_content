@@ -9,7 +9,7 @@ Wee Burn Country Club<br />
 
 A. J. Finn has written for numerous publications, including the _Los Angeles Times_, the _Washington Post_, and the _Times Literary Supplement_. Finn’s debut novel, [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"), has been sold in thirty-eight territories worldwide and is in development as a major motion picture from Fox 2000 Studios. A native of New York, Finn lived in England for ten years before returning to New York City.
 
-Sponsor and Benefactor Tables are currently available for purchase, and single tickets will be on sale pending availability in February. **New this year** – the Sponsor Table will have A.J. Finn seated at their table!
+Sponsor and Benefactor Tables are currently available for purchase, and **new this year**, the Sponsor Table will have A.J. Finn seated at their table! 
 
 All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with A.J. Finn from 11:30 to 12 noon, and receive a signed copy of _The Woman in the Window_. Each table seats 10 people.
 
@@ -38,6 +38,12 @@ For more information, please contact the Darien Library Administrative Office at
 <div class="col-md-4">
 
 <img class="img-responsive center-block" src="/uploads/departments/readers_advisory/aj_finn.jpg" alt="A.J. Finn" />
+<br />
+
+### Praise
+* _People_ Magazine's [Book of the Week](https://dar.to/2mnyUFc "Book of the Week")
+* _The Wall Street Journal's_ [Twelve Books to Read This Winter](https://dar.to/2AOSkH7 "Twelve Books to Read This Winter")
+* Barnes and Nobles' [2018's First Must-Read Thriller](https://dar.to/2miquxM "2018's First Must-Read Thriller")
 <br />
 
 ### Sponsored By
