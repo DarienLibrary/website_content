@@ -1,19 +1,28 @@
 <div class="row margin-bottom">
 <div class="col-md-8">
 
-### The Third Annual Novel Tea Featuring A.J. Finn: _The Woman in the Window_
+## The Third Annual Novel Tea Featuring A.J. Finn
+### _The Woman in the Window_
 
-**Wednesday, March 28th from 12 noon to 2 p.m.**<br />
+<br />
+
+**Wednesday, March 28th from 12 to 2 p.m.**<br />
 Wee Burn Country Club<br />
 410 Hollow Tree Ridge Rd, Darien, CT
-
-A. J. Finn has written for numerous publications, including the _Los Angeles Times_, the _Washington Post_, and the _Times Literary Supplement_. Finn’s debut novel, [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"), has been sold in thirty-eight territories worldwide and is in development as a major motion picture from Fox 2000 Studios. A native of New York, Finn lived in England for ten years before returning to New York City.
+<br />
 
 Sponsor and Benefactor Tables are currently available for purchase, and **new this year**, the Sponsor Table will have A.J. Finn seated at their table! 
 
-All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with A.J. Finn from 11:30 to 12 noon, and receive a signed copy of _The Woman in the Window_. Each table seats 10 people.
+All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with A.J. Finn from 11:30 to 12 noon, and receive a signed copy of [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"). Each table seats 10 people.
 
 Single tickets will be on sale pending availability in February. Check back here for updates!
+
+<a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tickets</button></a>
+<br />
+<br />
+
+### About A.J. Finn
+A. J. Finn has written for numerous publications, including the _Los Angeles Times_, the _Washington Post_, and the _Times Literary Supplement_. Finn’s debut novel, [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"), has been sold in thirty-eight territories worldwide and is in development as a major motion picture from Fox 2000 Studios. A native of New York, Finn lived in England for ten years before returning to New York City.
 
 <br />
 <div class="row margin-bottom-20">
@@ -41,6 +50,7 @@ For more information, please contact the Darien Library Administrative Office at
 <br />
 
 ### Praise
+* #1 on _New York Times_ [Bestseller List](https://dar.to/2mOgU6X "Bestseller List")
 * _People_ Magazine's [Book of the Week](https://dar.to/2mnyUFc "Book of the Week")
 * _The Wall Street Journal's_ [Twelve Books to Read This Winter](https://dar.to/2AOSkH7 "Twelve Books to Read This Winter")
 * Barnes and Nobles' [2018's First Must-Read Thriller](https://dar.to/2miquxM "2018's First Must-Read Thriller")
@@ -49,15 +59,21 @@ For more information, please contact the Darien Library Administrative Office at
 ### Sponsored By
 
 <div class="row">
+<div class="col-md-12">
+	
+**Wyper Family Speaker Fund** 
+
+<br />
+</div>
 <div class="col-md-6">
-<a href="http://www.newcanaandarienmag.com/"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="Moffly Media" /></a>
+<a href="https://dar.to/2DevwCG"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="Moffly Media" /></a>
 <br />
 </div>
 </div> 
 
 </div>
 </div>
-
+<a name="Purchase" color="#fff"></a>
 <div id="bbox-root"></div>
 
 <script type="text/javascript">
