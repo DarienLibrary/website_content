@@ -11,11 +11,11 @@ Wee Burn Country Club<br />
 410 Hollow Tree Ridge Rd, Darien, CT
 <br />
 
-Sponsor and Benefactor Tables are currently available for purchase, and **new this year**, the Sponsor Table will have A.J. Finn seated at their table! 
+The Sponsor Table is currently available for purchase (Benefactor Tables are filled), and **new this year**, the Sponsor Table will have A.J. Finn seated at their table! 
 
 All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with A.J. Finn from 11:30 to 12 noon, and receive a signed copy of [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"). Each table seats 10 people.
 
-Single tickets will be on sale pending availability in February. Check back here for updates!
+Single tickets are now available. Please indicate any seating requests in the Comments section of the form.
 
 <a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tickets</button></a>
 <br />
@@ -50,9 +50,10 @@ For more information, please contact the Darien Library Administrative Office at
 <br />
 
 ### Praise
-* #1 on _New York Times_ [Bestseller List](https://dar.to/2mOgU6X "Bestseller List")
-* _People_ Magazine's [Book of the Week](https://dar.to/2mnyUFc "Book of the Week")
+* #1 on _New York Times_ [Bestseller List](https://dar.to/2mOgU6X "New York Times Bestseller List")
+* _People_ Magazine's [Book of the Week](https://dar.to/2mnyUFc "People Magazine's Book of the Week")
 * _The Wall Street Journal's_ [Twelve Books to Read This Winter](https://dar.to/2AOSkH7 "Twelve Books to Read This Winter")
+* _Indie Bound_ [Bestseller List](https://dar.to/2E46HNK "Indie Bound Bestseller List")
 * Barnes and Nobles' [2018's First Must-Read Thriller](https://dar.to/2miquxM "2018's First Must-Read Thriller")
 <br />
 
