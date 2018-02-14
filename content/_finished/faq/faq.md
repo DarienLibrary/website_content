@@ -799,9 +799,6 @@ If you bring in something from your house (e.g. a cabinet handle, a toy, etc.) a
 <br />
 <br />
 
-#### Can I scan this item and make a copy that way?
-The quality of 3D scanners at this time are not as easy as scanning and making a perfect copy. You may try to use the 3D scanner located in the [Digital Media Lab](/dml "Digital Media Lab"), but you will need to have the skillset to edit the scan file to improve it. Most scanned objects come out lumpy and are not suitable for printing.
-
 </div>
 </div>
 </div>
