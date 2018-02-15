@@ -405,7 +405,7 @@ Quiet Places
 <div class="panel-body">
 
 The Library is a busy place with people using the space in different ways. If you want a quiet place to work, our recommendations: 
-<br /
+<br />
 <br />
 
 #### Quiet Study Rooms

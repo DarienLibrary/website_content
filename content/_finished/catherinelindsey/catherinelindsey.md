@@ -55,13 +55,5 @@ Thursday, April 26th at 6:30 p.m.<br />
 <br />
 <br />
 
-#### Tech Rehearsal 
-Saturday, June 9th at 11 a.m.
-<br />
-<br />
-
-#### Public Staged Reading
-Sunday, June 10th at 2 p.m.
-[Information](https://dar.to/2G93EBc "Information")
 </div>
 </div>
