@@ -11,11 +11,7 @@ Wee Burn Country Club<br />
 410 Hollow Tree Ridge Rd, Darien, CT
 <br />
 
-The Sponsor Table is currently available for purchase (Benefactor Tables are filled), and **new this year**, the Sponsor Table will have A.J. Finn seated at their table! 
-
-All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with A.J. Finn from 11:30 to 12 noon, and receive a signed copy of [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"). Each table seats 10 people.
-
-Single tickets are now available. Please indicate any seating requests in the Comments section of the form.
+Single tickets are still available below. Please indicate any seating requests in the Comments section of the form.
 
 <a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tickets</button></a>
 <br />
