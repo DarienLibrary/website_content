@@ -18,7 +18,9 @@ Single tickets are still available below. Please indicate any seating requests i
 <br />
 
 ### About A.J. Finn
-A. J. Finn has written for numerous publications, including the _Los Angeles Times_, the _Washington Post_, and the _Times Literary Supplement_. Finn’s debut novel, [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"), has been sold in thirty-eight territories worldwide and is in development as a major motion picture from Fox 2000 Studios. A native of New York, Finn lived in England for ten years before returning to New York City.
+A. J. Finn is the author of [_The Woman in the Window_](https://dar.to/2zbCp4Q "The Woman in the Window"), the most widely acquired debut novel of all time, with rights sold in 38 languages around the world. On its publication in January 2018, the book became the first debut novel in twelve years — and only the third ever — to debut at #1 on the _New York Times_ bestseller list, where it remained for an entire month. 
+
+The film adaptation of _The Woman in the Window_ is currently in development at Fox, which bought the rights in a seven-figure deal. The movie will be produced by Oscar winner Scott Rudin, of _The Social Network_ and _The Grand Budapest Hotel_, and written by Tracy Letts, the Pulitzer- and Tony-winning playwright of _August: Osage County_.
 
 <br />
 <div class="row margin-bottom-20">

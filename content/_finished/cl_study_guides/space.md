@@ -1,5 +1,4 @@
-
-Doing a project on the 13 American colonies? Use the sources below to find books, articles, and information. If you need more assistance, see a children’s librarian or contact us at [childrenslibrary@darienlibrary.org](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") or [203-669-5235](tel:203-669-5235 "203-669-5235").
+Doing a project on the Earth and/or space? Use the sources below to find books, articles, and information. If you need more assistance, see a children’s librarian or contact us at [childrenslibrary@darienlibrary.org](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") or [203-669-5235](tel:203-669-5235 "203-669-5235").
 
 <div class="row">
 <div class="col-md-4">
@@ -13,17 +12,17 @@ Doing a project on the 13 American colonies? Use the sources below to find books
 </div>
 <div class="col-md-4">
 
-### Search Words
+### Search Terms
 When searching in the catalog use these terms and subjects.
 
-* Earth
-* Universe
-* Space
 * Astronomy
+* Earth
 * Planet
+* Space
 * Solar System
-
+* Universe
 <br />
+
 </div>
 <div class="col-md-4">
 
@@ -34,8 +33,8 @@ Visit these sections of the children’s library collection for books about this
 * The Universe: Kids STEM 523.1
 * The Solar System: Kids STEM 523.2
 * Planets: Kids STEM 523.4
-
 <br />
+
 </div>
 </div>
 
@@ -52,7 +51,7 @@ Visit these sections of the children’s library collection for books about this
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-One" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Books about Earth
+Earth
 </a>
 </h4>
 </div>
@@ -60,27 +59,28 @@ Books about Earth
 <div class="panel-body">
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-4">
 
-#### Books about Earth
+### Books about Earth
 * [Library Catalog Search](https://dar.to/2Bw5XM1 "Library Catalog Search")
-* [Earth](https://dar.to/2necSFb "Earth by Darlene R. Stille") by Darlene R. Stille (2004)
-* [Earth](https://dar.to/2GiI3Hc "Earth by Susanna Van Rose") by Susanna Van Rose (2013)
-* [Planet Earth](https://dar.to/2nfYyfk "Planet Earth") by Christine Taylor-Butler (2014)
-* [Earth and Earth’s Moon](https://dar.to/2FjZJkr "Earth and Earth's Moon") by (2006) #### Has no image
+* [Earth](https://dar.to/2necSFb "Earth") by Darlene R Stille (2004)
+* [Earth](https://dar.to/2GiI3Hc "Earth") by Susanna Van Rose (2013)
+* [Planet Earth](https://dar.to/2nfYyfk "Planet Earth") by Christine Taylor-Butler
+* [Earth and Earth's Moon](https://dar.to/2FjZJkr "Earth and Earth's Moon") #Missing Cover
 
 </div>
-<div class="col-md-6">
+<div class="col-md-4">
 
-* [The New Hampshire Colony](https://dar.to/2DCh8sv "The New Hampshire Colony") by Kevin Cunningham
-* [The New Jersey Colony](https://dar.to/2Fb2pkz "The New Jersey Colony") by Kevin Cunningham
-* [The North Carolina Colony](https://dar.to/2Gd7ydf "The North Carolina Colony") by Kevin Cunningham
-* [The New York Colony](https://dar.to/2DAcnzz "The New York Colony") by Dennis B Fradin
-* [The Pennsylvania Colony](https://dar.to/2rFVzSi "The Pennsylvania Colony") by Kevin Cunningham
-* [The Pennsylvania Colony](https://dar.to/2E4wMto "The Pennsylvania") by Dennis B. Fradin
-* [The Rhode Island Colony](https://dar.to/2n9fLae "The Rhode Island Colony") by Dennis B. Fradin
-* [The South Carolina Colony](https://dar.to/2DycKGy "The South Carolina Colony") by Kevin Cunningham
-* [The Virginia Colony](https://dar.to/2BpRxgn "The Virginia Colony") by Kevin Cunningham
+### DVDs on Earth
+* [Schoolhouse Rock! Earth](https://dar.to/2I4c9iN "Schoolhouse Rock! Earth")
+
+</div>
+<div class="col-md-4">
+
+### Articles on Earth
+* [Earth (planet0)](https://dar.to/2G0fNcC "Earth")
+* [Earth Search in Fact Monster](https://dar.to/2ti8nyO "Earth")
+* [Earth by World Book Student](https://dar.to/2oNK07v "Earth by World Book Student")
 
 </div>
 </div>
@@ -94,7 +94,7 @@ Books about Earth
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-Two" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Colonial Life Books
+Space
 </a>
 </h4>
 </div>
@@ -102,93 +102,52 @@ Colonial Life Books
 <div class="panel-body">
 
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-4">
 
-* [Life in the American Colonies](https://dar.to/2n8azng "Life in the American Colonies") by Ruth Dean
-* [Colonial Homes](https://dar.to/2Br7NO7 "Colonial Homes") by Verna Fisher
-* [Colonial Jobs](https://dar.to/2F7fVWo "Colonial Jobs") by Verna Fisher
-* [Colonial Clothes](https://dar.to/2rFamfX "Colonial Clothes") by Verna Fisher
-* [Colonial Home](https://dar.to/2Bq54Va "Colonial Home") by Bobbie Kalman
-* [Colonial Cooking](https://dar.to/2Fc1mRs "Colonial Cooking") by Susan Dosier
-* [Colonial Living](https://dar.to/2rDvFOL "Colonial Living") by Edwin Tunis
-* [Colonial Crafts](https://dar.to/2E6S8Xg "Colonial Crafts") by Bobbie Kalman
-
-</div>
-<div class="col-md-6">
-
-* [Colonial Life](https://dar.to/2E4BhEi "Colonial Life") by Bobbie Kalman
-* [Colonial Kids](https://dar.to/2E5VWI1 "Colonial Kids") by Laurie M. Carlson
-* [Colonial Life](https://dar.to/2DDBMIN "Colonial Life") by Brendan January
-* [Colonial American Craftspeople](https://dar.to/2F6UHI3 "Colonial American Craftspeople") by Bernardine S. Stevens
-* [Colonial American Medicine](https://dar.to/2DHreHq "Colonial American Medicine") by Susan Neiburg Terkel
-* [Colonial American Home Life](https://dar.to/2DxEaN3 "Colonial American Home Life") by John F. Warner
-* [Daily Life: a Sourcebook on Colonial America](https://dar.to/2DG0Q0I "Daily Life") by the Library of Congress
+### Books on Space
+* [Library Catalog Search: Space](https://dar.to/2D4kdfM "Library Catalog Search")
+* [Library Catalog Search: Universe](https://dar.to/2FfOY7s "Library Catalog Search: Universe")
+* [Library Catalog Search: Planets](https://dar.to/2tlY50O "Library Catalog Search: Planets")
+* [Space](https://dar.to/2FujTfr "Space") by Simon Rogers
+* [Everything Space](https://dar.to/2oNWlJ0 "Everything Space") by Helaine Becker (2015)
+* [Everything Space](https://dar.to/2I4MrdU "Everything Space") by Catherine Nichols (2015)
+* [Space Encyclopedia](https://dar.to/2Hc75rt "Space Encyclopedia: A Tour of Our Solar System and Beyond") by David A Aguilar (2013)
+* [Destination, Space](https://dar.to/2oUKCYm "Destination, Space") by Seymour Simon (2002)
+* [In Space](https://dar.to/2tkh1gt "In Space") by Louise Spilsbury (2017)
+* [Stellar Space](https://dar.to/2G0Y3y6 "Stellar Space") by Time for Kids magazine COR (2014)
+* [Knowledge Encyclopedia Space!](https://dar.to/2FyePXg "Knowledge Encyclopedia Space! : The Universe As You've Never Seen It Before") by Inc COR Dorling Kindersley
 
 </div>
+<div class="col-md-4">
+
+### Books on Space
+* [Space Visual Encyclopedia](https://dar.to/2oWpJf9 "Space Visual Encyclopedia") by Inc COR Dorling Kindersley (2016)
+* [The Kingfisher Space Encyclopedia](https://dar.to/2G3hczq "The Kingfisher Space Encyclopedia") by Mike Goldsmith (2012)
+* [Weird but True Space Facts](https://dar.to/2DHreHq "Weird but True Space Facts") by Carmen Bredeson (2012)
+* [Professor Astro Cat’s Frontiers of Space](https://dar.to/2D4fYAI "Professor Astro Cat’s Frontiers of Space") by Dominic Walliman (2013)
+* [The Kingfisher Young People’s Book of Space](https://dar.to/2FgIULF "The Kingfisher Young People’s Book of Space") by Martin Redfer (1998)
+* [The Kingfisher Facts and Records Book of Space](https://dar.to/2HaqjNU "The Kingfisher Facts and Records Book of Space") by Clive Gifford (2001)
+* [Universe: Journey into Deep Space](https://dar.to/2tlfB59 "Universe: Journey into Deep Space") by Mike Goldsmith (2012)
+* [Universe](https://dar.to/2HaVJ6L "Universe") by Robin Kerrod (2015)
 
 </div>
-</div>
-</div>
+<div class="col-md-4">
 
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Three" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Specialized Topics of the Thirteen Colonies: Books
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Three">
-<div class="panel-body">
-
-<div class="row">
-<div class="col-md-6">
-
-* [African Americans in the Thirteen Colonies](https://dar.to/2ng6eO5 "African Americans in the Thirteen Colonies") by Deborah Kent
+### DVDs on Space
+* [Bill Nye the Science Guy: Outer Space](https://dar.to/2Fiu7A6 "Bill Nye the Science Guy: Outer Space")
 
 <br />
-</div>
-<div class="col-md-6">
 
-* [The Northern Colonies: Freedom to Worship (1600-1770)](https://dar.to/2GnllxU "The Northern Colonies") by Teresa LaClair
-
+### Articles on Space
+* [Universe (Astronomy)](https://dar.to/2G3k6Ek "Universe (Astronomy)") by Britannica Library
+* [Space Exploration](https://dar.to/2Fef6zk "Space Exploration") by Robin Kerrod (2015) by Britannica Library
+* [Planet](https://dar.to/2FlJtzO "Universe") by Robin Kerrod (2015) by Britannica Library
+* [Astronomy and Space](https://dar.to/2D4ohwy "Astronomy and Space") by Fact Monster
+* [Universe](https://dar.to/2FunIRP "Universe") by World Book Student
+* [Astronomy](https://dar.to/2I5OCxM "Astronomy") by World Book Student
+* [Planet](https://dar.to/2G0yoWd "Planet") by World Book Student
 </div>
 
-</div>
-</div>
-</div>
-
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-Four" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-American Revolution
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-Four">
-<div class="panel-body">
-
-<div class="row">
-<div class="col-md-6">
-
-#### Books
-
-* [American Revolution](https://dar.to/2DDPWpd "American Revolution") by Sutart Murray
-* [American Revolution: a Nonfiction Companion to Revolutionary War on Wednesday](https://dar.to/2DGmwuv "American Revolution: a Nonfiction Companion to Revolutionary War on Wednesday") by Mary Pope Osborne
-* [The American Revolution: How We Fought the War of Independence](https://dar.to/2EezDQO "The American Revolution: How We Fought the War of Independence") by Edward F. Dolan
-* [The American Revolution: “Give Me Liberty, or Give Me Death”](https://dar.to/2rLfMpL "The American Revolution: Give Me Liberty, or Give Me Death") by Deborah Kent
-
-<br />
-</div>
-<div class="col-md-6">
-
-#### Articles
-* [American Revolution](https://dar.to/2nfwjxz "American Revolution") from _Encyclopedia Britannica Library_
-
-</div>
-</div>
-</div>
 </div>
 </div>
 </div>
@@ -202,6 +161,3 @@ American Revolution
 </div>
 </div>
 </div>
-
-### Note for Amanda
-In Google URL Campaign Builder, use these parameters: space, libguides, cl_libguides
