@@ -83,7 +83,7 @@ WiFi
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/banner_printer.jpg" alt="Banner Printer" />
       Banner Printing
 <div class="margin-bottom-10"></div>    
-      Print banners or school projects up to 48 inches wide on four paper types. 
+      Print banners or school projects up to 42 inches wide on four paper types. 
 
 <a href="/submit-banner-print" alt="Submit your print order">Submit your print order</a>
   </div>

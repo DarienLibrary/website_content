@@ -71,7 +71,7 @@ Children who live in Darien and are 12 and under may use the 3D printer in the C
 
 ### Submit Your Print
 
-Our 3D printer is unavailable due to needed maintenance work. Enter your email below and we'll notify you when we're accepting 3D printing submissions again. 
+Our 3D printer in the Digital Media Lab is unavailable due to needed maintenance work. Enter your email below and we'll notify you when we're accepting 3D printing submissions again. Children up to age 12 may use the 3D printer in the TEA Room. Please call [203-669-5235](tel:2036695235) to schedule your reservation.
 <script type="text/javascript" src="https://form.jotform.com/jsform/80075731679161"></script>
 </div>
 </div>

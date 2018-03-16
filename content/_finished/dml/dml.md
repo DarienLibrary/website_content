@@ -4,13 +4,11 @@ To make a reservation, please contact the Help Desk via [email](mailto:helpdesk@
 
 All library cardholders may use the DML. Reserving the DML in advance and scheduling one-on-one appointments is limited to Darien residents, those who work in Town, and [Friends of the Library](/friends "Friends of the Library"). The Lab will be available for 2 to 4 hour reservable time slots. Members 14+ may use the Lab unassisted while anyone younger needs to be with an adult. Up to four people may be in the DML at one time. The person who makes the reservation needs to be present in the room.
 <br/>
-<br/>
-<br/>
 
 <div class="row margin-bottom-10">
 
 <div class="container content">
-<div class="text-center margin-bottom-50">
+<div class="text-center margin-bottom-10">
 	<h2 class="title-v2 title-center">Hardware</h2>
 </div>
 
@@ -70,14 +68,13 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 </div>
 
 <div class="row margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
+	<div class="col-sm-2 sm-margin-bottom-20">
 		<h3>Yeti Microphone</h3>
 				<p>With three mics available, you can bring along friends to record a podcast, singing, and so much more!</p>
 	</div>
 </div>
 </div>
 </div>
-<br/>
 
 <div class="container content">
 <div class="text-center margin-bottom-50">

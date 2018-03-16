@@ -1,9 +1,9 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Jayson Tobias' Odyssey in Color
+### Current Exhibit: Justin Mossa
 
-**Thursday, February 1st through Friday, March 16th**
+**Monday, March 19th through Tuesday, April 17th**
 <br />
 <br />
 
@@ -13,9 +13,7 @@ Friday, February 9th from 6 to 8 p.m.
 <br />
 
 ### About the Artist
-Jayson Tobias began his pursuit in the arts at a young age with guidance from his mother, an art educator. She exposed him to images and works of art that contained prism like colors, which had a prominent influence on Jayson's palette. Jayson's work transitions between realistic vistas, portraiture and abstract pieces that are more free and creative in nature. He enjoys experimenting with new ways to attack and compose his subject matter.
- 
- "I draw my inspiration from the beauty I see in the world around me and look to enhance what I observe with color and energy. A photo can speak wonders, but I feel that the paint itself also has a story to tell. As colors blend and light gives way to shape and depth, something special emerges. Art has always been a place where I can express my deepest emotions in a way that is uniquely me."
+The Artistic Director of the DHS musical this spring in Justin Mossa (also the extremely talented brother of the young women who was in the gallery before Jayson). He would like to curate a show of the art of the production - sets, costumes, marketing, front of shhp (lobby) etc. Nothing would be sold; rather it would be a collection of the artistic steps in the design process of a stage production: mood boards, preliminary sketches, construction models to-scale, costume flats, costume pieces on mannequins, etc. 
 <br />
 <br />
 
