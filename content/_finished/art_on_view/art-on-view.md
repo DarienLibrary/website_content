@@ -13,7 +13,7 @@ Friday, February 9th from 6 to 8 p.m.
 <br />
 
 ### About the Artist
-The Artistic Director of the DHS musical this spring in Justin Mossa (also the extremely talented brother of the young women who was in the gallery before Jayson). He would like to curate a show of the art of the production - sets, costumes, marketing, front of shhp (lobby) etc. Nothing would be sold; rather it would be a collection of the artistic steps in the design process of a stage production: mood boards, preliminary sketches, construction models to-scale, costume flats, costume pieces on mannequins, etc. 
+The Artistic Director of the DHS musical this spring is Justin Mossa.  Justin will curate a show at Darien Library of the art of the production - sets, costumes, marketing, etc.  A collection of the artistic steps in the design process of a stage production such as mood boards, preliminary sketches, construction models to-scale, costume flats, costume pieces on mannequins will be displayed at the Library from March 19th ending April 17th.
 <br />
 <br />
 
@@ -25,7 +25,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="uploads/departments/art_on_view/jayson_tobias.jpg" alt="Last Weekend with Angel by Jayson Tobias" />
+<!-- <img class="img-responsive center-block" src="uploads/departments/art_on_view/jayson_tobias.jpg" alt="Last Weekend with Angel by Jayson Tobias" /> -->
  
 </div>
 </div>

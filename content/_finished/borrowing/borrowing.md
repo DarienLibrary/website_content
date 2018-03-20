@@ -7,7 +7,8 @@
 - Darien residents will be issued a library card immediately. A valid ID is required.
 - All programs and services available to Darien residents are available to those who work full-time in Darien. You may apply for a card by showing proof of employment.
 - Non-Residents may use their valid hometown library card or register by showing an ID with their current address. For additional information, please see Non-Resident Use below.
-- The Library offers a one-day grace period for all loans - any item returned on the day of grace will not incur an overdue fee for that day.
+- The Library offers a one-day grace period for all loans (except for reservation system items) - any item returned on the day of grace will not incur an overdue fee for that day.
+- Any items on a reservation system (museum passes and tech items) are exempt from our day of grace period. Fines will be assessed the day after the date due, so please return the item on the due date to avoid late fees. 
 - Senior patrons — those 65 and older — are exempt from accruing overdue fees.
 - The maximum overdue charge for most materials is $5.00 per item. Items not returned will be billed at the cost of replacement plus a $5.00 processing fee.
 - If a patrons’s fees exceed $50.00, the patron will be unable to check-out items or access some library services.
@@ -158,16 +159,6 @@ Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](
 				Yes</td>
 			<td>
 				$0.10 a day</td>
-		</tr>
-		<tr>
-			<td>
-				eReaders</td>
-			<td>
-				21 days</td>
-			<td>
-				Yes</td>
-			<td>
-				$10.00 a day</td>
 		</tr>
 		<tr>
 			<td>

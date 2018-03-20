@@ -1,7 +1,7 @@
 
 Doing a project on the 13 American colonies? Use the sources below to find books, articles, and information. If you need more assistance, see a children’s librarian or contact us at [childrenslibrary@darienlibrary.org](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") or [203-669-5235](tel:203-669-5235 "203-669-5235").
 
-<div class="row">
+<div class="row" style="background-color:#cef5e8; margin:0 10px;">
 <div class="col-md-4">
 
 ### Databases
@@ -59,7 +59,7 @@ Books on the Thirteen Colonies: Kids Then and Now 973.3
 <div class="col-md-6">
 
 * [The Thirteen Colonies](https://dar.to/2DF6wc0 "The Thirteen Colonies") by Gail Sakurai 
-* [Colonies in Revolt](https://dar.to/2rCeRb5 "Colonies in Revolt") by Alden R Carter #### Needs a cover
+* [Colonies in Revolt](https://dar.to/2rCeRb5 "Colonies in Revolt") by Alden R Carter
 * [The American Colonies](https://dar.to/2BpQi0H "The American Colonies") by Jeanne DuPrau
 * [Explore Colonial America!](https://dar.to/2E4MaG7 "Explore Colonial America!") By Verna Fisher
 * [Projects About Colonial Life](https://dar.to/2E5PdOh "Projects About Colonial Life") by Marian Broida
@@ -104,7 +104,6 @@ Colonial Life Books
 <div class="row">
 <div class="col-md-6">
 
-* [Life in the American Colonies](https://dar.to/2n8azng "Life in the American Colonies") by Ruth Dean
 * [Colonial Homes](https://dar.to/2Br7NO7 "Colonial Homes") by Verna Fisher
 * [Colonial Jobs](https://dar.to/2F7fVWo "Colonial Jobs") by Verna Fisher
 * [Colonial Clothes](https://dar.to/2rFamfX "Colonial Clothes") by Verna Fisher
@@ -202,6 +201,3 @@ American Revolution
 </div>
 </div>
 </div>
-
-### Note for Amanda
-In Google URL Campaign Builder, use these parameters: colonies, libguides, cl_libguides

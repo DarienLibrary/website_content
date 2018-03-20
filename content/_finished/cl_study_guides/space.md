@@ -66,7 +66,7 @@ Earth
 * [Earth](https://dar.to/2necSFb "Earth") by Darlene R Stille (2004)
 * [Earth](https://dar.to/2GiI3Hc "Earth") by Susanna Van Rose (2013)
 * [Planet Earth](https://dar.to/2nfYyfk "Planet Earth") by Christine Taylor-Butler
-* [Earth and Earth's Moon](https://dar.to/2FjZJkr "Earth and Earth's Moon") #Missing Cover
+* [Earth and Earth's Moon](https://dar.to/2FjZJkr "Earth and Earth's Moon")
 
 </div>
 <div class="col-md-4">
@@ -78,7 +78,7 @@ Earth
 <div class="col-md-4">
 
 ### Articles on Earth
-* [Earth (planet0)](https://dar.to/2G0fNcC "Earth")
+* [Earth (planet)](https://dar.to/2G0fNcC "Earth")
 * [Earth Search in Fact Monster](https://dar.to/2ti8nyO "Earth")
 * [Earth by World Book Student](https://dar.to/2oNK07v "Earth by World Book Student")
 
@@ -108,7 +108,7 @@ Space
 * [Library Catalog Search: Space](https://dar.to/2D4kdfM "Library Catalog Search")
 * [Library Catalog Search: Universe](https://dar.to/2FfOY7s "Library Catalog Search: Universe")
 * [Library Catalog Search: Planets](https://dar.to/2tlY50O "Library Catalog Search: Planets")
-* [Space](https://dar.to/2FujTfr "Space") by Simon Rogers
+* [Space](https://dar.to/2FujTfr "Space") by Simon Rogers (2015)
 * [Everything Space](https://dar.to/2oNWlJ0 "Everything Space") by Helaine Becker (2015)
 * [Everything Space](https://dar.to/2I4MrdU "Everything Space") by Catherine Nichols (2015)
 * [Space Encyclopedia](https://dar.to/2Hc75rt "Space Encyclopedia: A Tour of Our Solar System and Beyond") by David A Aguilar (2013)
@@ -120,16 +120,16 @@ Space
 </div>
 <div class="col-md-4">
 
-### Books on Space
 * [Space Visual Encyclopedia](https://dar.to/2oWpJf9 "Space Visual Encyclopedia") by Inc COR Dorling Kindersley (2016)
-* [The Kingfisher Space Encyclopedia](https://dar.to/2G3hczq "The Kingfisher Space Encyclopedia") by Mike Goldsmith (2012)
-* [Weird but True Space Facts](https://dar.to/2DHreHq "Weird but True Space Facts") by Carmen Bredeson (2012)
+* [The Kingfisher Space Encyclopedia](https://dar.to/2I8pd6K "The Kingfisher Space Encyclopedia") by Mike Goldsmith (2012)
+* [Weird but True Space Facts](https://dar.to/2G3hczq "Weird but True Space Facts") by Carmen Bredeson (2012)
 * [Professor Astro Cat’s Frontiers of Space](https://dar.to/2D4fYAI "Professor Astro Cat’s Frontiers of Space") by Dominic Walliman (2013)
-* [The Kingfisher Young People’s Book of Space](https://dar.to/2FgIULF "The Kingfisher Young People’s Book of Space") by Martin Redfer (1998)
+* [The Kingfisher Young People’s Book of Space](https://dar.to/2FXijjc "The Kingfisher Young People’s Book of Space") by Martin Redfer (1998)
 * [The Kingfisher Facts and Records Book of Space](https://dar.to/2HaqjNU "The Kingfisher Facts and Records Book of Space") by Clive Gifford (2001)
 * [Universe: Journey into Deep Space](https://dar.to/2tlfB59 "Universe: Journey into Deep Space") by Mike Goldsmith (2012)
 * [Universe](https://dar.to/2HaVJ6L "Universe") by Robin Kerrod (2015)
 
+<br />
 </div>
 <div class="col-md-4">
 

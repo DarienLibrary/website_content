@@ -93,7 +93,6 @@ Connecticut History
 
 * [Library Catalog Search](https://dar.to/2tLhf0d "Library Catalog Search")
 * [Connecticut](https://dar.to/2HvNna7 "Connecticut") by Ann Heinrichs (2018)
-* [Connecticut]( "Connecticut") by Dennis B Fradin (1994) — CAN'T FIND THIS ONE
 * [Connecticut](https://dar.to/2FB3Ih5 "Connecticut") by Zachary Kent (2014)
 * [A Historical Album of Connecticut](https://dar.to/2HA69gA "A Historical Album of Connecticut") by Charles Wills (1995)
 * [The Connecticut Colony](https://dar.to/2FAYYrY "The Connecticut Colony") by Kevin Cunningham (2012)
