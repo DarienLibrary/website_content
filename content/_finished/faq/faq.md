@@ -734,7 +734,7 @@ The Children's Library has the [TEA Room](/tearoom "TEA Room") makerspace for ch
 <br />
 
 #### Digital Media Lab
-For those 14 and up, the [Digital Media Lab](/dml "Digital Media Lab") is available. The DML is focused on digitizing video tapes, photos, slides, and negatives. You can also record and edit videos and audio. It also includes a [3D printer](/3d-printers "3D Printers"). Contact the Help Desk at [203-669-5238](tel:2036695238 "203-669-5238") or send an [email](mailto:helpdesk@darienlibrary.org "email") to make a reservation.
+For those 14 and up, the [Digital Media Lab](/dml "Digital Media Lab") is available. The DML is focused on digitizing video tapes, photos, slides, and negatives. You can also record and edit videos and audio. Contact the Help Desk at [203-669-5238](tel:2036695238 "203-669-5238") or send an [email](mailto:helpdesk@darienlibrary.org "email") to make a reservation.
 
 </div>
 </div>
@@ -780,12 +780,12 @@ Yes, we have video games for children, teens, and adults. Games for children's a
 <br />
 
 #### Can I use the 3D Printer?
-Yes! You may use the printers directly or submit a print order. Read about your [3D printing options](/3d-printers "3D Printing").
+Yes! Children in grades 3 to 6 may use a 3D printer directly. Read about your [3D printing options](/3d-printers "3D Printing").
 <br />
 <br />
 
 #### Does it cost anything to print a 3D object?*
-If you are a child twelve and under, you may print your object for free in the TEA Room. If you are older, you may use one of the other printers for a [low fee](/3d-printers "3D printers"). 
+If you are a child twelve and under, you may print your object for free in the TEA Room.
 <br />
 <br />
 

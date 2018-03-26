@@ -34,7 +34,6 @@ This service is limited to Darien residents, those employed full-time in Darien,
 <br />
 
 #### Technology
-* 3D Printing Setup
 * Basic Computer Help
 * Digitization: slides, negatives, VHS, Hi8, cassette
 * Image and Video Editing: Photoshop

@@ -8,15 +8,11 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 <div class="row margin-bottom-10">
 
 <div class="container content">
-<div class="text-center margin-bottom-10">
+<div class="text-center margin-bottom-50">
 	<h2 class="title-v2 title-center">Hardware</h2>
 </div>
 
 <div class="row  margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>3D Printer</h3>
-		<p>Print your own creation or an object from Thingiverse. <a href="/3d-printers">Learn more</a> about 3D printing.</p>
-	</div>
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Mac Pro Computer</h3>
 	<p>This computer has the Yosemite OSX operating system and 8 GB of RAM.</p>
@@ -38,13 +34,13 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 		<h3>Hi8 to DVD Convertor</h3>
 		<p>Rescue your home movie Hi8 tapes by digitizing them to DVDs.</p>
 	</div>
-</div>
-
-<div class="row margin-bottom-30">
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Green Screen</h3>
 		<p>Pretend to be anywhere that you can dream using the green screen! After recording, import your footage into Final Cut Pro or iMovie.</p>
 	</div>
+</div>
+
+<div class="row margin-bottom-30">
 	<div class="col-sm-2 sm-margin-bottom-30">
 		<h3>Camcorder</h3>
 		<p>Use the camcorder in the DML or borrow it for recording outside of the Library. </p>
@@ -65,9 +61,6 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 		<h3>Headphones</h3>
 		<p>Use these monitoring headphones for great feedback on your audio in the DML.</p>
 	</div>
-</div>
-
-<div class="row margin-bottom-30">
 	<div class="col-sm-2 sm-margin-bottom-20">
 		<h3>Yeti Microphone</h3>
 				<p>With three mics available, you can bring along friends to record a podcast, singing, and so much more!</p>

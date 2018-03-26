@@ -72,14 +72,6 @@ WiFi
 
 <div class="row margin-bottom-30">
   <div class="col-md-2">
-    <img class="img-responsive margin-bottom-10" src="/uploads/equipment/3D_printed_sculptures_web.jpg" alt="3D Printer" />
-      3D Printing
-<div class="margin-bottom-10"></div>    
-      Turn your two-dimensional idea into 3D reality on a 3D printer. 
-
-<a href="/3d-printers" alt="Discover 3D Printing">Discover 3D Printing</a>
-  </div>
-  <div class="col-md-2">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/banner_printer.jpg" alt="Banner Printer" />
       Banner Printing
 <div class="margin-bottom-10"></div>    

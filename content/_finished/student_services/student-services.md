@@ -31,7 +31,7 @@ We support <abbr title="Science Technology Engineering Arts Mathematics">STEAM</
 <br />
 
 ### 3D Printing 
-Your child can work with the cutting edge technology of [3D printers](/3d-printers "3D Printers") in the <abbr title="Technology Engineering Arts">TEA</abbr> Room or the [Digital Media Lab](/dml "Digital Media Lab"). Get started by [booking the TEA Room](/tearoom-reserve "Book the TEA Room")
+Your 3 to 6 grade child can work with the cutting edge technology of [3D printers](/3d-printers "3D Printers") in the <abbr title="Technology Engineering Arts">TEA</abbr> Room. Get started by [booking the TEA Room](/tearoom-reserve "Book the TEA Room")
 <br />
 <br />
 

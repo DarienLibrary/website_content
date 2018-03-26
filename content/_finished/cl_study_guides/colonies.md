@@ -1,7 +1,7 @@
 
 Doing a project on the 13 American colonies? Use the sources below to find books, articles, and information. If you need more assistance, see a children’s librarian or contact us at [childrenslibrary@darienlibrary.org](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library") or [203-669-5235](tel:203-669-5235 "203-669-5235").
 
-<div class="row" style="background-color:#cef5e8; margin:0 10px;">
+<div class="row">
 <div class="col-md-4">
 
 ### Databases
@@ -75,7 +75,7 @@ Books on the Thirteen Colonies: Kids Then and Now 973.3
 * [The New Hampshire Colony](https://dar.to/2DCh8sv "The New Hampshire Colony") by Kevin Cunningham
 * [The New Jersey Colony](https://dar.to/2Fb2pkz "The New Jersey Colony") by Kevin Cunningham
 * [The North Carolina Colony](https://dar.to/2Gd7ydf "The North Carolina Colony") by Kevin Cunningham
-* [The New York Colony](https://dar.to/2DAcnzz "The New York Colony") by Dennis B Fradin
+* [The New York Colony](https://dar.to/2G9V8Wk "The New York Colony") by Kevin Cunningham
 * [The Pennsylvania Colony](https://dar.to/2rFVzSi "The Pennsylvania Colony") by Kevin Cunningham
 * [The Pennsylvania Colony](https://dar.to/2E4wMto "The Pennsylvania") by Dennis B. Fradin
 * [The Rhode Island Colony](https://dar.to/2n9fLae "The Rhode Island Colony") by Dennis B. Fradin

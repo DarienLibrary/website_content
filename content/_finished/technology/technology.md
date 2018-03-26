@@ -9,12 +9,6 @@ We have fifty public computers available throughout the Library. The computers a
 <br />
 <br />
 
-### 3D Printers
-
-Bring your ideas to life with one of our [3D printers](/3d-printers "3D Printers"). The printers are available for child and adult users alike. If you submit your 3D order online, we will print it for you to pick up. Teach yourself 3D design with [Lynda.com](/research/category/online-training "Lynda.com") to create custom objects.
-<br />
-<br />
-
 ### Technology to Take Home
 
 We offer technology for demonstrative use and as well to keep you connected on the road with a WiFi hotspot. Borrow a Roku Media Center device to access Netflix and Hulu. Find out what your car's error message means. [View the full list](/catalog/search/keyword?search=%2A&formats=equipment "View list of gadgets") of gadgets you may borrow. 
