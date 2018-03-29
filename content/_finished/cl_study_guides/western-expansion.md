@@ -69,13 +69,12 @@ Westward Expansion
 * [Westward Expansion](https://dar.to/2FTBPjT "Westward Expansion") by Dale Anderson
 * [The American West](https://dar.to/2DuSuFe "The American West") by World Book
 * [How to Get Rich on the Oregon Trail](https://dar.to/2tQtLvs "How to Get Rich on the Oregon Trail") Tod Olson
-
-</div>
-<div class="col-md-6">
-
 * [Pioneers and Trailblazers: Adventures of the Old West](https://dar.to/2pebaEJ "Pioneers and Trailblazers: Adventures of the Old West") by Leonard Matthews
 * [Trails to the West: Beyond the Mississippi](https://dar.to/2FWPuGF "Trails to the West: Beyond the Mississippi") by Kathy Pelta
 <br />
+
+</div>
+<div class="col-md-6">
 
 ### Articles
 * [Westward Movement in America](https://dar.to/2pksiIq "Westward Movement in America") by World Book Student
@@ -120,10 +119,11 @@ Frontier Life
 * [Why the West was Wild](https://dar.to/2GwOTJJ "Why the West was Wild") by Wayne Swanson
 * [Pioneer Days: Discover the Past with Fun Projects, Games, Activities, and Recipes](https://dar.to/2Gvmvrv "Pioneer Days") by David C. King
 * [Pioneers: Life as a Homesteader](https://dar.to/2HBlugL "Pioneers: Life as a Homesteader") by Emily Raabe
+<br />
 
 #### Articles
 * [Pioneer Life in America](https://dar.to/2FOeSuU "Pioneer Life in America") by World Book Student
-* [Western Frontier Life in America](https://dar.to/2FFGQx2 "Western Frontier Life in America") by World Book Student]
+* [Western Frontier Life in America](https://dar.to/2FFGQx2 "Western Frontier Life in America") by World Book Student
 
 </div>
 

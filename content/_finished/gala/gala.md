@@ -1,12 +1,12 @@
 <div class="row margin-bottom">
 <div class="col-md-8">
 
-<strong>Saturday, June 3rd at 7 p.m.</strong><br />
+<strong>Saturday, June 9th at 7 p.m.</strong><br />
 Darien Library
 
 Unlock the magic of the Library with a festive party in the courtyard...share an evening with friends, food and cocktails. This year our annual Spring fundraiser features live music, silent and live auctions, cocktails, Two Roads, and Simply Creative Catering.
 
-All funds raised from the event will be dedicated to expanding library resources, including purchasing new books, technology, and supporting programs and guest speakers. Which author will join us in the coming year? By attending The Secret Garden Gala, you'll be mingling with your friends and neighbors, and bringing new resources and speakers to the Library.
+All funds raised from the event will be dedicated to expanding library resources, including purchasing new books, technology, and supporting programs and guest speakers. Which author will join us in the coming year? By attending t Scenes from the Silver Screen gala, you'll be mingling with your friends and neighbors, and bringing new resources and speakers to the Library.
 
 Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 
