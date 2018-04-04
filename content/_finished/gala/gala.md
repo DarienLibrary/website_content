@@ -4,9 +4,11 @@
 <strong>Saturday, June 9th at 7 p.m.</strong><br />
 Darien Library
 
-Unlock the magic of the Library with a festive party in the courtyard...share an evening with friends, food and cocktails. This year our annual Spring fundraiser features live music, silent and live auctions, cocktails, Two Roads, and Simply Creative Catering.
+### _Celebrating cinematic stories that capture the imagination…_
 
-All funds raised from the event will be dedicated to expanding library resources, including purchasing new books, technology, and supporting programs and guest speakers. Which author will join us in the coming year? By attending t Scenes from the Silver Screen gala, you'll be mingling with your friends and neighbors, and bringing new resources and speakers to the Library.
+Step behind the velvet rope for paparazzi-worthy hors d’oeuvres, cocktails, and live entertainment while supporting the Library’s resources and programs.
+
+All funds raised from the event will be dedicated to expanding library resources, including purchasing new books, technology, and supporting programs and guest speakers. By attending the Scenes from the Silver Screen Gala, you'll be mingling with your friends and neighbors, and bringing new resources and speakers to the Library.
 
 Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 
@@ -23,39 +25,40 @@ Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 <br />
 </div>
 <div class="col-md-3">
-<a href="https://dar.to/2oiWtkE"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/darien_rowayton_bank_logo.jpg" alt="Darien Rowayton Bank" /></a>
-<br />
-</div>
-<div class="col-md-3">
 <a href="https://dar.to/2oiCt1G"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="New Canaan/Darien Magazine" /></a>
 <br />
 </div>
 <div class="col-md-3">
-<a href="https://dar.to/2oiHerH"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/two_roads_beer_logo.jpg" alt="Two Roads Brewing Company" /></a>
-<br />
+
 </div>
 </div> 
 
 <div class="row">
 <div class="col-md-5">
 
-### Gala Committee 2017 
-Stacey Tie, Chair<br />
-Catherine Bailey<br />
-Alison Gird<br />
-Kathy Hardy <br />
-Sarah Madson<br />
+### Gala Committee 2018 
+Stacey Tie, Co-Chair<br />
+Karen Knapp, Co-Chair<br />
+Tasha Blair<br />
+Suzanne Connor <br />
+Brooke Gies<br />
+Jennifer Handt<br />
+Catherine Jefferson<br />
+Sarah Konecke<br />
+Jennifer Leahy<br />
+Sarah Lubeley<br />
+Autumn Robert<br />
+Cassie Yusi<br />
 <br />
 </div>
 <div class="col-md-7">
 
-### Board of Trustees Fundraising Committee:
-Tara Ochman, Chair<br />
+### Board of Trustees Development Committee
+Tammy Sload, Chair<br />
+Jay Bennett<br />
 Michael A. Cippoletti<br />
 Alex Eising<br />
 Allegra Erickson<br />
-Millyn Gaaserud<br />
-Tammy Sload<br />
 </div>
 </div>
 
@@ -64,28 +67,38 @@ Tammy Sload<br />
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/mallory/play/2016_gala_shot_01.jpg" alt="Fountain" />
+<img class="img-responsive center-block" src="/uploads/departments/mallory/play/2017_gala_shot_01.jpg" alt="Fountain" />
 <br />
-<img class="img-responsive center-block" src="/uploads/departments/mallory/play/2016_gala_shot_02.jpg" alt="Guests" />
+<img class="img-responsive center-block" src="/uploads/departments/mallory/play/2017_gala_shot_02.jpg" alt="Guests" />
 <br />
-<img class="img-responsive center-block" src="/uploads/departments/mallory/play/2016_gala_shot_03.jpg" alt="Auction" />
+<img class="img-responsive center-block" src="/uploads/departments/mallory/play/2017_gala_shot_03.jpg" alt="Auction" />
 <br />
 
 </div>
 </div>
 
-### <a name="tickets" style="color:#fff;">Buy Tickets</a>
+<a name="tickets" style="color:#fff;">Buy Tickets</a>
 
 <div id="bbox-root"></div>
+
 <script type="text/javascript">
-       window.bboxInit = function () {
-           bbox.showForm('dda00e93-9151-4be7-8905-adebaa2c3174');
-       };
-       (function () {
-           var e = document.createElement('script'); e.async = true;
-           e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
-           document.getElementsByTagName('head')[0].appendChild(e);
-       } ());
+
+window.bboxInit = function () {
+
+bbox.showForm('e50505fa-e52a-4afe-822a-3dc1ca1bfcbf');
+
+};
+
+(function () {
+
+var e = document.createElement('script'); e.async = true;
+
+e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
+
+document.getElementsByTagName('head')[0].appendChild(e);
+
+} ());
+
 </script>
 
 
