@@ -96,18 +96,18 @@ to historic and contemporary design.<br />
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2eCqkOo"><img class="img-responsive center-block" src="/uploads/general_stock_photos/white_crystal_mineral.jpg" alt="White crystal mineral on a black background" /></a>
+<a href="https://dar.to/2ErfLIy"><img class="img-responsive center-block" src="/uploads/general_stock_photos/new_york_city_1932.jpg" alt="New York City in 1932" /></a>
 <br />
 </div>
 <div class="col-md-8">
 
-#### Treasures of the Earth: Mineral Masterpieces from the Robert R. Wiener Collection
-Ends April 1, 2018<br />
-Bruce Museum
+#### King in New York
+Ends June 24, 2018<br />
+Museum of the City of New York
 
-[Treasures of the Earth](https://dar.to/2Bn2zaP "Treasures of the Earth") will take visitors on a tour of the breathtaking splendor, wonder, and science of minerals. Approximately 100 dazzling specimens from the exceptional Robert R. Wiener Collection will be on display, ranging from enormous interconnected cubes of pyrite to dazzlingly clear crystals of selenite to fiery red hexagons of vanadinite.<br />
+[King in New York](https://dar.to/2ErfLIy "King in New York") explores the relationship and connections Rev. Dr. Martin Luther King Jr. had with New York City. The exhibit includes his speeches, sermons, and discussions held while visiting.<br />
 
-[Reserve a Pass to the Bruce Museum](https://dar.to/2mFdVNj "Reserve a Pass to the Bruce Museum")<br />
+[Reserve a Pass to the Museum of the City of New York](https://dar.to/2mFdVNj "Reserve a Pass Museum of the City of New York")<br />
 
 </div>
 </div>
