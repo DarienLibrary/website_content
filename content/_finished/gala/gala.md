@@ -29,7 +29,8 @@ Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 <br />
 </div>
 <div class="col-md-3">
-
+<a href="https://dar.to/2oiHerH"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/two_roads_beer_logo.jpg" alt="Two Roads Brewing Company" /></a>
+<br />
 </div>
 </div> 
 
