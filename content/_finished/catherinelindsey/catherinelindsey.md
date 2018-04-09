@@ -5,9 +5,20 @@ The Catherine Lindsey Actors/Playwrights Workshop is excited to announce that th
 <br />
 <br />
 
-### Submit a Play
-Playwrights are invited to submit their final scripts for consideration to the Catherine Lindsey Actors/Playwrights contest by Friday, March 23rd. The musicals, monologues, short scenes from full-length and one-act plays to be performed will be chosen by the Darien Library Selection Committee. When writing your piece please keep in mind that the number of cast members is limited, only one play may be submitted per person, and plays must be 10-minutes long or less. Please limit your plays to 10-pages double-spaced, 12 point font.
-<br />
+### The Plays
+<div class="row">
+<div class="col-md-4">
+
+* “Take it Down” by Beth Blatt
+* “Hazleton” by Jim Gordon
+</div>
+<div class="col-md-4">
+
+* “Testimonial” by Jack Rushen
+* “I.T.” by Jeffrey Wyant
+</div>
+</div>
+
 <br />
 
 ### Play Dates
@@ -31,16 +42,6 @@ of Darien Library Theater for over 25 years.
 
 </div>
 <div class="col-md-3">
-
-<a href="https://dar.to/2G7BN48" class="btn-u btn-u-lg btn-u-dark-blue">Submit a Play</a>
-<br />
-<br />
-
-#### Submit Scripts By
-Friday, March 23rd
-<br />
-<br />
-
 
 #### Play Workshops
 Wednesday, April 18th at 6:30 p.m.<br />
