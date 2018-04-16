@@ -8,10 +8,8 @@
 <div class="col-md-10 col-md-offset-1">
 
 #### Get Matched With Your Next Great Read
-Welcome to Darien Library’s Book Matchmaker (previously known as Bookfix)! We know you love to get a hand-selected book from our Readers' Advisors, and this new service makes it easier than ever.
+Fill out this form and every twelve weeks, we will match you with a personalized book selection and put it on the hold shelf for you. We'll email when your book is ready and follow up to see what you think. It's that easy!
 
-Just fill out this form and every twelve weeks, we will match you with a personalized book selection and put it on the hold shelf for you. We'll email when your book is ready and follow up to see what you think. It's that easy!
-
-<script type="text/javascript" src="https://form.jotform.com/jsform/73535599579175"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/80985377079171"></script>
 </div>
 </div>

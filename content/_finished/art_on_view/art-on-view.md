@@ -1,20 +1,15 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Justin Mossa
+### Current Exhibit: Darien Public School Art Show
 
-**Monday, March 19th through Tuesday, April 17th**
+**Wednesday, April 18th through Wednesday, May 16th**
 <br />
 <br />
 
-### Reception
-Friday, February 9th from 6 to 8 p.m.
-<br />
-<br />
 
 ### About the Artist
-The Artistic Director of the DHS musical this spring is Justin Mossa.  Justin will curate a show at Darien Library of the art of the production - sets, costumes, marketing, etc.  A collection of the artistic steps in the design process of a stage production such as mood boards, preliminary sketches, construction models to-scale, costume flats, costume pieces on mannequins will be displayed at the Library from March 19th ending April 17th.
-<br />
+The Darien Public Schools are excited to show again at Darien Library. This show is a variety of mediums and styles displaying Darien students' unique interests and artistic backgrounds. Student work is also concurrently on display at Darien Town Hall.<br />
 <br />
 
 ### Apply to be an Artist on View 

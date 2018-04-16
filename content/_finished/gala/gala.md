@@ -25,6 +25,10 @@ Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 <br />
 </div>
 <div class="col-md-3">
+<a href="https://dar.to/2GPPJoo"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/laurel_road_bank.png" alt="Laurel Road Bank" /></a>
+<br />
+</div>
+<div class="col-md-3">
 <a href="https://dar.to/2oiCt1G"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="New Canaan/Darien Magazine" /></a>
 <br />
 </div>
@@ -40,6 +44,7 @@ Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 ### Gala Committee 2018 
 Stacey Tie, Co-Chair<br />
 Karen Knapp, Co-Chair<br />
+Lindsey Atha<br />
 Tasha Blair<br />
 Suzanne Connor <br />
 Brooke Gies<br />
@@ -48,7 +53,12 @@ Catherine Jefferson<br />
 Sarah Konecke<br />
 Jennifer Leahy<br />
 Sarah Lubeley<br />
+Chris Ludlow<br />
+Keri MacColl<br />
+Kate Mastellone<br />
+Ann Reed<br />
 Autumn Robert<br />
+Jeanne Siddel<br />
 Cassie Yusi<br />
 <br />
 </div>
