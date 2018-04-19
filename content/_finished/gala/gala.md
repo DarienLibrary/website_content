@@ -56,6 +56,9 @@ Sarah Lubeley<br />
 Chris Ludlow<br />
 Keri MacColl<br />
 Kate Mastellone<br />
+MJ Miller<br />
+Clare Passaro<br />
+Angie Polk<br />
 Ann Reed<br />
 Autumn Robert<br />
 Jeanne Siddel<br />
