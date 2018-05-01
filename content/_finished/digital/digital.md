@@ -68,19 +68,19 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 </div>
 
 <div class="text-center margin-bottom-50">
-  <h2 class="title-v2 title-center">Digital Reading Apps</h2>
+  <h2 class="title-v2 title-center">Digital Apps</h2>
 </div>
 
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
-<a href="https://dar.to/2qyVM4X"><img src="/uploads/logos/overdrive_icon.jpg" alt= "OverDrive" /></a>
+<a href="https://dar.to/2qyVM4X"><img src="/uploads/logos/libby_icon.png" alt= "Libby by OverDrive" /></a>
  
-### OverDrive 
+### Libby by OverDrive 
 
 [View the OverDrive Catalog](https://dar.to/2qyVM4X "OverDrive")
 
-Download the OverDrive app to your mobile device from the Apple or Android app store. For Kindle owners, download your e-Books from the OverDrive collection.
+Download the _Libby_ app to your mobile device from the Apple or Android app store. For Kindle owners, download your e-Books from the [OverDrive](https://dar.to/2rwHAsg "OverDrive") collection.
 
 * e-Books
 * e-Audiobooks
@@ -101,7 +101,7 @@ Download the OverDrive app to your mobile device from the Apple or Android app s
 
 Hoopla Digital provides you with access to thousands of movies and TV shows. On your computer, your Hoopla digital checkout will stream just like a YouTube video or Pandora audio. 
 
-If you are on a mobile device like your tablet or smartphone, you can download your checkouts to the Hoopla app. Download 7 items of any combination of movies, music, TV episodes, or audiobooks each calendar month. 
+If you are on a mobile device like your tablet or smartphone, you can download your checkouts to the _Hoopla_ app. Download 7 items of any combination of movies, music, TV episodes, or audiobooks each calendar month. 
 
 <div class="row">
 <div class="col-md-6">
@@ -127,6 +127,22 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 </div> 
 
 <div class="row margin-bottom-20">
+<div class="col-md-6">
+
+<a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/acorntv_logo.jpg" alt= "Acorn TV" /></a>
+
+### Acorn TV
+
+[Access Acorn TV](https://dar.to/2rcRb9E "RBdigital")
+
+Get the best of British and Australian TV via Acorn TV. You will need to create an account through the [RBdigital](https://dar.to/2rcRb9E) website. Every seven days you will need to go back to [this link](https://dar.to/2rcRb9E "this link") to renew your access to Acorn TV. Once you have your online account setup, you can access the shows through the _RBdigital_ app or _Acorn TV_ app. 
+
+* British TV Shows
+* Australian TV Shows
+
+[Get Acorn TV Help](https://dar.to/2p5Xx7B "Acorn TV help")
+
+</div>
 <div class="col-md-6">
 
 <a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/rbdigital_logo.jpg" alt= "RBdigital" /></a>
