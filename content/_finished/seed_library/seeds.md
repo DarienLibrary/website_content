@@ -78,24 +78,34 @@ Flowers
 * Flax – Scarlett
 * Giant Coral Zinnia
 * Giant Sunflowers – Heirloom Titan
+* Giant Sunflowers - Sunzilla
 * Godetia
 * Great Quaking Grass
 * Impatiens  
+* Indian Peace Pipes
 * Jerusalem Gold Hybrid Sunflower
 * Lupine – Pixie Delight
 * Lemon Queen
+* Lupine - Texas Bluebonnet
 * Mammoth Sunflower
 * Marigold – Queen Sophia
+* Marigold - Summer Splash
 * Morning Glory Heavenly Blue
 * Nasturtium - Mahogany
 * Pansy - Blue
 * Sunspot
-* Sweet Pea – Perfume Delight
+* Sweet Pea Bouqet Blend
+* Sweet Pea Little Sweetheart
+* Sweet Pea North Shore
 * Sweet Pea – Old Spice Blend
+* Sweet Pea – Perfume Delight
 * Tip Top Nasturtium
 * Torch
 * Velvet Queen Sunflower
+* Zinnia – California Giants
+* Zinnia – Cha-Cha-Cha
 * Zinnia – Paintbrush Mixed Colors
+* Zinnia – State Fair Gold Medal
 <br />
 
 </div>
@@ -269,6 +279,7 @@ Vegetables
 * Little Finger
 * Long Sweet Carrots – King Midas
 * Purple Sun
+* Snacking - Rotild
 
 **Cauliflower**<br />
 * Amazing Taste
@@ -291,6 +302,7 @@ Vegetables
 * Delectable (Sweet)
 * Earth Tones
 * Inca Blue Indian Corn
+* Sweet Early Casino
 * Strawberry
 
 **Cucumber**<br />
@@ -440,6 +452,7 @@ Vegetables
 * Ruby Red
 
 **Tomato**<br />
+* Ace 55  - Bush
 * Beefsteak – Big Beef
 * Black Cherry
 * Red Brandywine
@@ -449,6 +462,7 @@ Vegetables
 * Cherry- Orange Sungold
 * Cherry – Tri- Color Garden Candy
 * Chianti Rose
+* Golden Jubilee - Pole
 * Italian roma - Bush
 * Jubilee
 * Lemon Drop
