@@ -1,154 +1,175 @@
+<div class="row" style="background-color:#addaf5;">
 <div class="col-md-12">
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2017_cl_summer_reading_header.jpg" alt="Camp Darien" />
+<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2018_cl_summer_reading_header.jpg" alt="Mystery on the Darien Express" />
 <br />
 <br />
-
-<div class="text-center margin-bottom-50">
-  <h2 class="title-center">Sign-up begins Monday, June 5th</h2>
 </div>
 </div>
-
 <div class="row">
-<div class="col-md-10">
+<div class="col-md-12">
 <div class="row">
 <div class="col-md-5">
-<div style="background-color:#9fd9d7; padding:10px;">
+<div style="padding:10px;">
 
-<h3 style="color: purple;">Read to Me Club</h3>
+<h3 style="color:#981f22;">Read to Mes Club</h3>
 
 Over the summer, use the Read to Me Log to record all the books you read together. For every 10 books (up to 30 books) you share with a grownup, you will be entered into a special raffle. 
-
-</div>
 <br />
 <p>
-<a href="https://dar.to/2qQzPjT" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Read to Me Club Sign Ups</a>
+<a href="https://dar.to/2L0Ro90" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#502f2f;">Read to Mes Club Sign Ups</a>
 </p>
 <br />
+</div>
 </div>
 <div class="col-md-5">
-<div style="background-color:#b9da96; padding:10px;">
+<div style="padding:10px;">
 
-<h3 style="color: purple;">Readers in Grades K to 6</h3>
+<h3 style="color:#981f22;">Readers in Grades K to 6</h3>
 
-If you register for Summer Reading between June 5th and June 15th, you will be entered into a special raffle for an awesome camp prize! We'll draw a winner on Friday, June 16th at 5:30 p.m.
-</div>
+If you register for Summer Reading between June 4th and June 14th, you will be entered into a special raffle for an awesome camp prize! We'll draw a winner on Friday, June 15th at 5:30 p.m.
 <br />
 <p>
-<a href="https://dar.to/2qQelE2" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">K to 6 Sign Ups</a>
+<a href="https://dar.to/2IKLjPG" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#502f2f;">K to 6 Sign Ups</a>
 </p>
 <br />
 </div>
 </div>
-<div class="row">
-<div class="col-md-10">
-<div style="background-color:#f5ce59; padding:10px;">
-
-<h3 style="color: purple;">Camp Darien Reading Challenge</h3>
-
-Each participant in Camp Darien will receive a Trail Map that consists of 5 reading challenges and 5 physical challenges. Kids will fill out their own personal Trail Map each time they visit the Library. Campers who complete their Trail Map by **Wednesday, August 16th** will be into a Grand Prize raffle, which will be drawn at the Summer Reading Finale Party on Thursday, August 17th.
+<div class="col-md-2">
+<div style="padding:10px;">
+<h3 style="color:#981f22;">Downloads</h3>
+<p>
+<a href="https://dar.to/2Gn5VYY" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#724446;">Railway Map</a>
+</p>
+<p>
+<a href="https://dar.to/2L5ftvB" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#724446;">Brochure&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</p>
 </div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-12">
+<div style="padding:10px;">
+<div class="row">
+<div class="col-md-12" style="border:dotted 8px #db6f70;">
+<h3 style="color:#981f22;">Darien Express Reading Challenge</h3>
+<div class="row">
+<div class="col-md-4">
+<div style="padding: 0 10px 10px 10px;">
+<span class="fa-stack fa-2x">
+  <i class="fa fa-circle fa-stack-1x" style="color:#981f22;"></i>
+  <strong class="fa-stack-1x circle-text" style="color:#fff; font-size:1em;">1</strong>
+</span>
 <br />
-
+Each participant in Mystery on the Darien Express will receive a Railway Route that consists of 11 reading challenges and 5 physical challenges. Kids will fill out their own Railway Route each time they visit the Library. 
+</div>
+</div>
+<div class="col-md-4">
+<div style="padding:10px;">
+<h4 style="color:#981f22;">Step Two</h4>
+Riders who complete their Railway Route by Tuesday, August 14th will be entered into a Grand Prize raffle, which will be drawn at the Summer Reading Finale Party on Wednesday, August 15th. Riders may choose a prize at each “station” they reach on the route.
+</div>
+</div>
+<div class="col-md-4">
+<div style="padding:10px;">
+<h4 style="color:#981f22;">Step Three</h4>
+Do you like to solve puzzles? Riders who solve the Mystery of the Darien Express will be entered into the Grand Prize Raffle for a second time. Clues will be given at each “station” you reach on your Railway Route.
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 <div class="row">
 <div class="col-md-3">
+<div style="padding:10px;"> 
+
+<h3 style="color:#981f22;">Summer Booklists</h3>
+
+[K to 1 Books](https://dar.to/2GiPQUu "K to 1 Recommended Summer Reads") or [PDF](https://dar.to/2ImZl6J "PDF") <br /><br />
+[2 to 3 Books](https://dar.to/2IJeJxz "2 to 3 Recommended Summer Reads") or [PDF](https://dar.to/2k1zmr0 "PDF") <br /><br />
+[4 to 5 Books](https://dar.to/2IKAqNQ "4 to 5 Recommended Summer Reads") or [PDF](https://dar.to/2Kpux5U "PDF")
 <br />
-<p>
-<a href="https://dar.to/2pGi8Qo" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Trail Map</a>
-</p>
-<br />
+</div> 
 </div>
 <div class="col-md-3">
-<br />
-<p>
-<a href="https://dar.to/2pG4oF5" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Brochure</a>
-</p>
-<br />
-</div>
-<div class="col-md-6">
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/canoe.jpg" alt="Camp Darien Canoe" title="Let's Go!" />
-<br />
-</div>
-</div>
+<div style="padding:10px;"> 
 
-<div class="row">
-<div class="col-md-6">
-<div style="background-color:#7bcfe7; padding:10px;"> 
-
-<h3 style="color: purple;">Summer Booklists</h3>
-
-[K to 1 Books](https://dar.to/2rjdsnw "K to 1 Recommended Summer Reads")<br /><br />
-[2 to 3 Books](https://dar.to/2slU1c2 "2 to 3 Recommended Summer Reads")<br /><br />
-[4 to 5 Books](https://dar.to/2ryD1l4 "4 to 5 Recommended Summer Reads") 
+<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2018_suitcases.jpg" alt="Pack your suitcase" />
 <br />
 </div> 
 </div>
 <div class="col-md-6">
-<div style="background-color:#c7a1c6; padding:10px;"> 
+<div style="padding:10px;"> 
 
-<h3 style="color: purple;">Events</h3>
+<h3 style="color:#981f22;">Events</h3>
 Summer Reading events are pre-registered in advance or drop-in programs which all are welcome to attend. Many programs support <abbr title="Science, Technology, Enginnering, Arts, and Mathematics">S.T.E.A.M.</abbr> education. 
 <br />
 <br />
 
-[View Summer Reading Events](https://dar.to/2pODdIA "Summer Reading Events for Kids")
+[View Summer Reading Events](https://dar.to/2ICrWsj "Summer Reading Events for Kids")
 <br />
-
 </div>
 </div> 
 </div>
-<br />
-<br />
-<div class="row">
-<div class="col-md-6"> 
-<div style="background-color:#e7954d; padding:10px;">
 
-<h3 style="color: purple;">Read to Me Finale Concert</h3>
-Friday, August 11th from 11 to 11:45 a.m.<br />
-Louise Parker Berry Community Room
-<br />
-<br />
-Participants in the Read to Me Club are invited to our Finale Concert featuring Grammay-nominated duo, The Pop-Ups. The winner of the Read to Me Club raffle will be announced at this special concert. 
-<br />
-<br />
-</div>
-</div>
-
-<div class="col-md-6"> 
-<div style="background-color:#f87d8f; padding:10px;">
-
-<h3 style="color: purple;">Camp Darien Finale Party</h3>
-Thursday, August 17th from 6 to 7:30 p.m.<br />
+<div class="row" style="border-top:solid 2px #d9dadd; padding-top:10px;">
+<div class="col-md-6">
+<div style="padding:10px;"> 
+<h3 style="color:#981f22;">Summer Reading Kick-Off Party</h3>
+Wednesday, June 20th from 5 to 6:30 p.m.<br />
 Courtyard
 <br />
 <br />
-Participants in Camp Darien (K to 6) are invited to join our Finale Party. There will be music, raffles, food, games, and photo-ops. The winner of the Camp Darien Challenge will be announced. Registration begins on Tuesday, August 1st. 
-<br />
-</div>
-</div>
-</div>
-
-</div>
-</div>
-</div>
-<div class="col-md-2">
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/pine_tree_owl.jpg" alt="Owl in Pine Tree" title="Whoo? Whoo?" />
-<br />
-
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/boy_with_backpack.jpg" alt="Hiker' " title="I'll be a backpack while you run!" />
-
-</div>
-</div>
+Celebrate summer at Darien Library! Get excited for the summer ahead with live music, facepainting, and more at our kick-off event.
 
 <br />
 <br />
+</div>
+</div>
+<div class="col-md-6">
+<div style="padding:10px;"> 
+<h3 style="color:#981f22;">Read to Me Finale Concert</h3>
+Friday, August 10th from 11 to 11:45 a.m.<br />
+Louise Parker Berry Community Room
+<br />
+<br />
+Participants in the Pre-Reading Challenge are invited to our Finale Concert featuring the Brooklyn-based music project Mil’s Trills. The winner of the Pre-Reading Challenge raffle will be announced at this special concert.
+<br />
+<br />
+</div>
+</div>
+</div>
 <div class="row">
-<div class="col-md-10">
-
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2017_camp_fire_scene.jpg" alt="Girl reading, boy toasting marshmellow, a fox watches" title="Nom! Nom! Nom!" />
+<div class="col-md-12" style="border:dotted 8px #db6f70;">
+<div class="row">
+<div class="col-md-8"> 
+<div style="padding:10px;">
+<h3 style="color:#981f22;">Mystery on the Darien Express Finale Party</h3>
+Wednesday, August 15th from 6 to 7:30 p.m.<br />
+Courtyard
 <br />
-
+<br />
+Participants in Mystery on the Darien Express (K to 6) are invited to our Finale Party in the Library courtyard. There will be music, raffles, food, games, and photo-ops. The winner of the Mystery on the Darien Express Challenge will also be announced. Registration for this party will begin Wednesday, August 1st. Space is limited. 
+<br />
+Additional parking for evening and weekend Library programs is located on Thorndal Circle (behind Nielsen’s).
+<br />
 </div>
 </div>
-
-
+<div class="col-md-4">
+<div style="padding:10px;">
+<h3 style="color:#981f22;">Registration Opens</h3>
+Wednesday, August 1st<br />
+<br />
+<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2018_map_magnifying_glass.jpg" alt="What will you discover?" />
+</div>
+</div>
+</div>
+</div>
+</div>
+<br />
 Summer Reading is made possible by the generous support of the Marion Moore Foundation.

@@ -6,194 +6,312 @@
 Teen Summer Reading Programs are for tweens and teens ages 12-18. Twelve-year-olds may join either the [Children’s Summer Reading Program](https://dar.to/2snUFFm "Children's Library Summer Reading") or the Teen Summer Reading Program.
 <br />
 <br />
-<!-- 
+
 <p>
-<a href="https://dar.to/2seQyw8" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Register for Teen Summer Reading</a>
-</p> -->
+<a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Register for Teen Summer Reading</a>
+</p>
 <br />
 
 </div>
 <div class="col-md-6">
 
 <h3 style="color: #894C52;">Reading Challenge</h3>
-Complete 15 of 20 of our Reading Challenges to win a $10 gift card! The challenges can be found on a bookmark you can pick up at the Library beginning June 5th or download below.
+Complete 15 of 20 of our Reading Challenges to win a $10 gift card! The challenges can be found on a brochure you can pick up at the Library beginning June 5th or download below.
 <br />
 <br />
 <p>
-<a href="https://dar.to/2rFwYMh" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Reading Challenge Bookmark</a>
+<a href="https://dar.to/2wu13BQ" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Reading Challenge Brochure</a>
 </p>
 <br />
 
 </div>
 </div>
 
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/camping_stars_lake.jpg" alt="Camping under the stars" />
+<!-- <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2018_teen_summer_reading_train.jpg" alt="Train to Darien" /> -->
 
-<h3 style="color: #894C52;">Teen Survival Camp: Adulting 101</h3>
+
+<div class="row" style="border-right: 5px solid #354fa3; border-top: 5px solid #354fa3; padding-top:5px;">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-arrow-circle-down fa-3x" style="color:#354fa3;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h3 style="color: #894C52;">Summer Programs</h3>
+</div>
+</div>
+
+Teen Summer Reading Programs are for tweens and teens ages 12-18. Twelve-year-olds may join either the [Children’s Summer Reading Program](https://dar.to/2snUFFm "Children's Library Summer Reading") or the Teen Summer Reading Program.
+<br />
+
 <div class="row">
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-birthday-cake fa-2x" style="color:#354fa3;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4>Summer Reading Kickoff Party</h4>
+</div>
+</div>
 
-### Live Your Life: Zombie Apocalypse Training
-Thursday, June 22nd from 1 to 2 p.m.<br />
-Are you prepared for the zombie apocalypse? Get ready with disaster preparedness training. Learn what to have when the power goes out, when you’re trapped in your car, and more!
+**Wednesday, June 17th from 6:30 to 8 p.m.**<br />
+School’s finally out but the fun is just getting started at Darien Library -- join us to kick off Summer Reading. Grab some food and an Advanced Reader Copy of a new book, and then tap into your creative side and tie dye something awesome to wear all summer long. [Register](# "Register for Summer Reading Kickoff Party")
 <br />
 <br />
 </div>
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-paint-brush fa-2x" style="color:#354fa3;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4>Tween Make Week</h4>
+</div>
+</div>
 
-### Manage Your Money
-Monday, July 10th from 7 to 9 p.m.<br />
-Creating a budget is a lifelong skill. Come for tips and tricks about managing your money, from checking and savings to the ins and outs of credit. This program will take place in the Louise Parker Berry
-Community Room.
+**Monday, July 2nd at 5 p.m.**<br />
+No artistic skills required for this arts and craft program! We’ll have a variety of art materials to choose from, unleash your inner kid and make something crazy. 
+This program will take place in the Conference Room. 
 <br />
 <br />
 </div>
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-copyright fa-2x" style="color:#354fa3;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4>Cookie Decorating</h4>
+</div>
+</div>
 
-### Live Your Life: Zen
-Tuesday, August 22nd from 4 to 5 p.m.<br />
-Being a teenager is stressful; join us at the Library for an afternoon of relaxation. Make a sugar scrub and bath bombs, and learn some self-care techniques!
+**Tuesday, July 17th at 1 p.m.**<br />
+Learn special techniques for decorating creative and imaginative cookies then design a sweet treat for yourself! [Register](# "Register for Cookie Decorating")
 <br />
 <br />
 </div>
 </div>
-
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/campfire_beach.jpg" alt="Camping on the beach" />
-
-<h3 style="color: #894C52;">Cook Your Food</h3>
 <div class="row">
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-android fa-2x" style="color:#354fa3;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4>Robo-Painting</h4>
+</div>
+</div>
 
-### Breakfast
-Tuesday, June 27th from 11 a.m to 1 p.m.<br />
-Breakfast: it’s the most important meal of the day. Scramble an egg, make pancakes, and more! Space limited to 10 participants. Program requires use of knives and hot plates. [Register](https://dar.to/2rUPGiS "Register for Breakfast")
+**Friday, July 27th at 1 p.m.**<br />
+Use a Sphero robot to paint your own masterpiece -- cover it in paint and watch it go. 
 <br />
 <br />
 </div>
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-search fa-2x" style="color:#354fa3;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4>CSI: Darien Library</h4>
+</div>
+</div>
 
-### Snacks and Appetizers
-Wednesday, July 12th from 12 noon to 2 p.m.<br />
-Brighten up your days with tasty snacks. We’ll make smoothies, dips, and more! Bring your appetite. Space limited to 10 participants. Program requires use of knives and hot plates. [Register](https://dar.to/2rVl40s "Register for Snacks and Appetizers")
+**Monday, July 30th at 4 p.m.**<br />
+Do you think you have what it takes to be a detective? Learn how to analyze handwriting and fingerprint evidence, and then test your investigative skills to solve a mystery. This program will take place in the Conference Room.
 <br />
 <br />
 </div>
 <div class="col-md-4">
-
-### Dinner
-Thursday, August 10th from 4 to 6 p.m.<br />
-In the real world, you can’t really eat ramen noodles every day. Learn how to dice and chop your way to a delicious meal. Space limited to 10 participants. Program requires use of knives and hot plates. [Register](https://dar.to/2rll2MM "Register for Dinner")
-<br />
-<br />
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-book fa-2x" style="color:#354fa3;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4><em>I Am Princess X</em> Book Discussion</h4>
 </div>
 </div>
 
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/hiking_solo_mountains.jpg" alt="Let's Go Hiking" />
+**Tuesday, August 7th at 5 p.m.**<br />
+Six years ago May’s friend/comic book collaborator, Libby, was killed in a car accident. Now, a comic has appeared online featuring their heroine, Princess X, and its discovery leads May to believe her friend may not be dead after all. Check out a copy and discuss this mystery over snacks.
+<br />
+<br />
+</div>			
+</div>
+</div>
+</div>
+</div>
+</div>
 
+
+<div class="row" style="border-left: 5px solid #6fc04a; border-bottom: 5px solid #a04c95; border-top: 5px solid #6fc04a; padding-top:5px;">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-arrow-circle-down fa-3x" style="color:#6fc04a;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
 <h3 style="color: #894C52;">Tween Make Week</h3>
+</div>
+</div>
 
 The Teen Lounge and the Children’s Library join forces to bring a mini-Maker Camp to Darien Library. Tweens can register for any of the afternoon programs, which include DIY projects that focus on <abrr title="Science, Technology, Engineering, and Mathematcis">STEM</abrr> building activities.
 
 Ages 10 to 14 
-
+<br />
+</div>
+</div>
 <div class="row">
 <div class="col-md-4">
 
-### For the Makers (Make It and Take It)
-Tuesday, July 18th from 2 to 3:30 p.m.
+#### Squishy Circuits
+Tuesday, July 10th from 2 to 3:30 p.m.
 
-Tweens will make-and-take a DIY project of their choice in this Makerspace program.<br />
-[Register](https://dar.to/2ryocyB "Register for Makers")
+TEXT TO COME<br />
+[Register](# "Register for Squishy Circuits")
 <br />
 <br />
 </div>
 <div class="col-md-4">
 
-### Make a Terrarium
-Wednesday, July 19th from 2 to 3:30 p.m.
+#### Morse Decoder Kits
+Wednesday, July 11th from 2 to 3:30 p.m.
 
-Do you have a green thumb? Find out when you make your own terrarium in this creative program!<br /> 
-[Register](https://dar.to/2rRGUSs "Register for Terrarium")
+TEXT TO COME<br /> 
+[Register](# "Register for Morse Decoder Kits")
 <br />
 <br />
 </div>
 <div class="col-md-4">
 
-### Intro to Soldering
-Thursday, July 20th from 2 to 3:30 p.m.
 
-Get ready to solder your heart out in this beginner's workshop on the exciting art of soldering!<br />
-[Register](https://dar.to/2ryihJS "Register for Soldering")
+#### DIY Plushies
+Thursday, July 12th from 2 to 3:30 p.m.
+
+TEXT TO COME<br />
+[Register](# "Register for DIY Plushies")
 <br />
 <br />
+
+</div>			
+</div>
+</div>
 </div>
 
+
+<div class="row" style="border-right: 5px solid #a04c95; border-bottom: 5px solid #dc483b; padding-top:5px;">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-arrow-circle-down fa-3x" style="color:#a04c95;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h3 style="color: #894C52;">Watch and Make</h3>
+</div>
 </div>
 
-<h3 style="color: #894C52;">Classic Teen Movie Festival</h3>
+Drop by the Library to watch a great teen movie and take part in a related activity. 
 
+Ages 10 to 14 
+<br />
+</div>
+</div>
 <div class="row">
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2qCyUBd"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/clueless_movie.jpg" alt="Clueless" /></a>
-Wednesday, June 21st
-<br />
+<a href="#"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/ferris_bueller_movie.jpg" alt="Ferris Bueller's Day Off" /></a>
 </div>
-<div class="col-md-4">
-<a href="https://dar.to/2qHsaRI"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/back_to_future_movie.jpg" alt="Back to the Future" /></a>
-Wednesday, June 28th
+<div class="col-md-8">
+
+#### "Ferris Bueller's Day Off"
+**Thursday, July 19th** <br />
+**at 4 p.m.**
 <br />
-</div>
-<div class="col-md-4">
-<a href="https://dar.to/2rqwZTo"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/now_and_then_movie.jpg" alt="Now and Then" /></a>
-Wednesday, July 5th
+Learn about the science of a Rube Goldberg machine and make one as a team while watching Ferris avoid trouble with his own creation.
 <br />
 </div>
 </div>
-<br />
 </div>
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2rVPfVF"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/mighty_ducks_movie.jpg" alt="The Mighty Ducks" /></a>
-Wednesday, July 12th
-<br />
+<a href="#"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/mean_girls.jpg" alt="Mean Girls" /></a>
 </div>
-<div class="col-md-4">
-<a href="https://dar.to/2rlJhdE"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/bring_it_on_movie.jpg" alt="Bring It On" /></a>
-Wednesday, July 19th
+<div class="col-md-8">
+
+#### "Mean Girls"
+**Wednesday, August 1st** <br />
+**at 4 p.m.**
 <br />
-</div>
-<div class="col-md-4">
-<a href="https://dar.to/2qCiGvO"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/ferris_bueller_movie.jpg" alt="Ferris Bueller's Day Off" /></a>
-Wednesday, July 26th
+Take a break and relax while Regina George stresses out Cady Heron. Create your own bath bombs and a DIY sugar scrub while watching this teen classic. 
 <br />
 </div>
 </div>
-<br />
 </div>
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2qHCN6X"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/princess_bride_movie.jpg" alt="The Princess Bride" /></a>
-Wednesday, August 2nd
+<a href="#"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/spider-man_homecoming.jpg" alt="Spider-Man Homecoming" /></a>
+</div>
+<div class="col-md-8">
+
+#### "Spider-Man: Homecoming"
+**Tuesday, August 14th** <br />
+**at 4 p.m.**
+<br />
+Are your spidey-senses tingling? Come watch the newest Spiderman movie and create a webbed work of art. 
 <br />
 </div>
-<div class="col-md-4">
-<a href="https://dar.to/2rVKprj"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/sandlot_movie.jpg" alt="The Sandlot" /></a>
-Wednesday, August 9th
+</div>
+</div>
+</div>
 <br />
-</div>
-</div>
 </div>
 </div>
 
-<br />
-<img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/three_ranger_campers.jpg" alt="You made it to the end!" />
+<div class="row">
+<div class="col-md-6" style="border-right: 5px solid #dc483b;">
+<div class="row" style="padding-top:5px;">
+<div class="col-md-1">
+<i class="fa fa-arrow-circle-right fa-3x" style="color:#dc483b;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
 <h3 style="color: #894C52;">Summer Reading Teen Finale</h3>
-Tuesday, August 29th at 6:30 p.m.
-As summer comes to a close, join us at the Library to celebrate your Summer Reading success! Hang out with us and a video game bus for one last time before heading backto school. There will be food, music, games, and prizes!
+</div>
+</div>
 
+**Thursday, August 16th from 6:30 to 8 p.m.**<br />
+As summer comes to a close, join us at the Library to celebrate your Summer Reading success! Hang out with us and the video game bus before heading back to school. There will be food, music, games, and prizes!
+<br />
+[Register](# "Register for the Summer Reading Teen Finale")
+
+<br />
+</div>
+<div class="col-md-6">
+<div class="row" style="padding-top:5px;">
+<div class="col-md-1">
+<i class="fa fa-arrow-circle-right fa-3x" style="color:#dc483b;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h3 style="color: #894C52;">Escape the Room: The Great Train Robbery of Darien</h3>
+</div>
+</div>
+
+**Wednesday, August 22nd at 7 p.m.** or <br />
+**Thursday, August 23rd at 7 p.m.**<br />
+Oh no! You and your fellow passengers are stuck at the train depot until the mystery of the Great Train Robbery is solved. Can you work together and solve the mystery in only 30 minutes? This special game, inspired by the Escape the Room challenges, requires creativity, teamwork, and curiosity to win. Registration for these limited spots will begin on Wednesday, August 1st.
+<br />
+</div>
+</div>
+
+<div class="margin-bottom-30"></div>
 
 Summer Reading is made possible by the generous support of the [Friends of the Library](/friends "Friends of the Library").
