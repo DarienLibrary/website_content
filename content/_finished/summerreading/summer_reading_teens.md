@@ -3,12 +3,12 @@
 
 <h3 style="color: #894C52;">Registration</h3>
 
-Teen Summer Reading Programs are for tweens and teens ages 12-18. Twelve-year-olds may join either the [Children’s Summer Reading Program](https://dar.to/2snUFFm "Children's Library Summer Reading") or the Teen Summer Reading Program.
+Teen Summer Reading Programs are for tweens and teens ages 12-18. Twelve-year-olds may join either the [Children’s Summer Reading Program](https://dar.to/2s55izg "Children's Library Summer Reading") or the Teen Summer Reading Program.
 <br />
 <br />
 
 <p>
-<a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Register for Teen Summer Reading</a>
+<a href="https://dar.to/2GMcHrq" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Register for Teen Summer Reading</a>
 </p>
 <br />
 
@@ -43,7 +43,6 @@ Complete 15 of 20 of our Reading Challenges to win a $10 gift card! The challeng
 </div>
 </div>
 
-Teen Summer Reading Programs are for tweens and teens ages 12-18. Twelve-year-olds may join either the [Children’s Summer Reading Program](https://dar.to/2snUFFm "Children's Library Summer Reading") or the Teen Summer Reading Program.
 <br />
 
 <div class="row">
@@ -53,12 +52,12 @@ Teen Summer Reading Programs are for tweens and teens ages 12-18. Twelve-year-ol
 <i class="fa fa-birthday-cake fa-2x" style="color:#354fa3;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
-<h4>Summer Reading Kickoff Party</h4>
+<h4>Summer Reading Kick-off Party</h4>
 </div>
 </div>
 
-**Wednesday, June 17th from 6:30 to 8 p.m.**<br />
-School’s finally out but the fun is just getting started at Darien Library -- join us to kick off Summer Reading. Grab some food and an Advanced Reader Copy of a new book, and then tap into your creative side and tie dye something awesome to wear all summer long. [Register](# "Register for Summer Reading Kickoff Party")
+**Wednesday, June 27th from 6:30 to 8 p.m.**<br />
+School’s finally out but the fun is just getting started at Darien Library -- join us to kick off Summer Reading. Grab some food and an Advanced Reader Copy of a new book, and then tap into your creative side and tie dye something awesome to wear all summer long. [Register](https://dar.to/2IH51N8 "Register for Summer Reading Kick-off Party")
 <br />
 <br />
 </div>
@@ -89,7 +88,7 @@ This program will take place in the Conference Room.
 </div>
 
 **Tuesday, July 17th at 1 p.m.**<br />
-Learn special techniques for decorating creative and imaginative cookies then design a sweet treat for yourself! [Register](# "Register for Cookie Decorating")
+Learn special techniques for decorating creative and imaginative cookies then design a sweet treat for yourself! [Register](https://dar.to/2LrGpWt "Register for Cookie Decorating")
 <br />
 <br />
 </div>
@@ -170,20 +169,20 @@ Ages 10 to 14
 <div class="col-md-4">
 
 #### Squishy Circuits
-Tuesday, July 10th from 2 to 3:30 p.m.
+**Tuesday, July 10th from 2 to 3:30 p.m.**
 
-TEXT TO COME<br />
-[Register](# "Register for Squishy Circuits")
+Create circuitry with play dough through Squishy Circuits.<br />
+[Register](https://dar.to/2sac7P4 "Register for Squishy Circuits")
 <br />
 <br />
 </div>
 <div class="col-md-4">
 
 #### Morse Decoder Kits
-Wednesday, July 11th from 2 to 3:30 p.m.
+**Wednesday, July 11th from 2 to 3:30 p.m.**
 
-TEXT TO COME<br /> 
-[Register](# "Register for Morse Decoder Kits")
+Hone your engineering skills as you put together a Morse Decoder Kit.<br /> 
+[Register](https://dar.to/2J46VXG "Register for Morse Decoder Kits")
 <br />
 <br />
 </div>
@@ -191,10 +190,10 @@ TEXT TO COME<br />
 
 
 #### DIY Plushies
-Thursday, July 12th from 2 to 3:30 p.m.
+**Thursday, July 12th from 2 to 3:30 p.m.**
 
-TEXT TO COME<br />
-[Register](# "Register for DIY Plushies")
+Develop your sewing skills as you create a plushie of your own design.<br />
+[Register](https://www.darienlibrary.org/event/2444?utm_source=teen_SR&utm_medium=website&utm_campaign=2018_TSR "Register for DIY Plushies")
 <br />
 <br />
 
@@ -291,7 +290,7 @@ Are your spidey-senses tingling? Come watch the newest Spiderman movie and creat
 **Thursday, August 16th from 6:30 to 8 p.m.**<br />
 As summer comes to a close, join us at the Library to celebrate your Summer Reading success! Hang out with us and the video game bus before heading back to school. There will be food, music, games, and prizes!
 <br />
-[Register](# "Register for the Summer Reading Teen Finale")
+[Register](https://dar.to/2x9B7Mb "Register for the Summer Reading Teen Finale")
 
 <br />
 </div>

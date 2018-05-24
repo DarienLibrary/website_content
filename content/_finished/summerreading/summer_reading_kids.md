@@ -11,12 +11,12 @@
 <div class="col-md-5">
 <div style="padding:10px;">
 
-<h3 style="color:#981f22;">Read to Mes Club</h3>
+<h3 style="color:#981f22;">Read to Me Club</h3>
 
-Over the summer, use the Read to Me Log to record all the books you read together. For every 10 books (up to 30 books) you share with a grownup, you will be entered into a special raffle. 
+Over the summer, use the Read to Me Log to record all the books you read together. For every 10 books you share with a grownup, you will be entered into a special raffle. 
 <br />
 <p>
-<a href="https://dar.to/2L0Ro90" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#502f2f;">Read to Mes Club Sign Ups</a>
+<a href="https://dar.to/2L0Ro90" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#502f2f;">Read to Me Club Sign Ups</a>
 </p>
 <br />
 </div>
@@ -26,7 +26,7 @@ Over the summer, use the Read to Me Log to record all the books you read togethe
 
 <h3 style="color:#981f22;">Readers in Grades K to 6</h3>
 
-If you register for Summer Reading between June 4th and June 14th, you will be entered into a special raffle for an awesome camp prize! We'll draw a winner on Friday, June 15th at 5:30 p.m.
+If you register for Summer Reading between June 4th and June 14th, you will be entered into a special raffle for a [Build a Droid Kit](https://dar.to/2J5xXh2 "Build a Droid Kit")! We'll draw a winner on Friday, June 15th at 5:30 p.m.
 <br />
 <p>
 <a href="https://dar.to/2IKLjPG" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#502f2f;">K to 6 Sign Ups</a>
@@ -56,19 +56,17 @@ If you register for Summer Reading between June 4th and June 14th, you will be e
 <h3 style="color:#981f22;">Darien Express Reading Challenge</h3>
 <div class="row">
 <div class="col-md-4">
-<div style="padding: 0 10px 10px 10px;">
-<span class="fa-stack fa-2x">
-  <i class="fa fa-circle fa-stack-1x" style="color:#981f22;"></i>
-  <strong class="fa-stack-1x circle-text" style="color:#fff; font-size:1em;">1</strong>
-</span>
-<br />
+<div style="padding: 10px 10px 10px 10px;">
+<h4 style="color:#981f22;">Step One</h4>
 Each participant in Mystery on the Darien Express will receive a Railway Route that consists of 11 reading challenges and 5 physical challenges. Kids will fill out their own Railway Route each time they visit the Library. 
 </div>
 </div>
 <div class="col-md-4">
 <div style="padding:10px;">
 <h4 style="color:#981f22;">Step Two</h4>
+
 Riders who complete their Railway Route by Tuesday, August 14th will be entered into a Grand Prize raffle, which will be drawn at the Summer Reading Finale Party on Wednesday, August 15th. Riders may choose a prize at each “station” they reach on the route.
+
 </div>
 </div>
 <div class="col-md-4">
@@ -125,7 +123,8 @@ Wednesday, June 20th from 5 to 6:30 p.m.<br />
 Courtyard
 <br />
 <br />
-Celebrate summer at Darien Library! Get excited for the summer ahead with live music, facepainting, and more at our kick-off event.
+
+Celebrate summer at Darien Library! Get excited for the summer ahead with live music, facepainting, and more at our [kick-off event](https://dar.to/2Gl0cD5 "kick-off event").
 
 <br />
 <br />
@@ -138,7 +137,8 @@ Friday, August 10th from 11 to 11:45 a.m.<br />
 Louise Parker Berry Community Room
 <br />
 <br />
-Participants in the Pre-Reading Challenge are invited to our Finale Concert featuring the Brooklyn-based music project Mil’s Trills. The winner of the Pre-Reading Challenge raffle will be announced at this special concert.
+
+Participants in the Pre-Reading Challenge are invited to our [Finale Concert](https://dar.to/2LpDnls "Finale Concert") featuring the Brooklyn-based music project Mil’s Trills. The winner of the Pre-Reading Challenge raffle will be announced at this special concert. 
 <br />
 <br />
 </div>
