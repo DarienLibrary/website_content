@@ -69,6 +69,7 @@ Cassie Yusi<br />
 
 ### Board of Trustees Development Committee
 Tammy Sload, Chair<br />
+Tori Barnett<br />
 Jay Bennett<br />
 Michael A. Cippoletti<br />
 Alex Eising<br />
