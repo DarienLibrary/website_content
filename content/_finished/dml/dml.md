@@ -9,150 +9,129 @@ All library cardholders may use the DML. Reserving the DML in advance and schedu
 
 <div class="container content">
 <div class="text-center margin-bottom-50">
-	<h2 class="title-v2 title-center">Hardware</h2>
+<h2 class="title-v2 title-center">Hardware</h2>
 </div>
 
 <div class="row  margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Mac Pro Computer</h3>
-	<p>This computer has the Yosemite OSX operating system and 8 GB of RAM.</p>
-	</div>
-	<div class="col-sm-2">
-		<h3>Dual Screen Monitors</h3>
-		<p>These 23" monitors are adjustable since they are mounted onto movable arms.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>VHS to DVD Convertor</h3>
-		<p>Save your home movie VHS tapes for future generations by digitizing them to DVDs.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-	<h3>Cassette Tape to MP3</h3>
-	<p>Convert your old mixed tapes and recordings to MP3. Bring a thumbdrive for the conversion process.
-</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Hi8 to DVD Convertor</h3>
-		<p>Rescue your home movie Hi8 tapes by digitizing them to DVDs.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Green Screen</h3>
-		<p>Pretend to be anywhere that you can dream using the green screen! After recording, import your footage into Final Cut Pro or iMovie.</p>
-	</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Mac Pro Computer</h3>
+<p>This 27" iMac is running High Sierra with 32 GB of RAM.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>VHS to DVD Convertor</h3>
+<p>Save your home movie VHS tapes for future generations by digitizing them to DVDs.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Green Screen</h3>
+<p>Pretend to be anywhere that you can dream using the green screen! After recording, import your footage into Final Cut Pro or iMovie.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Camcorder</h3>
+<p>Use the camcorder in the DML or borrow it for recording outside of the Library. </p>
+</div>
+<div class="col-sm-2">
+<h3>Lighting Kit</h3>
+<p>Each light stand comes with a light, reflector, adjustable stand, and an umbrella.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>CD/DVD Replicator</h3>
+<p>Burn up to 10 CDs or DVDs at once!</p>
+</div>
 </div>
 
 <div class="row margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Camcorder</h3>
-		<p>Use the camcorder in the DML or borrow it for recording outside of the Library. </p>
-	</div>
-	<div class="col-sm-2">
-		<h3>Lighting Kit</h3>
-			<p>Each light stand comes with a light, reflector, adjustable stand, and an umbrella.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>CD/DVD Replicator</h3>
-		<p>Burn up to 10 CDs or DVDs at once!</p>
-	</div>
-		<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Scanner</h3>
-		<p>Scan your photos, documents, 35mm slides, and 35mm negatives.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Headphones</h3>
-		<p>Use these monitoring headphones for great feedback on your audio in the DML.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-20">
-		<h3>Yeti Microphone</h3>
-				<p>With three mics available, you can bring along friends to record a podcast, singing, and so much more!</p>
-	</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Scanner</h3>
+<p>Scan your photos, documents, 35mm slides, and 35mm negatives.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Headphones</h3>
+<p>Use these monitoring headphones for great feedback on your audio in the DML.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-20">
+<h3>Yeti Microphone</h3>
+<p>With two mics available, you can bring along friends to record a podcast, singing, and so much more!</p>
+</div>
 </div>
 </div>
 </div>
 
 <div class="container content">
 <div class="text-center margin-bottom-50">
-	<h2 class="title-v2 title-center">Software</h2>
+<h2 class="title-v2 title-center">Software</h2>
 </div>
 
 <div class="row  margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Adobe Audition</h3>
-		<p>Make powerful audio edits including multi-track mixes.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Audacity</h3>
-	<p>The simple audio editor used by pros and amateurs alike.</p>
-	</div>
-	<div class="col-sm-2">
-		<h3>GarageBand</h3>
-		<p>Easily creates audio tracks and looping sound effects.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Titanium Toast</h3>
-		<p>Burn DVDs and CDs to share your work.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-	<h3>Adobe Illustrator CS6</h3>
-	<p>Create images using industry standard software.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Adobe InDesign CS6</h3>
-		<p>Design publications and other print materials with ease.</p>
-	</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Adobe Audition</h3>
+<p>Make powerful audio edits including multi-track mixes.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Audacity</h3>
+<p>The simple audio editor used by pros and amateurs alike.</p>
+</div>
+<div class="col-sm-2">
+<h3>GarageBand</h3>
+<p>Easily creates audio tracks and looping sound effects.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Titanium Toast 16</h3>
+<p>Burn DVDs and CDs to share your work.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Adobe Illustrator CS6</h3>
+<p>Create images using industry standard software.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Adobe InDesign CS6</h3>
+<p>Design publications and other print materials with ease.</p>
+</div>
 </div>
 
 <div class="row margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Adobe Photoshop CS6</h3>
-		<p>Edit your photos or use bulk actions to process images quickly.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Adobe After Effects CS6</h3>
-		<p>Create digital motion graphics and visual effects for your videos.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Adobe Premiere CS6</h3>
-		<p>Create and edit your video footage in the familiar Adobe environment.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Compressor</h3>
-		<p>Squeeze your video files down to a shareable file size.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Final Cut Pro X</h3>
-		<p>Take full control of your video editing with lots of options.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Handbrake</h3>
-		<p>A multipurpose tool for converting and ripping video.</p>
-	</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Adobe Photoshop CS6</h3>
+<p>Edit your photos or use bulk actions to process images quickly.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Adobe After Effects CS6</h3>
+<p>Create digital motion graphics and visual effects for your videos.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Adobe Premiere CS6</h3>
+<p>Create and edit your video footage in the familiar Adobe environment.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Compressor</h3>
+<p>Squeeze your video files down to a shareable file size.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Final Cut Pro X</h3>
+<p>Take full control of your video editing with lots of options.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Handbrake</h3>
+<p>A multipurpose tool for converting and ripping video.</p>
+</div>
 </div>
 
 <div class="row margin-bottom-30">
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>iMovie</h3>
-		<p>The simpliest video editing software which fits most projects' needs.</p>
-	</div>
-	<div class="col-sm-2">
-		<h3>Adobe Dreamweaver CS6</h3>
-		<p>A website code editor for those who like a more visual experience.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Adobe Flash CS6</h3>
-		<p>Develop animations to tell your story.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>TextEdit</h3>
-		<p>A simple text editor for building websites.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Blender</h3>
-		<p>Model your own 3D effects and objects.</p>
-	</div>
-	<div class="col-sm-2 sm-margin-bottom-30">
-		<h3>Google Sketchup</h3>
-		<p>Easy software for 3D modeling of objects for printing or home designers.</p>
-	</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>iMovie</h3>
+<p>The simpliest video editing software which fits most projects' needs.</p>
+</div>
+<div class="col-sm-2">
+<h3>Adobe Dreamweaver CS6</h3>
+<p>A website code editor for those who like a more visual experience.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>Adobe Flash CS6</h3>
+<p>Develop animations to tell your story.</p>
+</div>
+<div class="col-sm-2 sm-margin-bottom-30">
+<h3>TextEdit</h3>
+<p>A simple text editor for building websites.</p>
+</div>
 </div>
 </div>
 </div>
