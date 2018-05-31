@@ -1,47 +1,24 @@
 <div class="row">
-<div class="col-md-6">
-<div class="row">
-<div class="col-md-1">
-<i class="fa fa-arrow-circle-right fa-2x" style="color:#ec4444;" aria-hidden="true"></i>
-</div>
-<div class="col-md-11">
-<h3 style="color: #ec4444;">Let Us Transport You This Summer</h3>
-</div>
-</div>
+<div class="col-md-12">
+<h3 style="color: #2C53A4;">Let Us Transport You This Summer</h3>
 
-Summer reading is the ultimate escape and we are delighted to transport you on a reading adventure. 
 
-Join us for our second annual reading challenge featuring our destination map game board, fun prizes for book lovers, and special events throughout the summer. 
+Summer reading is the ultimate escape and we are delighted to transport you on a reading adventure. Join us for our second annual reading challenge featuring our destination map game board, fun prizes for book lovers, and special events throughout the summer. 
 <br />
-</div>
-<div class="col-md-6">
-<div class="row">
-<div class="col-md-1">
-<i class="fa fa-arrow-circle-right fa-2x" style="color:#ec4444;" aria-hidden="true"></i>
-</div>
-<div class="col-md-11">
-<h3 style="color: #ec4444;">Book Readers Festival</h3>
+
+**Book Readers Festival**
+
+The official kick-off to our Adult Summer Reading will be during our Book Readers Festival on June 19th from 11 a.m. to 1 p.m. We'll celebrate in the Library’s courtyard. Attendees will discover new books, get personalized reading recommendations and learn about new genres. There will also be prizes, ice cream, and children’s activities taking place during the festival.
 </div>
 </div>
 
-Monday, June 4th
-
-The official kick-off to our Adult Summer Reading will be during our Book Readers Festival on June 19th. The event will take place on from 11 a.m. to 1 p.m. in the Library’s courtyard. Attendees will discover new books, get personalized reading recommendations and learn about new genres. There will also be prizes, ice cream, and children’s activities taking place during the festival.
-</div>
-</div>
+<div class="margin-bottom-20"></div>
 
 <div class="row">
 <div class="col-md-8">
-<div class="row">
-<div class="col-md-1">
-<i class="fa fa-arrow-circle-right fa-2x" style="color:#ec4444;" aria-hidden="true"></i>
-</div>
-<div class="col-md-11">
-<h3 style="color: #ec4444;">How to Play</h3>
-</div>
-</div>
+<h3 style="color: #2C53A4;">How to Play</h3>
 
-Starting Monday, June 4th
+**Starting Monday, June 4th**
 
 * Game cards will be available at the Welcome Desk.
 * Complete four challenges along the map to win.
@@ -52,55 +29,48 @@ Starting Monday, June 4th
 * The grand prize drawing will be held on September 1st. 
 
 <br />
-<a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#ec4444;">Download June Game Card</a>
+<a href="https://dar.to/2LcTamV" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download June Game Card</a>
 <br />
 </div>
 <div class="col-md-4">
-<div class="row">
-<div class="col-md-1">
-<i class="fa fa-arrow-circle-down fa-2x" style="color:#ec4444;" aria-hidden="true"></i>
-</div>
-<div class="col-md-11">
-<h3 style="color: #ec4444;">Book Inspiration</h3>
-</div>
-</div>
+<h3 style="color: #2C53A4;">Book Inspiration</h3>
 
-* Books from the Times Glade
-* [Spy/Intrigue Novels](https://dar.to/2uK0saf "Read a Spy/Intrigue Novel")
-* [Movie Based on a Book](https://dar.to/2sIFYNB "Movie Based on a Book")
-* [Travel Guides](https://dar.to/2ubdmB4 "Travel Guides")
-* [Books Loved by Book Groups](https://dar.to/2uJFPLb "Read a Book Loved by Book Groups")
-* [Psychological Suspense Novel](https://dar.to/2sIQ7tC "Read a Psychological Suspense Novel")
-* [Set During War Time](https://dar.to/2tBukaj "Set During War Time")
-* [Books by International Authors](https://dar.to/2v5b4Qh "Books by International Authors")
-* [Books Set in the Future](https://dar.to/2u1zLQX "Books Set in the Future")
-* [Enjoy some Sci-Fi](https://dar.to/2sIxk1T "Enjoy some Sci-Fi")
-* [Celebrity Memoirs](https://dar.to/2tGTeUq "Celebrity Memoirs")
-* [Books Written in 2017](https://dar.to/2t6Z1AN "Books Written in 2017")
+* [Debut Authors](https://dar.to/2H7eSGw "Debut Authors")
+* [Great American Reads](https://dar.to/2stZhLX "Great American Reads")
+* [Inspirational Reads](https://dar.to/2LKz3NQ "Inspirational Reads")
+* [It's a Mystery](https://dar.to/2kD2lBD "It's a Mystery")
+* [One Word Titles](https://dar.to/2suIkAO "One Word Titles")
+* [Staff Favorites](https://dar.to/2kClXGb "Staff Favorites")
+* [Young Adult Novels](https://dar.to/2H9ftY9 "Young Adult Novels")
 
 </div>
 </div>
-<br />
+
+<div class="margin-bottom-40"></div>
+
+<h3 style="color: #2C53A4;">Summer Events</h3>
+
 <div class="row">
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/beatriz_williams.jpg" alt="Beatriz Williams" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/book_readers_festival_logo_small.jpg" alt="Book Readers Festival" />
 
-<h3 style="color: #ec4444;">Meet the Author: Beatriz Williams</h3>
+<h3 style="color: #2C53A4;">Book Readers Festival</h3>
 
-_Featured Summer Speaker_<br />
-Thursday, July 12th at 7 p.m.
+_Adult Summer Reading Kick-off Event_<br />
+**Tuesday, June 9th from 11 a.m. to 1 p.m.**
 
-Beatriz Williams will transport you to another time and place as she discusses her new blockbuster novel of the season, _[The Summer Wives](# "The Summer Wives")_, a luminous postwar fable of love, class, power, and redemption set on a New England island. 
+We'll celebrate in the Library’s courtyard. Attendees will discover new books, get personalized reading recommendations and learn about new genres. There will also be prizes, ice cream, and children’s activities taking place during the festival.
 
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/wonder_movie.jpg" alt="Wonder Movie" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/wonder_book_movie.jpg" alt="Wonder Book and Movie" />
 
-<h3 style="color: #ec4444;">Read. Watch. Discuss. <em>Wonder</em></h3>
-_Book and a Movie Discussion_<br />
-Tuesday, July 24th at 6 p.m.
+<h3 style="color: #2C53A4;">Read. Watch. Discuss. <em>Wonder</em></h3>
+
+_Book and a Movie Discussion_ <br />
+**Tuesday, July 24th at 6 p.m.**
 
 What is summer travel without it being a family affair? This summer we will transport the entire family with our R.W.D. (Read. Watch. Discuss) book and movie event featuring R.J. Pacifico’s _[Wonder](# "Wonder")_. Join us to discuss this heartfelt and sentimental book which was turned into a movie. All ages are welcome. 
 </div>
@@ -108,10 +78,10 @@ What is summer travel without it being a family affair? This summer we will tran
 
 <img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/beatriz_williams.jpg" alt="Beatriz Williams" />
 
-<h3 style="color: #ec4444;">Meet the Author: Beatriz Williams</h3>
+<h3 style="color: #2C53A4;">Meet the Author: Beatriz Williams</h3>
 
 _Featured Summer Speaker_<br />
-Thursday, July 12th at 7 p.m.
+**Thursday, July 12th at 7 p.m.**
 
 Beatriz Williams will transport you to another time and place as she discusses her new blockbuster novel of the season, _[The Summer Wives](# "The Summer Wives")_, a luminous postwar fable of love, class, power, and redemption set on a New England island. 
 

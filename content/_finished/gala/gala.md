@@ -6,7 +6,7 @@ Darien Library
 
 ### _Celebrating cinematic stories that capture the imagination…_
 
-Step behind the velvet rope for paparazzi-worthy hors d’oeuvres, cocktails, and live entertainment while supporting the Library’s resources and programs.
+Step behind the velvet rope for paparazzi-worthy hors d’oeuvres, cocktails, and live entertainment while supporting the Library’s resources and programs. Red carpet attire completely optional!
 
 All funds raised from the event will be dedicated to expanding library resources, including purchasing new books, technology, and supporting programs and guest speakers. By attending the Scenes from the Silver Screen Gala, you'll be mingling with your friends and neighbors, and bringing new resources and speakers to the Library.
 
@@ -16,6 +16,15 @@ Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 
 <div class="margin-bottom-30"></div>
 
+### Live Auction Items
+The only way to bid to win these items is to be present at the Gala!
+
+* Taylor Swift tickets
+* U.S. Open Tickets
+* Trip to Colorado 
+* Two roundtrip JetBlue tickets
+
+<div class="margin-bottom-30"></div>
 
 ### Sponsored By
 
