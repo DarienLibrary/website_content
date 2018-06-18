@@ -16,13 +16,32 @@ Tickets are $150 each ($100 is tax-deductible) and may be purchased below:
 
 <div class="margin-bottom-30"></div>
 
+<div class="row">
+<div class="col-md-6">
+
+### Online Auction
+
+Brand new this year, we are excited to introduce our online silent auction!
+
+
+The bidding is now open - everyone can now bid on items prior to the event, and from home if you cannot attend. If you are attending, save time at the check in line by registering early! You can view and bid on our silent auction items by using your smartphone or tablet.
+
+[Register and start bidding today!](https://dar.to/2J3biDd "Register and start bidding today!")
+
+</div>
+<div class="col-md-6">
+
 ### Live Auction Items
 The only way to bid to win these items is to be present at the Gala!
 
+* Simply Creative Catering Party for 50
 * Taylor Swift tickets
-* U.S. Open Tickets
 * Trip to Colorado 
 * Two roundtrip JetBlue tickets
+* U.S. Open Tickets
+
+</div>
+</div>
 
 <div class="margin-bottom-30"></div>
 

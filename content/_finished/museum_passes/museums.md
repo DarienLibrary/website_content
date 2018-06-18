@@ -13,6 +13,7 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 * [Search by Museum](https://dar.to/2lDqrul "Search by Museum") 
 * [Search by Date](https://dar.to/2lDn4mS "Search by Date")
 * [View or Cancel a Reservation](https://dar.to/2lDlZLS "View or Cancel a Reservation")
+* [Join new exhibits mailing list](https://dar.to/2HWImat "Join mailing list")
 
 </div>
 </div>
