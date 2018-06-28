@@ -4,11 +4,7 @@
 
 
 Summer reading is the ultimate escape and we are delighted to transport you on a reading adventure. Join us for our second annual reading challenge featuring our destination map game board, fun prizes for book lovers, and special events throughout the summer. 
-<br />
 
-**Book Readers Festival**
-
-The official kick-off to our Adult Summer Reading will be during our Book Readers Festival on June 19th from 11 a.m. to 1 p.m. We'll celebrate in the Library’s courtyard. Attendees will discover new books, get personalized reading recommendations and learn about new genres. There will also be prizes, ice cream, and children’s activities taking place during the festival.
 </div>
 </div>
 
@@ -65,17 +61,6 @@ We'll celebrate in the Library’s courtyard. Attendees will discover new books,
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/wonder_book_movie.jpg" alt="Wonder Book and Movie" />
-
-<h3 style="color: #2C53A4;">Read. Watch. Discuss. <em>Wonder</em></h3>
-
-_Book and a Movie Discussion_ <br />
-**Tuesday, July 24th at 6 p.m.**
-
-What is summer travel without it being a family affair? This summer we will transport the entire family with our R.W.D. (Read. Watch. Discuss) book and movie event featuring R.J. Pacifico’s _[Wonder](# "Wonder")_. Join us to discuss this heartfelt and sentimental book which was turned into a movie. All ages are welcome. 
-</div>
-<div class="col-md-4">
-
 <img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/beatriz_williams.jpg" alt="Beatriz Williams" />
 
 <h3 style="color: #2C53A4;">Meet the Author: Beatriz Williams</h3>
@@ -84,6 +69,18 @@ _Featured Summer Speaker_<br />
 **Thursday, July 12th at 7 p.m.**
 
 Beatriz Williams will transport you to another time and place as she discusses her new blockbuster novel of the season, _[The Summer Wives](# "The Summer Wives")_, a luminous postwar fable of love, class, power, and redemption set on a New England island. 
+
+</div>
+<div class="col-md-4">
+
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/wonder_book_movie.jpg" alt="Wonder Book and Movie" />
+
+<h3 style="color: #2C53A4;">Read. Watch. Discuss. <em>Wonder</em></h3>
+
+_Book and a Movie Discussion_ <br />
+**Tuesday, July 24th at 6 p.m.**
+
+What is summer travel without it being a family affair? This summer we will transport the entire family with our R.W.D. (Read. Watch. Discuss) book and movie event featuring R.J. Pacifico’s _[Wonder](# "Wonder")_. Join us to discuss this heartfelt and sentimental book which was turned into a movie. All ages are welcome. 
 
 </div>
 </div>
