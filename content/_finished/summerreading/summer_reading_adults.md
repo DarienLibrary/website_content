@@ -14,7 +14,7 @@ Summer reading is the ultimate escape and we are delighted to transport you on a
 <div class="col-md-8">
 <h3 style="color: #2C53A4;">How to Play</h3>
 
-**Starting Monday, June 4th**
+**Ends Saturday, September 1st**
 
 * Game cards will be available at the Welcome Desk.
 * Complete four challenges along the map to win.
@@ -25,19 +25,18 @@ Summer reading is the ultimate escape and we are delighted to transport you on a
 * The grand prize drawing will be held on September 1st. 
 
 <br />
-<a href="https://dar.to/2LcTamV" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download June Game Card</a>
+<a href="https://dar.to/2tXPfmH" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download July Game Card</a>
 <br />
 </div>
 <div class="col-md-4">
 <h3 style="color: #2C53A4;">Book Inspiration</h3>
 
-* [Debut Authors](https://dar.to/2H7eSGw "Debut Authors")
-* [Great American Reads](https://dar.to/2stZhLX "Great American Reads")
-* [Inspirational Reads](https://dar.to/2LKz3NQ "Inspirational Reads")
-* [It's a Mystery](https://dar.to/2kD2lBD "It's a Mystery")
-* [One Word Titles](https://dar.to/2suIkAO "One Word Titles")
-* [Staff Favorites](https://dar.to/2kClXGb "Staff Favorites")
-* [Young Adult Novels](https://dar.to/2H9ftY9 "Young Adult Novels")
+* [Great American Reads for July](https://dar.to/2tUOqeH "Great American Reads for July")
+* [Great Listening Ahead](https://dar.to/2tXp5Rk "Great Listening Ahead")
+* [International Reads](https://dar.to/2z4BmsS "International Reads")
+* [Memoirs](https://dar.to/2tXLNsu "Memoirs")
+* [Staff Favorites of July](https://dar.to/2z4YEik "Staff Favorites of July")
+* [Travel Guides](https://dar.to/2zcBtTt "Travel Guides")
 
 </div>
 </div>
