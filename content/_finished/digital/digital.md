@@ -101,7 +101,7 @@ Download the _Libby_ app to your mobile device from the Apple or Android app sto
 
 Hoopla Digital provides you with access to thousands of movies and TV shows. On your computer, your Hoopla digital checkout will stream just like a YouTube video or Pandora audio. 
 
-If you are on a mobile device like your tablet or smartphone, you can download your checkouts to the _Hoopla_ app. Download 7 items of any combination of movies, music, TV episodes, or audiobooks each calendar month. 
+If you are on a mobile device like your tablet or smartphone, you can download your checkouts to the _Hoopla_ app. Download 4 items of any combination of movies, music, TV episodes, or audiobooks each calendar month. 
 
 <div class="row">
 <div class="col-md-6">
