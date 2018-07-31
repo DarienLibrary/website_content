@@ -97,18 +97,18 @@ to historic and contemporary design.<br />
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2ErfLIy"><img class="img-responsive center-block" src="/uploads/general_stock_photos/new_york_city_1932.jpg" alt="New York City in 1932" /></a>
+<a href="https://dar.to/2LnCpcg"><img class="img-responsive center-block" src="/uploads/general_stock_photos/bee_flower.jpg" alt="Bee on Flower" /></a>
 <br />
 </div>
 <div class="col-md-8">
 
-#### King in New York
-Ends June 24, 2018<br />
-Museum of the City of New York
+#### Wild Bees
+Ends November 11th<br />
+Bruce Museum
 
-[King in New York](https://dar.to/2ErfLIy "King in New York") explores the relationship and connections Rev. Dr. Martin Luther King Jr. had with New York City. The exhibit includes his speeches, sermons, and discussions held while visiting.<br />
+[Wild Bees: Photographs by Paula Sharp and Ross Eatman](https://dar.to/2LnCpcg "Wild Bees") highlight the exquisite variety of details, colors, shapes, and sizes of wild bees.  <br />
 
-[Reserve a Pass to the Museum of the City of New York](https://dar.to/2mFdVNj "Reserve a Pass Museum of the City of New York")<br />
+[Reserve a Pass to the Bruce Museum](https://dar.to/2mv9a9v "Reserve a pass to the Bruce Museum")<br />
 
 </div>
 </div>
