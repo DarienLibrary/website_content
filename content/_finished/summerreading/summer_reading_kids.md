@@ -162,8 +162,10 @@ Additional parking for evening and weekend Library programs is located on Thornd
 </div>
 <div class="col-md-4">
 <div style="padding:10px;">
-<h3 style="color:#981f22;">Registration Opens</h3>
-Wednesday, August 1st<br />
+<h3 style="color:#981f22;">Registration</h3>
+
+[Sign up for the Finale Party](https://dar.to/2AzgD0S "Sign up for the Finale Party")
+<br />
 <br />
 <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2018_map_magnifying_glass.jpg" alt="What will you discover?" />
 </div>
