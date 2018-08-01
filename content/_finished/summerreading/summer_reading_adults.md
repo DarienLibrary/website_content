@@ -25,7 +25,7 @@ Summer reading is the ultimate escape and we are delighted to transport you on a
 * The grand prize drawing will be held on September 1st. 
 
 <br />
-<a href="https://dar.to/2tXPfmH" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download July Game Card</a>
+<a href="https://dar.to/2n2GGny" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download August Game Card</a>
 <br />
 </div>
 <div class="col-md-4">
