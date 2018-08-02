@@ -182,7 +182,7 @@ On the Main Level, make a left at the Welcome Desk and walk through the stacks a
 #### Where do I pick up equipment, gadgets, and museum passes?
 
 * Children and Tween items may be picked up in the Children's Library.
-* The Zen and Cooking iPads and museum passes are at the Welcome Desk.
+* Museum passes are at the Welcome Desk.
 * All other technology items may be obtained at the Help Desk on the Lower Level.
 <br />
 
@@ -589,11 +589,6 @@ Scanning is available on the Lower Level in the [Business Center](/business-cent
 
 #### Scan to Email
 Use the scanners in the Business Center or the Reference Room to scan your documents to email. The file will be sent as a PDF.
-<br />
-<br />
-
-#### Scan Books
-Great for students, the KIC Book Scanner on the Second Level makes it easy to scan your notebook to share your notes. The file will be sent as a PDF.
 <br />
 <br />
 
