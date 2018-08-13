@@ -706,7 +706,7 @@ The [Tween Tab iPads](/catalog/work/51230 "Tween Tab iPads") are great for older
 <br />
 
 #### Adults & Teens
-Borrow iPads with apps focused on [cooking](/catalog/work/43932 "Cooking iPad") and [meditation](/catalog/work/43933 "Meditation") (Zen) from the Welcome Desk. Or if you want a [general iPad](/catalog/work/89368 "General iPad") for work, borrow one from the Help Desk on the Lower Level. 
+Borrow a [general iPad](/catalog/work/89368 "General iPad") from the Help Desk on the Lower Level. 
 
 </div>
 </div>
