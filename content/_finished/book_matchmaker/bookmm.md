@@ -7,9 +7,15 @@
 
 <div class="col-md-10 col-md-offset-1">
 
-#### Get Matched With Your Next Great Read
-Fill out this form and every twelve weeks, we will match you with a personalized book selection and put it on the hold shelf for you. We'll email when your book is ready and follow up to see what you think. It's that easy!
+### We'll be back!
+Our Book Matchmaker service is currently on hiatus while we update the work flow of this program. We hope to return in January of 2019. In the meantime, if you are looking for a book recommendation please stop by and ask one of our librarians to match you up with your next great read.
 
-<script type="text/javascript" src="https://form.jotform.com/jsform/80985377079171"></script>
+Happy reading!
+<br />
+<br />
+
+#### What if I'm already signed up? 
+All of our current members will continue to receive their book recommendations per their normal schedule. Please do not hesitate to contact us with questions at <a href="mailto:BookMatchmaker@darienlibrary.org">BookMatchmaker@darienlibrary.org</a>. 
+
 </div>
 </div>
