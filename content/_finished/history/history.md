@@ -154,7 +154,7 @@ Aside from the everyday use of the Library, if severe weather affects the Town, 
 <br />
 
 ### Building Information
-Our building is special. It was thoughtfully put together with patron satifiscation and sustainability features in mind. To view the building highlights, Gold LEED Certification & sustainable features, and plant names, view the [Building Information](/building "Building Information"). 
+Our building is special. It was thoughtfully put together with patron satisfaction and sustainability features in mind. To view the building highlights, Gold LEED Certification & sustainable features, and plant names, view the [Building Information](/building "Building Information"). 
 
 </div>
 </div>
