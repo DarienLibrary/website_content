@@ -28,6 +28,7 @@ If no one else has requested the material, we are happy to renew most materials 
 - Emailing us at [circ@darienlibrary.org](mailto:circ@darienlibrary.org "Email us")
 - Logging into [your account](/myaccount "My Account") on the website
 - Chat with us through our website (bottom right corner)
+- Within the _Libby_ or _Hoopla Digital_ apps for digital downloads
 <br />
 
 ### Non-Resident Use
@@ -162,7 +163,7 @@ Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](
 		</tr>
 		<tr>
 			<td>
-				iPads</td>
+				iPads, Cassette or CD Player, Doxie Flip Scanner, Roku 3</td>
 			<td>
 				7 days</td>
 			<td>
@@ -172,11 +173,51 @@ Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](
 		</tr>
 		<tr>
 			<td>
-				LCD Projector</td>
+				AutoScanner</td>
 			<td>
 				4 days</td>
 			<td>
 				Yes</td>
+			<td>
+				$10.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Speck Sensor</td>
+			<td>
+				21 days</td>
+			<td>
+				Yes</td>
+			<td>
+				$10.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Digital Camcorder</td>
+			<td>
+				14 days</td>
+			<td>
+				No</td>
+			<td>
+				$10.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Projector and Projector Screen</td>
+			<td>
+				4 days</td>
+			<td>
+				No</td>
+			<td>
+				$10.00 a day</td>
+		</tr>
+		<tr>
+			<td>
+				WiFi Hot Spot</td>
+			<td>
+				7 days</td>
+			<td>
+				No</td>
 			<td>
 				$10.00 a day</td>
 		</tr>
