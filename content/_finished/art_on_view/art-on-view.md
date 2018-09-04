@@ -1,15 +1,47 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Harvest
+### Current Exhibit: Grove Street Plaza Artists
 
-**Saturday, August 4th through Saturday, August 25th**
+**Thursday, September 6th through Wednesday, October 3rd**
 <br />
 <br />
 
-Harvest” is a creative arts festival presented by the Darien High School Class of 1973. It will feature the diverse talents of more than twenty individual members of the class, all of whom grew up in Darien, and who were educated in the Darien public school system during the ‘60s and early ‘70s. Many of them have maintained lifelong friendships, something greatly enhanced these days by the existence of social media. Like many high school graduates, they eventually found themselves dispersed about the globe. 
+Visit Darien Library for a month-long exhibit of paintings, ceramics, and sculpture by the Grove Street Plaza Artists. Each artist is showing two pieces which will be separate from their other local exhibits. 
+<br />
+<br />
 
-This exhibit coincides with their 45th year high school reunion, as they gather together in Darien during the first weekend of August. Participants currently hail from Hong Kong, Toronto, and numerous locations scattered about the country. Participating Darien residents will be William Frate, Jim Hett, and Lynne Stitzel Tiano.
+#### Exhibiting Artists
+
+<div class="row">
+<div class="col-md-6">
+
+* Sandra Aldrich
+* Pat Atkin
+* Britt Bair
+* Lauren Chisholm
+* John Coots
+* Alex Dolan
+* Vicki French-Smith
+* Stephen Fritsch
+* Judith Lambertson
+
+</div>
+<div class="col-md-6">
+
+* Nobu Miki
+* Nancy Natali
+* Jon Puzzuoli
+* Jan Raymond
+* Eunice Roy
+* Chet Saur
+* Lisa Thoren
+* Lisa Webb
+* Kathleen
+
+</div>
+</div>
+
 <br /> 
 <br />
 
@@ -24,8 +56,9 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="uploads/departments/art_on_view/jim_hett.jpg" alt="All Connected by Jim Hett" />
-"All Connected" by Jim Hett
+<img class="img-responsive center-block" src="uploads/departments/art_on_view/art_britt_bair.jpg" alt="Art by Britt Bair" /><br />
+
+_Painting by Britt Bair_
  
 </div>
 </div>
