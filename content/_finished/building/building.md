@@ -77,6 +77,7 @@ A sustainable building is not only environmentally responsible, it saves the Lib
 <br />
 <br />
 
+<!-- 
 ## Library Garden
 
 <div class="row margin-bottom-10">
@@ -155,6 +156,8 @@ The Library Garden was founded in 2014. It is tended by master gardener and Film
 
 </div>
 </div>
+
+-->
 
 ### Plants
 
