@@ -9,6 +9,12 @@ An extraordinary opportunity for an extraordinary new Children's Librarian. This
 <br />
 <br />
 
+<div class="row margin-bottom-20">
+<div class="col-md-6">
+<a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
+</div>
+</div>
+
 </div>
 <div class="col-md-6">
 
