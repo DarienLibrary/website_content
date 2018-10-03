@@ -5,7 +5,7 @@ We will do our best to fulfill interlibrary loans requests for Darien residents 
 
 If your item was published within the last year, please use the [suggest a purchase form](/suggest-purchase "Suggest a purchase form").
 
-To use the Interlibrary Loan service, your Darien Library account must have no outstanding fines.
+To use the Interlibrary Loan service, your Darien Library account must have no outstanding fines. Limit of five requests at a time.
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/61326091394152"></script>
 </div>
