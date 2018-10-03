@@ -97,18 +97,18 @@ to historic and contemporary design.<br />
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2LnCpcg"><img class="img-responsive center-block" src="/uploads/general_stock_photos/bee_flower.jpg" alt="Bee on Flower" /></a>
+<a href="https://dar.to/2IBROCb"><img class="img-responsive center-block" src="/uploads/departments/mallory/art/brancusi_photo_by_Edward_Steichen.jpg" alt="Photo by Edward_Steichen" /></a>
 <br />
 </div>
 <div class="col-md-8">
 
-#### Wild Bees
-Ends November 11th<br />
-Bruce Museum
+#### Constantin Brancusi Sculpture
+Ends February 18th<br />
+Museum of Modern Art
 
-[Wild Bees: Photographs by Paula Sharp and Ross Eatman](https://dar.to/2LnCpcg "Wild Bees") highlight the exquisite variety of details, colors, shapes, and sizes of wild bees.  <br />
+[Constantin Brancusi Sculpture](https://dar.to/2IBROCb "Constantin Brancusi Sculpture") features eleven sculptures by the great Romanian sculptor who worked in France. This exhibit is the first time all of MoMA's pieces will be shown together. Archival photographs, drawings, and films which show Brancusi's relationships with his art, patrons, and friends create a compelling narrative about this 20th century artist.  <br />
 
-[Reserve a Pass to the Bruce Museum](https://dar.to/2mv9a9v "Reserve a pass to the Bruce Museum")<br />
+[Reserve a pass to see the exhibit](https://dar.to/2DVyOQp "Reserve a pass to MoMA")<br />
 
 </div>
 </div>
