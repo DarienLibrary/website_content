@@ -35,7 +35,7 @@ Connecticut's Beardsley Zoo is one of Connecticut's top family attractions with 
 <div class="col-md-4">
 
 ### Bruce Museum
-A regionally based, world-class institution highlighting art, science and natural history in more than a dozen changing exhibitions annually.<br />
+A regionally based, world-class institution highlighting art, science and natural history in more than a dozen changing exhibitions annually. The Bruce Museum has [reciprocal agreements](https://dar.to/2C4fxJZ "reciprocal agreements") with several museums.<br />
 [Select date to visit Bruce](https://dar.to/2j4ixhB "Visit the Bruce Museum")<br />
 [View Bruce's exhibits](https://dar.to/2j1UyiM "View the Bruce Museum's exhibits")<br />
 * Each pass admits two adults and their children under the age of 18. 
