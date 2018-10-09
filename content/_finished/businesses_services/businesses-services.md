@@ -9,7 +9,7 @@ The Bloomberg Terminal, which tracks real-time financial market data, is an inva
 <br />
 
 ### Meeting Rooms
-Darien Library is equipped with nine private [meeting rooms](/meeting-rooms "Meeting rooms") which may be reserved online. There are three large rooms which may be rented for your business meetings. Small meeting rooms are available for two hour blocks of time and may be reserved by Darien residents, those who work full-time in Darien, and [Friends](/friends "Friends of the Library") at the $300 level. Some rooms can be reserved up to a month in advance and are available to non-residents on a first-come, first-served basis. [Make your reservation](/meeting-rooms "Reserve a meeting room")
+Darien Library is equipped with nine private [meeting rooms](/meeting-rooms "Meeting rooms") which may be reserved online. There are three large rooms which may be rented for your business meetings. Small meeting rooms are available for two hour blocks of time and may be reserved by Darien residents, those who work full-time in Darien, and [Friends](/friends "Friends of the Library") at the $300 level. Some rooms can be reserved up to a month in advance and are available to non-residents on a first-come, first-served basis.
 <br />
 <br />
 
@@ -33,7 +33,7 @@ Our reference librarians are experts in finding articles and data relevant to yo
 <br />
 
 ### Notaries
-A Notary Public is available at Darien Library free of charge during most normal hours of operation. Notaries witness and verify the signing of important documents and administer oaths. You will need to bring two forms of ID containing your signature (e.g. valid driver license, passport, credit card), one which must also have your photo. Please do not sign the documents prior to appearing before the Notary Public.   
+A [Notary Public](https://dar.to/2E8TMLv "Notary Public") is available at Darien Library free of charge during most normal hours of operation. Notaries witness and verify the signing of important documents and administer oaths. You will need to bring two forms of ID containing your signature (e.g. valid driver license, passport, credit card), one which must also have your photo. Please do not sign the documents prior to appearing before the Notary Public.   
 <br />
 <br />
 

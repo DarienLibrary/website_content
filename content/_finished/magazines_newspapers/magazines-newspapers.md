@@ -31,7 +31,7 @@ Are you interested in Local History? Access to the following local newspapers is
 * Darien New-Review 1989 - 2004
 * Darien News 1973 - 1989
 * Darien Review 1902 - 1989
-* Darien Times 1993 - 2010
+* Darien Times 1993 - present
 
 </div>
 </div>

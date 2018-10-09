@@ -8,7 +8,7 @@ Your annual Non-Resident Membership at the $300 level gives you and your family 
 ### Benefits
 * Storytime registration
 * Attendance to registered programs and workshops
-* Access to [digital content](/link-needed "digital content"): eBooks, eAudiobooks, movies, music, comic books
+* Access to [digital content](/link-needed "digital content"): e-Books, eAudiobooks, movies, music, comic books
 * Home access to residents and Friends only [databases](/research "databases")
 * Reserve the Bloomberg Terminal, study rooms, and [Digital Media Lab](/dml "Digital Media Lab")
 * Three [Book-a-Librarian](/book-librarian "Book-a-Librarian") help appointments per year 

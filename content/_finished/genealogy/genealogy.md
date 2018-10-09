@@ -29,13 +29,13 @@ Need help getting started with your genealogy research? A volunteer from the Mid
 
 [Darien Historical Society](http://historical.darien.org/ "Darien Historical Society")
 
-[Connecticut Genealogical Society](http://www.csginc.org/ "Connecticut Genealogical Society")
+[Connecticut Society of Genealogists, Inc.](http://www.csginc.org/ "Connecticut Society of Genealogists, Inc.")
 
 [National Genealogical Society](http://www.ngsgenealogy.org/ "National Genealogical Society")
 
 [New York Genealogical and Biographical Society](http://www.newyorkfamilyhistory.org/ "New York Genealogical and Biographical Society")
 
-[New England Historic Genealogical Society](http://www.americanancestors.org/home.html "New England Historic Genealogical Society")
+[American Ancestors](http://www.americanancestors.org/home.html "American Ancestors")
 
 <br/>
 <br/>

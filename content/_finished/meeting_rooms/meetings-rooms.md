@@ -5,7 +5,7 @@
 <div class="row margin-bottom-10">
   <div class="col-xs-12 col-sm-8 col-md-9">
 
-Need a place to study or have a meeting? We have a variety of spaces to meet your needs. All rooms include WiFi access, power outlets, a table, and chairs. These rooms are available for two hour blocks of time. They may be reserved up to one month in advance by Darien residents, those who work in Darien full-time, and [Friends of the Library](/friends "Friends of the Library") who have donated $300 or more. 
+Need a place to study or have a meeting? We have a variety of spaces to meet your needs. All rooms include WiFi access, power outlets, a table, and chairs. These rooms are available for two hour blocks of time. They may be reserved up to one month in advance by Darien residents, those who work in Darien full-time, and [Friends of the Library](/friends "Friends of the Library") who donate annually at the $300 level or above.
 
 Call [203-669-5236](tel:203-669-5236 "Call the Reference Desk"). Non-resident members may use these rooms on a first-come first-served basis. Just stop by the Reference Desk on the Second Level to sign up for your room!
   </div>

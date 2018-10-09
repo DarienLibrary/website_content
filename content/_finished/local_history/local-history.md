@@ -3,25 +3,23 @@
 <div class="col-md-6">
 
 ### Vital Records
-Vital records like birth, marriage, and death certificates may be accessed at [Darien Town Hall](http://www.darienct.gov/content/104/114/220/default.aspx "Darien Town Hall"). You need to be a member of a Connecticut genealogy society to access vital records at town and city records within the state. 
+Vital records like birth, marriage, and death certificates may be accessed at [Darien Town Hall](https://dar.to/2EbI02Y "Darien Town Hall"). You need to be a member of a Connecticut genealogy society to access vital records at town and city records within the state. Probate and Land Records are also available in the Town Clerk's office.
 
-Local genealogy societies include [Middlesex Genealogical Society](http://mgs.darien.org/ "Middlesex Genealogical Society") and [Connecticut Ancestry Society, Inc](http://www.connecticutancestry.org/ "Connecticut Ancestry Society, Inc."). View the complete [list of authorized societies](http://libguides.ctstatelibrary.org/hg/researcher/gensocieties "List of Authorized Genealogical Socities"). Membership in one of them will grant you access to many towns' archives.
-
-Probate and Land Records are available at the [Darien Probate Office](http://www.darienct.gov/probate "Probate Court Office") at Darien Town Hall, 2 Renshaw Road, Room 204 Darien, CT 06820. 
+Local genealogy societies include [Middlesex Genealogical Society](https://dar.to/2E9Or6C "Middlesex Genealogical Society") and [Connecticut Ancestry Society, Inc](https://dar.to/2E64UJ4 "Connecticut Ancestry Society, Inc."). View the complete [list of authorized societies](https://dar.to/2Eb0AZf "List of Authorized Genealogical Socities"). Membership in one of them will grant you access to many towns' archives.
 
 <br />
 
 ### General Resources
-Visit the [Darien USGenWeb Project](http://www.ctgenweb.org/county/cofairfield/pages/darien/darien_index.htm "USGenWeb Project") page. It includes listings on where to find local historical records, cemeteries, libraries, historical societies, historical information, newspapers, churches, old photos, census records, and books about Darien. 
+Visit the [Darien USGenWeb Project](https://dar.to/2Eiwm6K "USGenWeb Project") page. It includes listings on where to find local historical records, cemeteries, libraries, historical societies, historical information, newspapers, churches, old photos, census records, and books about Darien. 
 
-Educational programs and exhibits may be seen at the [Darien Historical Society](http://www.darienhistorical.org/ "Darien Historical Society"). 
+Educational programs and exhibits may be seen at the [Darien Historical Society](https://dar.to/2EbMNRZ "Darien Historical Society"). 
 
-* [Wikipedia entry](https://en.wikipedia.org/wiki/Darien,_Connecticut "Wikipedia entry on Darien") on Darien
-* [Darien on LocalWiki](https://localwiki.org/darien/ "Darien LocalWiki"): contemporary information about living here
+* [Wikipedia entry](https://dar.to/2E9Nlrw "Wikipedia entry on Darien") on Darien
+* [Darien on LocalWiki](https://dar.to/2E9NA5U "Darien LocalWiki"): contemporary information about living here
 * [Books on Historical Darien](/list/14 "Historical Darien books")
-* [History of Darien](https://en.wikipedia.org/wiki/History_of_Darien,_Connecticut "History of Darien") Wikipedia page
-* [Boston Post Road](https://en.wikipedia.org/wiki/Boston_Post_Road "Boston Post Road") Wikipedia page
-* [Walking the Post Road](http://www.walkingthepostroad.net/Walking_the_Post_Road/Blog/Blog.html "Walking the Post Road")
+* [History of Darien](https://dar.to/2E9Mxmu "History of Darien") Wikipedia page
+* [Boston Post Road](https://dar.to/2E9Mo2q "Boston Post Road") Wikipedia page
+* [Walking the Post Road](hhttps://dar.to/2E9LZgq "Walking the Post Road")
 
 <br/>
 
@@ -29,12 +27,12 @@ Educational programs and exhibits may be seen at the [Darien Historical Society]
 <div class="col-md-6">
 
 ### Nearby Libraries
-* [Bridgeport Library](http://bportlibrary.org/genealogy/ "Bridgeport Library")
-* [Ferguson Library](http://fergusonlibrary.org/learn-explore/local-resources/#toggle-id-4 "Ferguson Library")
-* [Greenwich Library](http://www.greenwichlibrary.org/Research%20and%20Resources/LocalHistory.aspx "Greenwich Library")
-* [Norwalk Library](http://www.norwalklib.org/index.aspx?NID=556 "Norwalk Library")
-* [Pequot Library](http://www.pequotlibrary.org/index.php/special-collections/genealogy-local-history "Pequot Library")
-* [Wilton Library](http://www.wiltonlibrary.org/content/wilton-history-room "Wilton Library")
+* [Bridgeport Library](https://dar.to/2Eb0e4R "Bridgeport Library")
+* [Ferguson Library](https://dar.to/2E7w5mI "Ferguson Library")
+* [Greenwich Library](https://dar.to/2E7wnKk "Greenwich Library")
+* [Norwalk Library](https://dar.to/2EaZVqJ "Norwalk Library")
+* [Pequot Library](https://dar.to/2EaURm8 "Pequot Library")
+* [Wilton Library](https://dar.to/2EbI4zK "Wilton Library")
 
 [Godfrey Memorial Library](http://www.godfrey.org/) is a major repository of genealogical materials for Connecticut. They also collect individual family histories. The Library is located in Middlesex, CT which is about 75 minutes away.
 
