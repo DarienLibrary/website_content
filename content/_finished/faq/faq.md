@@ -122,7 +122,7 @@ Checkout Items
 <br />
 
 #### I don't live in Darien. Can I checkout books here?
-Absolutely! Just bring your hometown library card and we will register you in our system. Please note that eBooks and other digital content is only available to Darien residents and [Friends of the Library](/friends "Friend of the Library").
+Absolutely! Just bring your hometown library card and we will register you in our system. Please note that e-Books and other digital content is only available to Darien residents and [Friends of the Library](/friends "Friend of the Library").
 <br />
 <br />
 
@@ -677,7 +677,7 @@ Digital Content
 <div class="panel-collapse collapse" id="collapse-v4-One">
 <div class="panel-body">
 
-We offer a wide variety of digital content: eBooks, eMagazines, Movies, Music, TV Shows, and Comics. Visit the [e-Books & Downloads](/digital "e-Books & Downloads") to learn more.
+We offer a wide variety of digital content: e-Books, eMagazines, Movies, Music, TV Shows, and Comics. Visit the [e-Books & Downloads](/digital "e-Books & Downloads") to learn more.
 
 </div>
 </div>
@@ -779,7 +779,7 @@ Yes! Children in grades 3 to 6 may use a 3D printer directly. Read about your [3
 <br />
 <br />
 
-#### Does it cost anything to print a 3D object?*
+#### Does it cost anything to print a 3D object?
 If you are a child twelve and under, you may print your object for free in the TEA Room.
 <br />
 <br />
@@ -789,7 +789,7 @@ We wish! The technology isn't there yet.
 <br />
 <br />
 
-#### I have this item that I want a copy of it. Can I 3D print a new one?*
+#### I have this item that I want a copy of it. Can I 3D print a new one?
 If you bring in something from your house (e.g. a cabinet handle, a toy, etc.) and wish to make a duplicate of it, library staff cannot design the digital file. You may learn how to do that via watching an online course from [Lynda.com](/search?search=lynda.com&filter=ResearchResource "Lynda.com").
 <br />
 <br />

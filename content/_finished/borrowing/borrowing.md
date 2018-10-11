@@ -25,7 +25,7 @@ We have a wide range of technology available for [check-out](/catalog/search/key
 If no one else has requested the material, we are happy to renew most materials up to five times. You can renew by:
 
 - Calling us at (203) 655-1234, press 2
-- Emailing us at [circ@darienlibrary.org](mailto:circ@darienlibrary.org "Email us")
+- Emailing us at [circ@darienlibrary.org](mailto:welcomedesk@darienlibrary.org "Email us")
 - Logging into [your account](/myaccount "My Account") on the website
 - Chat with us through our website (bottom right corner)
 - Within the _Libby_ or _Hoopla Digital_ apps for digital downloads
@@ -39,7 +39,7 @@ Connecticut residents may use their hometown library card at any public library 
 - Register for technology classes and children’s storytimes
 - Access e-Books, dowloadable audiobooks, magazines and research databases
 - Borrow technology equipment
-Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](/dml "Digital Media Lab").
+- Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](/dml "Digital Media Lab")
 
 </div>
 </div>
@@ -160,6 +160,16 @@ Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](
 				Yes</td>
 			<td>
 				$0.10 a day</td>
+		</tr>
+		<tr>
+			<td>
+				Museum Passes</td>
+			<td>
+				1 day</td>
+			<td>
+				No</td>
+			<td>
+				$10.00 a day</td>
 		</tr>
 		<tr>
 			<td>

@@ -3,7 +3,7 @@
 <div class="col-md-6">
 
 ### We Deliver
-Darien Library offers home delivery service of books, movies, magazines, and audiobooks for those who cannot visit the Library in person.
+Darien Library offers residents home-bound delivery. Staff will deliver books, movies, magazines, and audiobooks for those who cannot visit the Library in person.
 
 Volunteers will deliver borrowed items to your home and will also return them to the Library.
 

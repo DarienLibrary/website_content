@@ -8,7 +8,7 @@ Thank you for considering Darien Library for your book donations. We are unable 
 
 **Darien Book Aid**<br />
 1926 Boston Post Road<br />
-Darien, CTbr<br />
+Darien, CT<br />
 203-655-2777
 </address>
 
@@ -22,10 +22,10 @@ Darien, CT<br />
 
 <address>
 
-**Goodwill Industries**<br />
-15 Cross Street<br />
-Norwalk, CT<br />
-203-840-0361
+**Pequot Library**<br />
+720 Pequot Ave<br />
+Southport, CT<br />
+203-259-0346
 </address>
 
 
@@ -77,4 +77,3 @@ Or donations may be given [online](/donate "Donate online"). Donations of securi
 
 </div>
 </div>
-

@@ -1,4 +1,5 @@
-### Saturday, November 18th from 9 a.m. to 5 p.m.</h2>
+## Saturday, November 17th from 9 a.m. to 5 p.m.
+## Sunday, November 18th from 1 to 5 p.m.
 
 **Cost: $5 per player** &mdash; each player will also receive a free hot dog
 

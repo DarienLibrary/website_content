@@ -31,12 +31,12 @@ Keep your 8 to 12-year-olds busy with a [Tween Tab](/catalog/work/51230 "Tween T
 </div>
 <div class="col-md-6">
 
-### 100 Before One
+<!-- ### 100 Before One
 The Children’s Library invites all parents of newborns to join the [100 Before One](/100-before-one "100 Before One") challenge. Help your baby become a lifelong reader by joining the challenge and reading 100 books before your baby’s first birthday. 
 
 Parents that register their babies for 100 Before One will receive a free tote bag, booklists, a DVD of baby rhymes, a Highlights baby magazine, and a folder to keep track of the books your child has heard. 
 <br />
-<br />
+<br /> -->
 
 ### Early Literacy Texts
 Sign up for our weekly early literacy texts to get easy tips sent right to your phone. Your librarians will send a text every Monday with something simple you can integrate into your daily life that will help prepare your child under 5-years-old for reading and writing. [Sign up for text messages](/early-literacy-texts "Sign up for text messages")
