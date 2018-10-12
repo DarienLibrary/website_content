@@ -4,10 +4,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
-### [McGraw Fellowship](https://dar.to/2AolxMO "McGraw Fellowship")
-An extraordinary opportunity for an extraordinary new Children's Librarian. This fellowship funds a two-year full-salaried position for a recent Master in Library Science graduate.
+### [Part-Time Marketing Specialist](https://dar.to/2yzdTMS "Part-Time Marketing Specialist")
+Darien Library (CT) seeks a creative, detail-focused Marketing Specialist. The Marketing Specialist covers a maternity leave. This temporary part-time position lasts from January to June 30, 2019. Primary responsibilities will be to manage the Library’s social media, email newsletters, and website content updates.
 <br />
 <br />
+
 
 <div class="row margin-bottom-20">
 <div class="col-md-6">

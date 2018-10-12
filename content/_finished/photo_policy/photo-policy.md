@@ -5,7 +5,7 @@ We take photos and videos of our events and programs to share with the community
 <br />
 
 ### Media Waiver Form 
-If we will be photographing or filming a child, we will ask the guardian to sign the Media Waiver Form. [Download the form](https://dar.to/2E7TMeD "Download Media Waiver Form") and fill it out ahead of time.
+If we will be photographing or filming a child, we will ask the guardian to sign the [Media Waiver Form](https://dar.to/2E7TMeD "Download Media Waiver Form").
 <br />
 <br />
 
