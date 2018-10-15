@@ -17,38 +17,20 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 
 <div class="row margin-bottom-30">
-<div class="col-xs-6 col-sm-6 col-md-4">
-<div class="text-center">
+<div class="col-xs-6 col-sm-6 col-md-6">
 
-<a href="https://dar.to/2i2BalU"><img class="img-responsive" alt="Ring's End" title="Ring's End" src="/uploads/darien_community/minigolf/rings_end.jpg" /></a>
+<a href="https://dar.to/2i4LeuK"><img class="img-responsive center-block" alt="Baywater Properties" title="Baywater Properties" src="/uploads/darien_community/minigolf/baywater.jpg" /></a>
+<br />
+<br />
+
+</div>
+<div class="col-xs-6 col-sm-6 col-md-6">
+<img class="img-responsive center-block" src="/uploads/darien_community/minigolf/wyper_family.png" alt="The Wyper Family" title="The Wyper Family"/>
 
 <div class="margin-bottom-10"></div>    
 <br />
 <br />
 
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-md-4">
-<div class="text-center">
-
-<a href="https://dar.to/2i4LeuK"><img class="img-responsive" alt="Baywater Properties" title="Baywater Properties" src="/uploads/darien_community/minigolf/baywater.jpg" /></a>
-
-<div class="margin-bottom-10"></div>    
-<br />
-<br />
-
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-md-4">
-<div class="text-center">
-
-<img class="img-responsive" src="/uploads/darien_community/minigolf/wyper_family.png" alt="The Wyper Family" title="The Wyper Family"/>
-
-<div class="margin-bottom-10"></div>    
-<br />
-<br />
-
-</div>
 </div>
 </div>
 
@@ -142,7 +124,8 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-3">
 <div class="text-center">
 
-<img class="img-responsive" alt="The Ochman Family" title="The Ochman Family" src="/uploads/darien_community/minigolf/ochman_family.jpg" />
+<a href="https://dar.to/2i6iEsD"><img class="img-responsive" alt="Crescendo Music" title="Crescendo Music" src="/uploads/darien_community/minigolf/crescendo.jpg" /></a>
+
 
 
 <div class="margin-bottom-10"></div>    
@@ -189,6 +172,18 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
+
+<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="text-center">
+
+<a href="https://dar.to/2ElcEHa"><img class="img-responsive" alt="Houlihan Lawrence" title="Houlihan Lawrence" src="/uploads/darien_community/minigolf/houlihan_lawrence_logo.jpg" /></a>
+
+<div class="margin-bottom-10"></div>    
+<br />
+<br />
+
+</div>
+</div>
 </div>
 
 <div class="text-center margin-bottom-50">
@@ -199,7 +194,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<img class="img-responsive" alt="Alan Hyatt Landscaping" title="Alan Hyatt Landscaping" src="/uploads/darien_community/minigolf/alan_hyatt_landscaping.jpg" />
+<img class="img-responsive center-block" alt="Alan Hyatt Landscaping" title="Alan Hyatt Landscaping" src="/uploads/darien_community/minigolf/alan_hyatt_landscaping.jpg" />
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -210,7 +205,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<a href="https://dar.to/2i6iEsD"><img class="img-responsive" alt="Crescendo Music" title="Crescendo Music" src="/uploads/darien_community/minigolf/crescendo.jpg" /></a>
+<img class="img-responsive center-block" alt="Pensiero" title="Crescendo Music" src="/uploads/darien_community/minigolf/pensiero_logo.jpg" />
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -221,7 +216,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<a href="https://dar.to/2i4f42o"><img class="img-responsive" alt="Michael Joseph's Catering" title="Michael Joseph's Catering" src="/uploads/darien_community/minigolf/michael_joesphs_catering.jpg" /></a>
+<a href="https://dar.to/2i4f42o"><img class="img-responsive center-block" alt="Michael Joseph's Catering" title="Michael Joseph's Catering" src="/uploads/darien_community/minigolf/michael_joesphs_catering.jpg" /></a>
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -232,10 +227,10 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 
 <div class="row margin-bottom-30">
-<div class="col-md-4">
+<div class="col-xs-6 col-sm-6 col-md-6">
 <div class="text-center">
 
-<a href="https://dar.to/2i7cXuQ"><img class="img-responsive" alt="Darien Toy Box" title="Darien Toy Box" src="/uploads/darien_community/minigolf/darien_toy_box.jpg" /></a>
+<a href="https://dar.to/2i7cXuQ"><img class="img-responsive center-block" alt="Darien Toy Box" title="Darien Toy Box" src="/uploads/darien_community/minigolf/darien_toy_box.jpg" /></a>
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -243,21 +238,11 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-<div class="col-md-4">
+
+<div class="col-xs-6 col-sm-6 col-md-6">
 <div class="text-center">
 
-<a href="https://dar.to/2i2ERI7"><img class="img-responsive" alt="Merrill Lynch" title="Merrill Lynch" src="/uploads/darien_community/minigolf/merrill_lynch.jpg" /></a>
-
-<div class="margin-bottom-10"></div>    
-<br />
-<br />
-
-</div>
-</div>
-<div class="col-md-4">
-<div class="text-center">
-
-<a href="https://dar.to/2i5bLrI"><img class="img-responsive" alt="Kumon" title="Kumon of Darien" src="/uploads/darien_community/minigolf/kumon.jpg" /></a>
+<a href="https://dar.to/2i5bLrI"><img class="img-responsive center-block" alt="Kumon" title="Kumon of Darien" src="/uploads/darien_community/minigolf/kumon.jpg" /></a>
 
 <div class="margin-bottom-10"></div>    
 <br />
