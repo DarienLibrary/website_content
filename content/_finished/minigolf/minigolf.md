@@ -3,7 +3,9 @@
 
 **Cost: $5 per player** &mdash; each player will also receive a free hot dog
 
-Miniature golf is coming to the Library! We are happy to announce the fourth annual Darien Library Mini Golf Event. Players of all ages will putt their way through the Library on an 18-hole miniature golf course with the course set up throughout the building. You can also enjoy face painting and other activities.
+Miniature golf is coming to the Library! We are happy to announce the 5th annual Darien Library Mini Golf Event. This year we have Mini Golf on Saturday, November 17th AND Sunday, November 18th!
+
+Players of all ages will putt their way through the Library on an 18-hole miniature golf course set up throughout the building. You can also enjoy face painting and other activities.
 
 This event is organized by the Darien Board of Trustees Fundraising Committee: Alex Eising (Mini Golf Chair), Tori Barnett (Mini Golf Co-Chair), Jay Bennett, Michael Cippoletti, Allegra Erickson, Tammy Sload, and Susan Vogel.
 
