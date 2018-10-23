@@ -16,9 +16,6 @@ Discover animal life across the globe in this lush app.
 
 **Journey into the Deep** By Lerner Publishing Group<br />
 Go deep into the ocean and meet some very strange creatures.
-
-**World of Animals** By World Book Inc<br />
-Everything from amphibians to fish to mammals to bugs.
 <br />
 <br />
 
@@ -36,6 +33,9 @@ Create beautiful art with sound.
 **Chinagram** By Vallardi<br />
 Explore the history and meaning of Chinese characters. 
 
+**Color Free** By David Porter Apps, LLC<br />
+Relax and color in digital mandalas.
+
 **Easy Studio—Intro to Animation** By 3 Elles Interactive<br />
 Learn how to animate. 
 
@@ -50,9 +50,6 @@ Paint, sculpt, and learn from the masters.
 
 **Photogene4** By Omer Shoor<br />
 Photo Editing 
-
-**Story Me** By Evtim Georgiev<br />
-Storytelling using pictures in comic form. 
  
 **Strip Design** By Vivid Apps<br />
 Design your own comic strip. 
@@ -69,9 +66,6 @@ Make magnetic poetry in an app.
 <br />
 
 ### Biography
-
-**American Presidents for iPad** By Fredrik Moberg<br />
-All the presidents, in cartoon form.
 
 **Touch Van Gogh** By the Van Gogh Museum<br />
 Dig deep into Van Gogh’s art and life.
@@ -113,10 +107,6 @@ A programming puzzle game.
 <br />
 <br />
 
-
-</div>
-<div class="col-md-6">
-
 ### Facts
 
 **Stack the Countries** By Freecloud Design, Inc<br />
@@ -136,7 +126,13 @@ Follow the clues and analyze the data to solve the outbreak and save lives.
 <br />
 <br />
 
+</div>
+<div class="col-md-6">
+
 ### Fun
+
+**Emoji Shuffle!** By 3 Minute Games LLC<br />
+A fun matching puzzle game using your favorite characters on the internet.
 
 **INKS** By State of Play Games<br />
 Pinball and art combined. 
@@ -155,6 +151,9 @@ Build, create, and explore new worlds.
 
 **Robots for iPad** By IEEE Spectrum<br />
 Explore robots in all their glory.
+
+**Rules!** By TheCodingMonkeys<br />
+A cute puzzle game that’s challenging, with three difficulty modes.  
  
 **Unblock Me** By Kiragames Co., Ltd.<br />
 Get the red block out of these block puzzles. 
@@ -204,11 +203,11 @@ Tip off, build your team, and shoot hoops.
 **American History Timeline** By The McGraw-Hill Companies<br />
 An interactive timeline of events and people.
 
+**The Civil War Today** By the History Channel<br />
+Learn what happened day by day in the Civil war through a newspaper style app.
+
 **Frontier Heroes** By A&E Television Networks Mobile<br />
 Explore five eras of American History through games and experiences. 
-
-**History: Maps of World**  By Seungbin Cho<br />
-Historical maps from around the world.
 
 **The Underground Railroad: Journey to Freedom** By National Geographic Society<br />
 Experience life as a runaway slave.
@@ -235,6 +234,9 @@ Learn about and experiment with color.
 **The Human Body** By Tinybop<br />
 Learn anatomy and biology with this interactive human body. 
 
+**Monster Physics** By FreeCloud Design, Inc<br />
+Play with physics in this unique building app.
+
 **Solar Walk** By Vito Technology Inc.<br />
 Explore space with this 3D model.  
 <br />
@@ -247,12 +249,6 @@ Explore space with this 3D model.
 
 **Incredible Numbers** By Touchpress Limited<br />
 Delve into incredible mathematical concepts.
-
-**Motion Math: Match** By Motion Math<br />
-Addition, subtraction, multiplication, division...and magical number tiles.
-
-**MyScript Calculator** By MyScript<br />
-Your basic calculator.
 <br />
 <br />
 

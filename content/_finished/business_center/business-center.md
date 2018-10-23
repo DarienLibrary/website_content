@@ -1,4 +1,4 @@
-The Business Center is located on the Lower Level inside the Power Library.  The equipment is perfect for the small business owner, entrepreneur, or student users. These services and supplies are competitively priced. Additional venues in the Library which may of be interest to a business user is the [Digital Media Lab](/dml "Digital Media Lab") and the [Agati Media Station](/meeting-rooms "Agati Media Station"). Book scanning and microfilm reading is available on the Second Level at the Reference Desk.
+The Business Center is located on the Lower Level inside the Power Library.  The equipment is perfect for the small business owner, entrepreneur, or student users. These services and supplies are competitively priced. Additional venues in the Library which may of be interest to a business user is the [Digital Media Lab](/dml "Digital Media Lab") and the [Agati Media Station](/meeting-rooms "Agati Media Station"). Microfilm reading is available on the Second Level at the Reference Desk.
 <br/>
 <br/>
 <br/>
@@ -107,7 +107,7 @@ WiFi
   </div>
 </div>
 
-Please submit your orders 24 hours ahead of time. We will contact you to confirm your order before completing it.
+Please submit your orders 24 hours in advance. Our staff will contact you to confirm your order before we print it.
 <br/>
 <br/>
 

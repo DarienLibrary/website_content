@@ -32,20 +32,31 @@ Introduce numbers, shapes, matching, and fun with adorable puppies!
 **TallyTos** By Spinlight Studio <br />
 Introduce numbers with fun games!  
 <br />
+<br />
+
+### Creation
+
+**Play Theater** By Nosy Crow <br />
+Set the stage, choose your characters, and record your own story!
+<br />
+<br />
 
 ### Play
 
-**Bug Builder; Pet Café; Space Explorer; Monsters; World** By Sago Mini
+**Bug Builder; Space Explorer; World** By Sago Mini
 Open-ended and silly play. 
 
 **Build a Train** By Playtend Apps LLP<br />
 Construct a train and drive it on a track!
 
-**Build and Play (1 and 2)** By Croco Studio<br />
+**Build and Play 2** By Croco Studio<br />
 Constructions that build spatial awareness.
 
-**Happy Geese** By Appically<br />
-Customize games of Snakes and Ladders and the Game of the Goose 
+**Curious George Train Adventures** By Haughton Mifflin Harcourt<br />
+Help George drive a train and solve fun puzzles along the way.
+
+**Lego Duplo Train** By Lego System A/S<br />
+Drive a colorful train from station to station.
 
 **My Very Hungry Caterpillar** By StoryToys Entertainment Limited<br />
 Play with Eric Carle’s caterpillar.
@@ -53,10 +64,10 @@ Play with Eric Carle’s caterpillar.
 **Spot the Dot** By Ruckus Media Group<br />
 Use your color skills to spot the dot!
 
-**Toca Tea Party; Toca Cars; Toca Tailor; Toca Builders; Toca Monsters, Toca Kitchen; Robot Lab** By Toca Boca<br />
+**Toca Tea Party; Toca Tailor; Toca Builders; Toca Monsters; Robot Lab** By Toca Boca<br />
 Games that support creativity. 
 
-**Toolbox** By Sago Mini<br />
+**Toolbox; Farm** By Sago Mini<br />
 Use tools with Sago Mini friend! 
 <br />
 <br />
@@ -118,6 +129,9 @@ For the transportation-minded.
 **Bubl Gelato** By Bubl<br />
 Create the world’s first musical ice cream!
 
+**Con le Orecchie di Lupo** By Five5ifty<br />
+Join Lupo as he uses his ears to explore an amazing world of sound.
+
 **Kapu Bloom Tunes** By Kapu Toys<br />
 Draw beautiful petals that sing.
 
@@ -157,6 +171,9 @@ Memory with sounds.
 
 **See.Touch.Learn.** By Brain Parade<br />
 Visual instruction for autism/special needs.
+
+**Touch and Learn – Emotions** By Innovative Mobile Apps<br />
+Learn about emotions through photos of kids.
 <br />
 <br />
 
@@ -176,6 +193,9 @@ Dr. Suess’ classic in an ebook version. Try making the sounds along with Mr. B
 
 **The Monster At the End...**  By Sesame Street<br />
 Have fun with this interactive ebook about Grover.
+
+**Peekaboo Barn** By Night & Day Studios, LLC<br />
+Guess which friendly farm animals are waiting to surprise your child.
 
 **Peekaboo Wild** By Night & Day Studios<br />
 Discover animals from around the world. 
@@ -204,6 +224,9 @@ Learn to write with interactive letters.
 
 **Metamorphabet** By Vector Park<br />
 Interact with the letters of the alphabet. 
+
+**Name Play** By Edoki Academy<br />
+Kids learn to write their first name with fun games.
 
 **Star Fall** By Starfall Education<br />
 Letter and phonics knowledge. 

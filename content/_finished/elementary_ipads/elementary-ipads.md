@@ -36,8 +36,21 @@ Make and play your own games, like pinball, adventure games, platformer games, m
 **The Monsters** By Tinybop<br />
 Make the silly scary monsters of your dreams or nightmares! 
 
+**Play Theater** By Nosy Crow<br />
+Set the stage, choose your characters, and record your own story!
+
 **The Robot Factory** By Tinybop<br />
 Create, test, collect robots! 
+<br />
+<br />
+
+### e-Books
+
+**Hoopla** By Hoopla Digital<br />
+Enjoy audiobooks, audiobooks, comic books, music, movies, and TV.
+
+**Libby** By OverDrive<br />
+Borrow books and audiobooks from Darien Library.
 <br />
 <br />
 
@@ -46,8 +59,8 @@ Create, test, collect robots!
 **DK Quiz** By Dorling Kindersley<br />
 Love quizzes? Feel like challenge? Test your knowledge! 
 
-**Homes** By Tinybop<br />
-Explore homes around the world. Make meals, decorate, and play games!  
+**Park Guides** By National Geographic<br />
+Learn about America’s national parks with this fun app.
 
 **Stack the States**  By Freecloud Design Inc<br />
 Do you know the states enough to beat the clock? 
@@ -63,13 +76,16 @@ Everything from amphibians to fish to mammals to bugs.
 ### Fun
 
 **7 Little Words for Kids** By Blue Ox Technologies<br />
-A word finding journey through seven worlds.
+See how many words you can make out of single-syllable parts.
+
+**Busy Water** By Edoki<br />
+Learn pre-coding with 100+ levels and challenges.
 
 **Drive Ahead! Sports** By Dodreams Fairytale Company<br />
 Drive all kinds of cars and trucks! 
 
-**Happy Geese** By Appically<br />
-Customize games of Snakes and Ladders and the Game of the Goose.
+**Every Day** By Highlights<br />
+Build skills needed for school through play.
 
 **INKS** By State of Play Games<br />
 Pinball and art combined. 
@@ -91,6 +107,10 @@ Lie detectors, voice changers, and more.
 <br />
 <br />
 
+</div>
+
+<div class="col-md-6">
+
 ### Interactive Books  
 
 **The Adventures of Captain Underpants** By Scholastic Inc.<br />
@@ -102,44 +122,24 @@ Learn about dinosaurs in this interactive book!
 **The Berenstain Bears’ Dinosaur Dig** By Oceanhouse Media<br />
 An interactive book with famous bears! 
 
-**Five Little Monkeys Jumping on the Bed** By Oceanhouse Media<br />
-An interactive book with 5 silly monkeys 
-
-**Goodnight, Goodnight Construction Site** By Oceanhouse Media<br />
-Say goodnight to all the trucks on site. 
-
 **Green Eggs and Ham** By Oceanhouse Media<br />
 Dr. Suess’ finest in interactive e-book form. 
-
-**How I Became a Pirate** By Oceanhouse Media<br />
-Jeremy Jacobs becomes a pirate. 
 
 **Kalley’s Machine Plus Cats** By RocketWagon<br />
 A story full of machine gears and cats! 
 
-**The Kissing Hand** By Oceanhouse Media<br />
-Interactive book easing fears about school. 
+**Leo the Lightning Bug** By Oceanhouse Media<br />
+Join Leo in an adventure to make his own light.
 
 **Meet Millie** By Megapops LLC<br />
 Read along with this adorable puppy. 
-
-**A Parcel of Courage** By Moona Group<br />
-Interactive book with a heart warming story. 
-
-**Spookley the Square Pumpkin** By Oceanhouse Media<br />
-Learn about tolerance and self-acceptance. 
 <br />
 <br />
-</div>
-<div class="col-md-6">
 
 ### Math
 
 **iLiveMath Oceans** By iHomeEducator<br />
 Practice math for K-6th graders with these real world scenarios and word problems. 
-
-**KidMathFun** By edugames Studio<br />
-Play tug of war or race cars with challenging math problems: counting, adding, subtracting, multiplication, and fractions. 
 
 **Math Fight** By Motion Math<br />
 Duel and challenge a friend in math questions! 
@@ -149,12 +149,13 @@ Addition, subtraction, multiplication, division...and magical number tiles.
 
 **Mystery Math Town** By Artgig Studio<br />
 Use your math skills to rescue the fireflies in Mystery Math Town.  
+
+**Slice Fractions** By Ululab<br />
+Learn fractions by solving fun puzzles.
+<br />
 <br />
 
 ### Reading Games
-
-**Pigeon Presents Mo...on the Go!** By Disney<br />
-Join some Pigeon and Elephant and Piggie in games and activities to play anytime, anywhere! 
 
 **Sight Words Ninja** By Innovative Investments<br />
 Slice through the sight words to earn stars. 
@@ -165,9 +166,6 @@ Enjoy 10 sight word mini-games.
 <br />
 
 ### Science
-
-**Brian Cox's Wonders of Life** By HarperCollins Publishers Ltd<br />
-Discover animal life across the globe in this lush app. 
 
 **The Earth** By Tinybop<br />
 Dig into our planet and the forces that shape it! 
