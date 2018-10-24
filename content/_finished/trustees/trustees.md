@@ -1,21 +1,15 @@
 <div class="row margin-bottom-10">
 
-<div class="col-md-6">
+<div class="col-md-4">
 
 ### Officers
 Kevin Gasvoda, President<br />
 Edgar W. Barksdale Jr., Vice President<br />
-John P. Shutts, Treasurer<br />
+Tamara Sload, Treasurer<br />
 Jan Smith, Secretary
 <br />
 <br />
 
-### Terms Expiring 2018
-Nicholas N. Branca<br />
-Alexandra Eising<br />
-John P. Shutts
-<br />
-<br />
 
 ### Terms Expiring 2019
 Erika Allen<br />
@@ -30,7 +24,7 @@ James E. Steinthal
 <br />
 
 </div>
-<div class="col-md-6">
+<div class="col-md-4">
 
 ### Terms Expiring 2020
 Tori Barnett<br />
@@ -42,6 +36,16 @@ Tamara Sload<br />
 Susan Vogel
 <br />
 <br />
+
+### Terms Expiring 2021
+Nicholas N. Branca<br />
+Alexandra Eising<br />
+Elena Whidden
+<br />
+<br />
+
+</div>
+<div class="col-md-4">
 
 ### Honorary Trustees
 Anne Morrow Lindbergh (1906-2001)<br />
