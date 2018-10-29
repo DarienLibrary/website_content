@@ -37,24 +37,12 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 
 
-
 <div class="text-center margin-bottom-50">
 <h2 class="title-v2 title-center">Hole Sponsors</h2>
 </div>
 
 <div class="row margin-bottom-30">
-<div class="col-xs-6 col-sm-6 col-md-3">
-<div class="text-center">
-
-<a href="https://dar.to/2i2E75N"><img class="img-responsive center-block" alt="GWAY" title="GWAY" src="/uploads/darien_community/minigolf/gway.jpg" /></a>
-
-<div class="margin-bottom-10"></div>    
-<br />
-<br />
-
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i5j16M"><img class="img-responsive center-block" alt="First County Bank" title="First County Bank" src="/uploads/darien_community/minigolf/first_county_bank.jpg" /></a>
@@ -65,7 +53,18 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
+<div class="text-center">
+
+<a href="https://dar.to/2i2E75N"><img class="img-responsive center-block" alt="GWAY" title="GWAY" src="/uploads/darien_community/minigolf/gway.jpg" /></a>
+
+<div class="margin-bottom-10"></div>    
+<br />
+<br />
+
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i5bwgi"><img class="img-responsive center-block" alt="Palmer's Market" title="Palmer's Market" src="/uploads/darien_community/minigolf/palmers_web.jpg" /></a>
@@ -76,7 +75,10 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-<div class="col-xs-6 col-sm-6 col-md-3">
+</div>
+
+<div class="row margin-bottom-30">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <img class="img-responsive center-block" alt="The Whidden Family" title="The Whidden Family" src="/uploads/darien_community/minigolf/whidden_family.jpg" />
@@ -87,10 +89,7 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-</div>
-
-<div class="row margin-bottom-30">
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i5jxBK"><img class="img-responsive center-block" alt="Carta, McAlister & Moore, LLC" title="Carta, McAlister & Moore, LLC" src="/uploads/darien_community/minigolf/cmm_llc.jpg" /></a>
@@ -101,7 +100,7 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <img class="img-responsive center-block" alt="The Eising Family" title="The Eising Family" src="/uploads/darien_community/minigolf/eising_family.jpg" />
@@ -112,7 +111,10 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-<div class="col-xs-6 col-sm-6 col-md-3">
+</div>
+
+<div class="row margin-bottom-30">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i5wJGJ"><img class="img-responsive center-block" alt="TD Bank" title="TD Bank" src="/uploads/darien_community/minigolf/td_bank.jpg" /></a>
@@ -123,7 +125,7 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i6iEsD"><img class="img-responsive center-block" alt="Crescendo Music" title="Crescendo Music" src="/uploads/darien_community/minigolf/crescendo.jpg" /></a>
@@ -136,10 +138,7 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-</div>
-
-<div class="row margin-bottom-30">
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i46vo2"><img class="img-responsive center-block" alt="Remedy Partners" title="Remedy Partners" src="/uploads/darien_community/minigolf/remedy.jpg" /></a>
@@ -150,8 +149,8 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
-
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="row margin-bottom-30">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i2BIIu"><img class="img-responsive center-block" alt="Nedder and Associates, LLC" title="Nedder and Associates, LLC" src="/uploads/darien_community/minigolf/nedder.jpg" /></a>
@@ -163,7 +162,7 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 </div>
 
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i4O3f6"><img class="img-responsive center-block" alt="Dr. Maryann Lehmann" title="Dr. Maryann Lehmann" src="/uploads/darien_community/minigolf/maryann_lehmann.jpg" /></a>
@@ -175,7 +174,7 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 </div>
 
-<div class="col-xs-6 col-sm-6 col-md-3">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2ElcEHa"><img class="img-responsive center-block" alt="Houlihan Lawrence" title="Houlihan Lawrence" src="/uploads/darien_community/minigolf/houlihan_lawrence_logo.jpg" /></a>
@@ -187,6 +186,19 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 </div>
 </div>
+<div class="col-xs-6 col-sm-6 col-md-12">
+<div class="text-center">
+
+<img class="img-responsive center-block" alt="The Barnett Family" title="The Barnett Family" src="/uploads/darien_community/minigolf/barnett_family.jpg" />
+
+<div class="margin-bottom-10"></div>    
+<br />
+<br />
+
+</div>
+</div>
+</div>
+
 
 <div class="text-center margin-bottom-50">
 <h2 class="title-v2 title-center">Tee and Green Sponsors</h2>
