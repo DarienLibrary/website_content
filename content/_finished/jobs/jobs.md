@@ -4,6 +4,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
+### [Full-Time Systems Administrator](/jobs-systems-administrator "Full-Time Systems Administrator")
+Darien Library (CT) seeks a curious and innovative technology professional as a Systems Administrator. The position’s primary responsibilities are maintaining and updating the Library’s storage, network, and server infrastructure.
+<br />
+<br />
+
 ### [Part-Time Marketing Specialist](https://dar.to/2yzdTMS "Part-Time Marketing Specialist")
 Darien Library (CT) seeks a creative, detail-focused Marketing Specialist. The Marketing Specialist covers a maternity leave. This temporary part-time position lasts from January to June 30, 2019. Primary responsibilities will be to manage the Library’s social media, email newsletters, and website content updates.
 <br />

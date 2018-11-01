@@ -40,3 +40,11 @@ Starting salary $15-$20/hr., commensurate with experience.
 
 ### Contact Information
 Email a cover letter and copy of your resume to Mallory Arents, Associate Director of Programs and Services at [marents@darienlibrary.org](mailto:marents@darienlibrary.org "Mallory Arents").
+<br />
+<br />
+
+<div class="row margin-bottom-20">
+<div class="col-md-3">
+<a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
+</div>
+</div>
