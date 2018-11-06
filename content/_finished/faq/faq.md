@@ -786,36 +786,13 @@ If you are a child twelve and under, you may print your object for free in the T
 
 #### Can I make a 3D print from a photo?
 We wish! The technology isn't there yet. 
-<br />
-<br />
 
-#### I have this item that I want a copy of it. Can I 3D print a new one?
-If you bring in something from your house (e.g. a cabinet handle, a toy, etc.) and wish to make a duplicate of it, library staff cannot design the digital file. You may learn how to do that via watching an online course from [Lynda.com](/search?search=lynda.com&filter=ResearchResource "Lynda.com").
-<br />
-<br />
 
 </div>
 </div>
 </div>
 
-<div class="panel panel-default">
-<div class="panel-heading">
-<h4 class="panel-title">
-<a href="#collapse-v4-Six" data-parent="#accordion-v4" data-toggle="collapse" class="accordion-toggle">
-Minecraft
-</a>
-</h4>
-</div>
-<div class="panel-collapse collapse" id="collapse-v4-Six">
-<div class="panel-body">
 
-We are proud to host the [Fairfield County Minecraft](/minecraft "Fairfield County Minecraft") server. Players ages 8 to 17 are welcome to join. Read [how to get started](http://www.fcminecraft.org/players.html "Get started on the Fairfield County Minecraft server"). 
-
-Children between 8 and 12 may play Minecraft on the Children's Library computers. Teens 12-18 may play Minecraft in the Teen Lounge. You will need your own account.
-
-</div>
-</div>
-</div>
 
 </div>
 </div>

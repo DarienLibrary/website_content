@@ -29,7 +29,7 @@ Southport, CT<br />
 </address>
 
 
-Please contact the [Collection Development Manager](mailto:jdayton@darienlibrary.org "Email Jen") for further information.
+Please contact [Readers' Advisory](mailto:ptone@darienlibrary.org "Email Pat") for further information.
 
 </div>
 <div class="col-md-4">
