@@ -1,15 +1,24 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Judy Noel
+### Current Exhibit: Mark Maybell
 
-**Tuesday, October 9th through Friday, November 16th**
+**Tuesday, November 20th through Tuesday, January 8th**
+<br />
+
+Mark Maybell presents a new photography exhibit entitled “A Celebration of Women’s Sports in Darien.” The exhibit features some current and recent Darien High School athletes. A number of the photos in the exhibit are four feet high. 
+
+[Visit the artist's website](https://www.markmaybell.com/ "Mark Maybell")
 <br />
 <br />
 
-Judy Yeager Noel is a Connecticut artist who majored in art at Lasell College and continued to study at Silvermine, the University of Bridgeport, and Fairfield University. She utilized her creativity in marketing, advertising and design as an art director and interior designer. She worked as a decorator and designed promo material for real estate developers. She is a member of several area art councils, a member of the American Society of Marine Artists, and a juried member of Rowayton Art Center. Judy is the founder and director of the Black Rock Art Guild (BRAG) where visual and performing artists join to promote the arts in our area. She has curated many events and fundraisers in galleries and shows in Connecticut, Florida, and New Hampshire. 
+### About the Artist
+Mark Maybell is a third generation photographer. Mark grew up in the small town of Sparta, Illinois where his father and had a photography studio on the main street. His great grandfather operated a photography studoi nearby in East St. Louis, Illinois. 
 
-<br /> 
+Mark started photographing in earnest in 2010 when he acquired a Canon 5D Mark ii to videotape his son's lacrosse games. He discovered that he enjoyed giving photos away to other parents. An outlet for his photography presented itself in 2012, when Mark and others in Darien founded the Darien Athletic Foundation (DAF). Mark has donated over 60,000 photos to the DAF. 
+
+Mark's career has been at the intersection of media and technology, as an investment banker, venture capitalist, philanthropist, a student of and collector of contemporary art and member of the TED community for over 20 years. 
+<br />
 <br />
 
 ### Apply to be an Artist on View 
@@ -23,7 +32,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="uploads/departments/art_on_view/judy_noel_art.jpg" alt="Art by Judy Noel" /><br />
+<img class="img-responsive center-block" src="uploads/departments/art_on_view/mark_maybell.jpg" alt="Mark Maybell" /><br />
  
 </div>
 </div>
