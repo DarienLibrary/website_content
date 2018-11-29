@@ -79,8 +79,7 @@ Housed in the former home of Andrew Carnegie Cooper Hewitt Museum is devoted exc
 <div class="col-md-4">
 
 ### Earthplace
-Earthplace consists of a 62 acre wildlife sanctuary with trails, a natural history museum, a nature center and wildlife for public viewing.<br /> 
-to historic and contemporary design.<br /> 
+Earthplace consists of a 62 acre wildlife sanctuary with trails, a natural history museum, a nature center and wildlife for public viewing.<br /> to historic and contemporary design.<br /> 
 [Select date to visit Earthplace](https://dar.to/2o6BZHK "Visit Cooper Hewitt")<br />
 [Learn more](https://dar.to/2j4EVay "View Earthplace's events")<br />
 * This pass is good for free admission for four people.
@@ -97,18 +96,18 @@ to historic and contemporary design.<br />
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2IBROCb"><img class="img-responsive center-block" src="/uploads/departments/mallory/art/brancusi_photo_by_Edward_Steichen.jpg" alt="Photo by Edward_Steichen" /></a>
+<a href="https://dar.to/2E2wRRl"><img class="img-responsive center-block" src="/uploads/departments/mallory/art/corduroy_dan_freeman.jpg" alt="Corudory book by Dan Freeman" /></a>
 <br />
 </div>
 <div class="col-md-8">
 
-#### Constantin Brancusi Sculpture
-Ends February 18th<br />
-Museum of Modern Art
+#### A City for Corduroy: Don Freeman's New York
+Ends June 23rd<br />
+Museum of the City of New York
 
-[Constantin Brancusi Sculpture](https://dar.to/2IBROCb "Constantin Brancusi Sculpture") features eleven sculptures by the great Romanian sculptor who worked in France. This exhibit is the first time all of MoMA's pieces will be shown together. Archival photographs, drawings, and films which show Brancusi's relationships with his art, patrons, and friends create a compelling narrative about this 20th century artist.  <br />
+Don Freeman's adventures of Corduroy has been delighting children since 1968. However, to really understand the City, Freeman drew lively scenes. He [depicted the City](https://dar.to/2E2wRRl "depicted the City") and its residents in the 1930s, drew backstage at Broadway, and other children's books. For Corduroy fans, you will also see original sketches of him and his friends. <br />
 
-[Reserve a pass to see the exhibit](https://dar.to/2DVyOQp "Reserve a pass to MoMA")<br />
+[Reserve a pass to see the exhibit](https://dar.to/2E2JN9E "Reserve a pass to the Museum of the City of New York")<br />
 
 </div>
 </div>
