@@ -9,6 +9,11 @@ Darien Library (CT) seeks a curious and innovative technology professional as a 
 <br />
 <br />
 
+### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
+Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users. 
+<br />
+<br />
+
 
 <div class="row margin-bottom-20">
 <div class="col-md-6">
