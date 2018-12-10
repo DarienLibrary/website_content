@@ -97,7 +97,7 @@ Download the _Libby_ app to your mobile device from the Apple or Android app sto
 
 ### Hoopla Digital 
 
-[View the Hoopla Catalog](https://dar.to/2p8K27Z "Hoopla")
+[View the Hoopla Catalog](https://dar.to/2EqjY3u "Hoopla")
 
 Hoopla Digital provides you with access to thousands of movies and TV shows. On your computer, your Hoopla digital checkout will stream just like a YouTube video or Pandora audio. 
 
