@@ -2,23 +2,34 @@
 <div class="col-md-8">
 
 ## The Fourth Annual Novel Tea Featuring J. Courtney Sullivan
-### _Saints for All Seasons_
+### _Saints for All Occasions_
 
 <br />
 
-**Wednesday, March 28th from 12 to 2 p.m.**<br />
+<div class="row">
+<div class="col-md-7">
+
+**Wednesday, March 27th from 11 a.m. to 2 p.m.**<br />
+_Pre-reception with silent auction from 11 a.m. to 12 noon<br />
+Lunch will be served at 12 noon_<br />
+
+</div>
+<div class="col-md-5">
 The Country Club of Darien<br />
 300 Mansfield Avenue, Darien, CT
+</div>
+</div>
 <br />
 
 Sponsor and Benefactor Tables are currently available for purchase, and single tickets will be on sale pending availability in February. The Sponsor Table will have J. Courtney Sullivan seated at their table!
 
-All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with J. Courtney Sullivan from 11:30 a.m. to 12 noon, and receive a signed copy of _Saints for All Seasons_. Each table seats 10 people.
+All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with J. Courtney Sullivan from 11:30 a.m. to 12 noon, and receive a signed copy of [_Saints for All Occasions_](https://dar.to/2l2Y9wl "Saints for All Occasions"). Each table seats 10 people.
 
 Single tickets will be on sale pending availability in February. Check back here for updates!
 <br />
+<br />
 
-<a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tickets</button></a>
+<a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tables</button></a>
 <br />
 <br />
 
@@ -28,7 +39,7 @@ J. Courtney Sullivan is the _New York Times_ bestselling author of the novels _T
 <br />
 <div class="row margin-bottom-20">
 <div class="col-md-3">
-<a href="/catalog/work/44303"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/saints_for_all_occasions.jpg" alt="Saint for All Seasons" /></a>
+<a href="https://dar.to/2l2Y9wl"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/saints_for_all_occasions.jpg" alt="Saints for All Occasions" /></a>
 </div> 
 <div class="col-md-9">
 
@@ -45,11 +56,12 @@ For more information, please contact the Darien Library Administrative Office at
 <div class="col-md-4">
 
 <img class="img-responsive center-block" src="/uploads/departments/readers_advisory/sullivan_credit_to_michael_lionstar.jpg" alt="J. Courtney Sullivan" />
-Photo by Michael Lionstar
+
+_Photo by Michael Lionstar_
 <br />
 <br />
 
-### Praise for _Saints for All Seasons_
+### Praise for _Saints for All Occasions_
 * _Washington Post's_ "Best Book About Family"
 <br />
 
@@ -64,6 +76,10 @@ Photo by Michael Lionstar
 </div>
 <div class="col-md-6">
 <a href="https://dar.to/2DevwCG"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="Moffly Media" /></a>
+<br />
+<a href="https://dar.to/2Q37wrS"><img class="img-responsive center-block" src="/uploads/darien_community/laurel_road.jpg" alt="Laurel Road" /></a>
+<br />
+<a href="https://dar.to/2Q0FKMI"><img class="img-responsive center-block" src="/uploads/darien_community/david_harvey_jewelers.jpg" alt="David Harvey Jewelers" /></a>
 <br />
 </div>
 </div> 
