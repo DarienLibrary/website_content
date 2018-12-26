@@ -1,13 +1,13 @@
 <div class="row margin-bottom-30">
 <div class="col-md-10 col-md-offset-1">
 
-The 2019 program is expected to run from Monday, May 20th to Monday, June 11th. Students on Internships are expected to work at their Internship Site for five hours per day in lieu of attending class. Student applications will be due to us by Tuesday, January 15th, and interviews will be held the following week of January 21st.
+The 2019 program is expected to run from Monday, May 20th to Monday, June 11th. Students on Internships are expected to work at their Internship Site for five hours per day in lieu of attending class. Student applications will be due to us by Monday, January 21st, and interviews will be held the following week.
 
 
-**Application Due Date:** Tuesday, January 15th
+**Application Due Date:** Monday, January 21st
 
 <div class="margin-bottom-10">
-<a href="https://dar.to/2CY2Sd4" class="btn-u btn-u-lg btn-u-primary"><p style="text-decoration:none !important; color:#fff;">Apply</p></a>
+<a href="https://dar.to/2BehMs0" class="btn-u btn-u-lg btn-u-primary"><p style="text-decoration:none !important; color:#fff;">Apply</p></a>
 </div>
 
 <div class="row">
