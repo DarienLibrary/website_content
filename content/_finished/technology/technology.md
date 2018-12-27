@@ -46,14 +46,12 @@ Everyone may print wirelessly from home or in the Library using our [Mobile Prin
 Programs available on all PC computers:
 
 * Operating System: Windows 7
-* Office 2010 (Access, Excel, PowerPoint, Publisher, and Word)
+* Office 2016 (Excel, PowerPoint, Publisher, and Word)
 * Adobe CS 5.5 (Photoshop, InDesign, Illustrator)
 * Adobe Acrobat Pro X
-* Canon scanning software
 * Flash player
 * Google Chrome
 * Internet Explorer
-* iTunes
 * Mozilla Firefox
 * Windows Media Player
 
