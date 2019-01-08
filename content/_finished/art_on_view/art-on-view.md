@@ -1,23 +1,20 @@
  <div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Mark Maybell
+### Current Exhibit: Joanne Gray's Salt Water Fish Rubbings
 
-**Tuesday, November 20th through Tuesday, January 8th**
-<br />
-
-Mark Maybell presents a new photography exhibit entitled “A Celebration of Women’s Sports in Darien.” The exhibit features some current and recent Darien High School athletes. A number of the photos in the exhibit are four feet high. 
-
-[Visit the artist's website](https://www.markmaybell.com/ "Mark Maybell")
+**Friday, January 11th through Monday, February 25th**
 <br />
 <br />
 
 ### About the Artist
-Mark Maybell is a third generation photographer. Mark grew up in the small town of Sparta, Illinois where his father and had a photography studio on the main street. His great grandfather operated a photography studoi nearby in East St. Louis, Illinois. 
+Artist Joanne Gray grew up on the coastal south west shores of Cornwall England. Surrounded by white sand and the turquoise sea she fell in love with anything and everything nautical.
 
-Mark started photographing in earnest in 2010 when he acquired a Canon 5D Mark ii to videotape his son's lacrosse games. He discovered that he enjoyed giving photos away to other parents. An outlet for his photography presented itself in 2012, when Mark and others in Darien founded the Darien Athletic Foundation (DAF). Mark has donated over 60,000 photos to the DAF. 
+Salt water fish rubbings was born in 2011 after a trip to the islands where she stumbled upon a local Gyotaku artist. She was inspired and began studying the Japanese technique ‘Gyotaku’.
 
-Mark's career has been at the intersection of media and technology, as an investment banker, venture capitalist, philanthropist, a student of and collector of contemporary art and member of the TED community for over 20 years. 
+Gyotaku, or Japanese fish printing, was originally used to record and commemorate a fisherman’s catch. Prints were made using Sumi ink and Rice paper. This original form of Gyotaku, as a recording method for fisherman, It is the original methodology. The fish is cleaned, prepped, supported, and then inked. At this point, rice paper is applied to the fish, and an image is created by careful hand rubbing or pressing.
+
+Over the past eight years, Joanne has received awards and recognition from international design and media outlets as well as interior design blogs and currently is selling her limited edition pieces with Serena & Lily in their Artist collection. Joanne Lives in Norwalk with her husband and two sons and has a charming shop on the water in Rowayton.
 <br />
 <br />
 
@@ -32,7 +29,7 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="uploads/departments/art_on_view/mark_maybell.jpg" alt="Mark Maybell" /><br />
+<img class="img-responsive center-block" src="uploads/departments/art_on_view/joanne_gray.jpg" alt="Joanne Gray" /><br />
  
 </div>
 </div>
