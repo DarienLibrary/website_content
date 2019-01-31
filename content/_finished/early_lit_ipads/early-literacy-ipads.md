@@ -14,6 +14,9 @@ Here is the current list of apps you will find installed on Darien Library's Ear
 **Bugs & Buttons 2** By Little Bit Studio<br />
 Beautiful bugs teach you how to count.  
 
+**Busy Shapes** By Edoki Academy<br />
+Explore shapes and practice hand-eye coordination with the fun game.
+
 **Drive About: Number Neighborhood** By Artgig Studio<br />
 Fun math games By car, balloon, or boat. 
 
@@ -28,6 +31,9 @@ Count fruit to make smoothies and more.
  
 **Puppy Preschool** By Sago Mini <br />
 Introduce numbers, shapes, matching, and fun with adorable puppies!  
+
+**Splash Math** By StudyPad<br />
+Kids who love animals learn math through fun games!
  
 **TallyTos** By Spinlight Studio <br />
 Introduce numbers with fun games!  
@@ -52,27 +58,45 @@ Construct a train and drive it on a track!
 **Build and Play 2** By Croco Studio<br />
 Constructions that build spatial awareness.
 
+**Cookie Doodle** By Shoe the Goose<br />
+Learn about recipes and math by making pretend cookies!
+
 **Curious George Train Adventures** By Haughton Mifflin Harcourt<br />
 Help George drive a train and solve fun puzzles along the way.
 
 **Lego Duplo Train** By Lego System A/S<br />
 Drive a colorful train from station to station.
 
+**Miximal** By Yatatoy<br />
+Create silly animal creations in this fun app.
+
 **My Very Hungry Caterpillar** By StoryToys Entertainment Limited<br />
 Play with Eric Carle’s caterpillar.
 
+**Peek-a-zoo** By Duck Duck Moose<br />
+Play peek-a-boo with fun animals.
+
 **Spot the Dot** By Ruckus Media Group<br />
 Use your color skills to spot the dot!
+
+**Toca Planes** By Toca Boca<br />
+Have fun with animals and the power of flight.
 
 **Toca Tea Party; Toca Tailor; Toca Builders; Toca Monsters; Robot Lab** By Toca Boca<br />
 Games that support creativity. 
 
 **Toolbox; Farm** By Sago Mini<br />
 Use tools with Sago Mini friend! 
+
+**TotemUp** By Minilab Studios<br />
+Practice math by stacking monsters!
 <br />
 <br />
 
 ### Read
+
+**Animal Rescue Book** By PatrickGeorge Ltd<br />
+Change the story and rescue animals by flipping pages in this interactive book.
 
 **The Berenstain Bears’ Dinosaur Dig** By Oceanhouse Media<br />
 An interactive book with famous bears!  
@@ -81,7 +105,10 @@ An interactive book with famous bears!
 Reading with silly monsters. 
 
 **Five Little Monkeys Jumping on the Bed** By Oceanhouse Media<br />
-An interactive book with 5 silly monkeys 
+An interactive book with 5 silly monkeys. 
+
+**Flip Flap Farm** By Nosy Crow<br />
+Create silly animal poems by mixing and match farm creatures.
 
 **Go Away Big Green Monster!** By Night & Day Studios<br />
 Send away Ed Emberley’s scary monster!
@@ -118,6 +145,9 @@ A lush and funny take on this fairy tale.
 
 **Trains By Byron Barton** By HarperCollins<br />
 For the transportation-minded.
+
+**Word Wagon** By Duck Duck Moose<br />
+This app is an excellent introduction to letters for pre-readers.
 <br />
 <br />
 
@@ -147,6 +177,9 @@ Make animals dance to classic songs.
 **Sound Shaker** By Tickle Tap Apps<br />
 Make bouncing musical shapes
 
+**Toca Band** By Toca Boca<br />
+Play with sounds with your own band!
+
 **Ultimate Kids Song Collection** By Hoy Yan Mak<br />
 Collection of favorite nursery rhymes & songs! 
 
@@ -159,6 +192,9 @@ Silly version of a classic song.
 
 **ABA Flash Cards & Games - Emotions & Touch and Learn: Emotions** By Innovative Mobile Apps<br />
 Flashcards and photos of emotions.  
+
+**Avokiddo Emotions** By Avokiddo<br />
+Help your kid get in touch with their feelings with this excellent app.
  
 **Kid in Story Book Maker** By Enuma, Inc.<br />
 Create and customize storybooks with photos of your child and others. 

@@ -31,7 +31,10 @@ Create your own comix with art from Big Nate.
 Make your own movies! Draw, color, sticker, and photograph your way into the Bloxtown film festival. 
 
 **The Infinite Aracde** By Tinybop<br />
-Make and play your own games, like pinball, adventure games, platformer games, mazes, and more.  
+Make and play your own games, like pinball, adventure games, platformer games, mazes, and more.
+
+**Loopimals** By Yatatoy<br />
+Use intuitive movements to change animations and create and mix melodies.  
 
 **The Monsters** By Tinybop<br />
 Make the silly scary monsters of your dreams or nightmares! 
@@ -84,8 +87,14 @@ Learn pre-coding with 100+ levels and challenges.
 **Drive Ahead! Sports** By Dodreams Fairytale Company<br />
 Drive all kinds of cars and trucks! 
 
+**Duckie Deck Card Wars** By DuckieDeck<br />
+Practice math and play an engaging card game.
+
 **Every Day** By Highlights<br />
 Build skills needed for school through play.
+
+**GoNoodle** By GoNoddle, Inc.<br />
+Turn screen time into a chance to get kids moving and engage their minds.
 
 **INKS** By State of Play Games<br />
 Pinball and art combined. 
@@ -104,6 +113,9 @@ Build, create, and explore new worlds.
 
 **Spy Tools for Kids** By Thinkamingo Inc<br />
 Lie detectors, voice changers, and more. 
+
+**Thinkrolls: Kings and Queens** By Avokiddo<br />
+Challenge your brain and practice your logic skills.
 <br />
 <br />
 
@@ -138,6 +150,12 @@ Read along with this adorable puppy.
 
 ### Math
 
+**Crazy Gears** By Edoki Academy<br />
+Manipulate gears, chains, and pulleys to make I through each level.
+
+**Dragon Box Elements Geometry** By DragonBox<br />
+Embark on an adventure that secretly teaches geometry.
+
 **iLiveMath Oceans** By iHomeEducator<br />
 Practice math for K-6th graders with these real world scenarios and word problems. 
 
@@ -149,6 +167,9 @@ Addition, subtraction, multiplication, division...and magical number tiles.
 
 **Mystery Math Town** By Artgig Studio<br />
 Use your math skills to rescue the fireflies in Mystery Math Town.  
+
+**Prodigy Math** By ProdigyGame.com<br />
+Have fun with math in this adventure game.
 
 **Slice Fractions** By Ululab<br />
 Learn fractions by solving fun puzzles.
@@ -167,6 +188,12 @@ Enjoy 10 sight word mini-games.
 
 ### Science
 
+**Astro Cat’s Solar System** By Minilab Ltd<br />
+Explore the wonders of the universe with Astro Cat!
+
+**Coral Reef** By Tinybop<br />
+Dive into this app for underwater learning.
+
 **The Earth** By Tinybop<br />
 Dig into our planet and the forces that shape it! 
 
@@ -175,6 +202,9 @@ Invent and build anything you can imagine.
 
 **The Human Body** By Tinybop<br />
 Learn anatomy and biology with this interactive human body. 
+
+**Pango Build Park** By Studio Pango<br />
+Build your own roller coaster with Pango!
 
 **Plants** By Tinybop<br />
 Explore the forest, desert, and grassland. Play and learn as plants and animals spring to life in these ecosystems.
@@ -185,8 +215,14 @@ Explore simple machines By playing!
 **Solar Walk** By Vito Technology Inc.<br />
 Explore space with this 3D model.  
 
+**Space** By Tinybop<br />
+Explore our solar system with interactive models.
+
 **Thinkrolls 2** By Avokiddo<br />
 One part rolling ball platformer, one part physics puzzler. 
+
+**Toca Lab: Elements** By Toca Boca<br />
+Have fun with imaginary elements and silly monsters.
 
 **The Weather** By Tinybop<br />
 Explore the science of storms! 
