@@ -21,15 +21,13 @@ The Country Club of Darien<br />
 </div>
 <br />
 
-Sponsor and Benefactor Tables are currently available for purchase, and single tickets will be on sale pending availability in February. The Sponsor Table will have J. Courtney Sullivan seated at their table!
+Single tickets, Sponsor and Benefactor Tables are currently available for purchase. The Sponsor Table will have J. Courtney Sullivan seated at their table! Please indicate any seating requests in the Comments section of the form.
 
 All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with J. Courtney Sullivan from 11:30 a.m. to 12 noon, and receive a signed copy of [_Saints for All Occasions_](https://dar.to/2l2Y9wl "Saints for All Occasions"). Each table seats 10 people.
-
-Single tickets will be on sale pending availability in February. Check back here for updates!
 <br />
 <br />
 
-<a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tables</button></a>
+<a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tickets</button></a>
 <br />
 <br />
 
