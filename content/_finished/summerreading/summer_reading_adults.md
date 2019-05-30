@@ -1,9 +1,9 @@
 <div class="row">
 <div class="col-md-12">
-<h3 style="color: #2C53A4;">Let Us Transport You This Summer</h3>
+<h3 style="color: #2C53A4;">It's Going to be Out of This World!</h3>
 
 
-Summer reading is the ultimate escape and we are delighted to transport you on a reading adventure. Join us for our second annual reading challenge featuring our destination map game board, fun prizes for book lovers, and special events throughout the summer. 
+Summer reading is the ultimate escape, and we want to invite all of our adult patrons to “Reach For The Stars." This year, we will have a celestial-themed reading challenge, fun prizes, and special events throughout the summer. Patrons can pick up their game maps at the Library’s Welcome Desk starting June 3rd. Registration is not required and patrons can play as many times as they want. The grand prize is a one-year family membership to the American Museum of Natural History.
 
 </div>
 </div>
@@ -14,29 +14,36 @@ Summer reading is the ultimate escape and we are delighted to transport you on a
 <div class="col-md-8">
 <h3 style="color: #2C53A4;">How to Play</h3>
 
-**Ends Saturday, September 1st**
+**Ends Friday, August 16th**
 
 * Game cards will be available at the Welcome Desk.
-* Complete four challenges along the map to win.
-* Return game card to the Library between June 4th and August 31st to be entered into monthly drawings.
-* Every completed game card is an entry for the grand prize of a $100 gift certificate to Barrett’s Bookstore.
+* Complete any of the four challenges on the celestial game card for an opportunity to win.
+* Return your game card to the Library between June 3rd and August 16th, and you will be entered into two drawings for a cooler bag full of library sway and books.
+* Every completed game card is a submission for the grand prize of a one year family membership to the American Museum of Natural History.
 * Play as many times as you want. 
-* Winning game cards will be drawn on July 1st, August 1st and September 1st.
-* The grand prize drawing will be held on September 1st. 
+* Winning game cards will be drawn on July 8th and August 16th.
+* The grand prize drawing will be held on August 16th. 
 
 <br />
-<a href="https://dar.to/2n2GGny" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download August Game Card</a>
+<a href="https://dar.to/2WwUOci" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download Game Card</a>
 <br />
 </div>
 <div class="col-md-4">
 <h3 style="color: #2C53A4;">Book Inspiration</h3>
 
-* [Great American Reads for July](https://dar.to/2tUOqeH "Great American Reads for July")
-* [Great Listening Ahead](https://dar.to/2tXp5Rk "Great Listening Ahead")
-* [International Reads](https://dar.to/2z4BmsS "International Reads")
-* [Memoirs](https://dar.to/2tXLNsu "Memoirs")
-* [Staff Favorites of July](https://dar.to/2z4YEik "Staff Favorites of July")
-* [Travel Guides](https://dar.to/2zcBtTt "Travel Guides")
+* [Books Set in Space](https://dar.to/2EFFKyH "Books Set in Space")
+* [New York Times Non-Fiction Bestsellers](https://dar.to/2EFNhO8 "New York Times Non-Fiction Bestsellers")
+* [Summer-time Books](https://dar.to/2HKDGHR "Summer-time Books")
+* [Historical Fiction](https://dar.to/30UvNqS "Historical Fiction")
+* [Books You Can Read in a Day](https://dar.to/2VYqRgZ "Books You Can Read in a Day")
+* [Debut Authors](https://dar.to/2KdblLN "Debut Authors")
+* [Books with Star in the Title](https://dar.to/2QwkC2G "Books with Star in the Title")
+* [Science Fiction Novels](https://dar.to/2wq2Dlt "Science Fiction Novels")
+* [Novels Set Around the World](https://dar.to/2QBwO29 "Novels Set Around the World")
+* [Movies Based on a Book](https://dar.to/2WvzmEx "Movies Based on a Book")
+* [Books About Books](https://dar.to/2XhM5b1 "Books About Books")
+* [Paperback Collection](https://dar.to/2W4M4FP "Paperback Collection")
+* [Staff Favorites: May](https://dar.to/2WxldXk "Staff Favorites for May")
 
 </div>
 </div>
@@ -46,40 +53,61 @@ Summer reading is the ultimate escape and we are delighted to transport you on a
 <h3 style="color: #2C53A4;">Summer Events</h3>
 
 <div class="row">
-<div class="col-md-4">
+<div class="col-md-3">
 
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/book_readers_festival_logo_small.jpg" alt="Book Readers Festival" />
+<img class="img-responsive center-block" src="/uploads/general_stock_photos/kids_bubbles_small.jpg" alt="Kids Blowing Bubbles with Father" />
 
-<h3 style="color: #2C53A4;">Book Readers Festival</h3>
+<h3 style="color: #2C53A4;">Summer Reading Kick-Off Party</h3>
 
-_Adult Summer Reading Kick-off Event_<br />
-**Tuesday, June 9th from 11 a.m. to 1 p.m.**
+_For all ages_<br />
+**Saturday, June 8th from 2 to 4 p.m.**
 
-We'll celebrate in the Library’s courtyard. Attendees will discover new books, get personalized reading recommendations and learn about new genres. There will also be prizes, ice cream, and children’s activities taking place during the festival.
+All of the Library’s summer reading programs will blast-off with a Kick-Off Party. We'll share new books, introduce new genres, and you will receive a personalized reading recommendation. 
 
-</div>
-<div class="col-md-4">
-
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/beatriz_williams.jpg" alt="Beatriz Williams" />
-
-<h3 style="color: #2C53A4;">Meet the Author: Beatriz Williams</h3>
-
-_Featured Summer Speaker_<br />
-**Thursday, July 12th at 7 p.m.**
-
-Beatriz Williams will transport you to another time and place as she discusses her new blockbuster novel of the season, _[The Summer Wives](# "The Summer Wives")_, a luminous postwar fable of love, class, power, and redemption set on a New England island. 
+We'll also offer prizes, ice cream, and teen and children’s activities taking place during the event.
 
 </div>
-<div class="col-md-4">
+<div class="col-md-3">
 
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/wonder_book_movie.jpg" alt="Wonder Book and Movie" />
+<img class="img-responsive center-block" src="/uploads/general_stock_photos/moon_lander.jpg" alt="Do you remember?" />
 
-<h3 style="color: #2C53A4;">Read. Watch. Discuss. <em>Wonder</em></h3>
+<h3 style="color: #2C53A4;">Celebrate the 50th Anniversary of Apollo 11</h3>
 
-_Book and a Movie Discussion_ <br />
-**Tuesday, July 24th at 6 p.m.**
+_Lecture and film screening_<br />
+**Saturday, July 13th at 2 p.m.**
 
-What is summer travel without it being a family affair? This summer we will transport the entire family with our R.W.D. (Read. Watch. Discuss) book and movie event featuring R.J. Pacifico’s _[Wonder](# "Wonder")_. Join us to discuss this heartfelt and sentimental book which was turned into a movie. All ages are welcome. 
+Paul Cardone, an amateur-astronomer enthusiast, will give a talk about space exploration and the significance of the Apollo 11 mission. 
+
+Immediately following our special presentation, we will present the award winning ["Apollo 11" documentary](https://dar.to/30QuI3n "Apollo 11 Documentary"). This cinematic space event film features never-before-seen, large-format film footage of one of humanity's greatest accomplishments. Film is 93 minutes.
+
+
+</div>
+<div class="col-md-3">
+
+<img class="img-responsive center-block" src="/uploads/departments/youth/2019/mary_poppins_returns.jpg" alt="Mary Poppins Returns" />
+
+<h3 style="color: #2C53A4;">Read. Watch. Discuss.<br /><em>Mary Poppins Returns</em></h3>
+
+_A book and movie discussion_ <br />
+**Monday, July 29th at 5:30 p.m.**
+
+Your imagination can transport you to a whole new world… and sometimes a spoon full of sugar can also help! We invite your entire family to join us for our R.W.D. (Read. Watch. Discuss) book series and movie event featuring "Mary Poppins Returns." 
+
+Borrow a copy of P.I. Traver's original book, _[Mary Poppins](https://dar.to/2WC6jiu "Mary Poppins")_ before joining us for the film and discussion. All ages are invited. 
+
+</div>
+<div class="col-md-3">
+
+<img class="img-responsive center-block" src="/uploads/departments/mallory/literature/fiona_davis_2019_headshot.jpg" alt="We're so fortunate to have her return" />
+
+<h3 style="color: #2C53A4;">Meet the Author<br />Fiona Davis</h3>
+
+_A special author event_ <br />
+**Thursday, August 8th at 7 p.m.**
+
+Fiona Davis, bestselling author of _The Chelsea Girls_, _The Dollhouse_, _The Masterpiece_, and _The Address_ will be the featured speaker of our Adult Summer Reading program. 
+
+_[The Chelsea Girls](https://dar.to/2wwNq1K "The Chelsea Girls")_, the bright lights of the theater district, the glamour and danger of 1950's New York, and the wild scene at the Chelsea Hotel come together in a dazzling novel about the twenty-year friendship that will irrevocably change two women’s lives. 
 
 </div>
 </div>
