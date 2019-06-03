@@ -9,7 +9,7 @@
 <div class="row">
 <div class="col-md-7">
 
-**Wednesday, March 27th from 11 a.m. to 2 p.m.**<br />
+**Wednesday, March 27th from 11 a.m. to 2 p.m.** <br />
 _Pre-reception with silent auction from 11 a.m. to 12 noon<br />
 Lunch will be served at 12 noon_<br />
 
@@ -21,7 +21,7 @@ The Country Club of Darien<br />
 </div>
 <br />
 
-Single tickets, Sponsor and Benefactor Tables are currently available for purchase. The Sponsor Table will have J. Courtney Sullivan seated at their table! Please indicate any seating requests in the Comments section of the form.
+Single tickets are currently available for purchase, as well as the Sponsor Table. The Sponsor Table will have J. Courtney Sullivan seated at their table! Please indicate any seating requests in the Comments section of the form.
 
 All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with J. Courtney Sullivan from 11:30 a.m. to 12 noon, and receive a signed copy of [_Saints for All Occasions_](https://dar.to/2l2Y9wl "Saints for All Occasions"). Each table seats 10 people.
 <br />
@@ -91,7 +91,7 @@ _Photo by Michael Lionstar_
 
        window.bboxInit = function () {
 
-           bbox.showForm('bd9efdcc-81de-4a54-b83b-a33480cd9ade');
+           bbox.showForm('0304cab4-1ea4-404a-9582-f1a231faf5ce');
 
        };
 

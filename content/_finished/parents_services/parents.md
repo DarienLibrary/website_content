@@ -25,7 +25,7 @@ For children ages 5 to 9-years old, borrow an [Elementary iPad](/catalog/work/16
 <br />
 
 ### Tween Tabs
-Keep your 8 to 12-year-olds busy with a [Tween Tab](/catalog/work/51230 "Tween Tab") and sneak in some learning while they play. These iPads feature games related to history, poetry, coding, <abbr title="Science Technology Engineering Mathematics">STEM</abbr> education, literature, languages, sports, eBooks, and more. [View the current selection of apps](/tweentabs "View the current selection of apps")
+Keep your 8 to 12-year-olds busy with a [Tween Tab](/catalog/work/51230 "Tween Tab") and sneak in some learning while they play. These iPads feature games related to history, poetry, coding, <abbr title="Science Technology Engineering Mathematics">STEM</abbr> education, literature, languages, sports, eBooks, and more. [View the current selection of apps](/tween-tabs "View the current selection of apps")
 <br />
 <br />
 </div>

@@ -1,11 +1,20 @@
 <div class="row margin-bottom-10">
 <div class="col-md-10 col-md-offset-1">
 
-  The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town. Your donations go directly to the purchase of all of the books, movies, and technology as well as the support of countless programming opportunities throughout the year, making Darien Library the intellectual and cultural heart of Darien. 
+Thank you to all of the donors who generously supported 1894 Day on May 29!  We raised over $150,000 in honor of the Library’s 125th Anniversary.
+ 
+All gifts to 1894 Day, as with all gifts to our Annual Fund, will be dedicated directly to library resources, including all of the books, DVDs, technology, learning resources, and programs for children, teens, and adults. The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town.
+ 
+Our fiscal year ends on June 30th, and any donation amount is appreciated. All donations are tax-deductible.
+ 
+Thank you for supporting Darien Library!
+ 
+
+<!--The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town. Your donations go directly to the purchase of all of the books, movies, and technology as well as the support of countless programming opportunities throughout the year, making Darien Library the intellectual and cultural heart of Darien.
 
 Please give to Darien Library today. 
 
-Any donation amount is appreciated. Your donation is tax deductible since the Library is a 501(c)(3) non-profit.
+Any donation amount is appreciated. Your donation is tax deductible since the Library is a 501(c)(3) non-profit.-->
 
 <div>
   <div id="bbox-root">

@@ -60,8 +60,7 @@ Your child can start their own book club with one of our starter kits. Check out
 
 ### Book Discussion Guides
 * [LitLovers Reading Guides](https://dar.to/2mjkZAD "LitLovers Reading Guides")
-* [Fiction Discussion Questions](https://dar.to/2mjoN4Z 
-"Fiction discussion questions")
+* [Fiction Discussion Questions](https://dar.to/2mjoN4Z "Fiction discussion questions")
 * [Memoir Discussion Questions](https://dar.to/2mjv4gP "Memoir discussion questions")
 * [Nonfiction Discussion Questions](https://dar.to/2mjFsVX "Nonfiction discussion questions")
 * [Reading Group Guides](https://dar.to/2lDhFwf "Reading group guides")

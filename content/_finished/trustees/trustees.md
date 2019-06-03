@@ -4,7 +4,6 @@
 
 ### Officers
 Kevin Gasvoda, President<br />
-Edgar W. Barksdale Jr., Vice President<br />
 Tamara Sload, Treasurer<br />
 Jan Smith, Secretary
 <br />
@@ -13,7 +12,6 @@ Jan Smith, Secretary
 
 ### Terms Expiring 2019
 Erika Allen<br />
-Edgar W. Barksdale Jr.<br />
 Michael A. Cippoletti<br />
 Allegra Erickson<br />
 Millyn Gaaserud<br />

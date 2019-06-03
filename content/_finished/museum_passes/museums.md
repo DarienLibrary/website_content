@@ -46,7 +46,7 @@ A regionally based, world-class institution highlighting art, science and natura
 
 
 ### CT State Parks
-Explore your backyard with this pass to Connecticut State Parks and Forest Recreation Areas. This pass can be used to waive entrance fees at state parks and forests where there is a parking fee. <br />
+Explore your backyard with this pass to Connecticut State Parks and Forest Recreation Areas. The pass will no longer be needed to cover parking fees at state parks and forests for CT residents, as all CT registered vehicles will be allowed in without a fee. <br />
 [Select date to visit CT State Parks](https://dar.to/2j23UuU "Visit CT State Parks")<br />
 [View list of parks](https://dar.to/2j4gOZt "View list of parks")<br />
 The pass also covers the admission fee for two adults and four children at 
@@ -107,7 +107,7 @@ Museum of the City of New York
 
 Don Freeman's adventures of Corduroy has been delighting children since 1968. However, to really understand the City, Freeman drew lively scenes. He [depicted the City](https://dar.to/2E2wRRl "depicted the City") and its residents in the 1930s, drew backstage at Broadway, and other children's books. For Corduroy fans, you will also see original sketches of him and his friends. <br />
 
-[Reserve a pass to see the exhibit](https://dar.to/2E2JN9E "Reserve a pass to the Museum of the City of New York")<br />
+[Reserve a pass to see the exhibit](https://dar.to/2j3DYzm "Reserve a pass to the Museum of the City of New York")<br />
 
 </div>
 </div>
@@ -148,6 +148,9 @@ Visit American military ships and explore maritime history at Intrepid. You'll v
 <div class="col-md-4">
 
 ### Museum of Modern Art
+_Due to renovations MoMA will close to the general public after June 15 and plans to reopen on October 21, 2019._
+<br />
+<br />
 MoMA's renowned collection of modern and contemporary art includes Vincent van Gogh's _The Starry Night_ and Andy Warhol's _Gold Marilyn Monroe_, along with works by Jackson Pollock, Jasper Johns, and many other great artists of our time. <br /> 
 [Select date to visit MoMA](https://dar.to/2xvvu7b "Visit MoMA")<br />
 [View the latest exhibits](https://dar.to/2j4fGoI "View MoMA's exhibits")<br />

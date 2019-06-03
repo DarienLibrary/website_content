@@ -465,7 +465,7 @@ Food & Drinks
 <div class="panel-body">
 
 #### Can I have food and drinks in the Library?
-Yes! We even have a cafe on the Main Level for your convenience. The only room where food or drinks is not permitted is in the Digital Media Lab on the Lower Level. 
+Yes! We even have a cafe on the Main Level for your convenience. The only rooms where food and drinks are not permitted are the Digital Media Lab on the Lower Level and the Storytime Room. 
 <br />
 <br />
 

@@ -20,7 +20,7 @@ The **grand prize** is a one-year family membership to the [American Museum of N
 
 * Game cards will be available at the Welcome Desk.
 * Complete any of the four challenges on the celestial game card for an opportunity to win.
-* Return your game card to the Library between June 3rd and August 16th, and you will be entered into two drawings for a cooler bag full of library sway and books.
+* Return your game card to the Library between June 3rd and August 16th, and you will be entered into two drawings for a cooler bag full of library swag and books.
 * Every completed game card is a submission for the grand prize of a one year family membership to the American Museum of Natural History.
 * Play as many times as you want. 
 * Winning game cards will be drawn on July 8th and August 16th.
