@@ -25,7 +25,7 @@ Over the summer, use the Read to Me Log to record all the books you read togethe
 
 <h2 style="color:#981f22;">Readers in Grades K to 6</h2>
 
-If you register for Summer Reading between June 4th and June 14th, you will be entered into a special raffle for a [Build a Droid Kit](https://dar.to/2J5xXh2 "Build a Droid Kit")! We'll draw a winner on Friday, June 15th at 5:30 p.m.
+If you register for Summer Reading between June 4th and June 14th, you will be entered into a special raffle for a [Cozmo robot](https://dar.to/310mLII "Cozmo robot")! We'll draw a winner on Friday, June 15th at 5:30 p.m.
 <br />
 <p>
 <a href="https://dar.to/2Wyq6PX" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#632CA3;">K to 6 Sign Ups</a>
@@ -175,7 +175,7 @@ Baily
 <div class="col-md-12">
 <div style="padding:10px;">
 <div class="row">
-<div class="col-md-12">
+<div class="col-md-12" style="border:dotted 8px #632CA3;">
 <h1 style="color:#981f22;">Events</h1>
 Summer Reading events are pre-registered in advance or drop-in programs which all are welcome to attend. Many programs support <abbr title="Science, Technology, Enginnering, Arts, and Mathematics">S.T.E.A.M.</abbr> education. 
 <br />
