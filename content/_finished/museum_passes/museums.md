@@ -96,18 +96,19 @@ Earthplace consists of a 62 acre wildlife sanctuary with trails, a natural histo
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2E2wRRl"><img class="img-responsive center-block" src="/uploads/departments/mallory/art/corduroy_dan_freeman.jpg" alt="Corudory book by Dan Freeman" /></a>
+<a href="https://dar.to/2XAguld"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/Jackie_Robinson_Story_still.jpg" alt="The Jackie Robinson Story" /></a>
+<em>Image still from the film, "The Jackie Robinson Story."</em><br />
 <br />
 </div>
 <div class="col-md-8">
 
-#### A City for Corduroy: Don Freeman's New York
-Ends June 23rd<br />
+#### In the Dugout with Jackie Robinson: An Intimate Portrait of a Baseball Legend
+Ends September 15th<br />
 Museum of the City of New York
 
-Don Freeman's adventures of Corduroy has been delighting children since 1968. However, to really understand the City, Freeman drew lively scenes. He [depicted the City](https://dar.to/2E2wRRl "depicted the City") and its residents in the 1930s, drew backstage at Broadway, and other children's books. For Corduroy fans, you will also see original sketches of him and his friends. <br />
+To celebrate the 100th anniversary of Jackie Robinson's birth, the Museum of the City of New York, hosts a [special exhibit](https://dar.to/2XAguld "special exhibit") in his honor. You are invited to come view stunning photos, memorabilia, and rare footage of the Robinson family. What did the media have to say of his groundbreaking entrance to American baseball? Magazines will be on display that give a glimpse into another time, another place. <br />
 
-[Reserve a pass to see the exhibit](https://dar.to/2j3DYzm "Reserve a pass to the Museum of the City of New York")<br />
+[Reserve a pass to see the exhibit](https://dar.to/2K7lD11 "Reserve a pass to the Museum of the City of New York")<br />
 
 </div>
 </div>
