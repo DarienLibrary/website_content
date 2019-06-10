@@ -25,6 +25,9 @@ Complete 15 of 20 of our Reading Challenges to win a $10 gift card! The challeng
 <a href="https://dar.to/2MgsGpQ" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Reading Challenge Brochure</a>
 </p>
 <br />
+<a href="https://dar.to/2X0x9kD">List of books suggestions</a> or <a href="https://dar.to/2WqfL4E">PDF</a>
+<br />
+<br />
 
 </div>
 <div class="col-md-4">
