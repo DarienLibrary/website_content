@@ -1,20 +1,16 @@
- <div class="row">
+<div class="row">
  <div class="col-md-8">
 
-### Current Exhibit: Joanne Gray's Salt Water Fish Rubbings
 
-**Friday, January 11th through Monday, February 25th**
+### Current Exhibit: Pic Darien - The Darien Arts Center's 2019 Smartphone Photo Contest 
+
+**Wednesday, June 19th through Tuesday, August 6th**
 <br />
 <br />
 
 ### About the Artist
-Artist Joanne Gray grew up on the coastal south west shores of Cornwall England. Surrounded by white sand and the turquoise sea she fell in love with anything and everything nautical.
-
-Salt water fish rubbings was born in 2011 after a trip to the islands where she stumbled upon a local Gyotaku artist. She was inspired and began studying the Japanese technique ‘Gyotaku’.
-
-Gyotaku, or Japanese fish printing, was originally used to record and commemorate a fisherman’s catch. Prints were made using Sumi ink and Rice paper. This original form of Gyotaku, as a recording method for fisherman, It is the original methodology. The fish is cleaned, prepped, supported, and then inked. At this point, rice paper is applied to the fish, and an image is created by careful hand rubbing or pressing.
-
-Over the past eight years, Joanne has received awards and recognition from international design and media outlets as well as interior design blogs and currently is selling her limited edition pieces with Serena & Lily in their Artist collection. Joanne Lives in Norwalk with her husband and two sons and has a charming shop on the water in Rowayton.
+Pic Darien received over 530 entries from places as far away as Scotland and Bangladesh. Contestants entered smartphone photographs into the DAC's 4th annual contest in six themed prize categories: People and Pets; Landscape, Seascape, Nature; Travel; Food and Drink; Abstract; and Love, Anguish and Triumph. The contest was open to all. There were no age restrictions or requirements for residency. Award-winning photographer, filmmaker and TV producer Jeffrey Wyant judged Pic Darien, a fundraiser for the DAC.    
+ 
 <br />
 <br />
 
@@ -27,9 +23,10 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 <br />
 
 </div>
+
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="uploads/departments/art_on_view/joanne_gray.jpg" alt="Joanne Gray" /><br />
- 
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/DAC_Winner.jpg" alt="DAC Winning Artwork" />
+
 </div>
 </div>
