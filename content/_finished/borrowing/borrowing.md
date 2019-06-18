@@ -173,7 +173,7 @@ Connecticut residents may use their hometown library card at any public library 
 		</tr>
 		<tr>
 			<td>
-				iPads, Cassette or CD Player, Doxie Flip Scanner, Roku 3</td>
+				iPads, Cassette or CD Player, Roku 3</td>
 			<td>
 				7 days</td>
 			<td>
@@ -186,16 +186,6 @@ Connecticut residents may use their hometown library card at any public library 
 				AutoScanner</td>
 			<td>
 				4 days</td>
-			<td>
-				Yes</td>
-			<td>
-				$10.00 a day</td>
-		</tr>
-		<tr>
-			<td>
-				Speck Sensor</td>
-			<td>
-				21 days</td>
 			<td>
 				Yes</td>
 			<td>
