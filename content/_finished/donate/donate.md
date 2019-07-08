@@ -1,12 +1,12 @@
 <div class="row margin-bottom-10">
 <div class="col-md-10 col-md-offset-1">
 
-Thank you to all of the donors who generously supported 1894 Day on May 29!  We raised over $150,000 in honor of the Library’s 125th Anniversary.
- 
-All gifts to 1894 Day, as with all gifts to our Annual Fund, will be dedicated directly to library resources, including all of the books, DVDs, technology, learning resources, and programs for children, teens, and adults. The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town.
- 
-Our fiscal year ends on June 30th, and any donation amount is appreciated. All donations are tax-deductible.
- 
+Thank you to the over 1,200 donors who supported our Annual Fund during the last fiscal year. With your help, we surpassed our fundraising goal and raised over $700,000. We truly appreciate your generosity.
+
+All gifts to the Annual Fund are dedicated directly to library resources, including all of the books, DVDs, technology, learning resources, and programs for children, teens, and adults. The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town.
+
+Our new fiscal year runs from July 1, 2019 to June 30, 2020 and any donation amount is appreciated. All donations are also tax-deductible.
+
 Thank you for supporting Darien Library!
  
 

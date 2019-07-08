@@ -4,11 +4,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
-### [Full-Time Systems Administrator](/jobs-systems-administrator "Full-Time Systems Administrator")
-Darien Library (CT) seeks a curious and innovative technology professional as a Systems Administrator. The position’s primary responsibilities are maintaining and updating the Library’s storage, network, and server infrastructure.
-<br />
-<br />
-
 ### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users. 
 <br />
