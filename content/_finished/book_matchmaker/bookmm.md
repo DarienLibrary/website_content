@@ -13,6 +13,8 @@ Happy reading!
 
 #### What if I'm already signed up? 
 All of our current members will continue to receive their book recommendations per their normal schedule. Please do not hesitate to contact us with questions at <a href="mailto:BookMatchmaker@darienlibrary.org">BookMatchmaker@darienlibrary.org</a>. 
+<br />
+<br />
 
 </div>
 <div class="col-md-3">

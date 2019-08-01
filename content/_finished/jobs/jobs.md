@@ -4,6 +4,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
+### [Full-Time Children’s Collection Librarian](/jobs-childrens-collection "Full-Time Children’s Collection Librarian")
+Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join a dedicated Children’s Department as a full-time Children’s Librarian. You will serve as the Children’s Collection Development Librarian, selecting and identifying youth materials in print and non-print formats, developing and managing multiple collection budgets, and promoting new and diverse titles to patrons.
+<br />
+<br />
+
 ### [Part-Time Shelver](/jobs-shelver "Part-Time Shelver")
 The Materials Management Department at Darien Library has a part-time position open on our shelving team. We are seeking an energetic and organized individual who will work efficiently to keep the Library collections in order. 
 <br />
