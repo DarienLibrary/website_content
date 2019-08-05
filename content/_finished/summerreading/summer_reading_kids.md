@@ -223,7 +223,10 @@ Courtyard
 Participants in Mars to Darien (K to 6) are invited to our Finale Party in the Library courtyard. There will be music, raffles, food, games, and photo-ops. The winner of the Mars to Darien Challenge will also be announced. 
 <br />
 <br />
-Registraten opens Friday, August 2nd. Space is limited.
+<a href="https://dar.to/2Yi2bGa" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#632CA3;">Register for Finale Party</a>
+<br />
+<br />
+
 </div>
 </div>
 </div>

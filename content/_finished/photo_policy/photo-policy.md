@@ -1,6 +1,6 @@
 [Print this policy](/uploads/pdfs/policies/photography_policy.pdf "Print this policy")<br />
 
-We take photos and videos of our events and programs to share with the community. Videos are uploaded to [DarienLibrary.TV](http://darienlibrary.tv "DarienLibrary.TV") as soon as we process them. Photos are uploaded to our website, [Facebook](https://www.facebook.com/DarienLibrary/ "Facebook"), [Twitter](http://twitter.com/darienlibrary "Twitter"), or [Flickr](https://www.flickr.com/photos/darienlibrary/ "Flickr") accounts. We do not post photos of minors without the explicit permission of their guardian.
+We take photos and videos of our events and programs to share with the community. Videos are uploaded to [DarienLibrary.TV](http://darienlibrary.tv "DarienLibrary.TV") as soon as we process them. Photos are uploaded to our website, [Facebook](https://www.facebook.com/DarienLibrary/ "Facebook"), [Twitter](http://twitter.com/darienlibrary "Twitter"), or [Instagram](https://www.instagram.com/darienlibrary/ "Instagram") accounts. We do not post photos of minors without the explicit permission of their guardian.
 <br />
 <br />
 
