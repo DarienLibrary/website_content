@@ -29,7 +29,7 @@ Business Book Group is sponsored by the Darien Rowayton Bank.
 <br />
 
 ### Career Guidance Databases
-Databases are not just for finding articles! We offer access to premium [career and job resources](/research/category/jobs-and-careers "Career and job resources") to help you succeed in your job hunt or career change. Use the databases to look up businesses, take quizzes to discover what career fits you best, find resume help, receive interview coaching, or train yourself on new skills using Lynda.com.
+Databases are not just for finding articles! We offer access to premium [career and job resources](/research/category/jobs-and-careers "Career and job resources") to help you succeed in your job hunt or career change. Use the databases to look up businesses, take quizzes to discover what career fits you best, find resume help, or receive interview coaching.
 <br />
 <br />
 

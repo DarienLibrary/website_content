@@ -12,7 +12,6 @@ Your annual Non-Resident Membership at the $300 level gives you and your family 
 * Home access to residents and Friends only [databases](/research "databases")
 * Reserve the Bloomberg Terminal, study rooms, and [Digital Media Lab](/dml "Digital Media Lab")
 * Three [Book-a-Librarian](/book-librarian "Book-a-Librarian") help appointments per year 
-* Learn from home with [Lynda.com](/link-needed "Lynda.com")
 * Place holds on DVDs
 
 Your Friends of the Library donation is tax deductible since the Library is a 501(c)(3) non-profit.

@@ -37,7 +37,9 @@ Objects printed with our 3D printers may not be suitable for all applications, s
 
 ### 3D Objects
 
-3D objects can be downloaded from a site like [Thingiverse](http://thingiverse.com "Thingiverse"). While staff members are unable to show you how to create designs, you can teach yourself using our access to [Lynda.com](https://www.lynda.com/portal/sip?org=darienlibrary.org "Lynda.com").
+3D objects can be downloaded from a site like [Thingiverse](http://thingiverse.com "Thingiverse").
+<br />
+<br />
 
 #### Design Your Own 3D Object
 
