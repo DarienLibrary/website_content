@@ -40,7 +40,7 @@ Your privacy is very important to us. We take every measure to protect your pers
 <br />
 
 ### Library Internet Use Policy
-The internet provides access to a wealth of information to materials which may be of a controversial or mature nature, as well as to material that is not accurate, complete, or current. Our policy covers filtering, copyright issues, legalality, and patron guidelines on internet usage.
+The Library is committed to ensuring the best possible access to computers and the internet for patrons who seek information and technology, and realizes that a lack of access may be socially and economically damaging to individuals. 
 
 [View the Library Internet Use Policy](/internet-use "Library Internet Use Policy")
 <br />
