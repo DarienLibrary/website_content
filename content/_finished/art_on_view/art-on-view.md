@@ -2,16 +2,16 @@
  <div class="col-md-8">
 
 
-### Current Exhibit: Pic Darien - The Darien Arts Center's 2019 Smartphone Photo Contest 
+### Current Exhibit: Bruce Horan 
 
-**Wednesday, June 19th through Tuesday, August 6th**
+**Tuesday, August 13th through Monday, September 30th**
 <br />
 <br />
 
 ### About the Artist
-Pic Darien received over 530 entries from places as far away as Scotland and Bangladesh. Contestants entered smartphone photographs into the DAC's 4th annual contest in six themed prize categories: People and Pets; Landscape, Seascape, Nature; Travel; Food and Drink; Abstract; and Love, Anguish and Triumph. The contest was open to all. There were no age restrictions or requirements for residency. Award-winning photographer, filmmaker and TV producer Jeffrey Wyant judged Pic Darien, a fundraiser for the DAC.    
- 
-<br />
+Bruce Horan is a painter and printmaker and is an alum of Darien High School, University of Connecticut, and Pratt Institute in Brooklyn. Since receiving his MFA in printmaking from Pratt Institute, he has been working on a series of paintings and prints that capture his impressions and experiences of the complex and busy world around us. 
+
+Bruce's paintings blur the distinctions between abstraction and impressionism by incorporating gestural expression and loose figurative representation. His figures and shapes represent a journey through our busy surroundings where we redefine and interpret the people we meet, the streets we walk through, the buildings that encroach upon us, and the objects that we encounter along our path. The colors and energies of our environments combine to create a new visual representation of our world.   
 <br />
 
 ### Apply to be an Artist on View 
@@ -26,7 +26,9 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/DAC_Winner.jpg" alt="DAC Winning Artwork" />
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/strangers_bruce_horan.jpg" alt="Bruce Horan's Strangers" />
+<br />
+"Strangers" by Bruce Horan
 
 </div>
 </div>
