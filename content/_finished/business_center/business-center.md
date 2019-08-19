@@ -71,7 +71,7 @@ WiFi
  
 
 <div class="row margin-bottom-30">
-  <div class="col-md-3">
+  <div class="col-md-4">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/banner_printer.jpg" alt="Banner Printer" />
       Banner Printing
 <div class="margin-bottom-10"></div>    
@@ -79,25 +79,17 @@ WiFi
 
 <a href="/submit-banner-print" alt="Submit your print order">Submit your print order</a>
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/spiral_binders_close_up.jpg" alt="Coil Binding" />
       Report Binding
 <div class="margin-bottom-10"></div>    
       Choose from a variety of spiral coil colors, sizes, and covers for your report binding needs.
   </div>
-  <div class="col-md-3">
+  <div class="col-md-4">
       <img class="img-responsive margin-bottom-10" src="/uploads/equipment/lamination_close_up.jpg" alt="Laminator" />
       Laminating
 <div class="margin-bottom-10"></div>    
       The laminator works on flat projects up to 11 x 17 inches.
-  </div>
-  <div class="col-md-3">
-      <img class="img-responsive margin-bottom-10" src="/uploads/equipment/photo_pile.jpg" alt="Photo Printer" />
-      Photo Printing
-<div class="margin-bottom-10"></div>    
-      Print your photos on glossy paper in sizes ranging from 4 x 6 in. to 13 x 19 in.
-
-<a href="/submit-photo-print" alt="Submit your print order">Submit your print order</a>
   </div>
 </div>
 
