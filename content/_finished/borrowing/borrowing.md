@@ -35,7 +35,6 @@ If no one else has requested the material, we are happy to renew most materials 
 
 Connecticut residents may use their hometown library card at any public library in the state. As a public library most of our programs, services and collections are available to all, but we reserve some privileges for Darien Residents, people who work in town full-time and Friends of the Library. Non-Residents are invited to become a Friend of the Library at the $300 level in order to:
 
-- Place holds on DVDs
 - Register for technology classes and children’s storytimes
 - Access e-Books, dowloadable audiobooks, magazines and research databases
 - Borrow technology equipment
