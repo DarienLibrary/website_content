@@ -16,8 +16,8 @@ Darien Library (CT) is seeking a friendly, energetic, dedicated self-starter wit
 * Excellent customer service and instructional skills
 * Demonstrated ability to communicate complex concepts in simple, easy-to-understand terms.
 * Clear and direct oral and written communication skills
-* Familiarity with current information technology, including a wide variety of devices, image and document editing
-* Familiarity with a foreign language is preferred
+* Knowledge of Microsoft Office Suite, especialy Outlook, Word, and Excel
+* Bilingual candidate, or those with functional knowledge of another language, is desirable
 <br />
 
 ### Hours
@@ -26,9 +26,15 @@ This is a part time position with no benefits that will include weekdays, evenin
 <br />
 
 ### Salary 
-$20/hour
+$20 to $25 an hour, and is commensurate with experience 
 <br />
 <br />
 
 ### Contact Information
-Email a cover letter and copy of your resume to Sally Ijams, Head of Knowledge and Learning Services, [sijams@darienlibrary.org](mailto:sijams@darienlibrary.org "Sally Ijams").
+Email a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Services, [bnetherton@darienlibrary.org](mailto:bnetherton@darienlibrary.org "Brittany Netherton").
+
+<div class="row margin-bottom-20">
+<div class="col-md-3">
+<a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
+</div>
+</div>

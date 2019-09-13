@@ -96,19 +96,18 @@ Earthplace consists of a 62 acre wildlife sanctuary with trails, a natural histo
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2XAguld"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/Jackie_Robinson_Story_still.jpg" alt="The Jackie Robinson Story" /></a>
-<em>Image still from the film, "The Jackie Robinson Story."</em><br />
+<a href="https://dar.to/33K4CjQ"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/trumbull_john_niagara_falls.jpg" alt="Panoramas: The Big Picture" /></a>
 <br />
 </div>
 <div class="col-md-8">
 
-#### In the Dugout with Jackie Robinson: An Intimate Portrait of a Baseball Legend
-Ends September 15th<br />
-Museum of the City of New York
+#### Panoramas: The Big Picture
+Ends December 8th<br />
+New-York Historical Society
 
-To celebrate the 100th anniversary of Jackie Robinson's birth, the Museum of the City of New York, hosts a [special exhibit](https://dar.to/2XAguld "special exhibit") in his honor. You are invited to come view stunning photos, memorabilia, and rare footage of the Robinson family. What did the media have to say of his groundbreaking entrance to American baseball? Magazines will be on display that give a glimpse into another time, another place. <br />
+Explore the impact that large [panoramas](https://dar.to/33K4CjQ "Panoramas") had on society from the 17th to 20th century. Panoramas influenced how people felt about nationalism, imperial expansion, and were used within mass entertainment. <br />
 
-[Reserve a pass to see the exhibit](https://dar.to/2K7lD11 "Reserve a pass to the Museum of the City of New York")<br />
+[Reserve a pass to see the exhibit](https://dar.to/2j48LMt "Reserve a pass to the New-York Historical Society")<br />
 
 </div>
 </div>
