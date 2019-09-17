@@ -4,22 +4,20 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
-### [Full-Time Children’s Collection Librarian](/jobs-childrens-collection "Full-Time Children’s Collection Librarian")
-Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join a dedicated Children’s Department as a full-time Children’s Librarian. You will serve as the Children’s Collection Development Librarian, selecting and identifying youth materials in print and non-print formats, developing and managing multiple collection budgets, and promoting new and diverse titles to patrons.
+### [Part-Time Program Specialist](/jobs-pt-programs "Part-Time Program Specialist")
+Darien Library (CT) seeks a dynamic, community-minded Program Specialist. The ideal candidate is highly collaborative, creative, and flexible while dedicated to providing extreme customer service to patrons. This opportunity is perfect for a MLIS student or person looking to rejoin the workforce.
 <br />
 <br />
 
-### [Part-Time Shelver](/jobs-shelver "Part-Time Shelver")
-The Materials Management Department at Darien Library has a part-time position open on our shelving team. We are seeking an energetic and organized individual who will work efficiently to keep the Library collections in order. 
+### [Part-Time Publicity Specialist](/jobs-publicity-specialist "Part-Time Publicity Specialist")
+Darien Library (CT) seeks a creative, detail-focused Publicity Specialist. The ideal candidate is highly collaborative, flexible, and a social media wiz dedicated to connecting a diverse audience to the Library’s mission, services, and collections.
 <br />
 <br />
 
-
-### [Part-Time Technology Help Desk Assistant](/jobs-help-desk "Part-Time Technology Help Desk Assistant")
-Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and helpdesk support to library users. 
+### [Part-Time Reference Assistant](/jobs-pt-kls "Part-Time Reference Assistant")
+Darien Library (CT) is seeking a friendly, energetic, dedicated self-starter with excellent reference and technology skills to provide extraordinary customer service and technology support to library users.
 <br />
 <br />
-
 
 <div class="row margin-bottom-20">
 <div class="col-md-6">

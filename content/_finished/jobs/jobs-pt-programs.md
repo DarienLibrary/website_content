@@ -1,6 +1,6 @@
 Darien Library (CT) seeks a dynamic, community-minded Program Specialist. The ideal candidate is highly collaborative, creative, and flexible while dedicated to providing extreme customer service to patrons. This opportunity is perfect for a MLIS student or person looking to rejoin the workforce.
  
-Reporting to the Head of Adult Programming and Community Engagement, the Specialist supports and implements innovative public programming for adults. The Adult Programming and Community Engagement Department works to position Darien Library as a vibrant hub of intellectual and creative activity, with a wide range of lectures, performances, hands-on workshops, town-wide events, and out-of-the-box library programs for adults.
+Reporting to the Head of Adult Programming and Community Engagement, the Specialist supports and implements innovative public programming for adults. The Adult Programming and Community Engagement Department works to position Darien Library as a vibrant hub of intellectual and creative activity, with a wide range of lectures, performances, hands-on workshops, town-wide events, and out-of-the-box library programs for adults. The candidate has a flexible schedule and is available to primarily work evenings and weekends.
 <br />
 <br />
 
@@ -14,25 +14,25 @@ Reporting to the Head of Adult Programming and Community Engagement, the Special
 <br />
 
 ### Qualifications
-* Bachelor’s Degree, preferred
-* Event planning experience required; experience coordinating and developing programs for adults in libraries, museums, art institutions preferred
+* Bachelor’s Degree preferred
+* Event planning experience preferred
 * Skilled at working with diverse audiences
 * Engaged in and inspired by current events, literature, and the arts
 * Excellent written and oral communication skills. Comfortable with public speaking.
-* Proficiency with technology including Outlook, Microsoft Office Suite, social media platforms. Comfortable with new technology.
+* Proficiency with technology including Outlook, Microsoft Office Suite, and social media platforms. Comfortable with new technology.
 * Ability to work evenings and weekends
-* Bilingual applicants preferred
+* Bilingual candidate, or those with functional knowledge of another language, is desirable
 <br />
 
 ### Hours
-This is a part-time position with no benefits that will primarily work evenings and weekends on a flexible schedule. Candidate must be prepared to work at least 10 hours per week, but will not exceed 29 hours per week. 
+This is a part-time position with no benefits that will primarily work evenings and weekends on a flexible schedule. Candidate must be prepared to work at least 10 hours per week, but will not exceed 20 hours per week. 
 <br />
 <br />
 
 ### Salary
-$15/hour; professional development opportunities available for motivated candidates.
+$15/hour
 <br />
 <br />
 
 ### To Apply
-To apply for this position, please email a cover letter and copy of your resume to Mallory Arents, Head of Adult Programming and Community Engagement, [marents@darienlibrary.org](mailto:marents@darienlibrary.org "Email Mallory Arents").
+To apply for this position, please email a cover letter and copy of your resume to Elisabeth Marrocolla, Associate Director of Public Services, [eMarrocolla@darienlibrary.org](mailto:marents@darienlibrary.org "Email Elisabeth Marrocolla").
