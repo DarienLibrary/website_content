@@ -23,12 +23,8 @@ Start your pre-reader early on the path to litearcy with our [Early Literacy iPa
 For children ages 5 to 9-years old, borrow an [Elementary iPad](/catalog/work/165370 "Elementary iPad"). The apps are organized into folders similar to our non-fiction section. App topics: coding, creationg, facts, fun, interactive books, math, reading, and science. [View the current selection of apps](/elementary-iPads "View the current selection of apps")
 <br />
 <br />
-
-### Tween Tabs
-Keep your 8 to 12-year-olds busy with a [Tween Tab](/catalog/work/51230 "Tween Tab") and sneak in some learning while they play. These iPads feature games related to history, poetry, coding, <abbr title="Science Technology Engineering Mathematics">STEM</abbr> education, literature, languages, sports, eBooks, and more. [View the current selection of apps](/tween-tabs "View the current selection of apps")
-<br />
-<br />
 </div>
+
 <div class="col-md-6">
 
 <!-- ### 100 Before One
