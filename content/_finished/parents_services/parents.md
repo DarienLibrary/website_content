@@ -14,6 +14,11 @@ Storytimes are for babies, toddlers and children up to age 5. The Children's Lib
 <br />
 <br />
 
+### Early Literacy
+You can still support early literacy when you’re not at storytime in the library! Just make sure to Talk, Sing, Read, Write, and Play with your child at home and on the go. For more information including tips, book recommendations, and songs check out our [Early Literacy](/early-literacy "Early Literacy") page.
+<br />
+<br />
+
 ### Early Literacy iPads
 Start your pre-reader early on the path to litearcy with our [Early Literacy iPads](/catalog/work/94235 "Early Literacy iPads"). Each iPad comes pre-loaded with apps to help build early literacy skills. The iPads are for children 5 and under. [View the current selection of apps](/early-literacy-ipads "View the current selection of apps")
 <br />

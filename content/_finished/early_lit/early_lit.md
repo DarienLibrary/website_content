@@ -22,16 +22,16 @@
 <div class="jumbotron" style="background-color:#fff; padding:5px 0 5px 0;">
 <div class="row">
 <div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_read.jpg" />
+<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_read.png" />
 <br />
 </div>
 
 
 <div class="col-md-8">
 
-<p>Reading together is the most important thing you can do to prepare your child for eventual reading success. It’s never too early to start reading together, and the more fun your child has reading together the more likely they are to be an independent reader as they get older!</p>
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Reading together is the most important thing you can do to prepare your child for eventual reading success. It’s never too early to start reading together, and the more fun your child has reading together the more likely they are to be an independent reader as they get older!</p>
 
-<p style="font-size:1.25em !important;">Try reading a variety of books, and remember it's okay to keep reading that old favorite over and over.</p>
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Try reading a variety of books, and remember it's okay to keep reading that old favorite over and over.</p>
 
 <button class="btn" type="button" data-toggle="collapse" data-target="#collapseRead" aria-expanded="false" aria-controls="collapseExample" style="border: 2px solid #F88CA7; text-decoration: none; color: #fc6488; font-weight:900; background-color:#fff;">
 Read More
@@ -47,7 +47,7 @@ Read More
 <h3 style="color:#F96F8F; font-weight:900;">Song/Rhyme</h3> 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/359874338?title=0&byline=0&portrait=0&texttrack=en-US" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
-Miss Samantha shares two different versions of Patty Cake.
+Miss Baily shares two different versions of The Rain is Falling Down.
 <br />
 <br />
 
@@ -82,16 +82,16 @@ Miss Samantha shares two different versions of Patty Cake.
 <div class="jumbotron" style="background-color:#fff; padding:0 0 0 0;">
 <div class="row">
 <div class="col-md-4 col-md-push-8">
-<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_sing.jpg" />
+<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_sing.png" />
 <br />
 </div>
 
 
 <div class="col-md-8 col-md-pull-4">
 
-<p style="font-size:1.25em !important;">Lalalalala! Not only does singing make you feel good, it also helps your child better understand words. Breaking down the syllables of the word make it easier for a young child to learn and say the word.  Let’s see this in practice with the word banana:</p>
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Lalalalala! Not only does singing make you feel good, it also helps your child better understand words. Breaking down the syllables of the word make it easier for a young child to learn and say the word.  Let’s see this in practice with the word banana:</p>
 
-<p style="font-size:1.25em !important;">
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">
 
 _I **say** banana and then I **sing** banana_.
 
@@ -117,8 +117,6 @@ Sing More
 Miss Anna shares two different versions of Wind the Bobbin.
 <br />
 <br />
-
-* Also try out I Went to Visit a Farm
 
 </div>
 <div class="col-md-6">
@@ -146,16 +144,16 @@ Miss Anna shares two different versions of Wind the Bobbin.
 <div class="jumbotron" style="background-color:#fff; padding:5px 0 5px 0;">
 <div class="row">
 <div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_talk.jpg" />
+<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_talk.png" />
 <br />
 </div>
 
 
 <div class="col-md-8">
 
-<p style="font-size:1.25em !important;">Talking with children helps them learn oral language, one of the most critical early literacy skills. Although all parents talk to their children, directional talk (Come here, wash your hands, put on your shoes) doesn't help build vocabulary - conversations do!</p>
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Talking with children helps them learn oral language, one of the most critical early literacy skills. Although all parents talk to their children, directional talk (Come here, wash your hands, put on your shoes) doesn't help build vocabulary - conversations do!</p>
 
-<p style="font-size:1.25em !important;">Conversations help children express thoughts, learn what words mean, and gain new information about the world. Any place is a good place to talk to your child!</p>
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Conversations help children express thoughts, learn what words mean, and gain new information about the world. Any place is a good place to talk to your child!</p>
 
 <button class="btn" type="button" data-toggle="collapse" data-target="#collapseTalk" aria-expanded="false" aria-controls="collapseExample" style="border: 2px solid #0079c6; text-decoration: none; color: #0079c6; font-weight:900; background-color:#fff;">
 Talk More
@@ -171,7 +169,7 @@ Talk More
 <h3 style="color:#0079c6; font-weight:900;">Song/Rhyme</h3> 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/356270783?title=0&byline=0&portrait=0&texttrack=en-US" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
-Miss ? shares two different versions of ?.
+Miss Samantha shares two different versions of Patty Cake.
 <br />
 <br />
 
@@ -209,16 +207,16 @@ Miss ? shares two different versions of ?.
 <div class="jumbotron" style="background-color:#fff; padding:0 0 0 0;">
 <div class="row">
 <div class="col-md-4 col-md-push-8">
-<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_write.jpg" />
+<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_write.png" />
 <br />
 </div>
 
 
 <div class="col-md-8 col-md-pull-4">
 
-<p style="font-size:1.25em !important;">Writing is an early literacy skill that ties in closely with reading. When children are given a crayon or pencil, they may scribble or draw a picture, which is the first step to telling a story. Just by writing, children are developing print awareness and learning the idea that pictures or words contain meaning.</p> 
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Writing is an early literacy skill that ties in closely with reading. When children are given a crayon or pencil, they may scribble or draw a picture, which is the first step to telling a story. Just by writing, children are developing print awareness and learning the idea that pictures or words contain meaning.</p> 
 
-<p style="font-size:1.25em !important;">Encourage narrative skills in your child by asking  “What's happening in this picture?” when they draw something.</p>
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Encourage narrative skills in your child by asking  “What's happening in this picture?” when they draw something.</p>
 
 <button class="btn pull-right" type="button" data-toggle="collapse" data-target="#collapseWrite" aria-expanded="false" aria-controls="collapseExample" style="border: 2px solid #a22ba9; text-decoration: none; color: #a22ba9; font-weight:900; background-color:#fff;">
 Write More
@@ -265,13 +263,13 @@ Miss Samantha shares two different versions of Patty Cake.
 <div class="jumbotron" style="background-color:#fff; padding:5px 0 5px 0;">
 <div class="row">
 <div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_play.jpg" />
+<img class="img-responsive center-block" src="/uploads/departments/youth/early_lit_blob_play.png" />
 <br />
 </div>
 <div class="col-md-8">
 
-<p style="font-size:1.25em !important;">Play is a fundamental building block of literacy, and playing with children is a great chance to communicate. Every opportunity for play is also an opportunity to use new words, and increase a child’s vocabulary.</p> 
-<p style="font-size:1.25em !important;">
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">Play is a fundamental building block of literacy, and playing with children is a great chance to communicate. Every opportunity for play is also an opportunity to use new words, and increase a child’s vocabulary.</p> 
+<p style="font-size:1.25em; font-weight:400; font-family:Helvetica Neue,Helvetica,Arial,sans-serif !important;">
 
 _This tyrannosaurus rex is hungry! What should it eat? The triceratops? Oh no, run away triceratops!_ 
 
@@ -295,8 +293,6 @@ Miss Catherine shares two different ways to play Popcorn Kernels.
 <br />
 <br />
 
-* Also try out Popcorn Kernels
-
 </div>
 <div class="col-md-6">
 
@@ -319,7 +315,7 @@ Miss Catherine shares two different ways to play Popcorn Kernels.
 
 <!--
 <div>
-<div class="jumbotron" style="background-image:url(/uploads/departments/youth/pink_blob_reading.jpg); background-repeat:no-repeat; background-color:#fff;">
+<div class="jumbotron" style="background-image:url(/uploads/departments/youth/pink_blob_reading.png); background-repeat:no-repeat; background-color:#fff;">
 <div class="row">
 <div class="col-md-3">
 <br />

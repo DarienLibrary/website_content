@@ -23,13 +23,13 @@
 <div class="col-md-4">
 <div class="text-center">
 
-**1908-1915**
+**1908-1914**
 
 <img class="img-responsive margin-bottom-10" src="/uploads/library_building/exterior/878_post_road_library_1908-1915.jpg" alt="878 Post Road" />
-878 Post Road
+878 Post Road (now 903)
 <div class="margin-bottom-10"></div>    
 
-(<a href="http://bit.ly/1smBMCo" target="_blank" alt="878 Post Road">what's there now</a>)
+(<a href="https://dar.to/32TSkUH" target="_blank" alt="903 Post Road">what's there now</a>)
 <br />
 <br />
 
@@ -38,13 +38,13 @@
 <div class="col-md-4">
 <div class="text-center">
 
-**1915-1931**
+**1914-1931**
 
 <img class="img-responsive margin-bottom-10" src="/uploads/library_building/exterior/236_post_road_holly_bell_house_1915-1931.jpg" alt="Holly Bell Homestead at 236 Post Road" />
 236 Post Road 
 <div class="margin-bottom-10"></div>    
 
-(<a href="http://bit.ly/1Tlzzjv" target="_blank" alt="236 Post Road">what's there now</a>)
+(<a href="https://dar.to/2mZCsAZ" target="_blank" alt="236 Post Road">what's there now</a>)
 <br />
 <br />
 
