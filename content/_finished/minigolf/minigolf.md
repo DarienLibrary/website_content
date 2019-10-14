@@ -1,16 +1,16 @@
-## Saturday, November 17th from 9 a.m. to 5 p.m.
-## Sunday, November 18th from 1 to 5 p.m.
+## Saturday, November 16th from 9 a.m. to 5 p.m.
 
 **Cost: $5 per player** &mdash; each player will also receive a free hot dog
 
-Miniature golf is coming to the Library! We are happy to announce the 5th annual Darien Library Mini Golf Event. This year we have Mini Golf on Saturday, November 17th AND Sunday, November 18th!
+Miniature golf is coming to the Library! We are happy to announce the 6th annual Darien Library Mini Golf Event. 
 
-Players of all ages will putt their way through the Library on an 18-hole miniature golf course set up throughout the building. You can also enjoy face painting (11 a.m. to 3 p.m. on Saturday, 1 to 5 p.m. on Sunday) and other activities.
+Players of all ages will putt their way through the Library on an 18-hole miniature golf course set up throughout the building. You can also enjoy face painting (X a.m. to Y p.m.) and other activities.
 
-This event is organized by the Darien Board of Trustees Fundraising Committee: Alex Eising (Mini Golf Chair), Tori Barnett (Mini Golf Co-Chair), Jay Bennett, Michael Cippoletti, Allegra Erickson, Tammy Sload, and Susan Vogel.
+This event is organized by the Darien Board of Trustees Fundraising Committee: Alex Eising (Chair), Tori Barnett (Mini Golf Co-Chair), Jay Bennett, Michael Cippoletti, Allegra Erickson, Tammy Sload, Susan Vogel, and Elena Whidden.  
 
 All proceeds from Darien Library Mini Golf will go directly to the purchase of books, movies, and technology as well as the support of countless programming opportunities throughout the year. 
-Holes are being sponsored by generous businesses and individuals.
+
+Holes are sponsored by generous businesses and individuals.
 
 <div class="margin-bottom-50"></div>
 
@@ -19,14 +19,22 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 
 <div class="row margin-bottom-30">
-<div class="col-xs-6 col-sm-6 col-md-6">
+<div class="col-xs-6 col-sm-6 col-md-4">
 
 <a href="https://dar.to/2i4LeuK"><img class="img-responsive center-block" alt="Baywater Properties" title="Baywater Properties" src="/uploads/darien_community/minigolf/baywater.jpg" /></a>
 <br />
 <br />
 
 </div>
-<div class="col-xs-6 col-sm-6 col-md-6">
+<div class="col-xs-6 col-sm-6 col-md-4">
+<img class="img-responsive center-block" src="/uploads/darien_community/minigolf/jp_morgan.jpg" alt="J.P. Morgan" title="J.P. Morgan"/>
+
+<div class="margin-bottom-10"></div>    
+<br />
+<br />
+
+</div>
+<div class="col-xs-6 col-sm-6 col-md-4">
 <img class="img-responsive center-block" src="/uploads/darien_community/minigolf/wyper_family.png" alt="The Wyper Family" title="The Wyper Family"/>
 
 <div class="margin-bottom-10"></div>    
@@ -67,7 +75,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<a href="https://dar.to/2i5bwgi"><img class="img-responsive center-block" alt="Palmer's Market" title="Palmer's Market" src="/uploads/darien_community/minigolf/palmers_web.jpg" /></a>
+<a href="https://dar.to/33Bl19D"><img class="img-responsive center-block" alt="NOLA" title="NOLA" src="/uploads/darien_community/minigolf/nola.jpg" /></a>
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -81,7 +89,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<img class="img-responsive center-block" alt="The Whidden Family" title="The Whidden Family" src="/uploads/darien_community/minigolf/whidden_family.jpg" />
+<img class="img-responsive center-block" alt="The Barnet Family" title="The Barnet Family" src="/uploads/darien_community/minigolf/barnett_family.jpg" />
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -92,7 +100,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<a href="https://dar.to/2i5jxBK"><img class="img-responsive center-block" alt="Carta, McAlister & Moore, LLC" title="Carta, McAlister & Moore, LLC" src="/uploads/darien_community/minigolf/cmm_llc.jpg" /></a>
+<img class="img-responsive center-block" alt="The Blair Family" title="The Blair Family" src="/uploads/darien_community/minigolf/the_blair_family.jpg" />
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -128,7 +136,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<a href="https://dar.to/2i6iEsD"><img class="img-responsive center-block" alt="Crescendo Music" title="Crescendo Music" src="/uploads/darien_community/minigolf/crescendo.jpg" /></a>
+<a href="https://dar.to/2i5jxBK"><img class="img-responsive center-block" alt="Carta, McAlister & Moore, LLC" title="Carta, McAlister & Moore, LLC" src="/uploads/darien_community/minigolf/cmm_llc.jpg" /></a>
 
 
 
@@ -141,7 +149,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<a href="https://dar.to/2i46vo2"><img class="img-responsive center-block" alt="Remedy Partners" title="Remedy Partners" src="/uploads/darien_community/minigolf/remedy.jpg" /></a>
+<a href="https://dar.to/2i46vo2"><img class="img-responsive center-block" alt="Encon Heating & AC" title="Encon Heating & AC" src="/uploads/darien_community/minigolf/encon.jpg" /></a>
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -177,19 +185,7 @@ Holes are being sponsored by generous businesses and individuals.
 <div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
-<a href="https://dar.to/2ElcEHa"><img class="img-responsive center-block" alt="Houlihan Lawrence" title="Houlihan Lawrence" src="/uploads/darien_community/minigolf/houlihan_lawrence_logo.jpg" /></a>
-
-<div class="margin-bottom-10"></div>    
-<br />
-<br />
-
-</div>
-</div>
-</div>
-<div class="col-xs-6 col-sm-6 col-md-12">
-<div class="text-center">
-
-<img class="img-responsive center-block" alt="The Barnett Family" title="The Barnett Family" src="/uploads/darien_community/minigolf/barnett_family.jpg" />
+<a href="https://dar.to/33ttv2m"><img class="img-responsive center-block" alt="A.P. Construction" title="A.P. Construction" src="/uploads/darien_community/minigolf/ap_construction.jpg" /></a>
 
 <div class="margin-bottom-10"></div>    
 <br />
@@ -241,7 +237,7 @@ Holes are being sponsored by generous businesses and individuals.
 </div>
 
 <div class="row margin-bottom-30">
-<div class="col-xs-6 col-sm-6 col-md-6">
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i7cXuQ"><img class="img-responsive center-block" alt="Darien Toy Box" title="Darien Toy Box" src="/uploads/darien_community/minigolf/darien_toy_box.jpg" /></a>
@@ -252,8 +248,18 @@ Holes are being sponsored by generous businesses and individuals.
 
 </div>
 </div>
+<div class="col-xs-6 col-sm-6 col-md-4">
+<div class="text-center">
 
-<div class="col-xs-6 col-sm-6 col-md-6">
+<a href="https://dar.to/33znHVd"><img class="img-responsive center-block" alt="Floor Covering Warehouse" title="Floor Covering Warehouse" src="/uploads/darien_community/minigolf/floor_covering_warehouse.jpg" /></a>
+
+<div class="margin-bottom-10"></div>    
+<br />
+<br />
+
+</div>
+</div>
+<div class="col-xs-6 col-sm-6 col-md-4">
 <div class="text-center">
 
 <a href="https://dar.to/2i5bLrI"><img class="img-responsive center-block" alt="Kumon" title="Kumon of Darien" src="/uploads/darien_community/minigolf/kumon.jpg" /></a>
