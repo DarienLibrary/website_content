@@ -4,7 +4,7 @@
 
 Miniature golf is coming to the Library! We are happy to announce the 6th annual Darien Library Mini Golf Event. 
 
-Players of all ages will putt their way through the Library on an 18-hole miniature golf course set up throughout the building. You can also enjoy face painting (X a.m. to Y p.m.) and other activities.
+Players of all ages will putt their way through the Library on an 18-hole miniature golf course set up throughout the building. You can also enjoy face painting and other activities.
 
 This event is organized by the Darien Board of Trustees Fundraising Committee: Alex Eising (Chair), Tori Barnett (Mini Golf Co-Chair), Jay Bennett, Michael Cippoletti, Allegra Erickson, Tammy Sload, Susan Vogel, and Elena Whidden.  
 
