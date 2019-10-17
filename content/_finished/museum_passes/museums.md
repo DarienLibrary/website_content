@@ -148,9 +148,6 @@ Visit American military ships and explore maritime history at Intrepid. You'll v
 <div class="col-md-4">
 
 ### Museum of Modern Art
-_Due to renovations MoMA will close to the general public after June 15 and plans to reopen on October 21, 2019._
-<br />
-<br />
 MoMA's renowned collection of modern and contemporary art includes Vincent van Gogh's _The Starry Night_ and Andy Warhol's _Gold Marilyn Monroe_, along with works by Jackson Pollock, Jasper Johns, and many other great artists of our time. <br /> 
 [Select date to visit MoMA](https://dar.to/2xvvu7b "Visit MoMA")<br />
 [View the latest exhibits](https://dar.to/2j4fGoI "View MoMA's exhibits")<br />

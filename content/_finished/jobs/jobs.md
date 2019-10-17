@@ -4,21 +4,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 <br />
 <br />
 
-### [Part-Time Program Specialist](/jobs-pt-programs "Part-Time Program Specialist")
-Darien Library (CT) seeks a dynamic, community-minded Program Specialist. The ideal candidate is highly collaborative, creative, and flexible while dedicated to providing extreme customer service to patrons. This opportunity is perfect for a MLIS student or person looking to rejoin the workforce.
-<br />
-<br />
-
-### [Part-Time Publicity Specialist](/jobs-publicity-specialist "Part-Time Publicity Specialist")
-Darien Library (CT) seeks a creative, detail-focused Publicity Specialist. The ideal candidate is highly collaborative, flexible, and a social media wiz dedicated to connecting a diverse audience to the Library’s mission, services, and collections.
-<br />
-<br />
-
-### [Part-Time Reference Assistant](/jobs-pt-kls "Part-Time Reference Assistant")
-Darien Library (CT) is seeking a friendly, energetic, dedicated self-starter with excellent reference and technology skills to provide extraordinary customer service and technology support to library users.
-<br />
-<br />
-
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 <a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
