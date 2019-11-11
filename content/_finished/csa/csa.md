@@ -7,7 +7,7 @@ You may have heard of a vegetable box or farm share before. CSA stands for Commu
 <br />
 
 ### Pickup at Darien Library
-In 2019, Darien Library will once again be the pickup location for [Stoneledge Farm's CSA](https://dar.to/2EWPYJt "Stoneledge Farm's CSA"). The farm share pickup will be every Wednesday evening from 4:30 to 7:30 p.m. running from June 5th until November 13th (24 weeks).
+In 2020, Darien Library will once again be the pickup location for [Stoneledge Farm's CSA](https://dar.to/2EWPYJt "Stoneledge Farm's CSA"). The farm share pickup will be every Wednesday evening from 4:30 to 7:30 p.m. running from June 10th until November 18th (23 weeks).
 
 To take part, sign up for a vegetable share. Then you can add a fruit, mushroom, and/or coffee share to your order too. 
 <br />
@@ -21,7 +21,7 @@ To take part, sign up for a vegetable share. Then you can add a fruit, mushroom,
 Vegetable
 </td> 
 <td>
-$545
+$555
 </td>
 </tr>
 <tr>
@@ -42,6 +42,14 @@ $145
 </tr>
 <tr>
 <td>
+Dry Beans
+</td> 
+<td>
+$116
+</td>
+</tr>
+<tr>
+<td>
 Coffee
 </td> 
 <td>
@@ -56,9 +64,26 @@ Visit [Stoneledge Farm](https://dar.to/2EWPYJt "Stoneledge Farm") for more infor
 <br />
 <br />
 
+### To Order a Farm Share
+* Go to [Stoneledge Farm](https://dar.to/2EWPYJt "Stoneledge Farm") 
+* Click **Member Login** using your email and temporary password: **farmfresh2019**
+* Click the **2020 CSA Season**
+<br />
+
+#### To Update Password and Check CSA Information
+Under the **My Account** tab, you are able to update your password and check to make sure all information looks correct, especially for your CSA location.
+<br />
+<br />
+
 ### Split a Farm Share
 There is the option to split a share. When you sign up and add the share to your cart, provide your share partner's name, phone number, and email address.
 <br />
+<br />
+
+#### To Add a Share Partner
+* Log into your member account.
+* Under the **My Account**tab, you will see the "Add a Share Partner" button on the bottom right.
+* Once your partner is added and they accept (confirmation is sent to them via email), you can place your CSA share orders. 
 <br />
 
 ### Volunteer for Two Hours
@@ -70,7 +95,7 @@ As a member of the CSA, you will be asked to complete two hours of volunteer wor
 ### Pickup Dates
 Wednesday evenings <br />
 4:30 to 7:30 p.m.<br />
-June 5th through November 13th
+June 10th through November 18th
 <br />
 <br />
 
