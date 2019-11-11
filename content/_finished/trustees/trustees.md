@@ -3,26 +3,12 @@
 <div class="col-md-4">
 
 ### Officers
-Kevin Gasvoda, President<br />
-Tamara Sload, Treasurer<br />
-Jan Smith, Secretary
+Tamara Sload, President<br />
+Susan Vogel, Vice President<br />
+Millyn Gaaserud, Treasurer<br />
+Emily Kroenlein, Secretary
 <br />
 <br />
-
-
-### Terms Expiring 2019
-Erika Allen<br />
-Michael A. Cippoletti<br />
-Allegra Erickson<br />
-Millyn Gaaserud<br />
-Kevin Gasvoda<br />
-Jan Smith<br />
-James E. Steinthal
-<br />
-<br />
-
-</div>
-<div class="col-md-4">
 
 ### Terms Expiring 2020
 Tori Barnett<br />
@@ -34,6 +20,8 @@ Tamara Sload<br />
 Susan Vogel
 <br />
 <br />
+</div>
+<div class="col-md-4">
 
 ### Terms Expiring 2021
 Nicholas N. Branca<br />
@@ -42,12 +30,23 @@ Elena Whidden
 <br />
 <br />
 
+### Terms Expiring 2022
+Mike Cippoletti<br />
+Millyn Gaaserud<br />
+Karen S. Knapp<br />
+Rich Maier<br />
+Melissa Noonan<br />
+Hutch Pegler<br />
+Kim Westcott<br />
+<br />
+<br />
+
 </div>
 <div class="col-md-4">
 
 ### Honorary Trustees
-Anne Morrow Lindbergh (1906-2001)<br />
 Harold W. McGraw, Jr. (1918-2010)<br />
+Anne Morrow Lindbergh (1906-2001)<br />
 Ann S. Mandel<br />
 Stephen F. Mandel (1931-2009)<br />
 Kimberly D. Huffard<br />

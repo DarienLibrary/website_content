@@ -4,8 +4,8 @@
 ### Ages
 Storytimes are for babies, toddlers, and children up to age 5. The Children's Library offers [other programs](/events/kids "Programs for older children") for children up to age 12.
 
-**Registration for Fall I** <br />
-Registration runs from Monday, 8/19 to Monday, 9/2. Notification by Saturday, 9/7.
+**Registration for Fall II** <br />
+Registration runs from Monday, 10/7 to Monday, 10/21. Notification by Saturday, 10/26.
 <br />
 <br />
 
@@ -30,46 +30,45 @@ Sign up for our weekly early literacy texts to get easy tips sent right to your 
 <div class="col-md-4">
 
 ### Registered Programs
-**[All Together Now](https://dar.to/2XgchDd "All Together Now")**<br />
+**[All Together Now](https://dar.to/2mZ7by5 "All Together Now")**<br />
 Birth to 5-year-olds<br />
-_Mondays from 11:15 a.m. to 11:45 a.m. OR Tuesdays from 9:30 a.m. to 10 a.m._<br />
+_Mondays from 11:15 a.m. to 11:45 a.m. OR Tuesdays from 10:30 a.m. to 11 a.m._<br />
 Bring all of your kids to sit together at this sibling storytime!<br />
 
-**[Giggles and Rhymes](https://dar.to/2XgchDd "Giggles and Rhymes")** <br />
+**[Giggles and Rhymes](https://dar.to/2mZ7by5 "Giggles and Rhymes")** <br />
 Pre-walking babies <br />
-_Tuesdays from 11:15 a.m. to 11:45 a.m._<br />
+_Mondays from 9:30 a.m. to 10 a.m._<br />
 Join us for fingerplays, songs, rhymes, and movement.<br />
 
-**[Born to Read](https://dar.to/2XgchDd "Born to Read")** <br />
+**[Born to Read](https://dar.to/2mZ7by5 "Born to Read")** <br />
 Walkers (up to 24 months)<br />
-_Mondays from 9:30 a.m. to 10 a.m. OR Tuesdays from 10:30 a.m. to 11 a.m._<br />
+_Tuesdays from 9:30 a.m. to 10 a.m. OR Wednesdays from 11:15 a.m. to 11:45 a.m._<br />
 This introduction to storytime features books, rhymes, and movement activities. <br />
 
-**[Side By Side](https://dar.to/2XgchDd "Side By Side")** <br />
+**[Side By Side](https://dar.to/2mZ7by5 "Side By Side")** <br />
 2-year-olds to 3-year-olds <br />
-_Mondays from 10:30 a.m. to 11 a.m. OR Thursdays from 11:15 a.m. to 11:45 a.m._<br />
+_Mondays from 10:30 a.m. to 11 a.m. OR Tuesdays from 11:15 a.m. to 11:45 a.m._<br />
 This fast-paced storytime for lively toddlers includes books, songs, fingerplays, and movement. <br />
 
-**[Sign & Play with Chloe's Kids](https://dar.to/2XgchDd "Young Artists")** <br />
-Walkers (1-year-olds to 3-year-olds) <br />
-_Wednesdays from 11:45 a.m. to 12:15 p.m._<br />
-A musical early-communication class that uses vocabulary from American Sign Language! 
- <br />
-
-**[Creative Music for Children](https://dar.to/2XgchDd "Two Right Feet")** <br />
+**[Creative Music for Children](https://dar.to/2mZ7by5 "Two Right Feet")** <br />
 Walkers (1-year-olds to 3-year-olds) <br />
 _Fridays from 10:30 a.m. to 11 a.m. OR Fridays from 11:15 a.m. to 11:45 a.m._<br />
 Miss Debbie engages children through music and instrument play. <br />
 
-**[Preschool Art Party](https://dar.to/2XgchDd "Two Right Feet")** <br />
+**[Sign and Play with Chloe's Kids](https://dar.to/2mZ7by5 "Two Right Feet")** <br />
+Walkers (1-year-olds to 3-year-olds) <br />
+_Wednesdays from 12 p.m. to 12:30 p.m._<br />
+A musical early communication class that uses vocabulary from American Sign Language. <br />
+
+**[Preschool Art Party](https://dar.to/2mZ7by5 "Two Right Feet")** <br />
 3-year-olds to 5-year-olds <br />
 _Wednesdays from 2 p.m. to 2:30 p.m._<br />
 Explore art concepts through a picture book lens, with a fun art creation session following! <br />
 
-**[Wee Like to Move](https://dar.to/2XgchDd "Preschool Storytime")** <br />
-Walkers (1 to 3-year-olds) <br />
-_Fridays from 9:30 a.m. to 10 a.m._<br />
-Movement, songs, stories, and play will have everyone on their feet in this lively storytime. <br />
+**[Young Yogis](https://dar.to/2mZ7by5 "Preschool Storytime")** <br />
+3-year-olds to 5-year-olds <br />
+_Mondays from 2 p.m. to 2:30 p.m._<br />
+Relax. Refresh. Regroup. Your little Yoginis will be introduced to Yoga movement and a story. <br />
 <br />
 <br />
 
@@ -79,16 +78,16 @@ Movement, songs, stories, and play will have everyone on their feet in this live
 ### Drop-In Programs
 **No registration needed!**
 
-**Come On, Everybody** _Mondays at 10 a.m._<br />
-All ages and a parent/caregiver. Storytime for everyone featuring a short picture book movie.
-
 **Toddler Tales** _Wednesdays at 9:30 a.m._<br />
 Walkers (up to 36 months) and a parent/caregiver. This fast-paced storytime for lively toddlers includes books, songs, fingerplays, and movement.
 
 **Baby Laptime** _Thursdays at 9:30 a.m._<br />
 Pre-walking babies and a parent/caregiver. Join us for fingerplays, songs, and bounce rhymes in this lapsit storytime.
 
-**Bookworms** _Thursdays May 23rd and 30th at 4 p.m._<br />
-Ages 4 to 7. Join us for a weekly craft storytime. Read a book, have a discussion, and get crafty!
+**Preschool Time** _Fridays October 11, November 1st, and November 15th at 2:15 p.m._<br />
+3-year-olds to 5-year-olds with a parent/caregiver. Join us for stories, activities, and music.
+
+**Storytime Saturday** _Saturdays November 2nd and December 7th at 11 a.m._<br />
+All ages storytime with a parent/caregiver. This weekend storytime for families will include some of our favorite books, rhymes, and fingerplays.
 </div>
 </div>
