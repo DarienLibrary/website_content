@@ -2,16 +2,25 @@
  <div class="col-md-8">
 
 
-### Current Exhibit: Bruce Horan 
+### Current Exhibit: Grove Street Plaza Artists 
 
-**Tuesday, August 13th through Monday, September 30th**
+**Friday, November 15th through Monday, January 6th**
 <br />
 <br />
 
-### About the Artist
-Bruce Horan is a painter and printmaker and is an alum of Darien High School, University of Connecticut, and Pratt Institute in Brooklyn. Since receiving his MFA in printmaking from Pratt Institute, he has been working on a series of paintings and prints that capture his impressions and experiences of the complex and busy world around us. 
+### About the Artists
+The Grove Street Plaza Artists are a group of professional local artists. The Grove Street Plaza community event was started by Darien artist Nobu Miki in 2015 and has grown in popularity every year since. The artists have two separate shows at the Library: 
 
-Bruce's paintings blur the distinctions between abstraction and impressionism by incorporating gestural expression and loose figurative representation. His figures and shapes represent a journey through our busy surroundings where we redefine and interpret the people we meet, the streets we walk through, the buildings that encroach upon us, and the objects that we encounter along our path. The colors and energies of our environments combine to create a new visual representation of our world.   
+* **Nov 15th - Dec 3rd:** Best of the best 2019. The artists show some of their favorite works from the year.
+* **Dec 4th - Dec 31:** The artists will display smaller works which make perfect holiday gifts.
+
+<br />
+
+#### Participating artists: 
+
+Sandra Aldrich, John Coots, Alex Dolan, Steve Fritsch, Susan Leggitt, Nobu Miki, Nanci Natale, Jan Raymond, Eunice Roy, Chet Saur, Vicki French Smith, and Kathleen Scully Weinstock
+
+
 <br />
 
 ### Apply to be an Artist on View 
@@ -26,9 +35,9 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/strangers_bruce_horan.jpg" alt="Bruce Horan's Strangers" />
+<img class="img-responsive center-block" src="/uploads/departments/art_on_view/nobu_miki_glass_house.jpg" alt="Nobu Miki's Glass House" />
 <br />
-"Strangers" by Bruce Horan
+"Glass House" by Nobu Miki
 
 </div>
 </div>
