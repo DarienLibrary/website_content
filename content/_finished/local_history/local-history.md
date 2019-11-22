@@ -19,7 +19,7 @@ Educational programs and exhibits may be seen at the [Darien Historical Society]
 * [Books on Historical Darien](/list/14 "Historical Darien books")
 * [History of Darien](https://dar.to/2E9Mxmu "History of Darien") Wikipedia page
 * [Boston Post Road](https://dar.to/2E9Mo2q "Boston Post Road") Wikipedia page
-* [Walking the Post Road](hhttps://dar.to/2E9LZgq "Walking the Post Road")
+* [Walking the Post Road](https://dar.to/2E9LZgq "Walking the Post Road")
 
 <br/>
 

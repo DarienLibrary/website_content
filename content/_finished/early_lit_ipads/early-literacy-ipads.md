@@ -1,6 +1,6 @@
 The Children's Library has four [Early Literacy iPads](https://dar.to/2zrKmb9 "Early Literacy iPads") available for checkout. The kits come pre-loaded with selected apps geared towards children 5 and under. The apps were specially selected for their early literacy skill-building qualities, and are organized into categories that are vital to early literacy: read, write, talk, sing and play. As we discover great new apps, we will update the iPad kits periodically.  
 
-For older children, borrow our [Elementary iPads](/elementary-ipads "Elementary iPads") or [Tween Tabs](/tween-tabs "Tween Tabs").
+For older children, borrow our [Elementary iPads](/elementary-ipads "Elementary iPads").
 
 Here is the current list of apps you will find installed on Darien Library's Early Literacy iPads:
 <br />

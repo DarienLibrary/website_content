@@ -44,7 +44,7 @@ Sign up for our weekly early literacy texts to get easy tips sent right to your 
 <br />
 <br />
 
-### Books We Love, Books You Love eNewsletter 
+### Children's Library Bulletin eNewsletter 
 Each month the Children and Teen librarians recommend great new reads, highlight books you should be reading, and point you towards your new favorites! [Sign up for the Children's Library Bulletin](/newsletter/subscribe "Sign up for our eNewsletter")
 <br />
 <br />
@@ -53,6 +53,11 @@ Each month the Children and Teen librarians recommend great new reads, highlight
 Start your very own book club with Book Club Kits from the Children's Library. Choose a book, checkout five copies, and receive a discussion guide in your kit. The guide includes a book summary, discussion questions, and further activities to enhance the reading experience. 
 * [First to Third Graders Book Choices](/list/70 "First to Third Graders Book Choices")
 * [Fourth to Sixth Graders Book Choices](/list/71 "Fourth to Sixth Graders Book Choices")
+<br />
+
+### Homework Help
+Our youth services librarians have curated a list of the best and most helpful resources to assist your child with their homework. The four study guides on American Colonies and Revolution, Connecticut and Darien, Earth and Space, and Western Expansion are aimed at specific school units. [View all of the Homework Help resources](/homework "View all ofthe Homework Help resources").
+<br />
 <br />
 
 ### Scout Visits to the Library 

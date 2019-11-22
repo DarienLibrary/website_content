@@ -1,4 +1,4 @@
-[Print this policy](/uploads/pdfs/policies/library_internet_use_policy.pdf "Print this policy")<br />
+[Print this policy](/uploads/pdfs/policies/network_computer_use_policy.pdf "Print this policy")<br />
 
 The Library is committed to ensuring the best possible access to computers and the internet for patrons who seek information and technology, and realizes that a lack of access may be socially and economically damaging to individuals. Therefore, the Library makes computer use available to the public as well as allowing patrons access to the internet either through the use of its public computers or through patrons’ connections of their personal devices to the Library’s network.
 

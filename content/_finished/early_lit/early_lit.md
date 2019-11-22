@@ -58,9 +58,9 @@ Miss Baily shares two different versions of The Rain is Falling Down.
 
 <h3 style="color:#F96F8F; font-weight:900;">Books To Encourage Reading</h3> 
 
-1. _[Book! Book! Book!](https://dar.to/2TUqDrI "Book! Book! Book!")_ By Deborah Bruss
+1. _[Book! Book! Book!](https://dar.to/2TUqDrI "Book! Book! Book!")_ by Deborah Bruss
 2. _[The Book With No Pictures](https://dar.to/2TU9AGk "The Book With No Pictures")_ by B J Novak
-3. _[Read the Book, Lemmings!](https://dar.to/2TVUSib "Read the Book, Lemmings!")_ By Ame Dyckman
+3. _[Read the Book, Lemmings!](https://dar.to/2TVUSib "Read the Book, Lemmings!")_ by Ame Dyckman
 4. _[The Library Book](https://dar.to/2TW0tot "The Library Book")_ by Tom Chapin
 5. _[The Summer Nick Taught His Cats to Read](https://dar.to/2TWr8BO "The Summer Nick Taught His Cats to Read")_ by Curtis Manley
 6. _[Yoko Learns to Read](https://dar.to/2TSKRSO "Yoko Learns to Read")_ by Rosemary Wells
@@ -123,9 +123,9 @@ Miss Anna shares two different versions of Wind the Bobbin.
 
 <h3 style="color:#048254; font-weight:900;">Books To Encourage Singing</h3> 
 
-1. _[The Wheels on the Tuk Tuk](https://dar.to/2UaDmqr "The Wheels on the Tuk Tuk")_ By Kabir Sehgal
+1. _[The Wheels on the Tuk Tuk](https://dar.to/2UaDmqr "The Wheels on the Tuk Tuk")_ by Kabir Sehgal
 2. _[Groovy Joe: Ice Cream and Dinosaurs](https://dar.to/2U9PhVj "Groovy Joe: Ice Cream and Dinosaurs")_ by Eric Litwin
-3. _[Today is Monday](https://dar.to/2U8FK0H "Today is Monday")_ By Eric Carle
+3. _[Today is Monday](https://dar.to/2U8FK0H "Today is Monday")_ by Eric Carle
 4. _[We are the Dinosaurs](https://dar.to/2U7jrIY "We Are the Dinosaurs")_ by Laurie Berkner
 5. _[There was a Tree](https://dar.to/2U9WqoU "There was a Tree")_ by Rachel Isadora
 6. _[I Ain’t Gonna Paint No More!](https://dar.to/2U6rmWU "I Ain’t Gonna Paint No More!")_ by Karen Beaumont
@@ -180,9 +180,9 @@ Miss Samantha shares two different versions of Patty Cake.
 
 <h3 style="color:#0079c6; font-weight:900;">Books To Encourage Talking</h3> 
 
-1. _[High Five](https://dar.to/2J2FLPR "High Five")_ By Adam Rubin
+1. _[High Five](https://dar.to/2J2FLPR "High Five")_ by Adam Rubin
 2. _[My Crayons Talk](https://dar.to/34cPsUG "My Crayons Talk")_ by Patricia Hubbard
-3. _[Goldilocks and the Three Dinosaurs](https://dar.to/33ZF1n7 "Goldilocks and the Three Dinosaurs")_ By Mo Willems
+3. _[Goldilocks and the Three Dinosaurs](https://dar.to/33ZF1n7 "Goldilocks and the Three Dinosaurs")_ by Mo Willems
 4. _[Children Make Terrible Pets](https://dar.to/341hwtX "Children Make Terrible Pets")_ by Peter Brown
 5. _[A Hungry Lion; or, A Dwindling Assortment of Animals](https://dar.to/344QFgL "A Hungry Lion; or, A Dwindling Assortment of Animals")_ by Lucy Cummins
 6. _[Interrupting Chicken](https://dar.to/342PmyN "Interrupting Chicken")_ by David Ezra Stein
@@ -243,9 +243,9 @@ Miss Samantha shares two different versions of Patty Cake.
 
 <h3 style="color:#a22ba9; font-weight:900;">Books To Encourage Writing</h3> 
 
-1. _[Little Plane Learns to Write](https://dar.to/2J3en4w "Little Plane Learns to Write")_ By Stephen Savage
+1. _[Little Plane Learns to Write](https://dar.to/2J3en4w "Little Plane Learns to Write")_ by Stephen Savage
 2. _[Harold and the Purple Crayon](https://dar.to/2Udpk7p "Harold and the Purple Crayon")_ by Crockett Johnson
-3. _[Dog Loves Drawing](https://dar.to/2U6sBFF "Dog Loves Drawing")_ By Louise Yates
+3. _[Dog Loves Drawing](https://dar.to/2U6sBFF "Dog Loves Drawing")_ by Louise Yates
 4. _[A Squiggly Story](https://dar.to/2U8H5Vh "A Squiggly Story")_ by Andrew Larsen
 5. _[Bunny Cakes](https://dar.to/2U6sIB5 "Bunny Cakes")_ by Rosemary Wells
 6. _[Idea Jar](https://dar.to/2U6uLFj "Idea Jar")_ by Adam Lehrhaupt
@@ -298,9 +298,9 @@ Miss Catherine shares two different ways to play Popcorn Kernels.
 
 <h3 style="color:#ff6900; font-weight:900;">Books To Encourage Playing</h3> 
 
-1. _[Crash! Boom! A Math Tale](https://dar.to/34cTUmm "Crash! Boom! A Math Tale")_ By Robie H. Harris
+1. _[Crash! Boom! A Math Tale](https://dar.to/34cTUmm "Crash! Boom! A Math Tale")_ by Robie H. Harris
 2. _[Box](https://dar.to/344T8rx "Box")_ by Min Flyte
-3. _[Tickle Monster](https://dar.to/3421qQT "ickle Monster")_ By Josie Bissett
+3. _[Tickle Monster](https://dar.to/3421qQT "ickle Monster")_ by Josie Bissett
 4. _[Niño Wrestles the World](https://dar.to/342RKWh "Niño Wrestles the World")_ by Yuyi Morales
 5. _[Unplugged](https://dar.to/342ROW1 "Unplugged")_ by Steve Antony
 6. _[Run Wild](https://dar.to/345rb2u "Run Wild")_ by David Covell
@@ -353,9 +353,9 @@ Miss Samantha shares two different versions of Patty Cake.
 
 <h3 style="color:#F96F8F; font-weight:900;">Books To Encourage Reading</h3> 
 
-1. _[Book! Book! Book!](https://dar.to/2TUqDrI "Book! Book! Book!")_ By Deborah Bruss
+1. _[Book! Book! Book!](https://dar.to/2TUqDrI "Book! Book! Book!")_ by Deborah Bruss
 2. _[The Book With No Pictures](https://dar.to/2TU9AGk "The Book With No Pictures")_ by B J Novak
-3. _[Read the Book, Lemmings!](https://dar.to/2TVUSib "Read the Book, Lemmings!")_ By Ame Dyckman
+3. _[Read the Book, Lemmings!](https://dar.to/2TVUSib "Read the Book, Lemmings!")_ by Ame Dyckman
 4. _[The Library Book](https://dar.to/2TW0tot "The Library Book")_ by Tom Chapin
 5. _[The Summer Nick Taught His Cats to Read](https://dar.to/2TWr8BO "The Summer Nick Taught His Cats to Read")_ by Curtis Manley
 6. _[Yoko Learns to Read](https://dar.to/2TSKRSO "Yoko Learns to Read")_ by Rosemary Wells

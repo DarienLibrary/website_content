@@ -39,10 +39,10 @@ Your privacy is very important to us. We take every measure to protect your pers
 <br />
 <br />
 
-### Library Internet Use Policy
+### Network and Computer Use Policy
 The Library is committed to ensuring the best possible access to computers and the internet for patrons who seek information and technology, and realizes that a lack of access may be socially and economically damaging to individuals. 
 
-[View the Library Internet Use Policy](/internet-use "Library Internet Use Policy")
+[View the Library Internet Use Policy](/internet-use "Network and Computer Use Policy")
 <br />
 <br />
 

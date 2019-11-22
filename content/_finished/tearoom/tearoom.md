@@ -36,22 +36,20 @@ We offer classes in the TEA room on everything from circuitry to printmaking. Cl
 
 ### What's in the TEA Room?
 * Lulzbot 3D Printer
-* Raspberry Pi
 * iMac Computer
-* Coding PC Computer
-* 6 iPads
-* Canon Rebel SLR Digital Cameras
-* Adjustable Green Screen
-* Lightbox
 * LEGO Architecture Kits
 * Buttonmaker
 * Paper Craft Supplies
 * KAPLA Blocks
-* SpinBot Kits
-* LittleBits
+* LittleBits Guitar
 * Lincoln Logs
 * Maker Supplies
 * Duct Tape
+* Snap Circuits
+* Turing Tumble Marble Powered Computer
+* Light box
+* Ellison Die Cut Machine
+* Osmo Coding Kit
 
 </div>
 </div>
