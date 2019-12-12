@@ -14,4 +14,6 @@ If interested, please [fill out the form](https://dar.to/2AmjLJN "fill out the f
 <br />
 
 ### For Adults
-The Darien Library Volunteer program for adults is currently full. We are not accepting applications for new volunteers at this time. For local opportunities, please check out our friends at [VolunteerSquare](https://dar.to/2j4irWZ "VolunteerSquare") – they have a lot of amazing volunteer positions available!
+We are actively looking for volunteers to help capture records for our Obituaries Index Project. This is a perfect opportunity for someone who would like to participate in a community-wide legacy service. The ideal candidate will pay attention to detail and have an interest in the town’s history. Volunteers will be able to set their own hours.
+
+Please contact Colleen Wood at [cwood@darienlibrary.org](mailto:cwood@darienlibrary.org "Email Colleen Wood") for further information.!

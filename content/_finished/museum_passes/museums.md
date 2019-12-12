@@ -96,18 +96,24 @@ Earthplace consists of a 62 acre wildlife sanctuary with trails, a natural histo
 </div>
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/33K4CjQ"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/trumbull_john_niagara_falls.jpg" alt="Panoramas: The Big Picture" /></a>
+<a href="https://dar.to/33K4CjQ"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/photo_by_jesse_cooday.jpg" alt="Photo by Jesse Cooday" /></a>
 <br />
 </div>
 <div class="col-md-8">
 
-#### Panoramas: The Big Picture
-Ends December 8th<br />
-New-York Historical Society
+#### Urban Indian: Native New York Now
+Ends March 8th<br />
+Museum of the City of New York
 
-Explore the impact that large [panoramas](https://dar.to/33K4CjQ "Panoramas") had on society from the 17th to 20th century. Panoramas influenced how people felt about nationalism, imperial expansion, and were used within mass entertainment. <br />
+More than 70% of Native Americans live in urban areas.  _[Urban Indian: Native New York Now](https://dar.to/34buHHz "Urban Indian")_ explores what it means to be a Native American living in New York City in today's world. The intersectionality of the many facets of a Native person's life is examined through a mix of art, performing arts, and memorabilia.  <br />
 
-[Reserve a pass to see the exhibit](https://dar.to/2j48LMt "Reserve a pass to the New-York Historical Society")<br />
+[Reserve a pass to see the exhibit](https://dar.to/2j3DYzm "Reserve a pass to the Museum of the City of New York")<br />
+
+<caption>
+
+_Artists from the exhibition, Women of Sweetgrass, Cedar and Sage, friends and community members outside the American Indian Community House Gallery, 1985. Photo by Jesse Cooday._
+
+</caption>
 
 </div>
 </div>
