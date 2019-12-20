@@ -1,13 +1,11 @@
 <div class="row margin-bottom-10">
 <div class="col-md-10 col-md-offset-1">
 
-Thank you to the over 1,200 donors who supported our Annual Fund during the last fiscal year. With your help, we surpassed our fundraising goal and raised over $700,000. We truly appreciate your generosity.
+Thank you for supporting Darien Library!
 
 All gifts to the Annual Fund are dedicated directly to library resources, including all of the books, DVDs, technology, learning resources, and programs for children, teens, and adults. The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town.
 
-Our new fiscal year runs from July 1, 2019 to June 30, 2020 and any donation amount is appreciated. All donations are also tax-deductible.
-
-Thank you for supporting Darien Library!
+Our current fiscal year runs from July 1, 2019 to June 30, 2020 and any donation amount is appreciated. All donations are also tax-deductible.
  
 
 <!--The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town. Your donations go directly to the purchase of all of the books, movies, and technology as well as the support of countless programming opportunities throughout the year, making Darien Library the intellectual and cultural heart of Darien.
