@@ -84,10 +84,11 @@ For more information, please contact the Darien Library Administrative Office at
 </div>
 <div class="col-md-6">
 
-**The Wyper Family Author Fund**
-
+<img class="img-responsive center-block" src="/uploads/logos/the_wyper_family_author_fund.jpg" alt="The Wyper Family Author Fund" />
+<br />
 <img class="img-responsive center-block" src="/uploads/logos/darien_library_logo_300px.png" alt="Darien Library" />
 <br />
+
 </div>
 </div> 
 
