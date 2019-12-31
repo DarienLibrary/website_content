@@ -19,12 +19,12 @@ Single tickets will be on sale pending availability in February. Check back here
 <br />
 <br />
 
-<a href="#Purchase"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Purchase Tickets</button></a>
+<a href="#Purchase"><button class="btn-u btn-u-lg" style="background-color:#01B201" type="button">Purchase Tables</button></a>
 <br />
 <br />
 
 ### About Lara Prescott
-Lara Prescott received her MFA from the Michener Center for Writers at the University of Texas, Austin. She was previously an animal protection advocate and a political campaign operative. Her stories have appeared in _The Southern Review_, _The Hudson Review_, _Crazyhorse_, _Day One_, and _Tin House Flash Fridays_. She won the 2016 Crazyhorse Fiction Prize for the first chapter of _[The Secrets We Kept](https://dar.to/2sAXpVv "The Secrets We Kept")_. She lives in Austin, Texas.
+Lara Prescott received her MFA from the Michener Center for Writers at the University of Texas, Austin. She was previously an animal protection advocate and a political campaign operative. Her debut novel, _[The Secrets We Kept](https://dar.to/2sAXpVv "The Secrets We Kept")_, was a 2019 Reese Witherspoon Book Club selection, and its first chapter won the 2016 Crazyhorse Fiction Prize. Her stories have appeared in _The Southern Review_, _The Hudson Review_, _Crazyhorse_, _Day One_, and _Tin House Flash Fridays_.  She lives in Austin, Texas.
 
 <br />
 </div>
@@ -36,11 +36,11 @@ Lara Prescott received her MFA from the Michener Center for Writers at the Unive
 </div> 
 <div class="col-md-9">
 
-> “Enthralling… This is the rare page-turner with prose that’s as wily as its plot.” - _Vogue_ 
+<blockquote style="font-size:1.25em; color:#555;">“Enthralling… This is the rare page-turner with prose that’s as wily as its plot.” - <em>Vogue</em></blockquote>  
 
-> “Prescott crafts a cloak-and-dagger story of passion, espionage, and propaganda.” - _The Wall Street Journal_
+<blockquote style="font-size:1.25em; color:#555;">“Prescott crafts a cloak-and-dagger story of passion, espionage, and propaganda.” - <em>The Wall Street Journal</em></blockquote>
 
-> “A gorgeous and romantic feast of a novel anchored by a cast of indelible secretaries.” - _The New York Times_
+<blockquote style="font-size:1.25em; color:#555;">“A gorgeous and romantic feast of a novel anchored by a cast of indelible secretaries.” - <em>The New York Times</em></blockquote>
 
 <br />
 
@@ -98,15 +98,25 @@ For more information, please contact the Darien Library Administrative Office at
 Please indicate all seating requests in the "comment" section.
 
 <div id="bbox-root"></div>
+
 <script type="text/javascript">
+
        window.bboxInit = function () {
-           bbox.showForm('a1bda96a-f257-4b03-8c96-30ce9e74fdda');
+
+           bbox.showForm('5c7ce23a-9d3e-4128-b156-492373a0b843');
+
        };
+
        (function () {
+
            var e = document.createElement('script'); e.async = true;
+
            e.src = 'https://bbox.blackbaudhosting.com/webforms/bbox-min.js';
+
            document.getElementsByTagName('head')[0].appendChild(e);
+
        } ());
+
 </script>
 
 
