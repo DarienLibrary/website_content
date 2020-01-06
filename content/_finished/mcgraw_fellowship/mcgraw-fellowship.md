@@ -61,8 +61,7 @@ All applications should include the following:
 * 3 References, attesting to your love of children, passion for literacy, and penchant for technology. References may be sent separately.
 * Official Graduate School Transcript
 * Official Undergraduate School Transcript
-* Application Checklist (Attached below)
-
+* Application Checklist ([Download PDF](https://dar.to/37DqQVU "Download PDF"))
 
 Applications are due by 5 p.m. on March 2, 2020 and should be delivered to:
 <address>
