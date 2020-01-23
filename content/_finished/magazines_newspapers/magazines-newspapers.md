@@ -20,7 +20,7 @@ Enjoy online access to 30+ downloadable magazines. You can read magazines on you
 <br />
 
 ### Articles Search
-Over 1,400 current and historical newspapers are available through our [online databases](/research/category/magazines-and-newspapers "Magazines and Newspapers databases"). <em>Consumer Reports</em>, <em>Cook's Illustrated</em>, <em>The Economist</em>, <em>New York Times Historical</em>, and <em>The Wall Street Journal</em> are just a few of the titles you can access using your Darien Library card.
+Over 1,400 current and historical newspapers are available through our [online databases](/research/category/magazines-and-newspapers "Magazines and Newspapers databases"). <em>Consumer Reports</em>, <em>Cook's Illustrated</em>, <em>The Economist</em>, and <em>The Wall Street Journal</em> are just a few of the titles you can access using your Darien Library card.
 
 </div>
 <div class="col-md-4">
@@ -28,10 +28,10 @@ Over 1,400 current and historical newspapers are available through our [online d
 ### Darien Historical Newspapers
 Are you interested in Local History? Access to the following local newspapers is easily available at the Library either digitally or on microfilm: 
 
-* Darien New-Review 1989 - 2004
-* Darien News 1973 - 1989
-* Darien Review 1902 - 1989
-* Darien Times 1993 - present
+* _Darien New-Review_ 1989 - 2004
+* _Darien News_ 1973 - 1989
+* _Darien Review_ 1902 - 1989
+* _Darien Times_ 1993 - present
 
 </div>
 </div>

@@ -729,7 +729,7 @@ The Children's Library has the [TEA Room](/tearoom "TEA Room") makerspace for ch
 <br />
 
 #### Digital Media Lab
-For those 14 and up, the [Digital Media Lab](/dml "Digital Media Lab") is available. The DML is focused on digitizing video tapes, photos, slides, and negatives. You can also record and edit videos and audio. Contact the Help Desk at [203-669-5238](tel:2036695238 "203-669-5238") or send an [email](mailto:helpdesk@darienlibrary.org "email") to make a reservation.
+For those 14 and up, the [Digital Media Lab](/dml "Digital Media Lab") is available. The DML is focused on digitizing video tapes, photos, slides, and negatives. You can also record and edit videos and audio. Some of the software avialble includes Pages, Numbers, Keynote, and Office 2016 Suite (Word, Excel, PowerPoint, OneNote). Contact the Help Desk at [203-669-5238](tel:2036695238 "203-669-5238") or send an [email](mailto:helpdesk@darienlibrary.org "email") to make a reservation.
 
 </div>
 </div>

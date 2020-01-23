@@ -1,4 +1,3 @@
-
 <div class="row margin-bottom-30">
 <div class="col-md-6">
 
@@ -15,11 +14,10 @@ Visit the [Darien USGenWeb Project](https://dar.to/2Eiwm6K "USGenWeb Project") p
 Educational programs and exhibits may be seen at the [Darien Historical Society](https://dar.to/2EbMNRZ "Darien Historical Society"). 
 
 * [Wikipedia entry](https://dar.to/2E9Nlrw "Wikipedia entry on Darien") on Darien
-* [Darien on LocalWiki](https://dar.to/2E9NA5U "Darien LocalWiki"): contemporary information about living here
 * [Books on Historical Darien](/list/14 "Historical Darien books")
 * [History of Darien](https://dar.to/2E9Mxmu "History of Darien") Wikipedia page
 * [Boston Post Road](https://dar.to/2E9Mo2q "Boston Post Road") Wikipedia page
-* [Walking the Post Road](https://dar.to/2E9LZgq "Walking the Post Road")
+* [Walking the Post Road](hhttps://dar.to/2E9LZgq "Walking the Post Road")
 
 <br/>
 
@@ -42,10 +40,10 @@ Educational programs and exhibits may be seen at the [Darien Historical Society]
 
 Look up historical local news using the microfilm machines located on the Second Level. Newspaper archives available at Darien Library: 
 
-* Darien New-Review 1989 - 2004
-* Darien News 1973 - 1989
-* Darien Review 1902 - 1989
-* Darien Times 1993 - 2010
+* _Darien New-Review_ 1989 - 2004
+* _Darien News_ 1973 - 1989
+* _Darien Review_ 1902 - 1989
+* _Darien Times_ 1993 - 2010
 
 </div>
 </div>

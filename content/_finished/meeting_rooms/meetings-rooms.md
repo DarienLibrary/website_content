@@ -1,3 +1,5 @@
+View <a href="#LargeGroups">Meeting Rooms for Rent</a>
+
 <div class="text-center margin-bottom-50">
   <h2 class="title-v2 title-center">Available for Small Groups</h2>
 </div>
@@ -91,11 +93,10 @@ This is a silent study space.
 </div>
 
 
-
+<a name="LargeGroups"></a>
 <div class="text-center margin-bottom-50">
   <h2 class="title-v2 title-center">Available to Large Groups</h2>
 </div>
-
 
 <div class="row margin-bottom-10">
   <div class="col-xs-12 col-sm-8 col-md-9">
@@ -148,7 +149,7 @@ Capacity: 22 conference seating; 40 presentation seating
 
 The Conference Room is ideal for a more intimate group meeting or presentation. The Room features twelve tables that can be configured as one long conference table or rearranged to meet the needs of your group. Additionally, a large sidebar is available for placement of refreshments or other items. The Conference Room is located on the Mezzanine Level of the Library.
 
-Amenities include a large LCD screen, cable TV access, and a sidebar counter.
+Amenities include a backlit projection screen, cable TV access, and a sidebar counter.
 
   </div>
 </div>

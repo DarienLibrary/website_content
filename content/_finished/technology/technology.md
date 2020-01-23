@@ -29,7 +29,7 @@ Use the Digital Media Lab (DML) to digitize your memories using scanners or conv
 <br />
 
 ### Business Center
-We're not all play, we also help you work. The [Business Center](/business-center "Business Center") located on the Lower Level offers not only printing and copying, but speciality services like banner prints, laminating, and photo printing. Let our trained staff help you make your best impression.
+We're not all play, we also help you work. The [Business Center](/business-center "Business Center") located on the Lower Level offers not only printing and copying, but speciality services like banner prints and laminating. Let our trained staff help you make your best impression.
 <br/>
 <br/>
 
@@ -56,4 +56,4 @@ Programs available on all PC computers:
 * Windows Media Player
 
 </div>
-</div> 
+</div>
