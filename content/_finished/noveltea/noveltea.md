@@ -77,18 +77,24 @@ For more information, please contact the Darien Library Administrative Office at
 <div class="col-md-6">
 <a href="http://www.newcanaandarienmag.com/"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="Moffly Media" /></a>
 <br />
-<br />
 <a href="https://dar.to/2Q0FKMI"><img class="img-responsive center-block" src="/uploads/darien_community/david_harvey_jewelers.jpg" alt="David Harvey Jewelers" /></a>
 <br />
 
 </div>
 <div class="col-md-6">
-
+<a href="https://dar.to/31046NI"><img class="img-responsive center-block" src="/uploads/logos/dr_bank_300.jpg" alt="DR Bank" /></a>
+<br />
+<br />
+<br />
 <img class="img-responsive center-block" src="/uploads/logos/the_wyper_family_author_fund.jpg" alt="The Wyper Family Author Fund" />
 <br />
-<img class="img-responsive center-block" src="/uploads/logos/darien_library_logo_300px.png" alt="Darien Library" />
-<br />
 
+</div>
+<div class="row">
+<div class="col-md-5 col-md-offset-3">
+	<img class="img-responsive center-block" src="/uploads/logos/darien_library_logo_300px.png" alt="Darien Library" />
+<br />
+</div>
 </div>
 </div> 
 
