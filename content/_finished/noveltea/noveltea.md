@@ -11,15 +11,13 @@
 Wee Burn Country Club<br />
 410 Hollow Tree Ridge Rd, Darien, CT
 
-Sponsor and Benefactor Tables are currently available for purchase, and single tickets will be on sale pending availability in February. 
+Single tickets as well as Sponsor and Benefactor Tables are now available for purchase. The Sponsor Table will have Lara Prescott seated at their table! Please indicate any seating requests in the Comments section of the form.
 
 All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with Lara Prescott from 11:30 a.m. to 12 noon, and receive a signed copy of _[The Secrets We Kept](https://dar.to/2sAXpVv "The Secrets We Kept")_. Each table seats 10 people.
-
-Single tickets will be on sale pending availability in February. Check back here for updates!
 <br />
 <br />
 
-<a href="#Purchase"><button class="btn-u btn-u-lg" style="background-color:#01B201" type="button">Purchase Tables</button></a>
+<a href="#Purchase"><button class="btn-u btn-u-lg" style="background-color:#01B201" type="button">Purchase Tickets</button></a>
 <br />
 <br />
 
