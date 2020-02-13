@@ -1,4 +1,3 @@
-
 #### For Teens
 Darien Library is currently looking for teens between the ages of 12 to 17 who are interested in volunteering in the Children’s Library. Volunteer hours are flexible as you will volunteer when it works with your schedule. We require each shift to be a minimum of 15 minutes and a maximum of 60 minutes for no more than one day per work week.
  
@@ -14,6 +13,4 @@ If interested, please [fill out the form](https://dar.to/2AmjLJN "fill out the f
 <br />
 
 ### For Adults
-We are actively looking for volunteers to help capture records for our Obituaries Index Project. This is a perfect opportunity for someone who would like to participate in a community-wide legacy service. The ideal candidate will pay attention to detail and have an interest in the town’s history. Volunteers will be able to set their own hours.
-
-Please contact Colleen Wood at [cwood@darienlibrary.org](mailto:cwood@darienlibrary.org "Email Colleen Wood") for further information.!
+We are currently looking for volunteers to help with the check-in process during our Monday Tax-Aide sessions. If you're interested, please email Brittany at [bnetherton@darienlibrary.org](mailto:bnetherton@darienlibrary.org "Email Brittany").
