@@ -25,7 +25,7 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 Connecticut's Beardsley Zoo is one of Connecticut's top family attractions with over 300 animals representing primarily North and South American species. <br />
 [Select date to visit the zoo](https://dar.to/2j4hL4b "Visit Beardsley Zoo")<br />
 [View Beardsley Zoo's programs](https://dar.to/2j5d3mr "View Beardsley Zoo's programs list")<br />
-* Pass is valid for $5 admissions per person for up to 6 guests. 
+* Pass is valid for $6 admissions per person for up to 6 guests. 
 * Limited to one family per day. 
 * Always present your photo ID with this card. 
 * Cards are non-transferable.
