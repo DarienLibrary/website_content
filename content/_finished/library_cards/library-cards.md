@@ -11,7 +11,7 @@ Bring in to the Welcome Desk something with your Darien address on it (e.g. a pi
 <br />
 
 ### I Live in Another Town in Connecticut
-You can still check out stuff from Darien Library. Just bring in your library card from your hometown library. We will add you to our system. There are some limitations to your membership: you cannot place holds on DVDs, attend classes or workshops, or access digital content. If you want full access, become a [Friend of the Library](/friends "Friend of the Library"). For more information, visit [Borrowing](/borrowing "Borrowing")
+You can still check out stuff from Darien Library. Just bring in your library card from your hometown library. We will add you to our system. There are some limitations to your membership: you cannot attend registered classes or workshops, or access digital content. If you want full access, become a [Friend of the Library](/friends "Friend of the Library"). For more information, visit [Borrowing](/borrowing "Borrowing")
 
 <br/>
 

@@ -1,6 +1,12 @@
 <div class="row margin-bottom-30">
 <div class="col-md-6">
-Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. 
+
+Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. We are a _Library Journal_ Five-Star Library.
+
+<br />
+
+### [Full-Time Systems Administrator](https://dar.to/2ugNftU "Full-Time Systems Administrator")
+Darien Library (CT) is seeking an intelligent, curious, and innovative technology professional to work with our Head of User Experience in managing Darien Library’s cutting-edge technology infrastructure. This position represents a unique opportunity to apply a wide range of skills and expertise in an exciting environment that is constantly changing and adapting to emerging trends. Darien Library holds itself to the highest possible standard of customer service, and we pride ourselves on providing a fulfilling and enriching experience to all who visit us either in person or online.
 <br />
 <br />
 
@@ -9,6 +15,7 @@ Darien Library is seeking a friendly, energetic, dedicated individual with excel
 
 <div class="row margin-bottom-20">
 <div class="col-md-6">
+
 <a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
 </div>
 </div>
