@@ -3,7 +3,12 @@
 <div class="col-md-6">
 
 ### Choose OverDrive e-Books
-When selecting which e-Book provider to use for your Kindle e-Reader, choose **OverDrive**. Select **Checkout** then head over to your OverDrive account by clicking [Sign in](https://darien.overdrive.com/ "OverDrive account"). You need to use a computer to finish your download through Amazon. If you have a Kindle Fire, you can download books directly to your device. Read the Kindle Fire section below for more information. Kindles need to be connected to Wi-Fi to download OverDrive e-Books.
+* Darien Library offers e-Books through different providers. When selecting which e-Book provider to use for your Kindle e-Reader, choose **OverDrive**. 
+* Select **Checkout** then head over to your OverDrive account by clicking [Sign in](https://darien.overdrive.com/ "OverDrive account") at the top right. You need to use a computer to finish your download through Amazon.com. 
+* If you have a Kindle Fire, you can download books directly to your device. Read the Kindle Fire section below for more information. 
+* Kindles need to be connected to Wi-Fi to download OverDrive e-Books.
+
+**[See OverDrive for Kindle Help](https://dar.to/2UfYTzH "See OverDrive for Kindle Help")** 
 
 Please note that not all OverDrive e-Books are for Kindles. [Search for only Kindle e-Books](https://darien.overdrive.com/search/title?format=ebook-kindle "Search only for Kindle e-Books") by clicking on the magnifying glass at the top right, then click on **Advanced** under the search box. Under Formats, change All Formats to **Kindle Book** then click **Search**.
 
@@ -12,16 +17,19 @@ Did you run into an error? Check out the help section on this page.
 <br />
 
 ### Download your Kindle e-Book
-Now that you are logged into OverDrive, click on **Borrow** to select your book (sometimes the text will say Borrow for 21 Days). Go to **My account** at the top right then click on **Loans**. Next to the book cover, click on **Choose a Format**, select **Kindle Book**. Amazon.com will now open up in your browser. 
+* Now that you are logged into OverDrive, click on **Borrow** to select your book (sometimes the text will say Borrow for 21 Days). * Go to **My account** at the top right then click on **Loans**. 
+* Next to the book cover, click on **Choose a Format**, select **Kindle Book**. 
+* Amazon.com will now open up in your browser. 
 
-If you are not already signed into your Amazon account, do so now. You will see the e-Book you selected. On the right, click on **Get library book** and then you may need to choose which Kindle to send it to. If your Kindle is connected to Wi-Fi, your e-Book will download immediately. Enjoy! 
-<br />
+If you are not already signed into your Amazon account, do so now. You will see the e-Book you selected. 
+* On the right, click on **Get library book** and then you may need to choose which Kindle to send it to. 
+* If your Kindle is connected to Wi-Fi, your e-Book will download immediately. Enjoy! 
 <br />
 
 ### Kindle Fire
 Download the OverDrive app then create an OverDrive account. This account is different from your Library one. It will allow your reading progress and bookmarks to be synced to any other device you have the OverDrive app on (e.g. tablet or smartphone). [More help](https://help.overdrive.com/en-us/9991.html "More help").
 
-In the OverDrive app, search for Darien Library. Tap on the star to favorite the Library. Then you can browse for books or search for a specific title. 
+In the OverDrive app, search for **Darien Library**. Tap on the **star** to favorite the Library. Then you can browse for books or search for a specific title. 
 
 If the little book or headphone icon on the book's cover is gray, that means it is not available. If it is black, you can read it now!
 
