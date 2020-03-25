@@ -6,7 +6,7 @@ Darien Library offers online access to great digital content for all your mobile
 <div class="col-md-6">
 
 ### How to Download 
-After clicking on your digital item in the catalog, you will need to open the appropriate app on either your computer or mobile device. If you forget which app to use, visit your [Checkouts page](/myaccount/circulation "Checkouts") and then look at Digital Downloads.
+After clicking on your digital item in the catalog, you will need to open the appropriate app on either your computer or mobile device. If you forget which app to use, visit your [Checkouts page](/myaccount/circulation "Checkouts") and then look at Digital Downloads. If your checkout is blocked, check the <a href="#help">help section</a>.
 
 <div class="margin-bottom-20"></div>  
 
@@ -157,5 +157,44 @@ Enjoy online access to 30+ downloadable magazines. You can read magazines on you
 
 [Get RBdigital Help](https://dar.to/2p5Xx7B "RBdigital help")
 
+</div>
+</div>
+
+<div class="text-center margin-bottom-50">
+  <a name="help"></a><h2 class="title-v2 title-center">Checkout Help</h2>
+</div>
+
+<div class="row margin-bottom-20">
+<div class="row">
+<div class="col-md-6">
+
+We're sorry to hear that your checkout didn't go through. Let's see what might be causing the trouble: 
+<br />
+<br />
+
+**Have you signed into your [OverDrive account](https://darien.overdrive.com/ "OverDrive account") before?** <br />
+If not, head on over and sign in by clicking the **Sign in** link in the top right. This will open the connection between the Library's website and OverDrive. Or if you have the OverDrive app installed on your mobile device, sign into that. 
+<br />
+<br />
+
+**Do you owe over $50.00 in fines and late fees?**<br />
+Check your [account balance](/myaccount/funds "Account balance"). If you need to pay your balance down to under $50, you may pay online by selecting that button under the amount you owe. 
+<br />
+<br />
+
+</div>
+<div class="col-md-6">
+
+**When was the last time you renewed your library card?**<br />
+Your library card needs to be renewed every three years. The expiration date is written on your library card. Just stop by the Welcome Desk to renew your card. 
+
+If you live in another town, e-Books and other digital content are limited to Darien residents. Check your home library to see if they have OverDrive. Many Connecticut libraries do! 
+<br />
+<br />
+
+**I still can't access e-Books.**<br />
+We can help. Call the Help Desk at [203-669-5238](tel:203-669-5238 "Help Desk") or send us an email at [helpdesk@darienlibrary.org](mailto:helpdesk@darienlibrary.org "Help Desk"). 
+
+</div>
 </div>
 </div>
