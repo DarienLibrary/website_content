@@ -151,7 +151,7 @@ Get the best of British and Australian TV via Acorn TV. You will need to create 
 
 [View the RBdigital Catalog](https://dar.to/2oY1hgj "RBdigital")
 
-Enjoy online access to 30+ downloadable magazines. You can read magazines on your computer or download the _RBdigital_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://dar.to/2oY1hgj "Online magazines") to select your next magazine.
+Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can read magazines on your computer or download the _RBdigital_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://dar.to/2oY1hgj "Online magazines") to select your next magazine.
 
 * e-Magazines
 
