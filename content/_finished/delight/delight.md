@@ -35,7 +35,6 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 </div>
 
 * [Bookpage](https://dar.to/2J57heY "BookPage"): Stay up to date on the latest in publishing. 
-* [National Emergency Library](https://dar.to/2Jk192y "National Emergency Library"): Instantly borrow over 1.4 million books via the Internet Archive.
 * [Project Gutenberg](https://dar.to/2J4EfME "Project Gutenberg"): Download and keep forever over 60,000 public domain books.
 * [Project Muse](https://dar.to/2J62da2 "Project Muse"): Scholarly books from top academic publishers.
 <br />
