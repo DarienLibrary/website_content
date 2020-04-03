@@ -35,6 +35,7 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 </div>
 
 * [Bookpage](https://dar.to/2J57heY "BookPage"): Stay up to date on the latest in publishing. 
+* [Goodnight with Dolly](https://dar.to/2R4u13a "Goodnight with Dolly"): Let Dolly Parton read your child a bedtime story on Thursdays at 7 p.m. EST. 
 * [Project Gutenberg](https://dar.to/2J4EfME "Project Gutenberg"): Download and keep forever over 60,000 public domain books.
 * [Project Muse](https://dar.to/2J62da2 "Project Muse"): Scholarly books from top academic publishers.
 <br />
@@ -75,6 +76,7 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 * [ChickFlicks.com](https://dar.to/39cZuGA "ChickFlicks Dot Com"): Movie reviews and recommendations aimed at women.
 * [Connecticut Digital Newspaper Project](https://dar.to/33KZhJz "Connecticut Digital Newspaper Project"): Great for genealogists and history lovers. 
 * [Darien Library's Tumblr](https://dar.to/2lr3WbG "Darien Library's Tumblr"): Mia has brought us out of hibernation! Send her some asks. 
+* [Family History Webinars](https://dar.to/39Ev5B2 "Family History Webinars"): Enjoy free genealogy classes from FamilySearch in April.
 * [Monterey Bay Aquarium's Webcams](https://dar.to/33CksgF "Monterey Bay Aquarium's Webcams"): Feel the stress melt away while watching animals swim and play.
 * [#StayHomeWriMo](https://dar.to/3amAr5d "Stay Home WriMo"): You love NaNoWriMo, they're now here "to help your physical, mental, social, and creative well-being."
 <br />
