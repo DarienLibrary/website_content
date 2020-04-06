@@ -5,45 +5,47 @@ Darien Library takes the health and safety of our patrons and staff very serious
 <div class="row">
 <div class="col-md-6">
 
-### Darien Library Closed
+### Darien Library is Closed
 We are closed until further notice due to the coronavirus outbreak.
-<br />
-<br />
+Governor Lamont is telling Connecticut residents to "Stay Safe, Stay Home." All non-essential workers statewide are being directed to work from home, effective Monday, March 23rd at 8 p.m.
 
-### All Programs Cancelled
-Governor Lamont called for large events to be cancelled to help prevent the spread of the coronavirus in Connecticut. After consulting with First Selectman Jayme Stevenson, the Darien Health Department, and our Board, we have decided to cancel all programs effective immediately. This includes postponing the Novel Tea fundraiser. We will share updates for those attendees in the near future. 
-
-Tax Preparation and Assistance will continue as it is a service when the Library reopens. [See upcoming dates](https://dar.to/2RoWmhV "See upcoming dates") on Mondays, Fridays, and Saturdays.
-<br />
 <br />
 
-### Action Plan
-Any patrons who are experiencing symptoms of the virus (fever, cough, shortness of breath) are encouraged to seek medical attention immediately. When we reopen, to protect other patrons and staff, visitors who exhibit these symptoms will be asked to leave the Library and return when fully recovered.
+### Coronavirus: Social Distancing
+In the following PSA explains the importance of social distancing to stop the spread of the Coronavirus.
 
-The entire Library is cleaned thoroughly every day, and our cleaners will also take extra care while wiping down door handles, elevator buttons, push bars, and other public surfaces. 
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/wKX1PQTz5_M' frameborder='0' allowfullscreen></iframe></div>
+
+<br />
 <br />
 </div>
 <div class="col-md-6">
 
-### Library From Home
-If you're unable to visit the Library for any reason, we'd like to remind you of all the great resources that you can access from the comfort of home.
-
-* Borrow books, movies, music, and TV shows at [Digital Darien](https://dar.to/32O06km "Digital Darien")*
-* Research topics through our [online databases](https://dar.to/2DPWlSg "Online databases")
-* [Watch recordings of events](https://dar.to/2zNWVxW "Watch recordings of events") (if we have permission to film)
-
-As always, our reference staff can answer research questions. You may call the reference desk at [203-669-5236](tel:2036695236 "Call the Reference Desk") or send an [email](mailto:askus@darienlibrary.org "Email the Reference Desk").
-<br />
-<br />
 
 ### Learn More About the Coronavirus
+There is a lot of misinformation being spread about Coronavirus, so please consider the sources of information. Below, we have a list of trusted and dependable resources for Coronavirus information from the Center for Disease Control and Prevention (CDC).
 
-* [Darien Health Department](https://dar.to/33MRWc1 "Darien Health Department")
+* [Symptoms of the Coronavirus](https://dar.to/3dwctX7 "Symptoms of the Coronavirus")
+* [Steps to prevent illness](https://dar.to/2wy6lgF "Steps to prevent illness")
+* [What to do if you are sick](https://dar.to/2vTsa9T "What to do if you are sick")
+* [Adults 65 years and older](https://dar.to/3dxEair "Older adults and Coronavirus") are at greater risk for Coronavirus
+* The CDC's [Frequently Asked Questions](https://dar.to/2wXfa33 "Coronavirus FAQ") about Coronavirus
+
+As always, our reference staff can answer research questions. You may call the reference desk Monday - Friday from 10 a.m. to 2 p.m. at [203-669-5236](tel:2036695236 "Call the Reference Desk") or send an [email](mailto:askus@darienlibrary.org "Email the Reference Desk").
+<br />
+<br />
+
+### Additional Resources
+
 * [Connecticut State Department of Health](https://dar.to/2TCL269 "Connecticut State Department of Health")
-* [Center for Disease Control](https://dar.to/2TCeIA8 "Center for Disease Control")
-* [If someone in your home tests positive](https://dar.to/38H2NWo "If someone in your home tests positive")
-* [Techniques to help prevent the spread of germs](https://dar.to/3aoKAhh "Techniques to help prevent the spread of germs")
+* [Darien Health Department](https://dar.to/33MRWc1 "Darien Health Department")
+* [Darien Restaurants](https://dar.to/2JsCWat "Darien Restaurants Still Serving") offering take-out, delivery, and curbside service (updated March 31)
+* [National Institutes of Health Coronavirus Research](https://dar.to/2Ul7HV4 "NIH Coronavirus Research")
+* Caregiving for [elderly family members](https://dar.to/39jJOS3 "Caring for elderly family members")
+* What to do [if someone in your home tests positive](https://dar.to/38H2NWo "If someone in your home tests positive")
 * [NPR's comic](https://dar.to/38v9smk "NPR's comic") on the Coronavirus for kids
+* FEMA's [Coronavirus Rumor Control](https://dar.to/345D5tI "Coronavirus Rumor Control")
+* Small Business [Guidance and Loan Resources](https://dar.to/3bP1LcQ "SBA Guidance and Loan Resources")
 
 </div>
 </div>
