@@ -118,7 +118,7 @@ Coronavirus News<br />
 <div class="col-md-8">
 
 ## News and Info
-We've gone fully digital. While Darien Library is closed until further notice due to the coronavirus outbreak ([view our coronavirus page for more information](https://dar.to/2vDwjid "View our coronavirus page for more information")), we have a trove of great resources to keep you informed and entertained. 
+We've gone fully digital. While Darien Library is closed until further notice due to the coronavirus outbreak, we have a trove of great resources to keep you informed and entertained. 
 
 Please keep checked out items until we reopen as our book drop is closed. No late fines will incur until we reopen. 
 

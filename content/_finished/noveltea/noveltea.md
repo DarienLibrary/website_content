@@ -1,3 +1,9 @@
+<h3 style="color:red;">Postponed: The Novel Tea</h3>
+
+The Novel Tea scheduled for March 25th has been postponed. We will update all ticket holders when we have secured a new date. Please contact the Administrative Office with any questions at [203-669-5220](tel:2036695220 "Call the Administrative Office"). Thank you!
+<br />
+<br />
+
 <div class="row margin-bottom">
 <div class="col-md-8">
 <div class="row">
@@ -7,7 +13,7 @@
 
 <br />
 
-**Wednesday, March 25th from 11 a.m. to 2 p.m.**<br />
+**To Be Rescheduled**<br />
 Wee Burn Country Club<br />
 410 Hollow Tree Ridge Rd, Darien, CT
 
