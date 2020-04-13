@@ -9,7 +9,7 @@ Our Knowledge and Learning Services librarians have curated the following most h
 * For general information, [call 211](tel:211 "Call 211") or [visit the 211 website](https://dar.to/2QEumsV "Visit the 211 website").
 * If you are a vulnerable Senior in need of support, call Darien Human Services to be added to the Emergency Call List: [203-656-7328](tel:2036567328 "Call Darien Human Services").
 If you’re a Senior in need of a ride or other service, contact [At Home in Darien](https://dar.to/2TTzBpd "At Home in Darien"): [203-655-2227](tel:2036552227 "Call At Home in Darien"). 
-* For food options in Darien, see the [Town of Darien COVID-19 Update Page](https://dar.to/2Uw0eRJ "Town of Darien COVID-19 Update Page").
+* For food options in Darien, see the [Darien Chamber of Commerce](https://dar.to/2RisRkI "Darien Chamber of Commerce") website.
 * [Emergency Food Resources in Fairfield County](https://dar.to/2WIBit6 "Emergency Food Resources in Fairfield County") (Word document)
 * [Shelter in place advice](https://dar.to/39jJOS3 "Shelter in place advice") for those caring for elderly loved ones. 
 <br />
@@ -63,6 +63,8 @@ See our [Business and Investing databases](https://dar.to/2TiCDmw "Business and 
 Check the [UConn Extension Service](https://dar.to/2wFLE2f "UConn Extension Service") for COVID-19 resources for Connecticut farmers, businesses, and consumers. 
 
 The State of Connecticut Department of Economic and Community Development has created an emergency response small businesses unit. For specific questions related to Connecticut small business, email the Joint Information Center at [COVID19.JIC@ct.gov](mailto:COVID19.JIC@ct.gov "Email the Joint Information Center"), or call the DECD Small Business Hotline at [860-500-2333](tel:8605002333 "Call the DECD Small Business Hotline").
+
+The Small Business Association created these [Guidance and Loan Resources](https://dar.to/3bP1LcQ "SBA Guidance and Loan Resources") for small businesses.
 
 Read information from the [Women’s Business Development Council](https://dar.to/2wDvHcH "Women’s Business Development Council") for small  businesses.
 </div>
