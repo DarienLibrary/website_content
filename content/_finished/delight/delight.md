@@ -36,6 +36,7 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 
 * [Bookpage](https://dar.to/2J57heY "BookPage"): Stay up to date on the latest in publishing. 
 * [Goodnight with Dolly](https://dar.to/2R4u13a "Goodnight with Dolly"): Let Dolly Parton read your child a bedtime story on Thursdays at 7 p.m. EST. 
+* [Library of Congress](https://dar.to/2yY1EgS "Library of Congress"): Shares ways to engage with their resources.
 * [Project Gutenberg](https://dar.to/2J4EfME "Project Gutenberg"): Download and keep forever over 60,000 public domain books.
 * [Project Muse](https://dar.to/2J62da2 "Project Muse"): Scholarly books from top academic publishers.
 <br />
@@ -56,6 +57,7 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 
 * [The Austin 100](https://dar.to/39eCxCQ "The Austin 100"): NPR's picks from musicians that were scheduled to perform at SXSW Music Fest. (Listener discretion may be advised)
 * [Berlin Philharmonic](https://dar.to/3a7Bfeh "Berlin Philharmonic"): Use the code BERLINPHIL to enjoy free recordings through March 31st.
+* [Stamford Symphony](https://dar.to/3aeClnw "Stamford Symphony"): Watch videos from our local musicians. 
 * [Vancouver Symphony](https://dar.to/2U8SS7C "Vancouver Symphony"): BeethovenFest Finale with his Piano Concerto No. 4 and Symphony No. 6 "Pastorale."
 <br />
 
@@ -111,7 +113,7 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 </div>
 </div>
 </div>
-
+* [NYPL Building Inspector](https://dar.to/2ym51O8 "NYPL Building Inspector"): Help identify NYC buildings on old maps.
 * [Transcribe Rare Items](https://dar.to/2xsFm5T "Transcrbe Rare Items"): Help share the treasures of the Library of Congress.
 <br />
 
@@ -148,6 +150,7 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 </div>
 </div>
 
+* [Andrew Lloyd Webber](https://dar.to/2xi2KUl "Andrew Lloyd Webber"): Each week, a new show is shown for free. 
 * [Broadway HD](https://dar.to/3a8Ujc2 "Broadway HD"): They're offering a seven-day free trial of 300+ shows. Be sure to cancel before the week is up.
 * [Nightly Met Opera Streams](https://dar.to/3a7AzFL "Nightly Met Opera Streams"): Enjoy encore presentations of favorite Met concerts.
 * [Royal Opera House: London](https://dar.to/2J39veH "Royal Opera House: London"): Offering selections from their shows.
