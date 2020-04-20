@@ -58,6 +58,8 @@ Learn how to [spot COVID-19 scammers](https://dar.to/2QKDnRo "spot COVID-19 scam
 <div class="col-md-6">
 
 ### Financial Help
+How non-filers can apply for the [Economic Impact Payment/Stimulus check](https://dar.to/3b6qV6J "Economic Impact Payment/Stimulus check").
+
 See our [Business and Investing databases](https://dar.to/2TiCDmw "Business and Investing databases"). As well, [Value Line](https://dar.to/3dmKiKj "Value Line") can now be accessed from the comfort of your home.
 
 Check the [UConn Extension Service](https://dar.to/2wFLE2f "UConn Extension Service") for COVID-19 resources for Connecticut farmers, businesses, and consumers. 
