@@ -1,4 +1,4 @@
-<<div class="row margin-bottom-30">
+<div class="row margin-bottom-30">
 <div class="col-xs-7 col-md-9">
 
 To help us stay connected during these times, Darien Library presents "Connected Community" — fun videos made by you and your neighbors to help us stay connected.
@@ -17,6 +17,21 @@ If you'd like to send in your video, please [email Krishna](mailto:kgrady@darien
 <div class="row">
 <div class="col-md-6">
 
+### Fairy Houses
+Catherine shares how to make fairy houses -- using the materials in your yard.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/411474258?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<br />
+
+
+### One Pot Italian Pasta
+Reed shares how to make pasta in just one pot. [View the recipe](https://dar.to/2yAjhmQ "View the recipe")
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/410187025?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<br />
+
 ### Ratatouille Over Creamy Polenta
 Reed shares how to make a modified Ratatouille with a Creamy Polenta.
 
@@ -24,21 +39,21 @@ Reed shares how to make a modified Ratatouille with a Creamy Polenta.
 
 <br />
 
+</div>
+<div class="col-md-6">
+
 ### Buttermilk Biscuits
 Tina shares how to make delicious biscuits without buttermilk. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/407689287?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <br />
-</div>
-<div class="col-md-6">
+
 
 ### DIY Face Mask
 Nadira shares how to make a DIY face mask. 
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/405864258?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-<br />
-<br />
 
 </div>
 </div>

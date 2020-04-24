@@ -32,6 +32,7 @@ Elena Whidden
 
 ### Terms Expiring 2022
 Mike Cippoletti<br />
+Allegra Erickson<br />
 Millyn Gaaserud<br />
 Karen S. Knapp<br />
 Rich Maier<br />
