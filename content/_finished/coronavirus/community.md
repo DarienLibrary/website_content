@@ -12,13 +12,14 @@ If you’re a Senior in need of a ride or other service, contact [At Home in Dar
 * For food options in Darien, see the [Darien Chamber of Commerce](https://dar.to/2RisRkI "Darien Chamber of Commerce") website.
 * [Emergency Food Resources in Fairfield County](https://dar.to/2WIBit6 "Emergency Food Resources in Fairfield County") (Word document)
 * [Shelter in place advice](https://dar.to/39jJOS3 "Shelter in place advice") for those caring for elderly loved ones. 
+* Coronavirus [Resources for People with Disabilities](https://dar.to/2x6oQJ7 "Resources for People with Disabilities")
 <br />
 
 </div>
 <div class="col-md-6">
 
 ### Give Help
-* [Neighbors in Need Emergency Assistance Fund](https://dar.to/2Ug81UO "Neighbors in Need Emergency Assistance Fund") helps people in our community by providing healthy food, rental, and utility assistance.
+* [Neighbors in Need Emergency Assistance Fund](https://dar.to/33MDzFd "Neighbors in Need Emergency Assistance Fund") helps people in our community by providing healthy food, rental, and utility assistance.
 * [Touch a Life](https://dar.to/33JK1MU "Touch a Life") from The Community Fund of Darien
 * [United Way's](https://dar.to/2UggG9P "United Way") Emergency Food Response Volunteers program
 * [Foodshare](https://dar.to/2JfttmG "Foodshare")
@@ -35,9 +36,11 @@ If you’re a Senior in need of a ride or other service, contact [At Home in Dar
 <div class="col-md-6">
 
 ### Employment Help
-If you become unemployed due to coronavirus, you should [file for unemployment benefits](https://dar.to/2WPwTER "File for unemployment benefits") through Connecticut's Department of Labor. [Read frequently asked questions](https://dar.to/2UEPzV1 "Read FAQs") about the coronavirus for workers and employers. 
+If you become unemployed due to coronavirus, you should [file for unemployment benefits](https://dar.to/3bwlrT1 "File for unemployment benefits") through Connecticut's Department of Labor. [Read frequently asked questions](https://dar.to/2UEPzV1 "Read FAQs") about the coronavirus for workers and employers.
 
 Additional information about [unemployment benefits for furloughed employees](https://dar.to/2QK2wvC "Unemployment benefits for furloughed employees") is available from the U.S. Office of Personnel Management (OPM). 
+
+You can also [work with a career coach](https://dar.to/3cDMuf7 "work with a career coach") through the Goodwill Career Center to get help planning your next steps.  
 
 Read tips on [_"Between Jobs: Moving Forward Following Unemployment"_](https://dar.to/2QNbqs9 "Between Jobs: Moving Forward Following Unemployment")
 <br />
@@ -63,6 +66,8 @@ How non-filers can apply for the [Economic Impact Payment/Stimulus check](https:
 See our [Business and Investing databases](https://dar.to/2TiCDmw "Business and Investing databases"). As well, [Value Line](https://dar.to/3dmKiKj "Value Line") can now be accessed from the comfort of your home.
 
 Check the [UConn Extension Service](https://dar.to/2wFLE2f "UConn Extension Service") for COVID-19 resources for Connecticut farmers, businesses, and consumers. 
+
+View a list of financial resources for [troops and veterans](https://dar.to/2yzfciI "Troops and veterans").
 
 The State of Connecticut Department of Economic and Community Development has created an emergency response small businesses unit. For specific questions related to Connecticut small business, email the Joint Information Center at [COVID19.JIC@ct.gov](mailto:COVID19.JIC@ct.gov "Email the Joint Information Center"), or call the DECD Small Business Hotline at [860-500-2333](tel:8605002333 "Call the DECD Small Business Hotline").
 

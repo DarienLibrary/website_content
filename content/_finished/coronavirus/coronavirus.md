@@ -13,10 +13,11 @@ Please see our [Community Resources](https://dar.to/39LEtmA "Darien Community Re
 
 <br />
 
-### CDC Recommendations for a No-Sew Mask
-In the following video, the US Surgeon General shows an easy way to use the cloth from a t-shirt to make a no-sew mask. For more detailed sewing and no-sew instructions, visit the [CDC website](https://dar.to/2yIfeVt "CDC mask guidelines")
+### Can COVID-19 last on surfaces and in the air?
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//tPx1yqvJgf4' frameborder='0' allowfullscreen></iframe></div>
+In the following video, Dr. John Brooks, CDC’s Chief Medical Officer for the COVID-19 response, answers a key question about the novel coronavirus outbreak. 
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//lQvhoFMdXJo' frameborder='0' allowfullscreen></iframe></div>
 
 <br />
 <br />
@@ -44,8 +45,9 @@ As always, our reference staff can answer research questions. You may call the r
 * [National Institutes of Health Coronavirus Research](https://dar.to/2Ul7HV4 "NIH Coronavirus Research")
 * Caregiving for [elderly family members](https://dar.to/39jJOS3 "Caring for elderly family members")
 * What to do [if someone in your home tests positive](https://dar.to/38H2NWo "If someone in your home tests positive")
-* [NPR's comic](https://dar.to/38v9smk "NPR's comic") on the Coronavirus for kids
+* Advice on [running essential errands](https://dar.to/2wVEmr9 "running essential errands") from the CDC
 * FEMA's [Coronavirus Rumor Control](https://dar.to/345D5tI "Coronavirus Rumor Control")
+* Compare Connecticut or Fairfield County's [potential Coronavirus impact](https://dar.to/2yFWAO5 "Census Coronavirus Impact") to other parts of the United States using Census data.
 
 </div>
 </div>
