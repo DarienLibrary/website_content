@@ -155,12 +155,12 @@ Youth Services Blog<br />
 <div class="tab-v1">
 <ul class="nav nav-tabs">
 <li style="background-color:#f4304e;"><a href="#monday" data-toggle="tab" style="color:#fff;"><i class="fa fa-search fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Monday</a></li>
-<li style="background-color:#EB9C36; border-left: 2px solid #fff;"><a href="#tuesday" data-toggle="tab" style="color:#fff;"><i class="fa fa-bicycle fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Tuesday</a></li>
-<li style="background-color:#e2c000; border-left: 2px solid #fff;"><a href="#wednesday" data-toggle="tab" style="color:#fff;"><i class="fa fa-book fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Wednesday</a></li>
-<li style="background-color:#5ca02b; border-left: 2px solid #fff;"><a href="#thursday" data-toggle="tab" style="color:#fff;"><i class="fa fa-exclamation-triangle fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Thursday</a></li>
-<li style="background-color:#008BCA; border-left: 2px solid #fff;"><a href="#friday" data-toggle="tab" style="color:#fff;"><i class="fa fa-flask fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Friday</a></li>
-<li style="background-color:#5a43db; border-left: 2px solid #fff;"><a href="#saturday" data-toggle="tab" style="color:#fff;"><i class="fa fa-user fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Saturday</a></li>
-<li style="background-color:#a45bd8; border-left: 2px solid #fff;"><a href="#sunday" data-toggle="tab" style="color:#fff;"><i class="fa fa-user fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Sunday</a></li>
+<li style="background-color:#EB9C36; border-left: 2px solid #fff;"><a href="#tuesday" data-toggle="tab" style="color:#fff;">Tuesday</a></li>
+<li style="background-color:#e2c000; border-left: 2px solid #fff;"><a href="#wednesday" data-toggle="tab" style="color:#fff;">Wednesday</a></li>
+<li style="background-color:#5ca02b; border-left: 2px solid #fff;"><a href="#thursday" data-toggle="tab" style="color:#fff;">Thursday</a></li>
+<li style="background-color:#008BCA; border-left: 2px solid #fff;"><a href="#friday" data-toggle="tab" style="color:#fff;">Friday</a></li>
+<li style="background-color:#5a43db; border-left: 2px solid #fff;"><a href="#saturday" data-toggle="tab" style="color:#fff;">Saturday</a></li>
+<li style="background-color:#a45bd8; border-left: 2px solid #fff;"><a href="#sunday" data-toggle="tab" style="color:#fff;">Sunday</a></li>
 </ul>
 <div class="tab-content">
 
