@@ -27,7 +27,7 @@ Get a Library Card<br />
 <div class="col-xs-6 col-md-2">
 <div class="row">
 <div class="col-xs-12 col-sm-12 col-md-12" style="text-align:center;">
-<a style="text-decoration:none; font-weight:bold;" href="https://dar.to/2wtxmld">
+<a style="text-decoration:none; font-weight:bold;" href="https://dar.to/2pZuw14">
 <div class="row">
 <div class="col-md-12">
 <i class="fa fa-envelope fa-2x" style="color:#08728c;" aria-hidden="true"></i><br />
@@ -50,7 +50,7 @@ Sign Up for Emails<br />
 <div class="col-xs-6 col-md-2">
 <div class="row">
 <div class="col-xs-12 col-sm-12 col-md-12" style="text-align:center;">
-<a style="text-decoration:none; font-weight:bold;" href="https://dar.to/2wtxmld">
+<a style="text-decoration:none; font-weight:bold;" href="https://dar.to/2nrkYfw">
 <div class="row">
 <div class="col-md-12">
 <i class="fa fa-calendar fa-2x" style="color:#08728c;" aria-hidden="true"></i><br />
@@ -73,7 +73,7 @@ Kid Events<br />
 <div class="col-xs-6 col-md-2">
 <div class="row">
 <div class="col-xs-12 col-sm-12 col-md-12" style="text-align:center;">
-<a style="text-decoration:none; font-weight:bold;" href="https://dar.to/2wtxmld">
+<a style="text-decoration:none; font-weight:bold;" href="https://dar.to/2p1Ct2V">
 <div class="row">
 <div class="col-md-12">
 <i class="fa fa-calendar fa-2x" style="color:#08728c;" aria-hidden="true"></i><br />
