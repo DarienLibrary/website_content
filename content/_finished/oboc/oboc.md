@@ -1,19 +1,20 @@
 <div class="row">
 <div class="col-md-4">
-<h2 style="color: #894C52;">Mary Shelley's <em>Frankenstein</em></h2>
-<p>This June, celebrate the legacy of <em>Frankenstein</em> with your neighbors and friends. We have selected this title as our One Book, One Community read. Mary Shelley's Frankenstein is a pop culture touchstone which also caused the science fiction and monster genres to take off.</p>
+<h2 style="color: #8c3038;">Mary Shelley's <em>Frankenstein</em></h2>
+<p>This June, celebrate the legacy of <em>Frankenstein</em> with your neighbors and friends. We have selected this title as our One Book, One Community read. Mary Shelley's <em>Frankenstein</em> is a pop culture touchstone which also caused the science fiction and monster genres to take off.</p>
 <p>We'll provide guidance for how you can explore the tale and its impact on culture in whatever way you choose. You'll enjoy a custom tailored journey that'll let you experience <em>Frankenstein</em> your way.</p>
 <br />
-<!--
+
 <h3>Choose Your Journey</h3>
 <ul>
-<li><a href="#mary" style="text-decoration:none;">Beneath the Skin</a></li>
-<li><a href="#percy" style="text-decoration:none;">Short on Time</a></li>
-<li><a href="#byron" style="text-decoration:none;">Pop Culture & Films</a></li>
-<li><a href="#claire" style="text-decoration:none;">Franken, Jr.</a></li>
-<li><a href="#john" style="text-decoration:none;">FrankenTEENS</a></li>
+<li><a href="#mary" style="text-decoration:none; color: #8c3038; font-weight: bold;">Beneath the Skin</a></li>
+<li><a href="#percy" style="text-decoration:none;color: #8c3038;font-weight: bold;">Short on Time</a></li>
+<li><a href="#byron" style="text-decoration:none;color: #8c3038;font-weight: bold;">Pop Culture & Films</a></li>
+<li><a href="#claire" style="text-decoration:none;color: #8c3038;font-weight: bold;">Franken Jr.</a></li>
+<li><a href="#john" style="text-decoration:none;color: #8c3038;font-weight: bold;">FrankenTEENS</a></li>
 </ul>
--->
+<br />
+
 </div>
 <div class="col-md-8">
 <div class="row">
@@ -67,7 +68,7 @@
 <div class="col-md-12">
 <div class="row" style="margin-top:20px;">
 <div class="col-md-1">
-<i class="fa fa-star fa-3x" style="color:#40639b;" aria-hidden="true"></i>
+<i class="fa fa-pencil fa-3x" style="color:#40639b;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
 <h2 style="color: #40639b;">How It All Began</h2>
@@ -78,8 +79,8 @@
 </div>
 <div class="row">
 <div class="col-md-6">
-<p>The year is 1816. It's the Year Without A Summer after the erruption of Mount Tambora in Indonesia blots out the sun the previous year. Fog covers Europe. Crops fail. Famine sweeps the Northern Hemisphere. Around 100,000 perish around the world. It's the greatest volcanic disaster in recorded human history.</p>
-<p>Meanwhile in a rented property in Switzerland, the weather is stormy. Lord Byron and his doctor, John Polidori, are entertaining three guests: Mary Godwin, Percy Blythe Shelley, and Claire Clairmont. The relationships are strained throughout the house. Eighteen-year-old Mary is grieving the loss of her premature daughter and has unlawfully eloped with the married Percy. Claire, Mary's stepsister, has a history with Byron. He doesn't want the reminder.</p> 
+<p>The year is 1816. It's the Year Without A Summer after the eruption of Mount Tambora the previous year blots out the sun. Fog covers Europe. Crops fail. Famine sweeps the Northern Hemisphere. Around 100,000 perish around the world. It's the most powerful volcanic eruption in recorded human history.</p>
+<p>Meanwhile in a rented property in Switzerland, the weather is stormy. <a href="https://dar.to/2WGjZbr" style="text-decoration: none;">Lord Byron</a> and his doctor, <a href="https://dar.to/2LCuuq5" style="text-decoration: none;">John Polidori</a>, are entertaining three guests: <a href="https://dar.to/36ebVCe" style="text-decoration: none;">Mary Godwin</a>, <a href="https://dar.to/3bHrAej" style="text-decoration: none;">Percy Bysshe Shelley</a>, and <a href="https://dar.to/2zSTUgn" style="text-decoration: none;">Claire Clairmont</a>. The relationships are strained throughout the house. Eighteen-year-old Mary is grieving the loss of her premature daughter and has unlawfully eloped with the married Percy. Claire, Mary's stepsister, has a history with Byron. He doesn't want the reminder.</p> 
 <p>While stuck indoors that June 16th, Lord Byron proposes a challenge to Mary, Percy, and John: write a ghost story. In those dark days, Mary changes the world forever as she writes <em>Frankenstein; or, The Modern Prometheus</em>. It is the birth of a new literary genre: science fiction.</p> 
 <br />
 <h3>Further Reading</h3>
@@ -98,7 +99,7 @@ Night waned upon this talk, and even the witching hour had gone by before we ret
 <blockquote>
 I saw – with shut eyes, but acute mental vision – I saw the pale student of the unhallowed arts kneeling beside the thing he had put together. I saw the hideous phantasm of a man stretched out, and then, on the working of some powerful engine show signs of life and stir with an uneasy, half-vital motion …
 </blockquote>
-<p>John writes <em>The Vampyre</em>, which later inspires Bram Stoker's <em>Dracula</em>.</p>
+<p>John writes <em><a href="https://dar.to/2LDnAAX" style="text-decoration: none;">The Vampyre</a></em>, which later inspires Bram Stoker's <em>Dracula</em>.</p>
 <br />
 
 </div>
@@ -130,7 +131,7 @@ I saw – with shut eyes, but acute mental vision – I saw the pale student of 
 <i class="fa fa-birthday-cake fa-2x" style="color:#08728c;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
-<h4><a href="https://dar.to/2Zf9Fc6">Two Centuries of Frankenstein</a></h4>
+<h4><a href="https://dar.to/2Zf9Fc6">Two Centuries of <em>Frankenstein</em></a></h4>
 </div>
 </div>
 
@@ -150,7 +151,7 @@ Join film historian Max Alvarez for this compelling audiovisual journey in which
 </div>
 
 **Wednesday, June 17th at 7 p.m.**<br />
-Carroll Stenson leads a literary exploration of the themes of the novel.
+Carroll Stenson (of Short Stories for Short/Long Days) leads a literary exploration of the themes of the novel. What can we learn from the monster?
 <br />
 <br />
 </div>
@@ -242,35 +243,57 @@ Carroll Stenson leads a literary exploration of the themes of the novel.
 
 </div>
 </div>
+
 <div class="row">
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-4">
+<a href="https://dar.to/3dMzQLx"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/kenneth_branagh.jpg" alt="Kenneth Branagh" /></a>
+</div>
+<div class="col-md-8">
 
 <h4><a href="https://dar.to/3dMzQLx"><em>Frankenstein: Abridged</em></a></h4>
 Read by Kenneth Branagh (3 hours)
 
 <br />
-<br />
+</div>
+</div>
 </div>
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-4">
+<a href="https://dar.to/2X4ZX9C"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/sparknotes.jpg" alt="Sparknotes" /></a>
+</div>
+<div class="col-md-8">
+
+<h4><a href="https://dar.to/2X4ZX9C"><em>Sparknotes: Frankenstein</em></a></h4>
+Quickly get caught up with chapter by chapter summaries.
+<br />
+</div>
+</div>
+</div>
+<div class="col-md-4">
+<div class="row">
+<div class="col-md-4">
+<a href="https://dar.to/2Z7GOqj"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/classic_starts.jpg" alt="MODDI" /></a>
+</div>
+<div class="col-md-8">
 
 <h4><a href="https://dar.to/2Z7GOqj"><em>Frankenstein: Unabridged</em></a></h4>
-Read by Rebecca K. Reynolds (2.5 hours); for kids. <a href="https://dar.to/2AynPuS">e-Book version</a>is available
-
-<br />
+Read by Rebecca K. Reynolds (2.5 hours); for kids. <br />
+<a href="https://dar.to/2AynPuS">e-Book version</a> is available
 <br />
 </div>
-<div class="col-md-4">
-
-
-<h4><a href="https://dar.to/2X4ZX9C "><em>Sparknotes: Frankenstein</em></a></h4>
-<br />
-<br />
-
-</div>		
 </div>
+</div>
+</div>
+<br />
+
 
 </div>
 </div>
+
+
 
 
 <div class="row" style="border-right: 5px solid #5c81b8; border-bottom: 5px solid #896d9d; padding-top:5px; padding-bottom:25px;">
@@ -294,7 +317,7 @@ Read by Rebecca K. Reynolds (2.5 hours); for kids. <a href="https://dar.to/2AynP
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2KgPh2W"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/apollo_13_movie.jpg" alt="Illustrated by Jason Ho" /></a>
+<a href="https://dar.to/2XeXw4H"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/jason_ho.jpeg" alt="Illustrated by Jason Ho" /></a>
 </div>
 <div class="col-md-8">
 
@@ -308,7 +331,7 @@ Illustrated by Jason Ho
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/30Qz4Y6"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/martian_movie.jpg" alt="By Eric Jackson" /></a>
+<a href="https://dar.to/3dO3G21"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/eric_jackson.jpeg" alt="By Eric Jackson" /></a>
 </div>
 <div class="col-md-8">
 
@@ -321,12 +344,12 @@ By Eric Jackson
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2MuNN7Q"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/indepedence_day_movie.jpg" alt="Grand Archives" /></a>
+<a href="https://dar.to/2AFUpuP"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/moddi.jpg" alt="MODDI" /></a>
 </div>
 <div class="col-md-8">
 
-<h4><a href="https://dar.to/2WZccVj">Keep In Mind Frankenstein</a></h4>
-Music by Grand Archives
+<h4><a href="https://dar.to/2AFUpuP">"Music for Frankenstein"</a></h4>
+Music by MODDI
 <br />
 </div>
 </div>
@@ -337,7 +360,7 @@ Music by Grand Archives
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2JOqUKL"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/men_in_black_movie.jpg" alt="Men in Black" /></a>
+<a href="https://dar.to/3dQiEVi"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/miniseries.jpeg" alt="Men in Black" /></a>
 </div>
 <div class="col-md-8">
 
@@ -350,7 +373,7 @@ Starring Luke Goss, Alec Newman, William Hurt, Donald Sutherland, Julie Delpy
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2EI1XfG"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/galaxy_quest_movie.jpg" alt="Edison" /></a>
+<a href="https://dar.to/2T9FuiV"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/1910.jpg" alt="Edison" /></a>
 </div>
 <div class="col-md-8">
 
@@ -363,11 +386,12 @@ By the Edison Manufacturing Company
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2WghdeK"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/spaceballs_movie.jpg" alt="Frankenstein Theory" /></a>
+<a href="https://dar.to/3fPDtlE"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/theory.jpg" alt="Frankenstein Theory" /></a>
 </div>
 <div class="col-md-8">
 
 <h4><a href="https://dar.to/3fPDtlE">"Frankenstein Theory"</a></h4>
+Starring Kris Lemche, Joe Egender, Timothy V. Murphy, Eric Zuckerman
 <br />
 </div>
 </div>
@@ -378,11 +402,12 @@ By the Edison Manufacturing Company
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2EHVeCj"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/hitchikers_guide_movie.jpg" alt="Horror of Frankenstein" /></a>
+<a href="https://dar.to/2WZFyD0"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/horror.jpg" alt="Horror of Frankenstein" /></a>
 </div>
 <div class="col-md-8">
 
 <h4><a href="https://dar.to/2WZFyD0">"Horror of Frankenstein"</a></h4>
+Starring Ralph Bates, Kate O'Mara, Veronica Carlson
 <br />
 </div>
 </div>
@@ -390,11 +415,12 @@ By the Edison Manufacturing Company
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/30XroU5"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/interstellar_movie.jpg" alt="Frankenstein vs. The Mummy" /></a>
+<a href="https://dar.to/2Z76zqI"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/mummy.jpg" alt="Frankenstein vs. The Mummy" /></a>
 </div>
 <div class="col-md-8">
 
 <h4><a href="https://dar.to/2Z76zqI">"Frankenstein vs. The Mummy”</a></h4>
+Starring Ashton Leigh, Brandon DeSpain, Constantin Tripes, Max Rhyser, Robert MacNaughton
 <br />
 </div>
 </div>
@@ -402,11 +428,12 @@ By the Edison Manufacturing Company
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2QB7F7Q"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2001_space_odyssey_movie.jpg" alt="Frankenstein’s Army" /></a>
+<a href="https://dar.to/2X0FpPF"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/army.jpg" alt="Frankenstein’s Army" /></a>
 </div>
 <div class="col-md-8">
 
-<h4><a href="https://dar.to/2X0FpPF ">"Frankenstein’s Army"</a>
+<h4><a href="https://dar.to/2X0FpPF ">"Frankenstein’s Army"</a></h4>
+Starring Karel Roden, Joshua Sasse, Robert Gwilym
 <br />
 </div>
 </div>
@@ -427,7 +454,7 @@ By the Edison Manufacturing Company
 <i class="fa fa-child fa-3x" style="color:#896d9d;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
-<h2 style="color: #896d9d;"><a id="claire" style="text-decoration:none;">Franken, Jr.</a></h2>
+<h2 style="color: #896d9d;"><a id="claire" style="text-decoration:none;">Franken Jr.</a></h2>
 <br />
 </div>
 </div>
@@ -437,35 +464,60 @@ By the Edison Manufacturing Company
 
 <div class="row">
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-bolt fa-2x" style="color:#896d9d;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
 <h4><a href="https://dar.to/2X58SI8">Create a Frankendoll</a></h4>
+</div>
+</div>
 <strong>Monday, June 1st from 9 a.m. to 5 p.m.</strong><br />
-<em>All ages</em><br />
+<em>All ages</em>
+<br />
 We challenge you to put together a toy (inspired by the Frankenstein monster) using materials from around the house.
 <br />
 </div>
 <div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-flask fa-2x" style="color:#896d9d;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
 <h4><a href="https://dar.to/2WZpqS2">Dr. Frankenstein's Mad Science Bash</a></h4>
-<strong>Wednesday, June 10th from 9 a.m. to 5 p.m.</strong><br />
-<em>Ages 6 to 12</em><br />
-Join your favorite children's librarians for some simple at-home science experiments the whole family will enjoy.
+</div>
+</div>
+
+<strong>Wednesday, June 10th from 3 to 3:30 p.m.</strong><br />
+<em>Ages 6 to 12</em>
+<br />
+Join your favorite children's librarians for some simple at-home science experiments the whole family will enjoy. Registered.
 <br />
 </div>
 <div class="col-md-4">
-<h4><a href="https://dar.to/2Z3Bm7U">The Frankenstein Challenge</a></h4>	
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-male fa-2x" style="color:#896d9d;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4><a href="https://dar.to/2Z3Bm7U">The Frankenstein Challenge</a></h4>
+</div>
+</div>
+
 <strong>Monday, June 15th from 9 a.m. to 5 p.m.</strong><br />
-<em>All ages</em><br />
+<em>Ages 12 to 18</em>
+<br />
 Design a costume for a character from Mary Shelley's Frankenstein from materials that you already have in your house.
 <br />
 </div>
 </div>
 <br />
-<br />
 
 <div class="row">
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2KgPh2W"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/apollo_13_movie.jpg" alt="Disney Frankenstein" /></a>
+<a href="https://dar.to/2T4M22j"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/disney_frankenstein.jpg" alt="Disney Frankenstein" /></a>
 </div>
 <div class="col-md-8">
 
@@ -478,7 +530,7 @@ Design a costume for a character from Mary Shelley's Frankenstein from materials
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/30Qz4Y6"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/martian_movie.jpg" alt="By Anna Meriano" /></a>
+<a href="https://dar.to/2Zeqswh"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/anna_meriano.jpg" alt="By Anna Meriano" /></a>
 </div>
 <div class="col-md-8">
 
@@ -491,7 +543,7 @@ Adapted by Anna Meriano; introduction by Kwame Alexander
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2MuNN7Q"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/indepedence_day_movie.jpg" alt="Adapted by Larry Weinberg" /></a>
+<a href="https://dar.to/2Tc4vtL"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/larry_weinberg.jpeg" alt="Adapted by Larry Weinberg" /></a>
 </div>
 <div class="col-md-8">
 
@@ -507,11 +559,11 @@ Adapted by Larry Weinberg
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2JOqUKL"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/men_in_black_movie.jpg" alt="Adapted by Deanna McFadden" /></a>
+<a href="https://dar.to/2AynPuS"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/classic_starts.jpg" alt="Adapted by Deanna McFadden" /></a>
 </div>
 <div class="col-md-8">
 
-<h4><a href="https://dar.to/3dQiEVi"><em>Frankenstein</em></a></h4>
+<h4><a href="https://dar.to/2AynPuS"><em>Frankenstein</em></a></h4>
 Adapted by Deanna McFadden
 <br />
 </div>
@@ -520,7 +572,7 @@ Adapted by Deanna McFadden
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2EI1XfG"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/galaxy_quest_movie.jpg" alt="Frankenstein Makes a Sandwich" /></a>
+<a href="https://dar.to/2Z7L6hn"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/adam_rex_sandwich.png" alt="Frankenstein Makes a Sandwich" /></a>
 </div>
 <div class="col-md-8">
 
@@ -533,7 +585,7 @@ By Adam Rex
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2WghdeK"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/spaceballs_movie.jpg" alt="Frankenstein Takes the Cake" /></a>
+<a href="https://dar.to/2AvNofX"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/adam_rex_cake.png" alt="Frankenstein Takes the Cake" /></a>
 </div>
 <div class="col-md-8">
 
@@ -548,11 +600,11 @@ By Adam Rex
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2EHVeCj"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/hitchikers_guide_movie.jpg" alt="Mary Who Wrote Frankenstein" /></a>
+<a href="https://dar.to/2WZA8YL"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/linda_bailey.jpg" alt="Mary Who Wrote Frankenstein" /></a>
 </div>
 <div class="col-md-8">
 
-<h4><a href="(https://dar.to/2WZA8YL"><em>Mary Who Wrote Frankenstein</em></a></h4>
+<h4><a href="https://dar.to/2WZA8YL"><em>Mary Who Wrote Frankenstein</em></a></h4>
 By Linda Bailey
 <br />
 </div>
@@ -561,7 +613,7 @@ By Linda Bailey
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/30XroU5"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/interstellar_movie.jpg" alt="What is the Story of Frankenstein?" /></a>
+<a href="https://dar.to/3dHOaVA"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/shelia_keenan.jpg" alt="What is the Story of Frankenstein?" /></a>
 </div>
 <div class="col-md-8">
 
@@ -574,11 +626,11 @@ By Sheila Keenan
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2QB7F7Q"><img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2001_space_odyssey_movie.jpg" alt="Frankenstein: Unabridged" /></a>
+<a href="https://dar.to/2Z7GOqj"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/classic_starts.jpg" alt="Frankenstein: Unabridged" /></a>
 </div>
 <div class="col-md-8">
 
-<h4><a href="https://dar.to/2X0FpPF "><em>Frankenstein: Unabridged e-Audiobook</em></a></h4>	
+<h4><a href="https://dar.to/2Z7GOqj "><em>Frankenstein: Unabridged e-Audiobook</em></a></h4>	
 2.5 hours long
 <br />
 </div>
@@ -607,22 +659,7 @@ By Sheila Keenan
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-1">
-<i class="fa fa-book fa-2x" style="color:#896d9d;" aria-hidden="true"></i>
-</div>
-<div class="col-md-11">
-<h4><a href="https://dar.to/2TajULj">QuaranTEEN Book Group</a></h4>
-</div>
-</div>
-<strong>Wednesday, June 17th at 5 p.m.</strong><br />
-<em>Ages 12 to 18</em>
-
-<br />
-<br />
-</div>
-<div class="col-md-4">
-<div class="row">
-<div class="col-md-1">
-<i class="fa fa-question-circle fa-2x" style="color:#896d9d;" aria-hidden="true"></i>
+<i class="fa fa-question-circle fa-2x" style="color:#5a2fa2;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
 <h4><a href="https://dar.to/3fSllHV">Monster Movie Trivia</a></h4>
@@ -632,12 +669,32 @@ By Sheila Keenan
 <strong>Wednesday, June 10th at 5 p.m.</strong><br />
 <em>Ages 10 to 18</em>
 <br />
+Frankenstein isn't the only famous pop culture monster! Join us for a trivia session devoted to the big names and hidden gems of monster film history. 
+<br />
 <br />
 </div>
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-1">
-<i class="fa fa-microphone fa-2x" style="color:#896d9d;" aria-hidden="true"></i>
+<i class="fa fa-book fa-2x" style="color:#5a2fa2;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4><a href="https://dar.to/2TajULj">QuaranTEEN Book Group</a></h4>
+</div>
+</div>
+<strong>Wednesday, June 17th at 5 p.m.</strong><br />
+<em>Ages 12 to 18</em>
+
+<br />
+Join us for a digital book club! Grab a copy of Frankenstein or one of its many retellings and come talk about everyone's favorite pop culture monster. 
+<br />
+<br />
+</div>
+
+<div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
+<i class="fa fa-microphone fa-2x" style="color:#5a2fa2;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
 <h4><a href="https://dar.to/2z2G0Z1">Scary Story Open Mic</a></h4>
@@ -647,6 +704,7 @@ By Sheila Keenan
 <strong>Tuesday, June 23rd at 5 p.m.</strong><br />
 <em>Ages 12 to 18</em>
 <br />
+ Inspired by that fateful writing competition, we're encouraging teens to write their own short stories to read aloud in this online open mic.
 <br />
 </div>
 </div>
