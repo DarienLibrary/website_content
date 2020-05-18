@@ -321,7 +321,7 @@ Read by Rebecca K. Reynolds (2.5 hours); for kids. <br />
 </div>
 <div class="col-md-8">
 
-<h4><a href="https://dar.to/2XeXw4H">Graphic Novel</a></h4>
+<h4><a href="https://dar.to/2XeXw4H"><em>Frankenstein</em> Graphic Novel</a></h4>
 Illustrated by Jason Ho
 
 <br />
@@ -344,12 +344,12 @@ By Eric Jackson
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-4">
-<a href="https://dar.to/2AFUpuP"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/moddi.jpg" alt="MODDI" /></a>
+<a href="https://dar.to/2yed1Bb"><img class="img-responsive center-block" src="/uploads/departments/readers_advisory/oboc/young_frankenstein.jpg" alt="Young Frankenstein" /></a>
 </div>
 <div class="col-md-8">
 
-<h4><a href="https://dar.to/2AFUpuP">"Music for Frankenstein"</a></h4>
-Music by MODDI
+<h4><a href="https://dar.to/2yed1Bb">"Young Frankenstein"</a></h4>
+Starring Gene Wilder, Marty Feldman, Teri Garr, Mel Brooks
 <br />
 </div>
 </div>
