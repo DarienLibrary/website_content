@@ -128,6 +128,21 @@ I saw – with shut eyes, but acute mental vision – I saw the pale student of 
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-1">
+<i class="fa fa-music fa-2x" style="color:#08728c;" aria-hidden="true"></i>
+</div>
+<div class="col-md-11">
+<h4><a href="https://dar.to/3cPb4KM">Music and Horror</a></h4>
+</div>
+</div>
+
+**Tuesday, June 2nd at 7 p.m.**<br />
+Gil Harel will discuss the ingredients which make music so effective at conveying horror. He will dissect iconic scenes from popular horror films. 
+<br />
+<br />
+</div>
+<div class="col-md-4">
+<div class="row">
+<div class="col-md-1">
 <i class="fa fa-birthday-cake fa-2x" style="color:#08728c;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
@@ -143,7 +158,8 @@ Join film historian Max Alvarez for this compelling audiovisual journey in which
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-1">
-<i class="fa fa-rocket fa-2x" style="color:#08728c;" aria-hidden="true"></i>
+
+<i class="fa fa-bookmark fa-2x" style="color:#08728c;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
 <h4><a href="https://dar.to/2yT1oAd">Learning from the Monster</a></h4>
@@ -153,8 +169,9 @@ Join film historian Max Alvarez for this compelling audiovisual journey in which
 **Wednesday, June 17th at 7 p.m.**<br />
 Carroll Stenson (of Short Stories for Short/Long Days) leads a literary exploration of the themes of the novel. What can we learn from the monster?
 <br />
-<br />
 </div>
+</div>
+<div class="row">
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-1">
@@ -172,8 +189,6 @@ Carroll Stenson (of Short Stories for Short/Long Days) leads a literary explorat
 </ul>
 <br />
 </div>
-</div>
-<div class="row">
 <div class="col-md-4">
 <div class="row">
 <div class="col-md-1">
@@ -188,19 +203,6 @@ Carroll Stenson (of Short Stories for Short/Long Days) leads a literary explorat
 <li><a href="https://dar.to/3dMA1qb"><em>Frankenstein: Unabridged</em></a>: Read by Gildart Jackson (10.5 hours)</li>
 <li><a href="https://dar.to/2X4Zcxg"><em>Frankenstein: The Modern Prometheus</em></a>: Read by Geoffrey Giuliano And The Icon Players (9 hours)</li>
 </ul>
-<br />
-</div>
-<div class="col-md-4">
-<div class="row">
-<div class="col-md-1">
-<i class="fa fa-child fa-2x" style="color:#08728c;" aria-hidden="true"></i>
-</div>
-<div class="col-md-11">
-<h4>Research Guide</h4>
-</div>
-</div>
-
-<a href="https://dar.to/3dQKsZE">Frankenstein: Myths, Monsters, and Modern Science</a>: A research guide providing context around the novel by LaChance Library.
 
 <br />
 <br />
@@ -211,12 +213,13 @@ Carroll Stenson (of Short Stories for Short/Long Days) leads a literary explorat
 <i class="fa fa-file-video-o fa-2x" style="color:#08728c;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
-<h4>Videos</h4>
+<h4>Video & Research Guide</h4>
 </div>
 </div>
 
 <ul>
 <li><a href="https://dar.to/2T9JFuS">“Mary Shelley's Frankenstein - A Documentary”</a></li>
+<li><a href="https://dar.to/3dQKsZE">Frankenstein: Myths, Monsters, and Modern Science</a>: A research guide providing context around the novel by LaChance Library.</li>
 </ul>
 
 </div>			
