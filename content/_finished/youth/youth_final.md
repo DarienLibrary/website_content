@@ -170,7 +170,7 @@ Youth Services Blog<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/3dnGDLp" style="text-decoration:none;">Standby Book Club with author Greg Pizzoli</a></h2>
-Monday, May 18th at 11 a.m. EDT<br />
+Monday, May 25th at 11 a.m. EDT<br />
 <br />
 
 </div>
@@ -178,7 +178,7 @@ Monday, May 18th at 11 a.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/3bjzR8c" style="text-decoration:none;">Draw Miximals with illustrator Ben Clanton</a></h2>
-Monday, May 18th at 12:30 p.m. EDT<br />
+Monday, May 25th at 12:30 p.m. EDT<br />
 <br />
 
 </div>
@@ -186,7 +186,7 @@ Monday, May 18th at 12:30 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2YJ52Xy" style="text-decoration:none;">Kids Ask Authors Podcast</a></h2>
-Monday, May 18th<br />
+Monday, May 25th<br />
 <br />
 
 </div>
@@ -201,7 +201,7 @@ Monday, May 18th<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2w7mVDC" style="text-decoration:none;">Sterling Publishing Author Storytime</a></h2>
-Tuesday, May 19th at 12 p.m. EDT<br />
+Tuesday, May 26th at 12 p.m. EDT<br />
 <br />
 
 </div>
@@ -209,7 +209,7 @@ Tuesday, May 19th at 12 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/35Iw42L" style="text-decoration:none;">CT Science Center Lunch Bunch</a></h2>
-Tuesday, May 19th at 12 p.m. EDT<br />
+Tuesday, May 26th at 12 p.m. EDT<br />
 <br />
 
 </div>
@@ -217,7 +217,7 @@ Tuesday, May 19th at 12 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2L7FStE" style="text-decoration:none;">Draw Every Day with JJK</a></h2>
-Tuesday, May 19th at 2 p.m. EDT<br />
+Tuesday, May 26th at 2 p.m. EDT<br />
 <br />
 
 </div>
@@ -232,7 +232,7 @@ Tuesday, May 19th at 2 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2L7FStE" style="text-decoration:none;">Draw Every Day with JJK</a></h2>
-Wednesday, May 20th at 2 p.m. EDT<br />
+Wednesday, May 27th at 2 p.m. EDT<br />
 <br />
 
 </div>
@@ -240,7 +240,7 @@ Wednesday, May 20th at 2 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2YJ52Xy" style="text-decoration:none;">Kids Ask Authors Podcast</a></h2>
-Wednesday, May 20th<br />
+Wednesday, May 27th<br />
 <br />
 
 </div>
@@ -262,16 +262,8 @@ Wednesday, May 10th at 7 p.m. EDT --> <br />
 <div class="row" style="background-color:#a5ce88; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
 <div class="col-md-4">
 
-<h2><a href="https://dar.to/2Wydw16" style="text-decoration:none;">Holiday House Star Storytimes</a></h2>
-Thursday, May 21st at 11 a.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/35Iw42L" style="text-decoration:none;">CT Science Center Lunch Bunch</a></h2>
-Thursday, May 21st at 12 p.m. EDT<br />
+<h2><a href="https://dar.to/2w7mVDC" style="text-decoration:none;">Sterling Publishing Author Storytimes</a></h2>
+Thursday, May 28th at 12 p.m. EDT<br />
 <br />
 
 </div>
@@ -279,7 +271,15 @@ Thursday, May 21st at 12 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/35E0YJT" style="text-decoration:none;">Thank You Thursday with Mo Willems</a></h2>
-Thursday May 21st at 1 p.m. EDT<br />
+Thursday May 28th at 1 p.m. EDT<br />
+<br />
+
+</div>
+
+<div class="col-md-4">
+
+<h2><a href="https://dar.to/3dpOyaX" style="text-decoration:none;">Goodnight with Dolly</a></h2>
+Thursday, May 28th at 7 p.m. EDT<br />
 <br />
 
 </div>
@@ -294,7 +294,7 @@ Thursday May 21st at 1 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2zod1P9" style="text-decoration:none;">It's Time for a Story with Brad Meltzer</a></h2>
-Friday, May 22nd at 10 a.m. EDT<br />
+Friday, May 29th at 10 a.m. EDT<br />
 <br />
 
 </div>
@@ -302,7 +302,7 @@ Friday, May 22nd at 10 a.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2RlFVpg" style="text-decoration:none;">Read and Draw with Peter Reynolds</a></h2>
-Friday, May 22nd at 12 p.m. EDT<br />
+Friday, May 29th at 12 p.m. EDT<br />
 <br />
 
 </div>
@@ -310,7 +310,7 @@ Friday, May 22nd at 12 p.m. EDT<br />
 <div class="col-md-4">
 
 <h2><a href="https://dar.to/2yw0WHM" style="text-decoration:none;">Draw with Dav Pilkey</a></h2>
-Friday, May 22nd<br />
+Friday, May 29th<br />
 <br />
 
 </div>
@@ -325,7 +325,9 @@ Friday, May 22nd<br />
 <div class="row" style="background-color:#b5afd3; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
 <div class="col-md-4">
 
-<h2><a href="https://dar.to/2LbOdg7" style="text-decoration:none;">String Theory Theater: Kitty's Corner</a></h2>
+<h2>No events scheduled this day</h2>
+
+<!--<h2><a href="https://dar.to/2LbOdg7" style="text-decoration:none;">String Theory Theater: Kitty's Corner</a></h2>
 Saturday, May 23rd at 2 p.m. EDT<br />
 <br />
 
@@ -333,7 +335,7 @@ Saturday, May 23rd at 2 p.m. EDT<br />
 
 <div class="col-md-4">
 
-<!--<h2><a href="https://dar.to/123" style="text-decoration:none;">Event Title</a></h2>
+<h2><a href="https://dar.to/123" style="text-decoration:none;">Event Title</a></h2>
 Saturday, May 10th at 7 p.m. EDT<br />
 <br />
 
@@ -386,6 +388,7 @@ Sunday, May 10th at 7 p.m. EDT--> <br />
 
 </div>
 </div>
+
 
 <!-- Catherine, your area is above here. --> 
 

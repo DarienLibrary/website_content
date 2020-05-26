@@ -17,6 +17,12 @@ If you'd like to send in your video, please [email Krishna](mailto:kgrady@darien
 <div class="row">
 <div class="col-md-6">
 
+### Linzer Tarts
+AdeleFire shares how to make these delicious tarts.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/421126884?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<br />
 
 ### Chocolate Cake Pan Cake
 Tina shares how to make this delicious treat. [View the recipe](https://dar.to/2YSILqB "View the recipe")
