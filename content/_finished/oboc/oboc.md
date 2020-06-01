@@ -131,7 +131,7 @@ I saw – with shut eyes, but acute mental vision – I saw the pale student of 
 <i class="fa fa-music fa-2x" style="color:#08728c;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
-<h4><a href="https://dar.to/3cPb4KM">Music and Horror</a></h4>
+<h4><a href="https://bit.ly/2XLH4sV">Music and Horror</a></h4>
 </div>
 </div>
 
