@@ -86,7 +86,7 @@ Earthplace consists of a 62 acre wildlife sanctuary with trails, a natural histo
 <br />
 </div>
 </div>
-<hr class="g-my-40">
+<!-- <hr class="g-my-40">
 <div class="row">
 <div class="col-md-12">
 
@@ -116,8 +116,8 @@ _Artists from the exhibition, Women of Sweetgrass, Cedar and Sage, friends and c
 </caption>
 
 </div>
-</div>
-<hr class="g-my-40">
+</div> 
+<hr class="g-my-40"> -->
 <div class="row">
 <div class="col-md-4">
 

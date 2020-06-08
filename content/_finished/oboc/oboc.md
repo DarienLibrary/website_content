@@ -178,14 +178,15 @@ Carroll Stenson (of Short Stories for Short/Long Days) leads a literary explorat
 <i class="fa fa-book fa-2x" style="color:#08728c;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
-<h4>e-Books</h4>
+<h4>Books</h4>
 </div>
 </div>
 
 <ul>
-<li><a href="https://dar.to/2X4YoZi"><em>Frankenstein; Or, The Modern Prometheus</em>:</a> By Mary Shelley (original text)</li>
-<li><a href="https://dar.to/2TcjX98"><em>Mary Shelley: A biography</em></a>: By Joan Kane Nichols</li>
-<li><a href="https://dar.to/2T7TKZi"><em>Mary’s Monster: Love, Madness, and How Mary Shelley Created Frankenstein</em>:</a> By Lita Judge</li>
+<li><a href="https://dar.to/2X4YoZi"><em>Frankenstein; Or, The Modern Prometheus</em></a> By Mary Shelley (original text)</li>
+<li><em><a href="https://dar.to/3dJOH9G">Son of Terror: Frankenstein Continued</em></a> By William A Chanler (Listen to the author <a href="https://dar.to/2z1yihR">read the first chapter<a/>)</li>
+<li><a href="https://dar.to/2TcjX98"><em>Mary Shelley: A biography</em></a> By Joan Kane Nichols</li>
+<li><a href="https://dar.to/2T7TKZi"><em>Mary’s Monster: Love, Madness, and How Mary Shelley Created Frankenstein</em></a> By Lita Judge</li>
 </ul>
 <br />
 </div>
@@ -195,7 +196,7 @@ Carroll Stenson (of Short Stories for Short/Long Days) leads a literary explorat
 <i class="fa fa-headphones fa-2x" style="color:#08728c;" aria-hidden="true"></i>
 </div>
 <div class="col-md-11">
-<h4>e-Audiobooks</h4>
+<h4>Audiobooks</h4>
 </div>
 </div>
 

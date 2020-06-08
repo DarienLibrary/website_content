@@ -2,14 +2,18 @@
 <div class="col-md-9">
 
 ### What's a Farm Share?
-You may have heard of a vegetable box or farm share before. CSA stands for Community Supported Agriculture and it means community members get together to invest in a farm during the winter or early Spring and then when the harvest season rolls out, they pick up a weekly package of vegetables at a designated pick-up location.
+You may have heard of a vegetable box or farm share before. CSA stands for Community Supported Agriculture and it means community members get together to invest in a farm during the winter or early Spring and then when the harvest season rolls out, they pick up a weekly package of vegetables at a designated pick-up location.
 <br />
 <br />
 
 ### Pickup at Darien Library
 In 2020, Darien Library will once again be the pickup location for [Stoneledge Farm's CSA](https://dar.to/2EWPYJt "Stoneledge Farm's CSA"). The farm share pickup will be every Wednesday evening from 4:30 to 7:30 p.m. running from June 10th until November 18th (23 weeks).
 
-To take part, sign up for a vegetable share. Then you can add a fruit, mushroom, and/or coffee share to your order too. 
+The Farm is going to be holding outside pickups starting **Wednesday, June 10th** from 4:30 to 7:30 p.m. in Darien Library's parking lot. The building will not be open. Volunteers will distribute the food to CSA members during pick-up. The veggies and shares will be boxed up in reusable waxy coated boxes.
+<br />
+<br />
+
+<!-- To take part, sign up for a vegetable share. Then you can add a fruit, mushroom, and/or coffee share to your order too. 
 <br />
 <br />
 
@@ -60,7 +64,7 @@ $126
 
 The vegetables are grown locally so they are fresher than anything you'll find in a grocery store, and incredibly varied.
 
-Visit [Stoneledge Farm](https://dar.to/2EWPYJt "Stoneledge Farm") for more information.
+Visit [Stoneledge Farm](https://dar.to/2EWPYJt "Stoneledge Farm") for more information. 
 <br />
 <br />
 
@@ -84,10 +88,10 @@ There is the option to split a share. When you sign up and add the share to your
 * Log into your member account.
 * Under the **My Account**tab, you will see the "Add a Share Partner" button on the bottom right.
 * Once your partner is added and they accept (confirmation is sent to them via email), you can place your CSA share orders. 
-<br />
+<br /> 
 
 ### Volunteer for Two Hours
-As a member of the CSA, you will be asked to complete two hours of volunteer work during the season. Volunteers do things like check people in when they pick up their share, make sure the vegetables are replenished, or move boxes.
+As a member of the CSA, you will be asked to complete two hours of volunteer work during the season. Volunteers do things like check people in when they pick up their share, make sure the vegetables are replenished, or move boxes. -->
 
 </div>
 <div class="col-md-3">

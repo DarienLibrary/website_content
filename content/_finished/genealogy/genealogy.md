@@ -25,7 +25,7 @@ Need help getting started with your genealogy research? A volunteer from the Mid
 <br />
 
 ### Genealogical & Historical Societies
-[Middlesex Genealogical Society — Darien, CT](http://mgs.darien.org/ "Middlesex Genealogical Society")
+[Middlesex Genealogical Society — Darien, CT](https://dar.to/30axv9w "Middlesex Genealogical Society")
 
 [Darien Historical Society](https://dar.to/2EbMNRZ "Darien Historical Society")
 

@@ -4,7 +4,7 @@
 ### Vital Records
 Vital records like birth, marriage, and death certificates may be accessed at [Darien Town Hall](https://dar.to/2EbI02Y "Darien Town Hall"). You need to be a member of a Connecticut genealogy society to access vital records at town and city records within the state. Probate and Land Records are also available in the Town Clerk's office.
 
-Local genealogy societies include [Middlesex Genealogical Society](https://dar.to/2E9Or6C "Middlesex Genealogical Society") and [Connecticut Ancestry Society, Inc](https://dar.to/2E64UJ4 "Connecticut Ancestry Society, Inc."). View the complete [list of authorized societies](https://dar.to/2Eb0AZf "List of Authorized Genealogical Socities"). Membership in one of them will grant you access to many towns' archives.
+Local genealogy societies include [Middlesex Genealogical Society](https://dar.to/30axv9w "Middlesex Genealogical Society") and [Connecticut Ancestry Society, Inc](https://dar.to/2E64UJ4 "Connecticut Ancestry Society, Inc."). View the complete [list of authorized societies](https://dar.to/2Eb0AZf "List of Authorized Genealogical Socities"). Membership in one of them will grant you access to many towns' archives.
 
 <br />
 
