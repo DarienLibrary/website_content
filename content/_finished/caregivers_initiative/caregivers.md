@@ -2,7 +2,7 @@
 <div class="col-md-9">
 
 ### About the Caregiver Café
-This year-long series of events is designed to provide respite and community support to caregivers of adult residents who are aging in place, especially those with Alzheimer's and other forms of dementia. The series will consist of a kick-off keynote event followed by monthly Caregiver Cafés.
+The Caregiver Café is designed to provide respite and community support to caregivers of adults who are aging in place, especially those with Alzheimer's and other forms of dementia. Caregiver Café is on hiatus until in-person programming resumes.
 <br />
 <br />
 
@@ -30,7 +30,7 @@ View a list of upcoming [Caregiver Café events](https://dar.to/2TVDqKv "Caregiv
 <br />
 
 ### Book Recommendations
-View a list of [non-fiction](https://dar.to/2TPWqdq "non-fiction books") and [fiction](https://dar.to/347DGL6 "fiction") books to complement our 2019-2020 Caregiving Initiative.
+Our Librarians have compiled [non-fiction](https://dar.to/2TPWqdq "non-fiction books")books for Caregivers and and [fiction](https://dar.to/347DGL6 "fiction") books with caregiving themes.
 <br />
 <br />
 

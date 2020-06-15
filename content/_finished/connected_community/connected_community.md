@@ -17,6 +17,13 @@ If you'd like to send in your video, please [email Krishna](mailto:kgrady@darien
 <div class="row">
 <div class="col-md-6">
 
+### Sevens: Card Game
+Jeff shares how to play Sevens, a card game, with a 52-deck of cards.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/428220839?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<br />
+
 ### Linzer Tarts
 AdeleFire shares how to make these delicious tarts.
 
@@ -39,16 +46,9 @@ Miss Sam shares how to make a baby toy using a bottle, cereal, and glue.
 <br />
 
 ### Absolutely Fabulous Summer Pudding
-Carolyn Eddie, of [Carolyn’s Absolutely Fabulous Events](www.carolynsabsolutelyfabulousevents.com "Carolyn’s Absolutely Fabulous Events") shares an English treat.
+Carolyn Eddie, of [Carolyn’s Absolutely Fabulous Events](http://www.carolynsabsolutelyfabulousevents.com/ "Carolyn’s Absolutely Fabulous Events") shares an English treat.
 
 <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/413727218?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
-<br />
-
-### Fairy Houses
-Catherine shares how to make fairy houses -- using the materials in your yard.
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/411474258?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 <br />
 
@@ -56,6 +56,12 @@ Catherine shares how to make fairy houses -- using the materials in your yard.
 </div>
 <div class="col-md-6">
 
+### Fairy Houses
+Catherine shares how to make fairy houses -- using the materials in your yard.
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/411474258?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+
+<br />
 
 ### One Pot Italian Pasta
 Reed shares how to make pasta in just one pot. [View the recipe](https://dar.to/2yAjhmQ "View the recipe")

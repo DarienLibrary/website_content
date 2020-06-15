@@ -262,6 +262,7 @@
 <a href="https://dar.to/300k38b"><img class="img-responsive center-block" src="/uploads/departments/adults/antiracism_booklist_adults.jpg" alt="Antiracism Booklist"></a>
 <br />
 <ul>
+<li><a href="https://dar.to/2AuVR3D" style="text-decoration:none;">These Comics are Antiracist</a></li>
 <li><a href="https://dar.to/2U4MiyP" style="text-decoration:none;">Conversations on Race for Adults</a></li>
 </ul>
 </div>

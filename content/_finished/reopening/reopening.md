@@ -35,7 +35,7 @@
 <br />
 </div>
 <div class="col-xs-10 col-md-10">
-<p style="font-size:1.25em !important;">Come the next business day (Monday-Friday) to pick-up your items from the tent-covered tables in the courtyard.</p>
+<p style="font-size:1.25em !important;">Come the next business day (Monday-Friday) between 11 a.m. to 5 p.m. to pick-up your items from the tent-covered tables in the courtyard.</p>
 <br />
 </div>
 </div>
