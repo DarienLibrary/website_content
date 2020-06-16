@@ -109,7 +109,7 @@ Go to your [Settings](/myaccount/settings "Settings") and click on **Unlink Acco
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-Three" data-parent="#accordion-v1" data-toggle="collapse" class="accordion-toggle">
-Checkout Items
+Check Out Items
 </a>
 </h4>
 </div>
@@ -121,7 +121,7 @@ Checkout Items
 <br />
 <br />
 
-#### I don't live in Darien. Can I checkout books here?
+#### I don't live in Darien. Can I check out books here?
 Absolutely! Just bring your hometown library card and we will register you in our system. Please note that e-Books and other digital content is only available to Darien residents and [Friends of the Library](/friends "Friend of the Library").
 <br />
 <br />
@@ -145,8 +145,8 @@ When holds are ready to be picked up we put them in a special area behind the We
 <br />
 <br />
 
-#### Do I have to checkout items placed on hold for me?
-Yes, please check your items at the self checkouts. 
+#### Do I have to check out items placed on hold for me?
+Yes, please check your items at the self check outs. 
 <br />
 <br />
 
@@ -294,7 +294,7 @@ Please pay at the Welcome Desk or [online](https://payments.darienlibrary.org/eC
 <br />
 
 #### What does a fine stop me from doing?
-Once you owe $50, you will be unable to checkout items or use a computer. Please get the amount under $50 to resume using the Library's services.
+Once you owe $50, you will be unable to check out items or use a computer. Please get the amount under $50 to resume using the Library's services.
 <br />
 <br />
 

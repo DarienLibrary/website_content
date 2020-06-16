@@ -50,7 +50,7 @@ Each month the Children and Teen librarians recommend great new reads, highlight
 <br />
 
 ### Book Club Kits 
-Start your very own book club with Book Club Kits from the Children's Library. Choose a book, checkout five copies, and receive a discussion guide in your kit. The guide includes a book summary, discussion questions, and further activities to enhance the reading experience. 
+Start your very own book club with Book Club Kits from the Children's Library. Choose a book, check out five copies, and receive a discussion guide in your kit. The guide includes a book summary, discussion questions, and further activities to enhance the reading experience. 
 * [First to Third Graders Book Choices](/list/70 "First to Third Graders Book Choices")
 * [Fourth to Sixth Graders Book Choices](/list/71 "Fourth to Sixth Graders Book Choices")
 <br />

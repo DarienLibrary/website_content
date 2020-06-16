@@ -1,21 +1,23 @@
-Darien Library (CT) is seeking a friendly, energetic, dedicated self-starter with excellent reference and technology skills to provide extraordinary customer service and technology support to library users.
+Darien Library (CT) is seeking a friendly, energetic self-starter and life-long learner with excellent reference and technology skills to provide extraordinary customer service and technology support to library users. The ideal candidate finds joy in helping others, is perpetually eager to learn new things, and communicates comfortably with people from all walks of life.
 <br />
 <br />
+
 ### Duties & Responsibilities
 * Staff an active reference desk
 * Oversee activity in the adult research, magazine, and quiet study areas
+* Utilize appropriate reference resources to connect patrons to the information they seek
 * Assist patrons with print and digital resources
-* Maintains a current knowledge of the Library’s electronic resources including databases and links from the Research page
+* Maintain a current knowledge of the Library’s electronic resources including databases and links from the Research page
 * Assist patrons with computer hardware and software, including printers and scanners
-* Opening / closing procedures for the adult research, magazine, and quiet study areas
 * Other duties as assigned
 <br />
 
 ### Qualifications
 * MLIS degree or a degree-in-progress at an ALA-accredited library sciences or information sciences graduate program is preferred
 * Excellent customer service and instructional skills
-* Demonstrated ability to communicate complex concepts in simple, easy-to-understand terms.
+* Demonstrated ability to communicate complex concepts in simple, easy-to-understand terms
 * Clear and direct oral and written communication skills
+* Ability to type quickly and accurately
 * Knowledge of Microsoft Office Suite, especialy Outlook, Word, and Excel
 * Bilingual candidate, or those with functional knowledge of another language, is desirable
 <br />
@@ -26,7 +28,7 @@ This is a part time position with no benefits that will include weekdays, evenin
 <br />
 
 ### Salary 
-$20 to $25 an hour, and is commensurate with experience 
+$20 to $27 an hour, and is commensurate with experience 
 <br />
 <br />
 

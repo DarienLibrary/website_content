@@ -6,7 +6,7 @@ Darien Library offers online access to great digital content for all your mobile
 <div class="col-md-6">
 
 ### How to Download 
-After clicking on your digital item in the catalog, you will need to open the appropriate app on either your computer or mobile device. If you forget which app to use, visit your [Checkouts page](/myaccount/circulation "Checkouts") and then look at Digital Downloads. If your checkout is blocked, check the <a href="#help">help section</a>.
+After clicking on your digital item in the catalog, you will need to open the appropriate app on either your computer or mobile device. If you forget which app to use, visit your [Checkouts page](/myaccount/circulation "Checkouts") and then look at Digital Downloads. If your check out is blocked, check the <a href="#help">help section</a>.
 
 <div class="margin-bottom-20"></div>  
 
@@ -161,14 +161,14 @@ Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can re
 </div>
 
 <div class="text-center margin-bottom-50">
-  <a name="help"></a><h2 class="title-v2 title-center">Checkout Help</h2>
+  <a name="help"></a><h2 class="title-v2 title-center">Check Out Help</h2>
 </div>
 
 <div class="row margin-bottom-20">
 <div class="row">
 <div class="col-md-6">
 
-We're sorry to hear that your checkout didn't go through. Let's see what might be causing the trouble: 
+We're sorry to hear that your check out didn't go through. Let's see what might be causing the trouble: 
 <br />
 <br />
 

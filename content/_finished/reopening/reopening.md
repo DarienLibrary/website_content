@@ -13,7 +13,7 @@
 <br />
 </div>
 <div class="col-xs-10 col-md-10">
-<p style="font-size:1.25em !important;">Place a hold on a book, audiobook, or movie on our website.</p>
+<p style="font-size:1.25em !important;">Place a hold on a book, audiobook, or movie on our website. Due to the overwhelming demand, holds will be limited to 5 per person for the time being.</p>
 <br />
 </div>
 </div>
@@ -66,7 +66,9 @@
 <div class="text-center margin-bottom-30">
 <h2 class="title-v2 title-center">Placing Holds</h2>
 </div>
-<p style="font-size:1.25em !important;">You may begin to request physical items on Monday, June 15th from our website.</p>
+<p style="font-size:1.25em !important;">You may begin to request physical items on Monday, June 15th from our website. Due to the overwhelming demand, holds will be limited to 5 per person for the time being.</p>
+
+<p style="font-size:1.25em !important;">We appreciate your patience, while you wait for your expected holds!</p>
 </div>
 <div class="col-md-6">
 
