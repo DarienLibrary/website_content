@@ -33,7 +33,7 @@ $20 to $27 an hour, and is commensurate with experience
 <br />
 
 ### Contact Information
-Email a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Services, [bnetherton@darienlibrary.org](mailto:bnetherton@darienlibrary.org "Brittany Netherton").
+Email a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Services, [bnetherton@darienlibrary.org](mailto:bnetherton@darienlibrary.org "Brittany Netherton"). Applications are due by Wednesday, July 15th.
 
 <div class="row margin-bottom-20">
 <div class="col-md-3">

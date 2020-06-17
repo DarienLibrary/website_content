@@ -95,7 +95,7 @@ Something something something something here. Something something something some
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/general_stock_photos/moon_lander.jpg" alt="Do you remember?" />
+<img class="img-responsive center-block" src="/uploads/departments/adults/beach_books_asr.jpg" alt="There's always time for a good book!" />
 
 <h3 style="color: #2C53A4;">Books 'n Banter: Summer Edition</h3>
 
@@ -103,12 +103,12 @@ Something something something something here. Something something something some
 
 **Thursday, July 9th at 10 a.m.**
 
-Join Darien Library's Readers Advisory team as we discuss what books we are packing into our beach bags this summer.
+Join Darien Library's Readers Advisory team as we discuss what books we are packing into our beach bags this summer. [Register](https://dar.to/2YPuI3w "Register for Books 'n Banter") for this online program.
 
 </div>
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/youth/2019/mary_poppins_returns.jpg" alt="Mary Poppins Returns" />
+<img class="img-responsive center-block" src="/uploads/departments/adults/time_travel_clocks_asr.jpg" alt="Clocks traveling through time" />
 
 <h3 style="color: #2C53A4;">Time Travel Trivia</h3>
 
@@ -116,7 +116,7 @@ Join Darien Library's Readers Advisory team as we discuss what books we are pack
 
 **Sunday, July 19th at 5 p.m.**
 
-Calling all trivia fans. Join us for a special edition of trivia night where we will dive back into time and test your knowledge from decades of the past.
+Calling all trivia fans. Join us for a special edition of trivia night where we will dive back into time and test your knowledge from decades of the past. [Register](https://dar.to/30PIlCc "Register for Time Travel Trivia") for this online program.
 
 </div>
 </div>
