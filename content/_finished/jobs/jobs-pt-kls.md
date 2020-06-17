@@ -34,8 +34,18 @@ $20 to $27 an hour, and is commensurate with experience
 
 ### Contact Information
 Email a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Services, [bnetherton@darienlibrary.org](mailto:bnetherton@darienlibrary.org "Brittany Netherton"). Applications are due by Wednesday, July 15th.
+<br />
+<br />
+
+### Equal Employment Opportunity
+The Darien Library observes and promotes a policy of equal employment opportunity for all. This means that the Darien Library recruits, hires, trains, and promotes all persons without regard to race, color, sex, religion, national origin, martial status, political belief, physical disability or any other improper or illegal criteria. All employment decisions are based on legitimate employment-related criteria such as, skills, abilities, attitude and contribution to the Darien Library so as to further the principal of equal employment opportunity.
+<br />
+<br />
 
 <div class="row margin-bottom-20">
+
+**We are a _Library Journal_ Five-Star Library.**
+
 <div class="col-md-3">
 <a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
 </div>

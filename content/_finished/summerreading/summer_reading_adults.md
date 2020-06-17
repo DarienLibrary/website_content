@@ -1,41 +1,49 @@
 <div class="row">
-<div class="col-md-9">
+<div class="col-md-6">
 
-<h2 style="color: #2C53A4;">It’s Always a Good Time for a Book!</h2>
+<div class="text-center margin-bottom-40">
+<h2 class="title-v2 title-center">It’s Always a Good Time for a Book!</h2>
+</div>  
 
 Summer is here! With the sunshine and warm weather, life can feel a little less hectic. As we slow down, it's a perfect time to escape into an enjoyable story. We invite all of our adult patrons to join us for again for Adult Summer Reading. This year, we will have a time-themed reading challenge, fun prizes, and special events throughout the summer. Patrons can play online or pick up their game cards at the Library’s Welcome Desk starting July 1st. Patrons can play as often as they would like.
 
 Darien Library is proud to support local businesses. The **grand prize** is a $100 gift certificate to [Barrett Bookstore](https://dar.to/2TUKaIw "Barrett Bookstore"). We will also be awarding three $25 Barrett Bookstore gift certificates throughout the summer.
 
-</div>
-<div class="col-md-3">
+<div class="margin-bottom-30"></div>
 
-<h2 style="color: #2C53A4;">Choose How to Play</h2>
-<a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Play Online</a>
+</div>
+<div class="col-md-6">
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/427845042?autoplay=0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
+Our Readers' Advisors share their top selctions for Summer Reading fun. 
 <br />
-<br />
-<a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2C53A4;">Download Game Card</a>
-<br />
+
 </div>
 </div>
 
-<div class="margin-bottom-20"></div>
+<hr>
 
 <div class="row">
-<div class="col-md-8">
+<div class="col-md-7">
 <h2 style="color: #2C53A4;">How to Play</h2>
 
-**Ends Friday, August 14th**<br />
 This year there are two ways to play: Register to play online OR pick up a game card!
 
-* Register online at **(insert address)** or pick up your game cards at the Welcome Desk.
+<p>
+<a href="https://dar.to/3ebCOcR" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Play Online</a>
+</p>
+
+**Ends Friday, August 14th**<br />
+
+* [Register online](https://dar.to/3ebCOcR "Register online") or pick up your game cards at the Welcome Desk.
 * Complete any three challenges for an opportunity to win.
 * Log your challenges online or return your game card to the Library between July 1st and August 14th, and you will be entered into three drawings for a $25 gift certificate to Barrett Bookstore.
-* Every completed game card and online entry is a submission for the grand prize of a $100 gift certificate to Barrett Bookstore.
+* Every completed game card and online entry is entered into the grand prize drawing.
 * Play as many times as you want.
 
 <br />
+</div>
+<div class="col-md-5">
 
 <h2 style="color: #2C53A4;">How Winners are Selected</h2>
 
@@ -43,10 +51,8 @@ This year there are two ways to play: Register to play online OR pick up a game 
 * The grand prize drawing will be held on August 14th.
 
 <br />
-</div>
-<div class="col-md-4">
 
-<h2 style="color: #2C53A4;">Book Inspiration</h2>
+<h2 style="color: #2C53A4;">Reading Inspiration</h2>
 
 * [Books with Time in the title](https://dar.to/2XO6lUv "Books with Time in the title")
 * [Audiobooks](https://dar.to/2ZOJpWi "Audiobooks")
@@ -75,7 +81,7 @@ This year there are two ways to play: Register to play online OR pick up a game 
 * [Book from a booklist](https://dar.to/2WC7A6q "Book from a booklist")
 
 </div>
-</div> -->
+</div> 
 
 <div class="margin-bottom-40"></div>
 
@@ -119,4 +125,4 @@ Join Darien Library's Readers Advisory team as we discuss what books we are pack
 Calling all trivia fans. Join us for a special edition of trivia night where we will dive back into time and test your knowledge from decades of the past. [Register](https://dar.to/30PIlCc "Register for Time Travel Trivia") for this online program.
 
 </div>
-</div>
+</div> -->

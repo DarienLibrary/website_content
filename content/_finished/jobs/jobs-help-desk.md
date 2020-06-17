@@ -27,11 +27,16 @@ Apply with a cover letter and copy of your resume to James McNutt, Head of User 
 <br />
 <br />
 
-**We are a _Library Journal_ Five-Star Library.**
+### Equal Employment Opportunity
+The Darien Library observes and promotes a policy of equal employment opportunity for all. This means that the Darien Library recruits, hires, trains, and promotes all persons without regard to race, color, sex, religion, national origin, martial status, political belief, physical disability or any other improper or illegal criteria. All employment decisions are based on legitimate employment-related criteria such as, skills, abilities, attitude and contribution to the Darien Library so as to further the principal of equal employment opportunity.
+<br />
+<br />
 
 <div class="row margin-bottom-20">
-<div class="col-md-3">
+	
+**We are a _Library Journal_ Five-Star Library.**
 
+<div class="col-md-3">
 <a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
 </div>
 </div>

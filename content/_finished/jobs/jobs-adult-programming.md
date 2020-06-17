@@ -46,10 +46,18 @@ $57,000 – 60,000 annually, and is commensurate with experience. Salary include
 
 ### To Apply
 To apply for this position, please email a cover letter and a copy of your resume to Pat Sheary, Head of Adult Programming, [psheary@darienlibrary.org](mailto:psheary@darienlibrary.org "Pat Sheary"). Applications are due by Monday, July 6th.
+<br />
+<br />
 
+### Equal Employment Opportunity
+The Darien Library observes and promotes a policy of equal employment opportunity for all. This means that the Darien Library recruits, hires, trains, and promotes all persons without regard to race, color, sex, religion, national origin, martial status, political belief, physical disability or any other improper or illegal criteria. All employment decisions are based on legitimate employment-related criteria such as, skills, abilities, attitude and contribution to the Darien Library so as to further the principal of equal employment opportunity.
+<br />
 <br />
 
 <div class="row margin-bottom-20">
+
+**We are a _Library Journal_ Five-Star Library.**
+
 <div class="col-md-3">
 <a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
 </div>
