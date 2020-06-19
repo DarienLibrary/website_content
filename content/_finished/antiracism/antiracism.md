@@ -176,13 +176,8 @@
 
 <div class="text-center margin-bottom-40"></div>
 
-
-
-
-<div class="text-center margin-bottom-40"></div>
-
 <div class="text-center margin-bottom-40">
-<h2 class="title-v2 title-center">Racial Equity Resources for Adults</h2>
+<h2 class="title-v2 title-center">Learn More As An Adult</h2>
 </div>
 
 <div class="row">
@@ -239,6 +234,8 @@
 <a href="https://dar.to/2U12Dof"><img class="img-responsive center-block" src="/uploads/departments/adults/antiracism_booklist_kids.jpg" alt="Social Justice for Kids"></a>
 <br />
 <ul>
+<li><a href="https://dar.to/2U12Dof" style="text-decoration:none;">Social Justice for Kids</a></li>
+<li><a href="https://dar.to/30PGj58" style="text-decoration:none;">Hoopla books on Talking to Kids about Race</a></li>
 <li><a href="https://dar.to/3eQsUgR" style="text-decoration:none;">Children's Books on Racism and Discrimination</a></li>
 <li><a href="https://dar.to/3eNfdPN" style="text-decoration:none;">Books Every Black Child Should Read</a></li>
 <li><a href="https://dar.to/2U7EEDW" style="text-decoration:none;">How to Diversify Your Child’s Bookshelves</a></li>
@@ -252,6 +249,7 @@
 <a href="https://dar.to/300rGeF"><img class="img-responsive center-block" src="/uploads/departments/adults/antiracism_booklist_teens.jpg" alt="Black Lives Matter for Teens"></a>
 <br />
 <ul>
+<li><a href="https://dar.to/300rGeF" style="text-decoration:none;">Black Young Adult Novels for Teens</a></li>
 <li><a href="https://dar.to/3gPRQXE" style="text-decoration:none;">Black Young Adult Novels to Add to Your TBR</a></li>
 <li><a href="https://dar.to/2U9YLRY" style="text-decoration:none;">Conversations on Race for Teens</a></li>
 </ul>
@@ -259,12 +257,15 @@
 
 </div>
 <div class="col-md-4">
-<h3><a href="https://dar.to/300k38b" style="text-decoration:none;">Antiracism</a></h3>
+<h3><a href="https://dar.to/300k38b" style="text-decoration:none;">Antiracism for Adults</a></h3>
 <a href="https://dar.to/300k38b"><img class="img-responsive center-block" src="/uploads/departments/adults/antiracism_booklist_adults.jpg" alt="Antiracism Booklist"></a>
 <br />
 <ul>
+<li><a href="https://dar.to/300k38b" style="text-decoration:none;">Books on Antiracism</a></li>
 <li><a href="https://dar.to/2AuVR3D" style="text-decoration:none;">These Comics are Antiracist</a></li>
 <li><a href="https://dar.to/2U4MiyP" style="text-decoration:none;">Conversations on Race for Adults</a></li>
+<li><a href="https://dar.to/2UVFwfe" style="text-decoration:none;">Audiobooks on Race for Adults</a></li>
+
 </ul>
 </div>
 

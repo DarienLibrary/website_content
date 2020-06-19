@@ -1,5 +1,16 @@
 <div class="row">
 <div class="col-md-6">
+
+<div class="text-center margin-bottom-40">
+<h2 class="title-v2 title-center">Reopening Date</h2>
+</div>
+
+<p style="font-size:1.25em !important;">We are excited to announce that Darien Library will reopen on <strong>Wednesday, July 1st</strong> for Express Services Monday-Friday from 9 a.m. to 5 p.m. Further details will be announced prior to July 1st.</p>
+
+<p style="font-size:1.25em !important;">Until then, please continue to enjoy the Library’s courtyard pick-up service and digital offerings.</p>
+<br />
+<br />
+
 <div class="text-center margin-bottom-40">
 <h2 class="title-v2 title-center">Curbside Pick-up</h2>
 </div>
