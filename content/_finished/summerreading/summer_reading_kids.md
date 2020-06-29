@@ -12,7 +12,7 @@
 <h2 class="title-v2 title-center">Darien Time Machine 3000</h2>
 </div>  
 
-Happy Summer! This year, you'll be able to participate in Darien Library's Summer Reading program by [logging your reading online](https://dar.to/3ebCOcR "Logging your reading online") or by using the paper log. All ages can sign up and read together this summer. 
+Happy Summer! This year, you'll be able to participate in Darien Library's Summer Reading program by [logging your reading online](https://dar.to/2Vbxijj "Logging your reading online") or by using the paper log. All ages can sign up and read together this summer. 
 
 The How to Register Online Guide explains how to sign up online to track your reading.
 
@@ -25,7 +25,7 @@ The How to Register Online Guide explains how to sign up online to track your re
 </div>
 <div class="col-md-6">
 <p>
-<a href="https://dar.to/3ebCOcR" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Sign Up for Summer Reading</a>
+<a href="https://dar.to/2Vbxijj" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Sign Up for Summer Reading</a>
 </p>
 <br />
 </div>
@@ -69,9 +69,9 @@ The Grand Prize Winner will get to pick from three "experience" prizes. Details 
 <p>
 <a href="https://dar.to/2N6ZSOe" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Timeline Map&nbsp;&nbsp;&nbsp;&nbsp;</a>
 </p>
-<p>
+<!-- <p>
 <a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">K to 6 Brochure</a>
-</p>
+</p> -->
 </div>
 </div>
 </div>

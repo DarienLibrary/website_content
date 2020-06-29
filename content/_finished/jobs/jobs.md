@@ -44,6 +44,6 @@ Darien Library is seeking a friendly, energetic, dedicated individual with excel
 
 ### Equal Employment Opportunity
 
-The Darien Library observes and promotes a policy of equal employment opportunity for all. This means that the Darien Library recruits, hires, trains, and promotes all persons without regard to race, color, sex, religion, national origin, martial status, political belief, physical disability or any other improper or illegal criteria. All employment decisions are based on legitimate employment-related criteria such as, skills, abilities, attitude and contribution to the Darien Library so as to further the principal of equal employment opportunity.
+The Darien Library observes and promotes a policy of equal employment opportunity for all. This means that the Darien Library recruits, hires, trains, and promotes all persons without regard to race, color, sex, religion, national origin, martial status, political belief, physical disability or any other improper or illegal criteria. All employment decisions are based on legitimate employment-related criteria such as, skills, abilities, attitude and contribution to the Darien Library so as to further the principle of equal employment opportunity.
 </div>
 </div>

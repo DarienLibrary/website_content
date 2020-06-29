@@ -144,259 +144,28 @@ Youth Services Blog<br />
 </div>
 
 
+<div class="row">
+<div class="col-md-9">
+
+### Visit the Children's Library by Appointment
+
+The Children's Library will be open for 30-minute appointments with limited walk-ins allowed beginning July 1st. Review the available appointment slots and select the one that works best for you. Please only select one slot per day.
 <br />
-
-
-<!-- Catherine, your content is below here. --> 
-## Events Happening Around the Web
 <br />
-
-<div class="tab-v1">
-<ul class="nav nav-tabs">
-<li style="background-color:#f4304e;"><a href="#monday" data-toggle="tab" style="color:#fff;"><i class="fa fa-search fa-1x" style="color:#fff; padding-right:10px;" aria-hidden="true"></i>Monday</a></li>
-<li style="background-color:#EB9C36; border-left: 2px solid #fff;"><a href="#tuesday" data-toggle="tab" style="color:#fff;">Tuesday</a></li>
-<li style="background-color:#e2c000; border-left: 2px solid #fff;"><a href="#wednesday" data-toggle="tab" style="color:#fff;">Wednesday</a></li>
-<li style="background-color:#5ca02b; border-left: 2px solid #fff;"><a href="#thursday" data-toggle="tab" style="color:#fff;">Thursday</a></li>
-<li style="background-color:#008BCA; border-left: 2px solid #fff;"><a href="#friday" data-toggle="tab" style="color:#fff;">Friday</a></li>
-<li style="background-color:#5a43db; border-left: 2px solid #fff;"><a href="#saturday" data-toggle="tab" style="color:#fff;">Saturday</a></li>
-<li style="background-color:#a45bd8; border-left: 2px solid #fff;"><a href="#sunday" data-toggle="tab" style="color:#fff;">Sunday</a></li>
-</ul>
-<div class="tab-content">
-
-<!-- Monday --> 
-
-<div class="tab-pane fade in active" id="monday">
-<div class="row" style="background-color:#f2c6cd; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/3dnGDLp" style="text-decoration:none;">Standby Book Club with author Greg Pizzoli</a></h2>
-Mondays at 11 a.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/3bjzR8c" style="text-decoration:none;">Draw Miximals with illustrator Ben Clanton</a></h2>
-Mondays at 12:30 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://bit.ly/2zAe3Zb" style="text-decoration:none;">Young Yogis</a></h2>
-Mondays at 1 p.m. EDT<br />
-** Hosted by Darien Library **
-<br />
-
-</div>
-
-</div>
-</div>
-
-<!-- Tuesday --> 
-
-<div class="tab-pane fade in" id="tuesday">
-<div class="row" style="background-color:#f7bf7b; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
-<div class="col-md-4">
-
-<h2><a href="https://bit.ly/2TS4H1F" style="text-decoration:none;">Music with Marcus</a></h2>
-Tuesdays at 11 a.m. EDT<br />
-** Hosted by Darien Library **
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/35Iw42L" style="text-decoration:none;">CT Science Center Lunch Bunch</a></h2>
-Tuesdays at 12 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2L7FStE" style="text-decoration:none;">Draw Every Day with JJK</a></h2>
-Tuesdays at 2 p.m. EDT<br />
-<br />
-
-</div>
-
-</div>
-</div>
-
-<!-- Wednesday --> 
-
-<div class="tab-pane fade in" id="wednesday">
-<div class="row" style="background-color:#f2e06d; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
-<div class="col-md-4">
-
-<h2><a href="https://bit.ly/3exg5I4" style="text-decoration:none;">Weekly Zoom Storytime</a></h2>
-Wednesdays at 10:30 a.m. EDT <br /> 
-** Hosted by Darien Library **
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2L7FStE" style="text-decoration:none;">Draw Every Day with JJK</a></h2>
-Wednesdays at 2 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2YJ52Xy" style="text-decoration:none;">Kids Ask Authors Podcast</a></h2>
-Wednesdays<br />
-<br />
-
-</div>
-
-
-</div>
-</div>
-
-<!-- Thursday --> 
-
-<div class="tab-pane fade in" id="thursday">
-<div class="row" style="background-color:#a5ce88; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2Wydw16" style="text-decoration:none;">Holiday House Star Storytimes</a></h2>
-Thursdays at 11 a.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2w7mVDC" style="text-decoration:none;">Sterling Publishing Author Storytimes</a></h2>
-Thursdays at 12 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/3dpOyaX" style="text-decoration:none;">Goodnight with Dolly</a></h2>
-Thursdays at 7 p.m. EDT<br />
-<br />
-
-</div>
-
-</div>
-</div>
-
-<!-- Friday --> 
-
-<div class="tab-pane fade in" id="friday">
-<div class="row" style="background-color:#A9DCF2; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2zod1P9" style="text-decoration:none;">It's Time for a Story with Brad Meltzer</a></h2>
-Fridays at 10 a.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2RlFVpg" style="text-decoration:none;">Read and Draw with Peter Reynolds</a></h2>
-Fridays at 12 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/2yw0WHM" style="text-decoration:none;">Draw with Dav Pilkey</a></h2>
-Fridays<br />
-<br />
-
-</div>
-
-</div>
-</div>
-
-
-<!-- Saturday --> 
-
-<div class="tab-pane fade in" id="saturday">
-<div class="row" style="background-color:#b5afd3; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
-<div class="col-md-4">
-
-<h2>No events scheduled this day</h2>
-
-<!--<h2><a href="https://dar.to/2LbOdg7" style="text-decoration:none;">String Theory Theater: Kitty's Corner</a></h2>
-Saturday, May 23rd at 2 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/123" style="text-decoration:none;">Event Title</a></h2>
-Saturday, May 10th at 7 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/123" style="text-decoration:none;">Event Title</a></h2>
-Saturday, May 10th at 7 p.m. EDT--> <br />
-<br />
-
-</div>
-
-</div>
-</div>
-
-
-<!-- Sunday --> 
-
-<div class="tab-pane fade in" id="sunday">
-<div class="row" style="background-color:#ccbed6; margin:-10px auto 10px auto; padding: 15px 0 10px 0;">
-<div class="col-md-4">
-
-<h2>No events scheduled this day</h2>
-
-<!-- <h2><a href="https://dar.to/123" style="text-decoration:none;">Event Title</a></h2>
-Sunday, May 10th at 7 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/123" style="text-decoration:none;">Event Title</a></h2>
-Sunday, May 10th at 7 p.m. EDT<br />
-<br />
-
-</div>
-
-<div class="col-md-4">
-
-<h2><a href="https://dar.to/123" style="text-decoration:none;">Event Title</a></h2>
-Sunday, May 10th at 7 p.m. EDT--> <br />
-<br />
-
-</div>
-
-</div>
-</div>
-
-</div>
-</div>
-
-<!-- Catherine, your area is above here. --> 
+Children under age 12 must remain with a caregiver at all times. The Storytime Room, Toddler Room, and TEA Room in the Children's Library will be closed until further notice.
 
 <br />
+</div>
+<div class="col-md-3">
+<a href="/visitCL"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Book an Appointment</button></a>
+<br />
+<br />
+Each appointment is 30-minutes long. 
+</div>
+</div>
+</div>
 
+<hr>
 
 <a name="activities"></a>
 <div class="margin-bottom-50">

@@ -5,7 +5,7 @@
 <h2 class="title-v2 title-center">Teen Summer Challenge 2020</h2>
 </div>  
 
-Welcome to the unforgettable summer of 2020. We know you miss hanging out with your friends, but might be running out of things to talk about. How about buddying up, reading some books, and then stanning them (or not)?
+Welcome to the unforgettable summer of 2020. We know you miss hanging out with your friends, but might be running out of things to do in all your free time. We've got you covered. [Grab a book](https://dar.to/2rwHAsg "Grab a book"), join us at one of our [digital programs](#events "Digital programs"), or reach out for reading recommendations from [your librarians](mailto:morobona@darienlibrary.org "Email Mia") (who miss you too!)
 
 We're offering prizes for everyone who completes a set number of challenges in this year's event. To join, you'll want to follow the steps below and sign up at online. 
 
@@ -33,7 +33,7 @@ We've gone virtual! You can join this year's challenge by signing up online. Tee
 <br />
 
 <p>
-<a href="https://dar.to/3ebCOcR" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Register for Teen Summer Reading</a>
+<a href="https://dar.to/3ifssuX" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Register for Teen Summer Reading</a>
 </p>
 <br />
 
@@ -47,7 +47,7 @@ Complete all 20 of our Reading Challenges to win a $10 gift card! The challenges
 <br />
 
 <p>
-<a href="X" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Reading Challenge Brochure</a>
+<a href="https://dar.to/3g9eJEb" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Reading Challenge Brochure</a>
 </p>
 <br />
 <a href="https://dar.to/3fHHFTK">List of books suggestions</a> or <a href="https://dar.to/2U5XUS9">PDF</a>
@@ -73,7 +73,7 @@ When you complete a number of challenges, you win a prize!
 <!-- <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2018_teen_summer_reading_train.jpg" alt="Train to Darien" /> -->
 
 <hr>
-
+<a name="events"></a>
 <div class="row">
 <div class="col-md-12">
 <div class="row">
