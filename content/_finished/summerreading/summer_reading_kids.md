@@ -14,13 +14,13 @@
 
 Happy Summer! This year, you'll be able to participate in Darien Library's Summer Reading program by [logging your reading online](https://dar.to/2Vbxijj "Logging your reading online") or by using the paper log. All ages can sign up and read together this summer. 
 
-The How to Register Online Guide explains how to sign up online to track your reading.
+The Summer Reading Registration Guide explains how to sign up online to track your reading.
 
 <div class="margin-bottom-30"></div>
 <div class="row">
 <div class="col-md-6">
 <p>
-<a href="https://dar.to/37Hy3pk" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">How to Register Online Guide</a>
+<a href="https://dar.to/37Hy3pk" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Summer Reading Registration Guide</a>
 </p>
 </div>
 <div class="col-md-6">
@@ -67,7 +67,10 @@ The Grand Prize Winner will get to pick from three "experience" prizes. Details 
 <a href="https://dar.to/2YbXTyg" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Read to Me Club Logs</a>
 </p>
 <p>
-<a href="https://dar.to/2N6ZSOe" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Timeline Map&nbsp;&nbsp;&nbsp;&nbsp;</a>
+<a href="https://dar.to/2N6ZSOe" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Timeline Sheet</a>
+</p>
+<p>
+<a href="https://dar.to/3eX0en3" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">Frequently Asked Questions</a>
 </p>
 <!-- <p>
 <a href="#" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#157C2F;">K to 6 Brochure</a>
@@ -88,14 +91,14 @@ The Grand Prize Winner will get to pick from three "experience" prizes. Details 
 <div class="col-md-4">
 <div style="padding: 10px 10px 10px 10px;">
 <h4 style="color:#157C2F;">Step One</h4>
-Each participant in Darien Time Machine 3000 will receive an Timeline Map that consists of 11 reading challenges and 5 physical challenges. Kids will fill out their own Timeline Map each time they visit the Library.
+Each participant in Darien Time Machine 3000 will receive an Timeline sheet that consists of 11 reading challenges and 5 physical challenges. Kids will fill out their Timeline challenges through the Beanstack website or app.
 </div>
 </div>
 <div class="col-md-4">
 <div style="padding:10px;">
 <h4 style="color:#157C2F;">Step Two</h4>
 
-Aspiring time travelers may ask for a clue to help get the lost librarians back to 2020 at each time capsule. Participants who complete their Timeline Map by Friday, August 14th will be entered into a Grand Prize raffle.
+Aspiring time travelers can choose to solve a puzzle at each time capsule to help get the lost librarians back to 2020. Participants who complete their Timeline sheet by Friday, August 14th will be entered into a Grand Prize raffle.
 
 </div>
 </div>

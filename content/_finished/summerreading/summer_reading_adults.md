@@ -35,13 +35,13 @@ Our Readers' Advisors share their top selections for Summer Reading fun.
 This year there are two ways to play: Register to play online OR pick up a game card!
 
 * [Register online](https://dar.to/3ifssuX "Register online"). Check the [Frequent Asked Questions sheet](https://dar.to/2BkR8lj "FAQs sheet") for more information on how to play online. 
-* Or pick up your game cards at the Welcome Desk or [download a game card](https://dar.to/3igxnfd "Download a Game Card").
+* Or pick up your game cards at the Welcome Desk (starting July 6th) or [download a game card](https://dar.to/3igxnfd "Download a Game Card").
 <br />
 
 #### Once you have registered online or picked up your game card: 
 
 * Complete any three challenges for an opportunity to win.
-* Log your challenges online or return your game card to the Library between July 1st and August 14th, and you will be entered into three drawings for a $25 gift certificate to Barrett Bookstore.
+* Log your challenges online or return your game card to the Library between July 6th and August 14th, and you will be entered into three drawings for a $25 gift certificate to Barrett Bookstore.
 * Every completed game card and online entry is a submission for the grand prize of a $100 gift certificate to Barrett Bookstore.
 
 <br />
@@ -110,7 +110,7 @@ Our Readers' Advisors share their top selctions for Summer Reading fun.
 <h2 style="color: #2C53A4;">Frequently Asked Questions</h2>
 
 #### Do I have to play online?
-* You may continue to pick-up print game cards at the library. We will have these available at the Library starting July 1st. You can also [download a PDF of the game card](https://dar.to/3igxnfd "download a PDF of the game card") and play. 
+* You may continue to pick-up print game cards at the library. We will have these available at the Library starting July 6th. You can also [download a PDF of the game card](https://dar.to/3igxnfd "download a PDF of the game card") and play. 
 * Once you have completed three of the challenges, take a photo of your completed card with your contact information and email it to [vgrubbs@darienlibrary.org](mailto:vgrubbs@darienlibrary.org "Email Virginia") with the subject heading “Game Card” to enter the raffles. 
 * Once you complete a game card, you may print another game card or pick up one from the Library and play again. 
 <hr>

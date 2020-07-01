@@ -209,7 +209,6 @@
 <h3>Videos</h3>
 <ul>
 <li><a href="https://dar.to/2XylFVa" style="text-decoration:none;">Understanding My Privilege</a></li>
-<li><a href="https://dar.to/2BikbFB" style="text-decoration:none;">The Criterion Channel: Black Lives</a></li>
 <li>On Netflix: <a href="https://dar.to/2XCfEXD" style="text-decoration:none;">13th</a></li>
 <li>On Netflix: <a href="https://dar.to/2Mu17qj" style="text-decoration:none;">When They See Us</a></li>
 <li>On Hulu: <a href="https://dar.to/3cAuMsq" style="text-decoration:none;">The Hate U Give</a></li>

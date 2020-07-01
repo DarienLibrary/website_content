@@ -3,7 +3,7 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-On July 1st, we will resume offering in-person services in addition to our enhanced virtual offerings. Curbside pick-up will move to the Community Room when we reopen.
+On **July 6th**, we will resume offering in-person services in addition to our enhanced virtual offerings. Curbside pick-up moves to the Community Room on July 1st.
 <br />
 <br />
 We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance.
@@ -106,9 +106,9 @@ We have completed our self-certification for reopening as required by the State 
 
 <h3 style="color:#009623;"><a id="appt"></a>Services Requiring an Appointment</h3>
 
-* The Children's Library is open for 30-minute appointment with limited walk-ins allowed. <strong><a href="/visitCL">Book an appointment</a></strong>
+* The Children's Library is open for 30-minute appointment with limited walk-ins allowed. If you arrive early, please wait outside the building until time for your appointment. <strong><a href="/visitCL">Book an appointment</a></strong>
 * Notarizations: Please **[email the Reference Desk](mailto:askus@darienlibrary.org "Email the Reference Desk")** or call **[203-669-5236](tel:2036695236 "Call the Reference Desk")**.
-* Bloomberg Terminal: Residents may book the Bloomberg Terminal a week in advance (make an appointment on Monday of that week) and non-residents may book an appointment for the same day by calling that day to check availability. 
+* Bloomberg Terminal: Residents may book the Bloomberg Terminal 5 business days in advance and non-residents may book an appointment for the same day by calling that day to check availability. Appointments can only be made via **[email](mailto:askus@darienlibrary.org "Email the Reference Desk")** or by calling **[203-669-5236](tel:2036695236 "Call the Reference Desk")**.
 
 <br />
 <a href="#return">Return to the top of the page</a>
