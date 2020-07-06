@@ -1,19 +1,25 @@
-View <a href="#LargeGroups">Meeting Rooms for Rent</a>
+### Darien Library Express Services
+We are not offering study or meeting rooms until further notice due to the coronavirus outbreak. 
+
+
+<!-- View <a href="#LargeGroups">Meeting Rooms for Rent</a>
 
 <div class="text-center margin-bottom-50">
-  <h2 class="title-v2 title-center">Available for Small Groups</h2>
+<h2 class="title-v2 title-center">Available for Small Groups</h2>
 </div>
 
 <div class="row margin-bottom-10">
-  <div class="col-xs-12 col-sm-8 col-md-9">
+<div class="col-xs-12 col-sm-8 col-md-9">
 
 Need a place to study or have a meeting? We have a variety of spaces to meet your needs. All rooms include WiFi access, power outlets, a table, and chairs. These rooms are available for two hour blocks of time. They may be reserved up to one month in advance by Darien residents, those who work in Darien full-time, and [Friends of the Library](/friends "Friends of the Library") who donate annually at the $300 level or above.
 
-Call [203-669-5236](tel:203-669-5236 "Call the Reference Desk"). Non-resident members may use these rooms on a first-come first-served basis. Just stop by the Reference Desk on the Second Level to sign up for your room!
-  </div>
-  <div class="col-xs-12 col-sm-8 col-md-3">
-      <a href="/request-study-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Request a Study Room</button></a>
-  </div>
+<!-- Call [203-669-5236](tel:203-669-5236 "Call the Reference Desk"). Non-resident members may use these rooms on a first-come first-served basis. Just stop by the Reference Desk on the Second Level to sign up for your room!-->
+
+</div>
+<div class="col-xs-12 col-sm-8 col-md-3">
+<!-- <a href="/request-study-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Request a Study Room</button></a> --> 
+We are not offering study or meeting rooms until further notice due to the coronavirus outbreak.
+</div>
 </div>
 
 
@@ -95,18 +101,19 @@ This is a silent study space.
 
 <a name="LargeGroups"></a>
 <div class="text-center margin-bottom-50">
-  <h2 class="title-v2 title-center">Available to Large Groups</h2>
+<h2 class="title-v2 title-center">Available to Large Groups</h2>
 </div>
 
 <div class="row margin-bottom-10">
-  <div class="col-xs-12 col-sm-8 col-md-9">
+<div class="col-xs-12 col-sm-8 col-md-9">
 
 These rooms may be rented for a fee per the [Meeting Rooms Policy](/meeting-rooms-policy "Meeting Rooms Policy") by submitting an application. All rooms include WiFi access, power outlets, a table, and chairs.
 
-  </div>
-  <div class="col-xs-12 col-sm-8 col-md-3">
-      <a href="/request-meeting-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply Online</button></a>
-  </div>
+</div>
+<div class="col-xs-12 col-sm-8 col-md-3">
+<!-- <a href="/request-meeting-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply Online</button></a> -->
+We are not offering study or meeting rooms until further notice due to the coronavirus outbreak.
+</div>
 </div>
 
 
