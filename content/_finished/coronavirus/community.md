@@ -1,88 +1,77 @@
-<div class="row margin-bottom-30">
-<div class="col-xs-7 col-md-9">
-
-To help us stay connected during these times, Darien Library presents "Connected Community" — fun videos made by you and your neighbors to help us stay connected.
+Our Knowledge and Learning Services librarians have curated the following most helpful resources during the coronavirus outbreak. See our [COVID-19 page](https://dar.to/2Iznys9 "COVID-19") for updates on the coronavirus.
 <br />
 <br />
 
-### Submit a Video
-If you'd like to send in your video, please [email Krishna](mailto:kgrady@darienlibrary.org "Email Krishna"). Videos should be shot in landscape mode (i.e. wider than tall) with no backing music. Language needs to be family-friendly as is the topic you are sharing.
+<div class="row">
+<div class="col-md-6">
+
+### Find Help
+* For general information, [call 211](tel:211 "Call 211") or [visit the 211 website](https://dar.to/2QEumsV "Visit the 211 website").
+* If you are a vulnerable Senior in need of support, call Darien Human Services to be added to the Emergency Call List: [203-656-7328](tel:2036567328 "Call Darien Human Services").
+If you’re a Senior in need of a ride or other service, contact [At Home in Darien](https://dar.to/2TTzBpd "At Home in Darien"): [203-655-2227](tel:2036552227 "Call At Home in Darien"). 
+* For food options in Darien, see the [Darien Chamber of Commerce](https://dar.to/2RisRkI "Darien Chamber of Commerce") website.
+* [Emergency Food Resources in Fairfield County](https://dar.to/2WIBit6 "Emergency Food Resources in Fairfield County") (Word document)
+* [Shelter in place advice](https://dar.to/39jJOS3 "Shelter in place advice") for those caring for elderly loved ones. 
+* Coronavirus [Resources for People with Disabilities](https://dar.to/2x6oQJ7 "Resources for People with Disabilities")
+<br />
 
 </div>
-<div class="col-xs-5 col-md-3">
-<img class="img-responsive center-block" src="/uploads/logos/connected_community_logo_web.png" alt="Connected Community logo" />
+<div class="col-md-6">
+
+### Give Help
+* [Neighbors in Need Emergency Assistance Fund](https://dar.to/33MDzFd "Neighbors in Need Emergency Assistance Fund") helps people in our community by providing healthy food, rental, and utility assistance.
+* [Touch a Life](https://dar.to/33JK1MU "Touch a Life") from The Community Fund of Darien
+* [United Way's](https://dar.to/2UggG9P "United Way") Emergency Food Response Volunteers program
+* [Foodshare](https://dar.to/2JfttmG "Foodshare")
+* Find ways to virtually volunteer through [United Way's volunteer board](https://dar.to/2JdFpVZ "United Way's volunteer board")
+* Find a [Red Cross Blood Drive](https://dar.to/39gwbTC "Red Cross Blood Drive")
+* [Donate Personal Protection Equipment](https://dar.to/2xn4smQ "Donate Personal Protection Equipment")
+<br />
+
 </div>
 </div>
 
 <div class="row">
 <div class="col-md-6">
 
-### Linzer Tarts
-AdeleFire shares how to make these delicious tarts.
+### Employment Help
+If you become unemployed due to coronavirus, you should [file for unemployment benefits](https://dar.to/3bwlrT1 "File for unemployment benefits") through Connecticut's Department of Labor. [Read frequently asked questions](https://dar.to/2UEPzV1 "Read FAQs") about the coronavirus for workers and employers.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/421126884?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+Additional information about [unemployment benefits for furloughed employees](https://dar.to/2QK2wvC "Unemployment benefits for furloughed employees") is available from the U.S. Office of Personnel Management (OPM). 
 
+You can also [work with a career coach](https://dar.to/3cDMuf7 "work with a career coach") through the Goodwill Career Center to get help planning your next steps.  
+
+Read tips on [_"Between Jobs: Moving Forward Following Unemployment"_](https://dar.to/2QNbqs9 "Between Jobs: Moving Forward Following Unemployment")
+<br />
 <br />
 
-### Chocolate Cake Pan Cake
-Tina shares how to make this delicious treat. [View the recipe](https://dar.to/2YSILqB "View the recipe")
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/417613122?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
+### Avoid Scammers
+Learn how to [spot COVID-19 scammers](https://dar.to/2QKDnRo "spot COVID-19 scammers").
+<br />
 <br />
 
-### DIY Baby Toy
-Miss Sam shares how to make a baby toy using a bottle, cereal, and glue.
+### Legal Help
+[Coronavirus Legal Resource Guide](https://dar.to/3dxfer9 "Coronavirus Legal Resource Guide") from the Library of Congress.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/416004632?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
+> "This is intended as a guide to laws, regulations and executive actions in the United States, at both the federal and the state level, and in various countries with respect to the new coronavirus and its spread."
 <br />
-
-### Absolutely Fabulous Summer Pudding
-Carolyn Eddie, of [Carolyn’s Absolutely Fabulous Events](www.carolynsabsolutelyfabulousevents.com "Carolyn’s Absolutely Fabulous Events") shares an English treat.
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/413727218?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
-<br />
-
-### Fairy Houses
-Catherine shares how to make fairy houses -- using the materials in your yard.
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/411474258?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
-<br />
-
 
 </div>
 <div class="col-md-6">
 
+### Financial Help
+How non-filers can apply for the [Economic Impact Payment/Stimulus check](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here "Economic Impact Payment/Stimulus check").
 
-### One Pot Italian Pasta
-Reed shares how to make pasta in just one pot. [View the recipe](https://dar.to/2yAjhmQ "View the recipe")
+See our [Business and Investing databases](https://dar.to/2TiCDmw "Business and Investing databases"). As well, [Value Line](https://dar.to/3dmKiKj "Value Line") can now be accessed from the comfort of your home.
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/410187025?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+Check the [UConn Extension Service](https://dar.to/2wFLE2f "UConn Extension Service") for COVID-19 resources for Connecticut farmers, businesses, and consumers. 
 
-<br />
+View a list of financial resources for [troops and veterans](https://dar.to/2yzfciI "Troops and veterans").
 
-### Ratatouille Over Creamy Polenta
-Reed shares how to make a modified Ratatouille with a Creamy Polenta.
+The State of Connecticut Department of Economic and Community Development has created an emergency response small businesses unit. For specific questions related to Connecticut small business, email the Joint Information Center at [COVID19.JIC@ct.gov](mailto:COVID19.JIC@ct.gov "Email the Joint Information Center"), or call the DECD Small Business Hotline at [860-500-2333](tel:8605002333 "Call the DECD Small Business Hotline").
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/408453878?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+The Small Business Association created these [Guidance and Loan Resources](https://dar.to/3bP1LcQ "SBA Guidance and Loan Resources") for small businesses.
 
-<br />
-
-### Buttermilk Biscuits
-Tina shares how to make delicious biscuits without buttermilk. 
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/407689287?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
-<br />
-
-
-### DIY Face Mask
-Nadira shares how to make a DIY face mask. 
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/405864258?title=0&byline=0&portrait=0&texttrack=en-US' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
-
+Read information from the [Women’s Business Development Council](https://dar.to/2wDvHcH "Women’s Business Development Council") for small  businesses.
 </div>
 </div>
