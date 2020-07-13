@@ -37,7 +37,7 @@ via the outdoor return<br />
 <div class="col-md-4">
 <strong>Holds Pick-up</strong><br />
 Monday through Friday<br />
-11 a.m. to 5 p.m.<br />
+9 a.m. to 5 p.m.<br />
 <br />
 </div>
 </div>
@@ -107,7 +107,7 @@ We have completed our self-certification for reopening as required by the State 
 <h3 style="color:#009623;"><a id="appt"></a>Services Requiring an Appointment</h3>
 
 * The Children's Library is open for 30-minute appointment with limited walk-ins allowed. If you arrive early, please wait outside the building until time for your appointment. <strong><a href="/visitCL">Book an appointment</a></strong>
-* Notarizations: Please **[email the Reference Desk](mailto:askus@darienlibrary.org "Email the Reference Desk")** or call **[203-669-5236](tel:2036695236 "Call the Reference Desk")**.
+* Notarizations: Please use our online <strong><a href="https://dar.to/2Dp2rcM">Notary Appointment form</a></strong>.
 * Bloomberg Terminal: Residents may book the Bloomberg Terminal 5 business days in advance and non-residents may book an appointment for the same day by calling that day to check availability. Appointments can only be made via **[email](mailto:askus@darienlibrary.org "Email the Reference Desk")** or by calling **[203-669-5236](tel:2036695236 "Call the Reference Desk")**.
 
 <br />
@@ -254,7 +254,7 @@ Wait for the email to tell you the item(s) are available.
 <br />
 </div>
 <div class="col-xs-10 col-md-10">
-Come the next business day (Monday-Friday) between 11 a.m. to 5 p.m. to pick-up your items from the Community Room.
+Come the next business day (Monday-Friday) between 9 a.m. to 5 p.m. to pick-up your items from the Community Room.
 <br />
 </div>
 </div>

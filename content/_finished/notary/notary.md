@@ -1,20 +1,10 @@
+<div class="container col-md-10 col-md-offset-1">
 <div class="row margin-bottom-30">
-<div class="col-md-8">
 
-
-Do you need your paperwork notarized? Our Notary Publics are available to notarize your documents free of charge. 
+Do you need your paperwork notarized? Our Notary Publics are available to notarize your documents free of charge.
+<br /> 
 
 _A Notary Public is a public servant appointed by state government to witness the signing of important documents and administer oaths._ 
-<br />
-<br />
-
-### Notary Hours
-When there is a notary available, notarization can happen anytime from opening to one hour before closing. This means, when a notary is available, notarizations can occur:
-* Monday through Thursday: 9 a.m. to 8 p.m.
-* Friday and Saturday: 9 a.m. to 5 p.m.
-* Sunday: 1 p.m. to 4 p.m.
-
-Please call ahead to check for a Notary at [203-669-5236](tel:2036695236 "203-669-5236").
 <br />
 <br />
 
@@ -37,14 +27,23 @@ If you need something notarized, please bring two forms of ID containing your si
 * Birth Certificate
 </div>
 </div>
+<br />
 
-Please don't sign the document(s) until you appear before the Notary Public.
+### Before You Arrive
+Be sure the documents are complete and ready for signature. Please don't sign the document(s) until you appear before the Notary Public. 
 
+If you need legal advice, please consult an attorney. The Notary Public is prohibited from helping you to prepare, complete, or understand legal documents.
+<br />
+<br />
+
+<a name="appt"></a>
+### Schedule a Notary Appointment
+
+<div class="row">
+<div class="col-md-9">
+<script type="text/javascript" src="https://form.jotform.com/jsform/201914516437151"></script>
+<!-- <img class="img-responsive" src="/uploads/equipment/notary_seal_stamp.png" alt="Notary Seal" /> -->
 </div>
-
-<div class="col-md-4">
-
-<img class="img-responsive" src="/uploads/equipment/notary_seal_stamp.png" alt="Notary Seal" />
-
+</div>
 </div>
 </div>

@@ -33,7 +33,7 @@
 <div class="col-md-6">
 <h3>Websites</h3>
 <ul>
-<li><a href="https://dar.to/2Uc05DA" style="text-decoration:none;">The 1619 Project</a> from <em>The New York Times</em></li>
+<li><a href="https://dar.to/2Uc05DA" style="text-decoration:none;">The 1619 Project</a> from <em>The New York Times</em> with access through the <a href="https://dar.to/2ZIr5wF">Library's portal</a>.</li>
 <li><a href="https://dar.to/2U3CogQ" style="text-decoration:none;">The King Philosophy</a> from The King Center</li>
 <br />
 </ul>
@@ -90,7 +90,8 @@
 <ul>
 <li><a href="https://dar.to/3gSPcjY" style="text-decoration:none;">Talking About Race</a> from the National Museum of African American History and Culture </li>
 <li><a href="https://dar.to/3dtItdY" style="text-decoration:none;">Why Us? Why Now?</a> from the National Museum of African American History and Culture </li>
-<li><a href="https://dar.to/36VBcRU" style="text-decoration:none;">Antiracism & America</a> from the Antiracist Research and Policy Center</li>
+<li><a href="https://dar.to/31PqZG9" style="text-decoration:none;">Ibram X. Kendi, Robin DiAngelo Discuss Race in America</a> from CBS News</li>
+<li><a href="https://dar.to/31SpVRH" style="text-decoration:none;">RACE: Are We So Different?</a> from The American Anthropological Association</li>
 </ul>
 
 
