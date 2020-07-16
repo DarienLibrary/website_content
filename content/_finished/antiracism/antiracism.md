@@ -210,11 +210,6 @@
 <h3>Videos</h3>
 <ul>
 <li><a href="https://dar.to/2XylFVa" style="text-decoration:none;">Understanding My Privilege</a></li>
-<li><a href="https://dar.to/3h4hjvM" style="text-decoration: none;">Just Mercy</a></li>
-<li><a href="https://dar.to/2ClsH7H" style="text-decoration: none;">Marshall</a></li>
-<li><a href="https://dar.to/3jcM6Iv" style="text-decoration: none;">Ruby Bridges</a></li>
-<li><a href="https://dar.to/3h7v8tg" style="text-decoration: none;">Selma</a></li>
-<li><a href="https://dar.to/30kD4R4" style="text-decoration:none;">The Hate U Give</a></li>
 <li>On Netflix: <a href="https://dar.to/2XCfEXD" style="text-decoration:none;">13th</a></li>
 <li>On Netflix: <a href="https://dar.to/2Mu17qj" style="text-decoration:none;">When They See Us</a></li>
 </ul>
@@ -225,8 +220,38 @@
 
 <div class="text-center margin-bottom-40"></div>
 
+<div class="text-center margin-bottom-40">
+<h2 class="title-v2 title-center">Real Life and Fictional Movies</h2>
+</div>
 
+<div class="row">
+<div class="col-xs-6 col-md-2">
+<a href="https://dar.to/3h4hjvM"><img class="img-responsive center-block" src="/uploads/departments/adults/just_mercy.png" alt="Just Mercy"></a>
+<br />
+</div>
+<div class="col-xs-6 col-md-2">
+<a href="https://dar.to/2ClsH7H"><img class="img-responsive center-block" src="/uploads/departments/adults/marshall.jpg" alt="Marshall"></a>
+<br />
+</div>
+<div class="col-xs-6 col-md-2">
+<a href="https://dar.to/2B9zOQc"><img class="img-responsive center-block" src="/uploads/departments/adults/immortal_life.png" alt="The Immortal Life of Henrietta Lacks"></a>
+<br />
+</div>
+<div class="col-xs-6 col-md-2">
+<a href="https://dar.to/3jcM6Iv"><img class="img-responsive center-block" src="/uploads/departments/adults/ruby_bridges.png" alt="Ruby Bridges"></a>
+<br />
+</div>
+<div class="col-xs-6 col-md-2">
+<a href="https://dar.to/3h7v8tg"><img class="img-responsive center-block" src="/uploads/departments/adults/selma.png" alt="Selma"></a>
+<br />
+</div>
+<div class="col-xs-6 col-md-2">
+<a href="https://dar.to/30kD4R4"><img class="img-responsive center-block" src="/uploads/departments/adults/hate_u_give.png" alt="The Hate U Give"></a>
+<br />
+</div>
+</div>
 
+<div class="text-center margin-bottom-40"></div>
 
 <div class="text-center margin-bottom-40">
 <h2 class="title-v2 title-center">Recommended Books</h2>
