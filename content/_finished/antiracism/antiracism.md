@@ -210,9 +210,13 @@
 <h3>Videos</h3>
 <ul>
 <li><a href="https://dar.to/2XylFVa" style="text-decoration:none;">Understanding My Privilege</a></li>
+<li><a href="https://dar.to/3h4hjvM" style="text-decoration: none;">Just Mercy</a></li>
+<li><a href="https://dar.to/2ClsH7H" style="text-decoration: none;">Marshall</a></li>
+<li><a href="https://dar.to/3jcM6Iv" style="text-decoration: none;">Ruby Bridges</a></li>
+<li><a href="https://dar.to/3h7v8tg" style="text-decoration: none;">Selma</a></li>
+<li><a href="https://dar.to/30kD4R4" style="text-decoration:none;">The Hate U Give</a></li>
 <li>On Netflix: <a href="https://dar.to/2XCfEXD" style="text-decoration:none;">13th</a></li>
 <li>On Netflix: <a href="https://dar.to/2Mu17qj" style="text-decoration:none;">When They See Us</a></li>
-<li>On Hulu: <a href="https://dar.to/3cAuMsq" style="text-decoration:none;">The Hate U Give</a></li>
 </ul>
 <br />
 </div>

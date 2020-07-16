@@ -18,7 +18,7 @@ This is a part time position that will include weekdays, evenings, and up to two
 <br />
 
 ### Salary
-$15/hour
+$17.50/hour
 <br />
 <br />
 
