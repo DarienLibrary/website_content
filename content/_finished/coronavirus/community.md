@@ -25,7 +25,6 @@ If you’re a Senior in need of a ride or other service, contact [At Home in Dar
 * [Foodshare](https://dar.to/2JfttmG "Foodshare")
 * Find ways to virtually volunteer through [United Way's volunteer board](https://dar.to/2JdFpVZ "United Way's volunteer board")
 * Find a [Red Cross Blood Drive](https://dar.to/39gwbTC "Red Cross Blood Drive")
-* [Donate Personal Protection Equipment](https://dar.to/2xn4smQ "Donate Personal Protection Equipment")
 <br />
 
 </div>
@@ -60,6 +59,8 @@ Learn how to [spot COVID-19 scammers](https://dar.to/2QKDnRo "spot COVID-19 scam
 <div class="col-md-6">
 
 ### Financial Help
+For renters and homeowners who have been impacted by COVID-19, [CT Temporary Housing Assistance Initiative](https://portal.ct.gov/DOH/DOH/Programs/Temporary-Housing-Assistance-Initiatives "CT Temporary Housing Assistance Initiative") begins July 15th, 2020.
+
 How non-filers can apply for the [Economic Impact Payment/Stimulus check](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here "Economic Impact Payment/Stimulus check").
 
 See our [Business and Investing databases](https://dar.to/2TiCDmw "Business and Investing databases"). As well, [Value Line](https://dar.to/3dmKiKj "Value Line") can now be accessed from the comfort of your home.

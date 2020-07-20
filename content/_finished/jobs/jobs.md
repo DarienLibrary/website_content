@@ -10,11 +10,6 @@ Darien Library (CT) seeks a dynamic, community-minded Adult Programmer. The idea
 <br />
 <br />
 
-### [Full-Time Children's Librarian](https://dar.to/2Y5aaF2 "Full-Time Children's Librarian")
-Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join a dedicated Youth Services Department as a full-time Children’s Librarian. This librarian will serve as the Early Literacy and Outreach Coordinator, planning and managing programming for the First Five Years, coordinating well-established outreach to community organizations, and managing Summer Reading relationships with Darien Schools.
-<br />
-<br /> 
-
 ### [Part-Time Reference Assistant](https://dar.to/2wuUc70 "Part-Time Reference Assistant")
 Darien Library (CT) is seeking a friendly, energetic self-starter and life-long learner with excellent reference and technology skills to provide extraordinary customer service and technology support to library users. The ideal candidate finds joy in helping others, is perpetually eager to learn new things, and communicates comfortably with people from all walks of life.
 <br />
