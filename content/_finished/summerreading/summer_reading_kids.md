@@ -98,14 +98,14 @@ Each participant in Darien Time Machine 3000 will receive an Timeline sheet that
 <div style="padding:10px;">
 <h4 style="color:#157C2F;">Step Two</h4>
 
-Aspiring time travelers can choose to solve a puzzle at each time capsule to help get the lost librarians back to 2020. Participants who complete their Timeline sheet by Friday, August 14th will be entered into a Grand Prize raffle.
+Aspiring time travelers can choose to solve a puzzle at each time capsule to help get the lost librarians back to 2020. Participants who complete their Timeline sheet by Monday, August 24th will be entered into a Grand Prize raffle.
 
 </div>
 </div>
 <div class="col-md-4">
 <div style="padding:10px;">
 <h4 style="color:#157C2F;">Step Three</h4>
-Participants who complete their Timeline and solve the Darien Time Machine 3000 challenge by August 14th will be entered twice into the Grand Prize Raffle. 
+Participants who complete their Timeline and solve the Darien Time Machine 3000 challenge by August 24th will be entered twice into the Grand Prize Raffle. 
 </div>
 </div>
 </div>

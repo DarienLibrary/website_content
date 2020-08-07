@@ -5,16 +5,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time Adult Programming Librarian](https://dar.to/2UEOVHL "Full-Time Adult Programming Librarian")
-Darien Library (CT) seeks a dynamic, community-minded Adult Programmer. The ideal candidate is highly collaborative, creative, and flexible while dedicated to providing exciting programming and book groups for patrons. This opportunity is perfect for a forward-thinking professional who is enthusiastic about the breadth of library programming.
-<br />
-<br />
-
-### [Part-Time Reference Assistant](https://dar.to/2wuUc70 "Part-Time Reference Assistant")
-Darien Library (CT) is seeking a friendly, energetic self-starter and life-long learner with excellent reference and technology skills to provide extraordinary customer service and technology support to library users. The ideal candidate finds joy in helping others, is perpetually eager to learn new things, and communicates comfortably with people from all walks of life.
-<br />
-<br /> 
-
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />

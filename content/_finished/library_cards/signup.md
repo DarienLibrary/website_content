@@ -1,4 +1,4 @@
-<p style="font-size:1.25em !important;">Welcome, Darien resident or Darien educator! Your library card number will be emailed to you within 24-hours. We will contact you when the Library reopens so you can pick up your card at the Welcome Desk.</p>
+<div class="col-md-10 col-md-offset-1"><p style="font-size:1.25em !important;">Welcome, Darien resident or Darien educator! Your library card number will be emailed to you within 24-hours, during normal business hours Monday through Friday. Please visit us to pick up your new library card at the Welcome Desk, between 9 a.m. and 5 p.m. Monday-Friday, along with your ID.</p></div>
 <iframe
 id="JotFormIFrame-200767174240047"
 title="Sign Up for a Darien Library Card"
