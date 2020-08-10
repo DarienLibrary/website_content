@@ -10,7 +10,7 @@ As of Monday, July 6th, we have resumed offering in-person services in addition 
 
 We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance. See our [Reopening Plans](https://dar.to/2MGxG4D "Reopening Plans") for more information.
 
-Please see our [Community Resources](https://dar.to/39LEtmA "Darien Community Resources for COVID-19") page for information on getting and giving help during this time, local restaurants, and financial and legal assistance for individuals and businesses. 
+Please see our [Community Resources](https://dar.to/39LEtmA "Darien Community Resources for COVID-19") page for information on getting and giving help during this time, including financial and legal assistance for individuals and businesses. 
 
 <br />
 

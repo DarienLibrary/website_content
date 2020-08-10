@@ -6,9 +6,6 @@
 The Library is open from 9 a.m. to 5 p.m. Monday-Friday. WiFi is available in our courtyard along with power strips. 
 <br />
 <br />
-While there is a power outage in Town, the Library is using a two-hour ticketed system for access to the Second Level. The hours are 9 to 11 a.m., 11 a.m. to 1 p.m., 1 to 3 p.m., 3 to 5 p.m. You may pick up a ticket from the front door up to 30 minutes before your selected time. This system allows us to adhere to COVID-19 rules and to help protect everyone's health and safety.
-<br />
-<br />
 We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance.
 <br />
 <br />

@@ -9,8 +9,7 @@ Our Knowledge and Learning Services librarians have curated the following most h
 * For general information, [call 211](tel:211 "Call 211") or [visit the 211 website](https://dar.to/2QEumsV "Visit the 211 website").
 * If you are a vulnerable Senior in need of support, call Darien Human Services to be added to the Emergency Call List: [203-656-7328](tel:2036567328 "Call Darien Human Services").
 If you’re a Senior in need of a ride or other service, contact [At Home in Darien](https://dar.to/2TTzBpd "At Home in Darien"): [203-655-2227](tel:2036552227 "Call At Home in Darien"). 
-* For food options in Darien, see the [Darien Chamber of Commerce](https://dar.to/2RisRkI "Darien Chamber of Commerce") website.
-* [Emergency Food Resources in Fairfield County](https://dar.to/2WIBit6 "Emergency Food Resources in Fairfield County") (Word document)
+* [COVID-19 Community Wide Emergency Meal Program for Children](https://dar.to/3kmCE67 "Community Wide Emergency Meal Program for Children")
 * [Shelter in place advice](https://dar.to/39jJOS3 "Shelter in place advice") for those caring for elderly loved ones. 
 * Coronavirus [Resources for People with Disabilities](https://dar.to/2x6oQJ7 "Resources for People with Disabilities")
 <br />
@@ -38,7 +37,7 @@ If you become unemployed due to coronavirus, you should [file for unemployment b
 
 Additional information about [unemployment benefits for furloughed employees](https://dar.to/2QK2wvC "Unemployment benefits for furloughed employees") is available from the U.S. Office of Personnel Management (OPM). 
 
-You can also [work with a career coach](https://dar.to/3cDMuf7 "work with a career coach") through the Goodwill Career Center to get help planning your next steps.  
+You can also [work with a career coach](https://dar.to/3cDMuf7 "work with a career coach") through the Goodwill Career Center to get help planning your next steps or visit [CT Hires](https://www.cthires.com/vosnet/Default.aspx "CT Hires") for Connecticut State resources. 
 
 Read tips on [_"Between Jobs: Moving Forward Following Unemployment"_](https://dar.to/2QNbqs9 "Between Jobs: Moving Forward Following Unemployment")
 <br />
