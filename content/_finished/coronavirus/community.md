@@ -60,9 +60,9 @@ Learn how to [spot COVID-19 scammers](https://dar.to/2QKDnRo "spot COVID-19 scam
 ### Financial Help
 For renters and homeowners who have been impacted by COVID-19, [CT Temporary Housing Assistance Initiative](https://portal.ct.gov/DOH/DOH/Programs/Temporary-Housing-Assistance-Initiatives "CT Temporary Housing Assistance Initiative") begins July 15th, 2020.
 
-How non-filers can apply for the [Economic Impact Payment/Stimulus check](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here "Economic Impact Payment/Stimulus check").
+The Consumer Financial Protection Bureau offers up to date information for [Protecting Your Finances During the Coronavirus Pandemic](https://dar.to/3iD7rtD "Protecting Your Finances During the Coronavirus Pandemic"). Check out these useful tips for [Dealing with Debt](https://dar.to/31RU7e2 "Dealing with Debt").
 
-See our [Business and Investing databases](https://dar.to/2TiCDmw "Business and Investing databases"). As well, [Value Line](https://dar.to/3dmKiKj "Value Line") can now be accessed from the comfort of your home.
+How non-filers can apply for the [Economic Impact Payment/Stimulus check](https://www.irs.gov/coronavirus/non-filers-enter-payment-info-here "Economic Impact Payment/Stimulus check").
 
 Check the [UConn Extension Service](https://dar.to/2wFLE2f "UConn Extension Service") for COVID-19 resources for Connecticut farmers, businesses, and consumers. 
 
