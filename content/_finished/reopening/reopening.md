@@ -3,7 +3,7 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-The Library is open from 9 a.m. to 5 p.m. Monday-Friday. WiFi is available in our courtyard along with power strips. 
+The Library is open from 9 a.m. to 5 p.m. Monday-Friday. WiFi is available in our courtyard. Visits to the Second Level and Mezzanine are limited to two-hours per day. 
 <br />
 <br />
 We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance.
@@ -158,6 +158,7 @@ We have completed our self-certification for reopening as required by the State 
 * Computer usage is limited to one 60-minute session per day. 
 * Contactless checkouts with four self-checkouts available on the First Level. 
 * Food and drinks must be taken to the courtyard to be enjoyed. 
+* Phone calls (including online video chats) must take place in the courtyard. 
 
 <br />
 <a href="#return">Return to the top of the page</a>

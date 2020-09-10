@@ -1,12 +1,12 @@
 <div class="row">
 <div class="col-md-6">
 
-### What's in the _Note to Shelf_ email?
+### What's in the email?
 Each month our Readers' Advisors will send you our top book picks of the month. We also love delightful websites, so we'll send you some bonus links to websites that brought us joy.
 <br />
 <br />
 
-### Sign-up for _Note to Shelf_ Emails
+### Sign-up for Note to Shelf Emails
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -31,7 +31,7 @@ Each month our Readers' Advisors will send you our top book picks of the month. 
 </div>
 <div class="mc-field-group input-group">
     <strong>Email me... </strong>
-    <ul><li><input type="checkbox" value="4" name="group[14617][4]" id="mce-group[14617]-14617-6"><label for="mce-group[14617]-14617-6">Note to Shelf: Book Reviews</label></li>
+    <ul><li><input type="checkbox" value="4" name="group[14617][4]" id="mce-group[14617]-14617-6"><label for="mce-group[14617]-14617-6">&nbsp;&nbsp;&nbsp;Note to Shelf: Book Reviews</label></li>
 </ul>
 </div>
 	<div id="mce-responses" class="clear">
@@ -50,7 +50,7 @@ Each month our Readers' Advisors will send you our top book picks of the month. 
 <div class="col-md-6">
 
 
-<img class="img-responsive center-block" src="/uploads/staff_photos/pat_marianne_bust_book_buzz.jpg" alt="Pat and Marianne at Book Buzz" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/note_to_shelf_sign-up_page.jpg" alt="Note to Shelf" />
 <br />
 
 </div>
