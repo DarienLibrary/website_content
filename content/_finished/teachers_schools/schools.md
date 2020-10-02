@@ -3,7 +3,7 @@
 <div class="col-md-6">
 
 ### Assignment Alert
-Teachers, [let us know](mailto:childrenslibrary@darienlibrary.org "Assignment Alert") about your class assignments ahead of time. We will then set aside resources to meet your students' needs. 
+Teachers, [let us know](mailto:childrenslibrary@darienlibrary.org?&cc=ewalston@darienlibrary.org "Assignment Alert") about your class assignments ahead of time. We will then set aside resources to meet your students' needs. 
 <br />
 <br />
 

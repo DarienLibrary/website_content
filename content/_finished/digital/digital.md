@@ -74,13 +74,13 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
-<a href="https://dar.to/2qyVM4X"><img src="/uploads/logos/libby_icon.png" alt= "Libby by OverDrive" /></a>
+<a href="https://dar.to/36ts9Jx"><img src="/uploads/logos/libby_icon.png" alt= "Libby by OverDrive" /></a>
  
 ### Libby by OverDrive 
 
-[View the OverDrive Catalog](https://dar.to/2qyVM4X "OverDrive")
+[View the OverDrive Catalog](https://dar.to/36ts9Jx "OverDrive")
 
-Download the _Libby_ app to your mobile device from the Apple or Android app store. For Kindle owners, download your e-Books from the [OverDrive](https://dar.to/2rwHAsg "OverDrive") collection.
+Download the _Libby_ app to your mobile device from the Apple or Android app store. For Kindle owners, download your e-Books from the [OverDrive](https://dar.to/36ts9Jx "OverDrive") collection.
 
 * e-Books
 * e-Audiobooks
@@ -133,9 +133,9 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 
 ### Acorn TV
 
-[Access Acorn TV](https://dar.to/2rcRb9E "RBdigital")
+[Access Acorn TV](https://dar.to/34h38ih "RBdigital")
 
-Get the best of British and Australian TV via Acorn TV. You will need to create an account through the [RBdigital](https://dar.to/2rcRb9E) website. Every seven days you will need to go back to [this link](https://dar.to/2rcRb9E "this link") to renew your access to Acorn TV. Once you have your online account setup, you can access the shows through the _RBdigital_ app or _Acorn TV_ app. 
+Get the best of British and Australian TV via Acorn TV. You will need to create an account through the [RBdigital](https://dar.to/2rcRb9E) website. Every seven days you will need to go back to [this link](https://dar.to/34h38ih "this link") to renew your access to Acorn TV. Once you have your online account setup, you can access the shows through the _RBdigital_ app or _Acorn TV_ app. 
 
 * British TV Shows
 * Australian TV Shows
@@ -156,6 +156,40 @@ Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can re
 * e-Magazines
 
 [Get RBdigital Help](https://dar.to/2p5Xx7B "RBdigital help")
+
+</div>
+</div>
+
+<div class="row margin-bottom-20">
+<div class="col-md-6">
+
+<a href="https://dar.to/3ngvxxI"><img src="/uploads/logos/indieflix_logo.jpg" alt= "IndieFlix" /></a>
+
+### IndieFlix
+
+[IndieFlix](https://dar.to/3ngvxxI "IndieFlix")
+
+Enjoy over 7,000 documentaries, classic TV shows, shorts, features, and web series from 85 countries. You will need to create an account through the [RBdigital](https://dar.to/2rcRb9E) website. Every seven days you will need to go back to [this link](https://dar.to/3ngvxxI "this InfieFlix link") to renew your access to IndieFlix. Once you have your online account setup, you can access the shows through the _RBdigital_ app or _IndieFlix_ app. 
+
+* Movies
+* TV Shows
+
+[Get IndieFlix Help](https://dar.to/2p5Xx7B "IndieFlix")
+
+</div>
+<div class="col-md-6">
+
+<a href="https://dar.to/34h38ih"><img src="/uploads/logos/qello_concerts_logo.png" alt= "Qello Concerts" /></a>
+
+### Qello Concerts
+
+[Access Qello Concerts](https://dar.to/33pkQkw "Qello Concerts")
+
+Relive favorite concerts or discover new ones with HD-quality streaming full-length concerts. You will need to create an account through the [RBdigital](https://dar.to/2rcRb9E) website. Every seven days you will need to go back to [this link](https://dar.to/33pkQkw "this Qello link") to renew your access to Qello Concerts. Once you have your online account setup, you can access the shows through the _RBdigital_ app or _Qello Concerts_ app. 
+
+* Concerts
+
+[See Qello Concerts FAQs](https://dar.to/3jrNqXJ "Qello help")
 
 </div>
 </div>

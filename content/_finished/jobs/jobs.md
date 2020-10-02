@@ -5,11 +5,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time Library Marketer](https://dar.to/3gqmpl6 "Full-Time Library Marketer")
-Darien Library (CT) seeks a creative, energetic, and enthusiastic candidate to join the User Experience Department. The marketer will develop dynamic and timely content for a variety of digital and analog media outlets. They will plan, manage, and analysis the success of the Library’s publicity efforts.
-<br />
-<br />
-
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />

@@ -1,9 +1,3 @@
-<h3 style="color:red;">Postponed: The Novel Tea</h3>
-
-The Novel Tea scheduled for March 25th has been postponed. We will update all ticket holders when we have secured a new date. Please contact the Administrative Office with any questions at [203-669-5220](tel:2036695220 "Call the Administrative Office"). Thank you!
-<br />
-<br />
-
 <div class="row margin-bottom">
 <div class="col-md-8">
 <div class="row">
@@ -13,13 +7,14 @@ The Novel Tea scheduled for March 25th has been postponed. We will update all ti
 
 <br />
 
-**To Be Rescheduled**<br />
-Wee Burn Country Club<br />
-410 Hollow Tree Ridge Rd, Darien, CT
+**Wednesday, October 28th**<br />
+1 to 2:30 p.m.<br />
 
-Single tickets as well as Sponsor and Benefactor Tables are now available for purchase. The Sponsor Table will have Lara Prescott seated at their table! Please indicate any seating requests in the Comments section of the form.
+The Novel Tea will be held virtually. 
 
-All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with Lara Prescott from 11:30 a.m. to 12 noon, and receive a signed copy of _[The Secrets We Kept](https://dar.to/2sAXpVv "The Secrets We Kept")_. Each table seats 10 people.
+Single tickets are currently on sale for $150. All attendees will pick up a delicious boxed lunch at Darien Library prepared by Browne & Co. on the day of the event, as well as a complimentary Darien Library travel drink tumbler. 
+
+Each attendee will also be automatically entered to win a diamond pendant necklace from David Harvey Jewelers.
 <br />
 <br />
 
@@ -83,7 +78,8 @@ For more information, please contact the Darien Library Administrative Office at
 <br />
 <a href="https://dar.to/2Q0FKMI"><img class="img-responsive center-block" src="/uploads/darien_community/david_harvey_jewelers.jpg" alt="David Harvey Jewelers" /></a>
 <br />
-
+<a href="https://dar.to/30piy2B"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/browne_co_logo.png" alt=“Brown “& Co /></a>
+<br />
 </div>
 <div class="col-md-6">
 <a href="https://dar.to/31046NI"><img class="img-responsive center-block" src="/uploads/logos/dr_bank_300.jpg" alt="DR Bank" /></a>
@@ -92,11 +88,7 @@ For more information, please contact the Darien Library Administrative Office at
 <br />
 <img class="img-responsive center-block" src="/uploads/logos/the_wyper_family_author_fund.jpg" alt="The Wyper Family Author Fund" />
 <br />
-
-</div>
-<div class="row">
-<div class="col-md-5 col-md-offset-3">
-	<img class="img-responsive center-block" src="/uploads/logos/darien_library_logo_300px.png" alt="Darien Library" />
+<img class="img-responsive center-block" src="/uploads/departments/mallory/play/darien_library_logo_300px.png" alt="Darien Library" />
 <br />
 </div>
 </div>
@@ -114,7 +106,7 @@ Please indicate all seating requests in the "comment" section.
 
        window.bboxInit = function () {
 
-           bbox.showForm('5c7ce23a-9d3e-4128-b156-492373a0b843');
+           bbox.showForm('4759d231-df9c-4f05-a8f8-a3fa0a29ffb9');
 
        };
 

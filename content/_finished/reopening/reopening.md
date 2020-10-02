@@ -90,7 +90,7 @@ We have completed our self-certification for reopening as required by the State 
 
 <h3 style="color:#009623;"><a id="available"></a>In-Person Services Available</h3>
 
-* Borrowing of books, audiobooks, movies, and magazines
+* Borrowing of books, audiobooks, movies, magazines, and video games
 * Visits to the Children's Library to borrow materials
 * Access to public computers and internet for one 60-minute session per day
 * Scanning, printing, copying, and faxing
@@ -297,7 +297,7 @@ If you need assistance, please call the Welcome Desk at <a href="tel:2036695239"
 Returns will be accepted on Saturdays and Sundays from 9 a.m. to 5 p.m. This will allow the returned items to sit in quarantine for three days so they can then be safely handled by staff. Items will be removed from your account after this three-day quarantine period. No late fines will incur.
 <br />
 <br />
-If you have video games or technology equipment to return to the Library, please hold onto them until the next phase of the Library's reopening. We appreciate your good stewardship of these items.
+If you have technology equipment to return to the Library, please hold onto them until the next phase of the Library's reopening. We appreciate your good stewardship of these items.
 <br />
 <br />
 <a href="#return">Return to the top of the page</a>
