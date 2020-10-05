@@ -98,8 +98,6 @@ For more information, please contact the Darien Library Administrative Office at
 </div>
 <a name="Purchase" color="#fff"></a>
 
-Please indicate all seating requests in the "comment" section.
-
 <div id="bbox-root"></div>
 
 <script type="text/javascript">

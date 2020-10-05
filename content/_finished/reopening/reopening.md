@@ -3,7 +3,7 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-The Library is open from 9 a.m. to 5 p.m. Monday-Friday. WiFi is available in our courtyard. Visits to the Second Level and Mezzanine are limited to two-hours per day. 
+The Library is open Monday-Friday from 9 a.m. to 5 p.m. and Saturdays from 1 to 5 p.m. WiFi is available in our courtyard. Visits to the Second Level and Mezzanine are limited to two-hours per day. 
 <br />
 <br />
 We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance.
@@ -16,28 +16,32 @@ If you need assistance, please contact us by [email](mailto:askus@darienlibrary.
 
 <h3 style="color:#009623;">Quick Info</h3>
 <div class="row">
-<div class="col-md-4">
+<div class="col-md-6">
 <strong>Library Hours</strong><br />
 Monday through Friday<br />
-9 a.m. to 5 p.m. 
+9 a.m. to 5 p.m.<br />
+<br />
+Saturday<br />
+1 to 5 p.m.
 <br />
 <br />
-<strong>Children's Library:</strong><br />
+<strong>Children's Library Hours</strong><br />
 By Appointment Only<br />
 <a href="/visitCL">Book an Appointment</a><br />
 <br />
 </div>
-<div class="col-md-4">
+<div class="col-md-6">
 <strong>Returns Accepted</strong><br />
 Saturdays and Sundays<br />
 via the outdoor return<br />
 9 a.m. to 5 p.m.<br />
 <br />
-</div>
-<div class="col-md-4">
 <strong>Holds Pick-up</strong><br />
 Monday through Friday<br />
 9 a.m. to 5 p.m.<br />
+<br />
+Saturday<br />
+1 to 5 p.m.
 <br />
 </div>
 </div>
@@ -145,7 +149,7 @@ We have completed our self-certification for reopening as required by the State 
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
-* The Library will be open Monday through Friday from 9 a.m. to 5 p.m. 
+* The Library will be open Monday through Friday from 9 a.m. to 5 p.m. and Saturdays from 1 to 5 p.m.
 * Returns will only be accepted only on Saturday and Sundays from 9 a.m. to 5 p.m. at the outdoor return. 
 * We are allowed 150 people in the building. Please be courteous with your time. 
 * Masks must be worn at all times and fully cover the nose and mouth. 
@@ -255,7 +259,7 @@ Wait for the email to tell you the item(s) are available.
 <br />
 </div>
 <div class="col-xs-10 col-md-10">
-Come the next business day (Monday-Friday) between 9 a.m. to 5 p.m. to pick-up your items from the Community Room.
+Come the next day (Monday-Friday) between 9 a.m. to 5 p.m. to pick-up your items from the Community Room. Or on Saturdays between 1 and 5 p.m.
 <br />
 </div>
 </div>
