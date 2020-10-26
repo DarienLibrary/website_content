@@ -167,14 +167,14 @@ Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can re
 
 ### IndieFlix
 
-[IndieFlix](https://dar.to/3ngvxxI "IndieFlix")
+[Watch IndieFlix](https://dar.to/3ngvxxI "IndieFlix")
 
-Enjoy over 7,000 documentaries, classic TV shows, shorts, features, and web series from 85 countries. You will need to create an account through the [RBdigital](https://dar.to/2rcRb9E) website. Every seven days you will need to go back to [this link](https://dar.to/3ngvxxI "this InfieFlix link") to renew your access to IndieFlix. Once you have your online account setup, you can access the shows through the _RBdigital_ app or _IndieFlix_ app. 
+Enjoy over 7,000 documentaries, classic TV shows, shorts, features, and web series from 85 countries. You will need to create an account through the [RBdigital](https://dar.to/2rcRb9E) website. Every seven days you will need to go back to [this link](https://dar.to/3ngvxxI "this IndieFlix link") to renew your access to IndieFlix. Once you have your online account setup, you can access the shows through the _RBdigital_ app or _IndieFlix_ app. 
 
 * Movies
 * TV Shows
 
-[Get IndieFlix Help](https://dar.to/2p5Xx7B "IndieFlix")
+[Get IndieFlix Help](http://dar.to/34czr2T "IndieFlix")
 
 </div>
 <div class="col-md-6">

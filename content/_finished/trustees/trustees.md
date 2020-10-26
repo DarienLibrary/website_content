@@ -4,31 +4,21 @@
 
 ### Officers
 Tamara Sload, President<br />
-Susan Vogel, Vice President<br />
+Emily Kroenlein, Vice President<br />
 Millyn Gaaserud, Treasurer<br />
-Emily Kroenlein, Secretary
+Kim Westcott, Secretary
 <br />
 <br />
-
-### Terms Expiring 2020
-Tori Barnett<br />
-Jay Bennett<br />
-Robert A. N. Cudd<br />
-Emily Kroenlein<br />
-David C. Ott<br />
-Tamara Sload<br />
-Susan Vogel
-<br />
-<br />
-</div>
-<div class="col-md-4">
 
 ### Terms Expiring 2021
 Nicholas N. Branca<br />
 Alexandra Eising<br />
+Tamara Sload<br />
 Elena Whidden
 <br />
 <br />
+</div>
+<div class="col-md-4">
 
 ### Terms Expiring 2022
 Mike Cippoletti<br />
@@ -39,6 +29,15 @@ Rich Maier<br />
 Melissa Noonan<br />
 Hutch Pegler<br />
 Kim Westcott<br />
+<br />
+
+### Terms Expiring 2023
+Jay Bennett<br />
+Emily Kroenlein<br />
+Rob Levinson<br />
+D. Jill McCammon<br />
+Diana Nehro<br />
+Min Selkowitz<br />
 <br />
 <br />
 

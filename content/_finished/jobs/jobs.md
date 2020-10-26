@@ -5,11 +5,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Part-Time Reader’s Advisor Assistant](https://dar.to/34tPIPU "Part-Time Reader’s Advisor Assistant")
-Darien Library (CT) seeks a friendly, curious, and motivated candidate to join the Reader Services department. The successful candidate will work one-on-one with the public at our Welcome Desk and provide patrons with reader advisory services.
-<br />
-<br />
-
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />
