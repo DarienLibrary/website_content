@@ -7,7 +7,7 @@
 
 <p style="font-size:1.25em !important;">These five Early Literacy practices of reading, writing, singing, talking, and playing help children form the building blocks that will allow them to learn to read when they get to school. Children who enter kindergarten with a rich vocabulary, a knowledge of printed words and books, the ability to hear and play with the sounds in words, and a sense of imaginative play are more likely to read at grade level in elementary school, and to graduate from high school.</p>
 
-<p style="font-size:1.25em !important;">You can help your child get ready to read long before they're old enough for school by using the Early Literacy Practices at home every day - and Darien Library is here to help! Sign up for our <a href="/early-literacy-texts">Early Literacy text messages</a>.</p> 
+<p style="font-size:1.25em !important;">You can help your child get ready to read long before they're old enough for school by using the Early Literacy Practices at home every day - and Darien Library is here to help! Follow the Children's Library on Instagram <a href ="https://dar.to/3esf45t" target="_blank">@darienchildrenslibrary</a> for Early Literacy Tips, book recommendations and other fun library related information.</p> 
 </div>
 </div>
 

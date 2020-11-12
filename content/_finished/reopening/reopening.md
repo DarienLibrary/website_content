@@ -2,8 +2,7 @@
 <div class="row">
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
-
-The Library is open Monday-Friday from 9 a.m. to 5 p.m. and Saturdays from 1 to 5 p.m. WiFi is available in our courtyard. Visits to the Second Level and Mezzanine are limited to two-hours per day. 
+WiFi is available in our courtyard. Visits to the Second Level and Mezzanine are limited two-hours per day. 
 <br />
 <br />
 We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance.
@@ -29,12 +28,28 @@ Saturday<br />
 By Appointment Only<br />
 <a href="/visitCL">Book an Appointment</a><br />
 <br />
+
+<strong>Teen Lounge Hours</strong><br />
+Monday through Friday<br />
+3 to 5 p.m.
+<br />
+
+Saturday<br />
+1 to 5 p.m.
+<br />
+<br />
 </div>
 <div class="col-md-6">
 <strong>Returns Accepted</strong><br />
 Saturdays and Sundays<br />
 via the outdoor return<br />
 9 a.m. to 5 p.m.<br />
+<br />
+
+Saturdays<br />
+via the indoor return<br />
+1 to 5 p.m.
+<br />
 <br />
 <strong>Holds Pick-up</strong><br />
 Monday through Friday<br />
@@ -95,7 +110,7 @@ We have completed our self-certification for reopening as required by the State 
 <h3 style="color:#009623;"><a id="available"></a>In-Person Services Available</h3>
 
 * Borrowing of books, audiobooks, movies, magazines, and video games
-* Visits to the Children's Library to borrow materials
+* Visits to the Children's Library and Teen Lounge to borrow materials
 * Access to public computers and internet for one 60-minute session per day
 * Scanning, printing, copying, and faxing
 * Notaries by appointment
@@ -138,7 +153,7 @@ We have completed our self-certification for reopening as required by the State 
 <h3 style="color:#009623;"><a id="not"></a>Services Not Available Currently</h3>
 
 * Borrowing technology items including kits from the Children's Library and museum passes
-* Business Services: banner printing, custom print jobs, paper trimmers, paper shredding, laminating, typewriter use, and spiral binding
+* Business Services: banner printing, custom print jobs, paper trimmers, laminating, typewriter use, and spiral binding
 * Digital Media Lab: VHS digitization, slide digitization, large format scanning, green screen, audio recording, video conferencing, and audiovisual editing
 * Book-a-Libarian assistance for Technology
 
@@ -156,13 +171,16 @@ We have completed our self-certification for reopening as required by the State 
 * Half of the chairs and tables have been removed to facilitate the reduced building capacity.
 * Children under age 12 must remain with a caregiver at all times. 
 * The Children's Library is open for 30-minute appointment with limited walk-ins allowed. <strong><a href="/visitCL">Book an appointment</a></strong>
+* The Teen Lounge is open Monday-Friday from 3 to 5 p.m. and Saturdays from 1 to 5 p.m.
+* Visits to the Teen Lounge are limited to 30 minutes.
+* The video game systems and teen computers are unavailable.
 * The Lower Level of the Library will be closed. 
 * All study and meeting rooms are closed until further notice. 
 * Public computers are only available on the Second Level.
 * Computer usage is limited to one 60-minute session per day. 
 * Contactless checkouts with four self-checkouts available on the First Level. 
 * Food and drinks must be taken to the courtyard to be enjoyed. 
-* Phone calls (including online video chats) must take place in the courtyard. 
+* Quiet phone calls (including online video chats) are allowed on the Research side (cemetery side) of the Second Level as long as headphones are worn for video chats. 
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -174,7 +192,6 @@ We have completed our self-certification for reopening as required by the State 
 * All study and meeting rooms
 * The Storytime Room, Toddler Room, and TEA Room in the Children's Library
 * Art Gallery on the Lower Level
-* The Teen Lounge
 * The Technology Center, Power Library, Business Center, and Digital Media Lab
 
 <br />
@@ -202,7 +219,6 @@ We care about your health and safety. Before reopening, we self-certified with t
 * Gloves will be provided and must be worn when using a public computer.
 * Social distancing of 6 feet is in effect. 
 * Entry to the building will be through the courtyard door on the parking lot side. 
-* Patrons will exit through the Post Road door. 
 * One-way routes through the building will be indicated.
 * Food and drinks must be taken to the courtyard to be enjoyed. 
 
@@ -224,7 +240,7 @@ We appreciate your patience while you wait for your expected holds!
 
 
 <h3 style="color:#009623;"><a id="pickup"></a>Community Room Pick-up</h3>
-<strong>Beginning July 1st</strong>, to maintain a contactless holds pick-up system, we will place your requested items in the Community Room (auditorium). You will enter from the courtyard entrance and leave out the side drive entrance on the other side. 
+To maintain a contactless holds pick-up system, we will place your requested items in the Community Room (auditorium). You will enter from the courtyard entrance and leave out the side drive entrance on the other side. 
 
 <div class="margin-bottom-40"></div>
 

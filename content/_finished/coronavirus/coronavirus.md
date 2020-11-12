@@ -14,11 +14,9 @@ Please see our [Community Resources](https://dar.to/39LEtmA "Darien Community Re
 
 <br />
 
-### Can COVID-19 last on surfaces and in the air?
+### Holidays and the Coronavirus
 
-In the following video, Dr. John Brooks, CDC’s Chief Medical Officer for the COVID-19 response, answers a key question about the novel coronavirus outbreak. 
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed//lQvhoFMdXJo' frameborder='0' allowfullscreen></iframe></div>
+Now that the holiday season has arrived, it is important to continue to follow safety guidelines to prevent the spread of the coronavirus. Check the CDC's website for [recommendations on how to stay safe](http://dar.to/36JQ4Dp "recommendations on how to stay safe") this holiday season.
 
 <br />
 <br />

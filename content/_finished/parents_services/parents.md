@@ -10,7 +10,7 @@ We also offer programs throughout the year to address common childhood issues. [
 <br />
 
 ### Storytimes and Programs 
-Storytimes are for babies, toddlers and children up to age 5. The Children's Library offers other programs for children up to age 12. Some programs are registered which is done during an open registration period. Others are weekly Drop-In Programs for anyone to join without prior notice. [View Storytime listings](/storytimes "Storytimes")
+Storytimes are for babies, toddlers and children up to age 5. The Children's Library offers other programs for children up to age 12. Currently all our storytimes are virtual and require registration. [View Storytime listings](https://www.darienlibrary.org/search?search=storytime&filter=Event "Storytimes")
 <br />
 <br />
 
@@ -19,13 +19,13 @@ You can still support early literacy when you’re not at storytime in the libra
 <br />
 <br />
 
-### Early Literacy iPads
-Start your pre-reader early on the path to litearcy with our [Early Literacy iPads](/catalog/work/94235 "Early Literacy iPads"). Each iPad comes pre-loaded with apps to help build early literacy skills. The iPads are for children 5 and under. [View the current selection of apps](/early-literacy-ipads "View the current selection of apps")
+### Early Literacy iPads (Not Currently Circulating)
+Start your pre-reader early on the path to literacy with our [Early Literacy iPads](/catalog/work/94235 "Early Literacy iPads"). Each iPad comes pre-loaded with apps to help build early literacy skills. The iPads are for children 5 and under. [View the current selection of apps](/early-literacy-ipads "View the current selection of apps")
 <br />
 <br />
 
-### Elementary iPads
-For children ages 5 to 9-years old, borrow an [Elementary iPad](/catalog/work/165370 "Elementary iPad"). The apps are organized into folders similar to our non-fiction section. App topics: coding, creationg, facts, fun, interactive books, math, reading, and science. [View the current selection of apps](/elementary-iPads "View the current selection of apps")
+### Elementary iPads (Not Currently Circulating)
+For children ages 5 to 9-years old, borrow an [Elementary iPad](/catalog/work/165370 "Elementary iPad"). The apps are organized into folders similar to our non-fiction section. App topics: coding, creating, facts, fun, interactive books, math, reading, and science. [View the current selection of apps](/elementary-iPads "View the current selection of apps")
 <br />
 <br />
 </div>
@@ -39,8 +39,13 @@ Parents that register their babies for 100 Before One will receive a free tote b
 <br />
 <br /> -->
 
-### Early Literacy Texts
+<!--### Early Literacy Texts
 Sign up for our weekly early literacy texts to get easy tips sent right to your phone. Your librarians will send a text every Monday with something simple you can integrate into your daily life that will help prepare your child under 5-years-old for reading and writing. [Sign up for text messages](/early-literacy-texts "Sign up for text messages")
+<br />
+<br />-->
+
+### Early Literacy Tips
+Follow the Children's Library on Instagram [@darienchildrenslibrary](https://dar.to/3esf45t) for early literacy tips, book recommendations and other fun library related things.
 <br />
 <br />
 

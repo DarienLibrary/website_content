@@ -1,30 +1,13 @@
 <div class="row">
- <div class="col-md-8">
+<div class="col-md-8">
 
 
-### Current Exhibit: Lori Leckliter-Slotkin
+### Current Exhibit: The Lower Level is Closed
 
-**Friday, February 21st through Monday, March 30th**
-<br />
-<br />
-
-### About the Artist
-Mining my personal history to explore unanswered questions creates the foundation in my art practice.
-
-While exploring my childhood spent in Australia, I was struck by the devastating bushfires that have destroyed so much of the countrie’s wildlife. My current body of work examines my memories as well as the current state of Australia’s landscape.
-
-Through fast gestural portraiture in my series titled #IRL, I am exploring the many layers of emerging identity that appears during adolescence. I am interested in the influences effecting youth in the post internet age. There is a commonality between us linking memories of adolescence to living the experience now. This relatable time has been my focus throughout my career as an artist and fashion designer. The textile work is a form of abstract expression. I am using the tactile assemblage to tell stories. 
-
-Visit [her website](https://dar.to/2HM8s24 "her website") or her [Instagram account](https://dar.to/38RpuYO "Instagram account").
+We look forward to reopening the Lower Level and resuming art shows in the future. The Library's Lower Level is currently closed during the COVID-19 pandemic. Please see our [Reopening Plans](/reopening "Reopening Plans") to view our list of available services.
 
 <br />
 
-
-### Apply to be an Artist on View 
-The Darien Library Art Gallery is located on the Lower Level. Throughout the year, local artists across all mediums display their work.
-
-
-[Submit your artwork for consideration](/art-on-view-submission "Submit your artwork for consideration")
 <br />
 <br />
 
@@ -32,10 +15,11 @@ The Darien Library Art Gallery is located on the Lower Level. Throughout the yea
 
 <div class="col-md-4">
 
-<img class="img-responsive center-block" src="/uploads/departments/art_on_view/lori_leckliter-slotkin_fireman.jpg" alt="Painting by Lori Leckliter-Slotkin" />
-<br />
+### Apply to be an Artist on View 
+The Darien Library Art Gallery is located on the Lower Level. Throughout the year, local artists across all mediums display their work.
 
-_Painting by Lori Leckliter-Slotkin_
+
+[Submit your artwork for consideration](/art-on-view-submission "Submit your artwork for consideration") for when we reopen the Lower Level.
 
 </div>
 </div>
