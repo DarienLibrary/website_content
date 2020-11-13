@@ -5,6 +5,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
+### [Full-Time Reference and Collection Development Librarian](https://dar.to/2UjSJxA "Full-Time Reference and Collection Development Librarian")
+Darien Library (CT) seeks an innovative, community-minded librarian to be an active part of a close-knit, forward-thinking reference team. The ideal candidate is highly collaborative and embodies compassion and empathy in all interactions.
+<br />
+<br />
+
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />
