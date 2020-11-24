@@ -61,6 +61,24 @@ As we all come together during the coronavirus outbreak, many organizations, pub
 * [Vancouver Symphony](http://dar.to/35LEyXm "Vancouver Symphony"): A collection of their recordings.
 <br />
 
+
+<div class="row">
+<div class="col-md-3">
+<div class="row">
+<div class="col-md-2">
+<i class="fa fa-graduation-cap fa-2x" style="color:#08728c;" aria-hidden="true"></i>
+</div>
+<div class="col-md-10">
+<h3>Education</h3>
+</div>
+</div>
+</div>
+</div>
+
+* **New** [Khan Academy](http://dar.to/2J4hX0Z "Khan Academy"): An internationally renowned free online educational classes.
+* **New** [Lawyers as Leaders](http://dar.to/3nTl8r3 "Lawyers as Leaders"): Georgetown Law hosts in-depth conversations with lawyers about issues of contemporary interest.
+<br />
+
 <div class="row">
 <div class="col-md-3">
 <div class="row">

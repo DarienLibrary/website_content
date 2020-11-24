@@ -1,4 +1,4 @@
-<div class="row margin-bottom-30">
+marital<div class="row margin-bottom-30">
 <div class="col-md-6">
 
 Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. We are a _Library Journal_ Five-Star Library.
@@ -34,6 +34,6 @@ Darien Library is seeking a friendly, energetic, dedicated individual with excel
 
 ### Equal Employment Opportunity
 
-The Darien Library observes and promotes a policy of equal employment opportunity for all. This means that the Darien Library recruits, hires, trains, and promotes all persons without regard to race, color, sex, religion, national origin, martial status, political belief, physical disability or any other improper or illegal criteria. All employment decisions are based on legitimate employment-related criteria such as, skills, abilities, attitude and contribution to the Darien Library so as to further the principle of equal employment opportunity.
+The Darien Library observes and promotes a policy of equal employment opportunity for all. This means that the Darien Library recruits, hires, trains, and promotes all persons without regard to race, color, sex, religion, national origin, marital status, political belief, physical disability or any other improper or illegal criteria. All employment decisions are based on legitimate employment-related criteria such as, skills, abilities, attitude and contribution to the Darien Library so as to further the principle of equal employment opportunity.
 </div>
 </div>

@@ -2,7 +2,8 @@
 <div class="row">
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
-WiFi is available in our courtyard. Visits to the Second Level and Mezzanine are limited two-hours per day. 
+
+WiFi is available in our courtyard. **Beginning Monday, November 23rd**, Darien Library will be open to visitors for quick 30-minute browsing and computer access.
 <br />
 <br />
 We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance.
@@ -111,9 +112,8 @@ We have completed our self-certification for reopening as required by the State 
 
 * Borrowing of books, audiobooks, movies, magazines, and video games
 * Visits to the Children's Library and Teen Lounge to borrow materials
-* Access to public computers and internet for one 60-minute session per day
+* Access to public computers and internet for one 30-minute session per day
 * Scanning, printing, copying, and faxing
-* Notaries by appointment
 * Resume reviews by virtual assistance
 * Reference assistance by phone or email is strongly encouraged
 
@@ -126,7 +126,7 @@ We have completed our self-certification for reopening as required by the State 
 <h3 style="color:#009623;"><a id="appt"></a>Services Requiring an Appointment</h3>
 
 * The Children's Library is open for 30-minute appointment with limited walk-ins allowed. If you arrive early, please wait outside the building until time for your appointment. <strong><a href="/visitCL">Book an appointment</a></strong>
-* Notarizations: Please use our online <strong><a href="https://dar.to/2Dp2rcM">Notary Appointment form</a></strong>.
+<!--* Notarizations: Please use our online <strong><a href="https://dar.to/2Dp2rcM">Notary Appointment form</a></strong>.-->
 * Bloomberg Terminal: Residents may book the Bloomberg Terminal 5 business days in advance and non-residents may book an appointment for the same day by calling that day to check availability. Appointments can only be made via **[email](mailto:askus@darienlibrary.org "Email the Reference Desk")** or by calling **[203-669-5236](tel:2036695236 "Call the Reference Desk")**.
 
 <br />
@@ -152,10 +152,11 @@ We have completed our self-certification for reopening as required by the State 
 
 <h3 style="color:#009623;"><a id="not"></a>Services Not Available Currently</h3>
 
+* Book-a-Libarian assistance for Technology
 * Borrowing technology items including kits from the Children's Library and museum passes
 * Business Services: banner printing, custom print jobs, paper trimmers, laminating, typewriter use, and spiral binding
 * Digital Media Lab: VHS digitization, slide digitization, large format scanning, green screen, audio recording, video conferencing, and audiovisual editing
-* Book-a-Libarian assistance for Technology
+* Notary appointments are suspended
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -177,7 +178,7 @@ We have completed our self-certification for reopening as required by the State 
 * The Lower Level of the Library will be closed. 
 * All study and meeting rooms are closed until further notice. 
 * Public computers are only available on the Second Level.
-* Computer usage is limited to one 60-minute session per day. 
+* Computer usage is limited to one 30-minute session per day. 
 * Contactless checkouts with four self-checkouts available on the First Level. 
 * Food and drinks must be taken to the courtyard to be enjoyed. 
 * Quiet phone calls (including online video chats) are allowed on the Research side (cemetery side) of the Second Level as long as headphones are worn for video chats. 
