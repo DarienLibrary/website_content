@@ -1,12 +1,18 @@
-marital<div class="row margin-bottom-30">
+<div class="row margin-bottom-30">
 <div class="col-md-6">
 
 Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. We are a _Library Journal_ Five-Star Library.
 
 <br />
 
+### [Full-Time McGraw Family Children’s Librarian](https://dar.to/36bjf2U "Full-Time McGraw Family Children’s Librarian")
+Darien Library seeks a creative, energetic, and enthusiastic candidate to join a dedicated Youth Services Department as the full-time McGraw Family Children’s Librarian. This librarian will serve as the Digital Learning Coordinator, planning and coordinating technology-focused programming, managing all technology in the Children’s Library including circulating technology, and collaborating with the Teen Services Librarian on tween programming, collection, and outreach.
+<br />
+<br />
+
+
 ### [Full-Time Reference and Collection Development Librarian](https://dar.to/2UjSJxA "Full-Time Reference and Collection Development Librarian")
-Darien Library (CT) seeks an innovative, community-minded librarian to be an active part of a close-knit, forward-thinking reference team. The ideal candidate is highly collaborative and embodies compassion and empathy in all interactions.
+Darien Library seeks an innovative, community-minded librarian to be an active part of a close-knit, forward-thinking reference team. The ideal candidate is highly collaborative and embodies compassion and empathy in all interactions.
 <br />
 <br />
 
