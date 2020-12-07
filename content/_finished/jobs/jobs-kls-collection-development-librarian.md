@@ -40,9 +40,8 @@ Salary begins at $60,000 and is commensurate with experience. Salary includes ge
 <br />
 
 ### To Apply
-This is a full-time position (37.5 hour/week) that will include weekdays, evenings, and up to two weekends per month. To apply, please submit a resume, cover letter, and a Collection Development Philosophy Statement to Brittany Netherton at [bnetherton@darienlibrary.org](mailto:bnetherton@darienlibrary.org "Email Brittany") by Friday, December 4th.
+This is a full-time position (37.5 hour/week) that will include weekdays, evenings, and up to two weekends per month. To apply, please submit a resume, cover letter, and a Collection Development Philosophy Statement to Brittany Netherton at [bnetherton@darienlibrary.org](mailto:bnetherton@darienlibrary.org "Email Brittany") by Friday, December 11th.
 
-The anticipated start date for this position is January 2, 2021.
 <br />
 <br />
 

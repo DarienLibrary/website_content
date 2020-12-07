@@ -1,28 +1,9 @@
-Darien Library takes the health and safety of our patrons and staff very seriously, and continues to actively monitor the outbreak of the Coronavirus (COVID-19).
+Darien Library takes the health and safety of our patrons and staff very seriously, and continues to actively monitor the outbreak of the Coronavirus (COVID-19). See our [Reopening Plans](https://dar.to/2MGxG4D "Reopening Plans") for more information on our hours and which services we are offering.
 <br />
 <br />
  
 <div class="row">
 <div class="col-md-6">
-
-### Darien Library is Open for Express Services
-As of Monday, July 6th, we have resumed offering in-person services in addition to our enhanced virtual offerings. Curbside pick-up is located in the Community Room.
-
-We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance. See our [Reopening Plans](https://dar.to/2MGxG4D "Reopening Plans") for more information.
-
-Please see our [Community Resources](https://dar.to/39LEtmA "Darien Community Resources for COVID-19") page for information on getting and giving help during this time, including financial and legal assistance for individuals and businesses. 
-
-<br />
-
-### Holidays and the Coronavirus
-
-Now that the holiday season has arrived, it is important to continue to follow safety guidelines to prevent the spread of the coronavirus. Check the CDC's website for [recommendations on how to stay safe](http://dar.to/36JQ4Dp "recommendations on how to stay safe") this holiday season.
-
-<br />
-<br />
-</div>
-<div class="col-md-6">
-
 
 ### Learn More About the Coronavirus
 There is a lot of misinformation being spread about Coronavirus, so please consider the sources of information. Below, we have a list of trusted and dependable resources for Coronavirus information from the Center for Disease Control and Prevention (CDC).
@@ -35,6 +16,22 @@ There is a lot of misinformation being spread about Coronavirus, so please consi
 * The CDC's [Frequently Asked Questions](https://dar.to/2wXfa33 "Coronavirus FAQ") about Coronavirus
 
 As always, our reference staff can answer research questions. You may call the reference desk Monday - Friday from 9 a.m. to 5 p.m. at [203-669-5236](tel:2036695236 "Call the Reference Desk") or send an [email](mailto:askus@darienlibrary.org "Email the Reference Desk").
+
+<br />
+
+### Holidays and the Coronavirus
+
+Now that the holiday season has arrived, it is important to continue to follow safety guidelines to prevent the spread of the coronavirus. 
+
+Check the CDC's website for [recommendations on how to stay safe](http://dar.to/36JQ4Dp "recommendations on how to stay safe") this holiday season.
+
+<br />
+<br />
+</div>
+<div class="col-md-6">
+
+<iframe src="https://covidactnow.org/embed/us/connecticut-ct" title="CoVid Act Now" width="350" height="370" frameBorder="0" scrolling="no"></iframe>
+
 <br />
 <br />
 
