@@ -51,6 +51,7 @@ Check the CDC's website for [recommendations on how to stay safe](http://dar.to/
 * FEMA's [Coronavirus Rumor Control](https://dar.to/345D5tI "Coronavirus Rumor Control")
 * Compare Connecticut or Fairfield County's [potential Coronavirus impact](https://dar.to/2yFWAO5 "Census Coronavirus Impact") to other parts of the United States using Census data.
 * [Watch a physician's perspective](https://dar.to/3oyT1xE) of caring for COVID patients in an Emergency Room in NYC.
+* [COVID-19 vaccinations in Connecticut](http://dar.to/2WkrMuN)
 
 </div>
 </div>

@@ -6,7 +6,8 @@
 Tamara Sload, President<br />
 Emily Kroenlein, Vice President<br />
 Millyn Gaaserud, Treasurer<br />
-Kim Westcott, Secretary
+Kim Westcott, Secretary<br />
+Hutch Pegler, Member at Large<br />
 <br />
 <br />
 
