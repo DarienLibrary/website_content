@@ -6,7 +6,7 @@
 <div class="row">
 <div class="col-md-6">
 
-The AARP/VITA Tax-Aide program at Darien Library returns this year with a few changes to ensure the safety of all. An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a>.
+The Virtual VITA Tax-Aide program at Darien Library returns this year with a few changes to ensure the safety of all. An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a>.
 
 **New This Year**<br />
 You may pre-register for tax filing help between now and Monday, January 25th. By preregistering, you will be emailed a link to allow you to start filling out your request for assistance as soon as registration opens. This is a handy reminder service to get you started on your taxes as soon as possible!
@@ -22,8 +22,8 @@ You may pre-register for tax filing help between now and Monday, January 25th. B
 ### Key Dates
 * January 24th: Last day of preregistration
 * January 25th: Appointment registration opens
+* April 15th: Last day of this tax preparation service
 <!-- * January 29th: Scanning and data entry service begins -->
-* April 10th: Last day of this tax preparation service
 <br />
 
 _By clicking on the below button, you are leaving Darien Library's website. You are submitting your personal information at your own risk, and the Library is not liable for the security of your personal information._
