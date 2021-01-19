@@ -5,6 +5,35 @@ Darien Library takes the health and safety of our patrons and staff very serious
 <div class="row">
 <div class="col-md-6">
 
+### Register for the COVID vaccine
+You may register with the Vaccine Administration Management System (VAMS) to schedule your vaccine appointment. Per the site, "You do not need to register with VAMS if you have other options for getting the vaccine (i.e. - through your current medical provider)."
+
+The vaccine is being distributed on a timeline set by the State of Connecticut. Check the page to see if you are currently eligible to register to schedule your vaccination. 
+
+[Register for the vaccine](http://dar.to/39swahn "Register for the Vaccine") or call [877-918-2224](tel:877918222 "Call the CT COVID Vaccine Appointment Assist Line") Monday-Friday between 8 a.m. and 4:30 p.m.
+<!--<a href="http://dar.to/39swahn"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Register for the vaccine</button></a>-->
+<br />
+
+
+### The COVID Alert CT App
+
+[COVID Alert CT](https://dar.to/3lIkYRV) is a voluntary, anonymous, exposure-notification smartphone app. You will get an alert if you were in close contact with someone who tests positive for COVID-19.
+
+<br />
+<br />
+</div>
+<div class="col-md-6">
+
+<iframe src="https://covidactnow.org/embed/us/connecticut-ct" title="CoVid Act Now" width="350" height="370" frameBorder="0" scrolling="no"></iframe>
+
+</div>
+</div>
+
+<hr />
+
+<div class="row">
+<div class="col-md-6">
+
 ### Learn More About the Coronavirus
 There is a lot of misinformation being spread about Coronavirus, so please consider the sources of information. Below, we have a list of trusted and dependable resources for Coronavirus information from the Center for Disease Control and Prevention (CDC).
 
@@ -19,27 +48,8 @@ As always, our reference staff can answer research questions. You may call the r
 
 <br />
 
-### Holidays and the Coronavirus
-
-Now that the holiday season has arrived, it is important to continue to follow safety guidelines to prevent the spread of the coronavirus. 
-
-Check the CDC's website for [recommendations on how to stay safe](http://dar.to/36JQ4Dp "recommendations on how to stay safe") this holiday season.
-
-<br />
-
-### The COVID Alert CT App
-
-[COVID Alert CT](https://dar.to/3lIkYRV) is a voluntary, anonymous, exposure-notification smartphone app. You will get an alert if you were in close contact with someone who tests positive for COVID-19.
-
-<br />
-<br />
 </div>
 <div class="col-md-6">
-
-<iframe src="https://covidactnow.org/embed/us/connecticut-ct" title="CoVid Act Now" width="350" height="370" frameBorder="0" scrolling="no"></iframe>
-
-<br />
-<br />
 
 ### Additional Resources
 
