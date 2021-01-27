@@ -3,10 +3,10 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-WiFi is available in our courtyard. **Beginning Monday, November 23rd**, Darien Library will be open to visitors for quick 30-minute browsing and computer access.
+WiFi is available in our courtyard. Darien Library is open to visitors for quick 30-minute browsing and computer access.
 <br />
 <br />
-We do not have a date when full services and programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state and local regulations and guidance.
+We do not have a date when full services and in-person programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state, and local regulations and guidance.
 <br />
 <br />
 
@@ -42,6 +42,12 @@ Saturday<br />
 </div>
 <div class="col-md-6">
 <strong>Returns Accepted</strong><br />
+Monday through Friday<br />
+in the Community Room<br />
+9 a.m. to 5 p.m.<br />
+Saturdays from 1 to 5 p.m.<br />
+<br />
+
 Saturdays and Sundays<br />
 via the outdoor return<br />
 9 a.m. to 5 p.m.<br />
@@ -169,7 +175,6 @@ We have completed our self-certification for reopening as required by the State 
 * Returns will only be accepted only on Saturday and Sundays from 9 a.m. to 5 p.m. at the outdoor return. 
 * We are allowed 150 people in the building. Please be courteous with your time. 
 * Masks must be worn at all times and fully cover the nose and mouth. 
-* Half of the chairs and tables have been removed to facilitate the reduced building capacity.
 * Children under age 12 must remain with a caregiver at all times. 
 * The Children's Library is open for 30-minute appointment with limited walk-ins allowed. <strong><a href="/visitCL">Book an appointment</a></strong>
 * The Teen Lounge is open Monday-Friday from 3 to 5 p.m. and Saturdays from 1 to 5 p.m.
@@ -315,7 +320,10 @@ If you need assistance, please call the Welcome Desk at <a href="tel:2036695239"
 <hr>
 
 <h3 style="color:#009623;"><a id="returns"></a>Returns</h3>
-Returns will be accepted on Saturdays and Sundays from 9 a.m. to 5 p.m. This will allow the returned items to sit in quarantine for three days so they can then be safely handled by staff. Items will be removed from your account after this three-day quarantine period. No late fines will incur.
+Returns are accepted seven days a week! Monday-Friday from 9 a.m. to 5 p.m., please leave your items in the Community Room or on Saturdays from 1 to 5 p.m. On Saturdays and Sundays from 9 a.m. to 5 p.m., you may return items to the drive-up outdoor return. If you're coming in the parking lot door, drop them off at the entrance on Saturdays from 1 to 5 p.m. 
+
+
+This will allow the returned items to sit in quarantine for three days so they can then be safely handled by staff. Items will be removed from your account after this three-day quarantine period. No late fines will incur.
 <br />
 <br />
 <a href="#return">Return to the top of the page</a>

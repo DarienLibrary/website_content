@@ -6,12 +6,15 @@
 <div class="row">
 <div class="col-md-6">
 
-The Virtual VITA Tax-Aide program at Darien Library returns this year with a few changes to ensure the safety of all. An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a>.
+The Virtual VITA Tax-Aide program at Darien Library returns this year with a few changes to ensure the safety of all. An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a> and/or [watch a video](http://dar.to/35nkjju "watch a video") that explains their processes.
+<br />
+<br />
 
-**New This Year**<br />
-You may pre-register for tax filing help between now and Monday, January 25th. By preregistering, you will be emailed a link to allow you to start filling out your request for assistance as soon as registration opens. This is a handy reminder service to get you started on your taxes as soon as possible!
-
-[Watch a video](http://dar.to/35nkjju "watch a video") that explains the process
+### Key Dates
+* January 25th: Appointment registration opens
+* April 15th: Last day of this tax preparation service
+<!-- * January 29th: Scanning and data entry service begins -->
+<br />
 
 <!-- A limited <a href="#appt">scanning and data entry service</a> -->
 <br />
@@ -19,18 +22,11 @@ You may pre-register for tax filing help between now and Monday, January 25th. B
 </div>
 <div class="col-md-6">
 
-### Key Dates
-* January 24th: Last day of preregistration
-* January 25th: Appointment registration opens
-* April 15th: Last day of this tax preparation service
-<!-- * January 29th: Scanning and data entry service begins -->
-<br />
-
 _By clicking on the below button, you are leaving Darien Library's website. You are submitting your personal information at your own risk, and the Library is not liable for the security of your personal information._
 <br />
 <br />
 
-<a href="https://dar.to/2L6YAp3"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Preregister</button></a>
+<a href="http://dar.to/3sRNXra"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Register for an Appointment</button></a>
 
 </div>
 </div>
@@ -53,9 +49,7 @@ A VITA preparer will call you shortly after submission and let you know they hav
 <div class="col-md-6">
 
 ### Who is eligible for Virtual VITA?
-At this time, VITA can only assist people who are filing their current year 2020 taxes. Also, we can only help those with either a smartphone or computer and reliable WiFi. 
-
-If you need to amend a a tax return that has already been filed, or need to file taxes for 2019 or earlier, VITA recommends using the [My Free Taxes](https://dar.to/393hgMt "My Free Taxes") service. 
+At this time, VITA are able to assist people who are filing their current-year 2020 taxes as well as back taxes for the three prior years, (2019, 2018 and 2017). In addition, they can amend returns for all 4 tax years.
 
 </div>
 </div>
@@ -101,7 +95,7 @@ These appointments are for those who need help filling out an online form. You w
 <br />
 
 **What technology will I need?**<br />
-You will need to fill out the survey on a smartphone or computer. You will also need access to WiFi, as well as a working phone number and email address. 
+You will need to fill out the survey on a smartphone or computer. You will also need access to internet, as well as a working phone number and email address. 
 <br />
 <br />
 
@@ -151,11 +145,13 @@ All relevant tax forms and receipts for 2020, as well as the Social Security car
 <a name="Security"></a>
 
 ## VITA Security Protocol
-VITA can only implement best practices as no plan is 100% fail-safe, it is indeed of paramount importance that we use every available security protocol to provide the safest environment for our clients.
+VirtualVITA, Inc. has teamed up with Code for America to utilize it's IRS Nationally approved  "Get Your Refund Website".  We strive to implement best practices and while no data security plan is 100% fail-safe, the following [Get Your Refund security protocols](http://dar.to/2Nuge75 "Get Your Refund security protocols") are in place to provide the safest environment for our clients:
 
-* VITA has [encrypted](https://dar.to/2xTGPCB "Encrypted") the form with a private key that will be shared ONLY by the IRS-Certified Group of Tax Preparers. 
-* At the bottom of the welcome page, a message of "This Form is Encrypted" will show. This means that encryption has been enabled and that only individuals assigned the private key on their device will have access.
-* The VITA Virtual Site Coordinator is responsible for giving out the keys and if there is any indication that an issue may arise, the Coordinator will issue new private keys immediately.
-* VITA ensures that within a 24-hour period from the time we receive a submission to the time a final tax return is complete and filed, that the client's data is wiped clean from the form's secure database. Their goal is a swift turnaround, with no remaining data hanging around.
+* All taxpayer information provided through the website is stored in an encrypted database protected from external networks.
+* The intake website will not permit any network connections without strong encryption protocols.
+* All connections are encrypted using SSL (Secure Sockets Layer) certificates.
+* Use of Google Recaptcha to protect against malicious bots.
+* Utilization of a publicly registered domain name.
+* Implementation of an incident response plan that includes reporting security incidents to the IRS.
 </div>
 </div>
