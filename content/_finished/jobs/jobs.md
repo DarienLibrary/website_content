@@ -5,11 +5,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time McGraw Family Children’s Librarian](https://dar.to/36bjf2U "Full-Time McGraw Family Children’s Librarian")
-Darien Library seeks a creative, energetic, and enthusiastic candidate to join a dedicated Youth Services Department as the full-time McGraw Family Children’s Librarian. This librarian will serve as the Digital Learning Coordinator, planning and coordinating technology-focused programming, managing all technology in the Children’s Library including circulating technology, and collaborating with the Teen Services Librarian on tween programming, collection, and outreach.
-<br />
-<br />
-
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />

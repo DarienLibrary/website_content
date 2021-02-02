@@ -53,7 +53,7 @@ For assistance, please contact the Help Desk at [203-669-5238](tel:2036695238 "2
 <i class="fa fa-file-text-o fa-5x" aria-hidden="true"></i>
 
 ### e-Magazines
-[Find e-Magazines](https://dar.to/2oY1hgj "e-Magazines")
+[Find e-Magazines](http://dar.to/39EiZLt "e-Magazines")
 <br />
 <div class="margin-bottom-80"></div>       
 </div> 
@@ -84,6 +84,7 @@ Download the _Libby_ app to your mobile device from the Apple or Android app sto
 
 * e-Books
 * e-Audiobooks
+* e-Magazines
 
 [OverDrive computer app](https://dar.to/2pwPKU6 "OverDrive")<br />
 [Get OverDrive Help](https://dar.to/2p5WB3i "OverDrive help")<br />
@@ -145,24 +146,6 @@ Get the best of British and Australian TV via Acorn TV. You will need to create 
 </div>
 <div class="col-md-6">
 
-<a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/rbdigital_logo.jpg" alt= "RBdigital" /></a>
-
-### RBdigital
-
-[View the RBdigital Catalog](https://dar.to/2oY1hgj "RBdigital")
-
-Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can read magazines on your computer or download the _RBdigital_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://dar.to/2oY1hgj "Online magazines") to select your next magazine.
-
-* e-Magazines
-
-[Get RBdigital Help](https://dar.to/2p5Xx7B "RBdigital help")
-
-</div>
-</div>
-
-<div class="row margin-bottom-20">
-<div class="col-md-6">
-
 <a href="https://dar.to/3ngvxxI"><img src="/uploads/logos/indieflix_logo.jpg" alt= "IndieFlix" /></a>
 
 ### IndieFlix
@@ -176,7 +159,11 @@ Enjoy over 7,000 documentaries, classic TV shows, shorts, features, and web seri
 
 [Get IndieFlix Help](http://dar.to/34czr2T "IndieFlix")
 
+
 </div>
+</div>
+
+<div class="row margin-bottom-20">
 <div class="col-md-6">
 
 <a href="https://dar.to/34h38ih"><img src="/uploads/logos/qello_concerts_logo.png" alt= "Qello Concerts" /></a>

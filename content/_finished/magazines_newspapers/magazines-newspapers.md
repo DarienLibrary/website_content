@@ -11,11 +11,11 @@ Daily issues of the <em>Wall Street Journal</em> and <em>The New York Times</em>
 </div>
 <div class="col-md-4">
 
-### RBdigital
+### e-Magazines
 
-[View the RBdigital Catalog](https://dar.to/2ugObbS "Zinio")
+[View the e-Magazines Catalog](http://dar.to/3tj80PB "Zinio")
 
-Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can read magazines on your computer or download the _RBdigital_ app in the Android or Apple app stores to read on your phone. Just make sure to head back to the [main online magazine page](https://dar.to/2ugObbS "Online magazines") to select your next magazine.
+Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can read magazines on your computer or download the _Libby_ app in the Android or Apple app stores to read on your phone.
 
 <br />
 
