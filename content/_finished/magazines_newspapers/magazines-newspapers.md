@@ -13,9 +13,9 @@ Daily issues of the <em>Wall Street Journal</em> and <em>The New York Times</em>
 
 ### e-Magazines
 
-[View the e-Magazines Catalog](http://dar.to/3tj80PB "Zinio")
+[View the e-Magazines Catalog](http://dar.to/3tj80PB "OverDrive")
 
-Enjoy online access to 3,200+ downloadable magazines in 17 languages. You can read magazines on your computer or download the _Libby_ app in the Android or Apple app stores to read on your phone.
+Enjoy online access to 3,000+ downloadable magazines in 17 languages. You can read magazines on your computer or download the _Libby_ app in the Android or Apple app stores to read on your phone.
 
 <br />
 

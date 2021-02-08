@@ -10,6 +10,13 @@ The Virtual VITA Tax-Aide program at Darien Library returns this year with a few
 <br />
 <br />
 
+**Note:** One of the questions you will be asked is if you earn more than $66,000. Even if your income exceeds this amount, do not check this box. Virtual VITA will prepare your return irrespective of your income.
+
+<br />
+
+</div>
+<div class="col-md-6">
+
 ### Key Dates
 * January 25th: Appointment registration opens
 * April 15th: Last day of this tax preparation service
@@ -17,10 +24,6 @@ The Virtual VITA Tax-Aide program at Darien Library returns this year with a few
 <br />
 
 <!-- A limited <a href="#appt">scanning and data entry service</a> -->
-<br />
-
-</div>
-<div class="col-md-6">
 
 _By clicking on the below button, you are leaving Darien Library's website. You are submitting your personal information at your own risk, and the Library is not liable for the security of your personal information._
 <br />
@@ -39,10 +42,9 @@ _By clicking on the below button, you are leaving Darien Library's website. You 
 <div class="col-md-6">
 
 ### How does this work?
-When registration opens on January 25th, you will complete the online intake survey which will ask you to fill out basic personal information, upload photos of your tax forms, and choose an appointment time.
+You will complete the online intake survey which will ask you to fill out basic personal information, upload photos of your tax forms, and choose a preferred interview time.  
 
-A VITA preparer will call you shortly after submission and let you know they have been assigned to your return. A second VITA preparer will check their work before filing. 
-<br />
+The tax preparers will strive to call you at a time of your choosing, but that cannot be guaranteed since it depends on counselor availability, that all paperwork was submitted, and other factors.  
 <br />
 
 </div>
