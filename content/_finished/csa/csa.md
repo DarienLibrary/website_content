@@ -7,13 +7,13 @@ You may have heard of a vegetable box or farm share before. CSA stands for Commu
 <br />
 
 ### Pickup at Darien Library
-In 2020, Darien Library will once again be the pickup location for [Stoneledge Farm's CSA](https://dar.to/2EWPYJt "Stoneledge Farm's CSA"). The farm share pickup will be every Wednesday evening from 4:30 to 7:30 p.m. running from June 10th until November 18th (23 weeks).
+In 2021, Darien Library will once again be the pickup location for [Stoneledge Farm's CSA](https://dar.to/2EWPYJt "Stoneledge Farm's CSA"). The farm share pickup will be every Wednesday evening from 4:30 to 7:30 p.m. running from June 9th until November 17th (24 weeks).
 
-The Farm is going to be holding outside pickups starting **Wednesday, June 10th** from 4:30 to 7:30 p.m. in Darien Library's parking lot. The building will not be open. Volunteers will distribute the food to CSA members during pick-up. The veggies and shares will be boxed up in reusable waxy coated boxes.
+The Farm is going to be holding outside pickups starting **Wednesday, June 9th** from 4:30 to 7:30 p.m. in Darien Library's parking lot. The building will not be open. Volunteers will distribute the food to CSA members during pick-up. The veggies and shares will be boxed up in reusable waxy coated boxes.
 <br />
 <br />
 
-<!-- To take part, sign up for a vegetable share. Then you can add a fruit, mushroom, and/or coffee share to your order too. 
+To take part, sign up for a vegetable share. Then you can add a fruit, mushroom, and/or coffee share to your order too. 
 <br />
 <br />
 
@@ -25,7 +25,7 @@ The Farm is going to be holding outside pickups starting **Wednesday, June 10th*
 Vegetable
 </td> 
 <td>
-$555
+$595
 </td>
 </tr>
 <tr>
@@ -33,7 +33,7 @@ $555
 Fruit
 </td> 
 <td>
-$260
+$270
 </td>
 </tr>
 <tr>
@@ -41,7 +41,7 @@ $260
 Mushroom
 </td> 
 <td>
-$145
+$150
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ $145
 Dry Beans
 </td> 
 <td>
-$116
+$120
 </td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ $116
 Coffee
 </td> 
 <td>
-$126
+$132
 </td>
 </tr>
 </table>
@@ -91,7 +91,7 @@ There is the option to split a share. When you sign up and add the share to your
 <br /> 
 
 ### Volunteer for Two Hours
-As a member of the CSA, you will be asked to complete two hours of volunteer work during the season. Volunteers do things like check people in when they pick up their share, make sure the vegetables are replenished, or move boxes. -->
+As a member of the CSA, you will be asked to complete two hours of volunteer work during the season. Volunteers do things like check people in when they pick up their share, make sure the vegetables are replenished, or move boxes.
 
 </div>
 <div class="col-md-3">
@@ -99,7 +99,7 @@ As a member of the CSA, you will be asked to complete two hours of volunteer wor
 ### Pickup Dates
 Wednesday evenings <br />
 4:30 to 7:30 p.m.<br />
-June 10th through November 18th
+June 9th through November 17th
 <br />
 <br />
 

@@ -320,7 +320,32 @@ If you need assistance, please call the Welcome Desk at <a href="tel:2036695239"
 <hr>
 
 <h3 style="color:#009623;"><a id="returns"></a>Returns</h3>
-Returns are accepted seven days a week! Monday-Friday from 9 a.m. to 5 p.m., please leave your items in the Community Room or on Saturdays from 1 to 5 p.m. On Saturdays and Sundays from 9 a.m. to 5 p.m., you may return items to the drive-up outdoor return. If you're coming in the parking lot door, drop them off at the entrance on Saturdays from 1 to 5 p.m. 
+Returns are accepted seven days a week! 
+<br />
+<br />
+
+<div class="row">
+<div class="col-md-4">
+<strong>Monday through Friday</strong><br />
+in the Community Room<br />
+9 a.m. to 5 p.m.<br />
+Saturdays from 1 to 5 p.m.<br />
+<br />
+</div>
+<div class="col-md-4">
+<strong>Saturdays and Sundays</strong><br />
+via the outdoor return<br />
+9 a.m. to 5 p.m.<br />
+<br />
+</div>
+<div class="col-md-4">
+<strong>Saturdays</strong><br />
+via the indoor return<br />
+1 to 5 p.m.
+<br />
+<br />
+</div>
+</div>
 
 
 This will allow the returned items to sit in quarantine for three days so they can then be safely handled by staff. Items will be removed from your account after this three-day quarantine period. No late fines will incur.
