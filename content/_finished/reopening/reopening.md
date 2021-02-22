@@ -21,7 +21,7 @@ If you need assistance, please contact us by [email](mailto:askus@darienlibrary.
 Monday through Friday<br />
 9 a.m. to 5 p.m.<br />
 <br />
-Saturday<br />
+Saturday and Sunday<br />
 1 to 5 p.m.
 <br />
 <br />
@@ -45,15 +45,16 @@ Saturday<br />
 Monday through Friday<br />
 in the Community Room<br />
 9 a.m. to 5 p.m.<br />
-Saturdays from 1 to 5 p.m.<br />
+<br />
+Saturdays and Sundays<br />
+1 to 5 p.m.<br />
 <br />
 
 Saturdays and Sundays<br />
 via the outdoor return<br />
 9 a.m. to 5 p.m.<br />
-<br />
 
-Saturdays<br />
+Saturday and Sunday<br />
 via the indoor return<br />
 1 to 5 p.m.
 <br />
@@ -62,7 +63,7 @@ via the indoor return<br />
 Monday through Friday<br />
 9 a.m. to 5 p.m.<br />
 <br />
-Saturday<br />
+Saturday and Sunday<br />
 1 to 5 p.m.
 <br />
 </div>
@@ -171,8 +172,8 @@ We have completed our self-certification for reopening as required by the State 
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
-* The Library will be open Monday through Friday from 9 a.m. to 5 p.m. and Saturdays from 1 to 5 p.m.
-* Returns will only be accepted only on Saturday and Sundays from 9 a.m. to 5 p.m. at the outdoor return. 
+* The Library will be open Monday through Friday from 9 a.m. to 5 p.m. and Saturdays & Sundays from 1 to 5 p.m.
+* Returns are accepted seven days a week in the Community Room when the building is open. The outdoor book return is open on Saturdays and Sundays from 1 to 5 p.m.
 * We are allowed 150 people in the building. Please be courteous with your time. 
 * Masks must be worn at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
@@ -326,21 +327,21 @@ Returns are accepted seven days a week!
 
 <div class="row">
 <div class="col-md-4">
-<strong>Monday through Friday</strong><br />
-in the Community Room<br />
+<strong>Community Room</strong><br />
+Monday-Friday<br />
 9 a.m. to 5 p.m.<br />
-Saturdays from 1 to 5 p.m.<br />
+Saturday and Sundays from 1 to 5 p.m.<br />
 <br />
 </div>
 <div class="col-md-4">
-<strong>Saturdays and Sundays</strong><br />
-via the outdoor return<br />
+<strong>Outdoor Return</strong><br />
+Saturdays and Sundays<br />
 9 a.m. to 5 p.m.<br />
 <br />
 </div>
 <div class="col-md-4">
-<strong>Saturdays</strong><br />
-via the indoor return<br />
+<strong>Indoor Return</strong><br />
+Saturdays and Sundays<br />
 1 to 5 p.m.
 <br />
 <br />
