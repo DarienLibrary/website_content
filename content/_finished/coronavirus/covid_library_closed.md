@@ -28,7 +28,7 @@ Director
 <div class="col-md-5">
 <h3 style="color:#009623;">Quick Info</h3>
 
-* The building reopens Wednesday, March 10th.
+* The building reopens Thursday, March 11th.
 * Programs are continuing as planned.
 * Returns accepted beginning Saturday, March 6th.
 * Holds pickup starts Sunday, March 7th, 1 to 5 p.m.
