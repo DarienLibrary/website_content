@@ -5,14 +5,21 @@ Darien Library takes the health and safety of our patrons and staff very serious
 <div class="row">
 <div class="col-md-6">
 
-### Register for the COVID vaccine
+### Find Vaccine Locations
+Operated by Boston Children's Hospital, [VaccineFinder](https://dar.to/30Y2xAL "VaccineFinder") is a free, online tool to help you find locations near you that are offering COVID-19 vaccines. 
+<br />
+<br />
+
+### State of Connecticut Vaccine Management System
 You may register with the Vaccine Administration Management System (VAMS) to schedule your vaccine appointment. Per the site, "You do not need to register with VAMS if you have other options for getting the vaccine (i.e. - through your current medical provider)."
 
 The vaccine is being distributed on a timeline set by the State of Connecticut. Check the page to see if you are currently eligible to register to schedule your vaccination. 
 
-[Register for the vaccine](http://dar.to/39swahn "Register for the Vaccine") or call [877-918-2224](tel:877918222 "Call the CT COVID Vaccine Appointment Assist Line") Monday-Friday between 8 a.m. and 4:30 p.m.
-<!--<a href="http://dar.to/39swahn"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Register for the vaccine</button></a>-->
+* [Register for the vaccine online](http://dar.to/39swahn "Register for the Vaccine") 
+* Call [877-918-2224](tel:877918222 "Call the CT COVID Vaccine Appointment Assist Line") Monday-Friday between 8 a.m. and 4:30 p.m.
 <br />
+
+<!--<a href="http://dar.to/39swahn"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Register for the vaccine</button></a>-->
 
 
 ### The COVID Alert CT App
@@ -23,6 +30,14 @@ The vaccine is being distributed on a timeline set by the State of Connecticut. 
 <br />
 </div>
 <div class="col-md-6">
+
+### Vaccine Assistant Line
+United Way of Connecticut is pleased to work in partnership with the Department of Public Health and the Governor’s Office in offering Connecticut residents support through the COVID Vaccine Appointment Assist Line: [877-918-2224](tel:8779182224 "Call the Vaccine Assistant Line")
+
+
+Open seven days a week, from 8 a.m. to 8 p.m., the Assist Line provides support to those who, due to lack of access to technology, disability, language, or other barriers, cannot successfully access online and other scheduling options. Contact specialists can assist people in multiple languages.
+<br />
+<br />
 
 <iframe src="https://covidactnow.org/embed/us/connecticut-ct" title="CoVid Act Now" width="350" height="370" frameBorder="0" scrolling="no"></iframe>
 
