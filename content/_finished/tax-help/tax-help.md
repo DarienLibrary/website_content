@@ -19,7 +19,7 @@ The Virtual VITA Tax-Aide program at Darien Library returns this year with a few
 
 ### Key Dates
 * January 25th: Appointment registration opens
-* April 15th: Last day of this tax preparation service
+* May 17th: Last day of this tax preparation service
 <!-- * January 29th: Scanning and data entry service begins -->
 <br />
 

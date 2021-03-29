@@ -1,3 +1,5 @@
+View our [Commitment to Antiracism](/antiracism-commitment "Commitment to Antiracism") and [Statement on Anti-Asian Violence](/support-aapi "Statement on Anti-Asian Violence")
+
 <div class="text-center margin-bottom-40">
 <h2 class="title-v2 title-center">The History of Racism in America</h2>
 </div>
@@ -8,7 +10,7 @@
 <br />
 </div>
 <div class="col-xs-6 col-md-2">
-<a href="https://dar.to/2Xvvhjz"><img class="img-responsive center-block" src="/uploads/departments/adults/perilous_path.jpg" alt="A Perilous Path"></a>
+<a href="https://dar.to/39nhtNB"><img class="img-responsive center-block" src="/uploads/departments/adults/erika_lee.jpg" alt="The Making of Asian American"></a>
 <br />
 </div>
 <div class="col-xs-6 col-md-2">
@@ -88,6 +90,9 @@
 ### Websites
 
 <ul>
+<li><a href="https://dar.to/2NHb7AX" style="text-decoration:none;">What This Wave of Anti-Asian Violence Reveals About America</a></li>
+<li><a href="https://dar.to/3lGG6d2" style="text-decoration:none;">Are You Unconsciously Buying Into The Model Minority Stereotype?</a></li>
+<li><a href="https://dar.to/2PeyphS" style="text-decoration:none;">How to Respond to Coronavirus Racism</a></li>
 <li><a href="https://dar.to/3gSPcjY" style="text-decoration:none;">Talking About Race</a> from the National Museum of African American History and Culture </li>
 <li><a href="https://dar.to/3dtItdY" style="text-decoration:none;">Why Us? Why Now?</a> from the National Museum of African American History and Culture </li>
 <li><a href="https://dar.to/31PqZG9" style="text-decoration:none;">Ibram X. Kendi, Robin DiAngelo Discuss Race in America</a> from CBS News</li>
@@ -155,6 +160,8 @@
 <h3>Videos</h3>
 <ul>
 <li><a href="https://dar.to/3eRiXQo" style="text-decoration:none;">Systemic Racism Explained</a></li>
+<li><a href="https://dar.to/2Pl25d5" style="text-decoration:none;">Talking To Teens About Anti-Asian Discrimination in the Era of COVID-19</a></li>
+<li><a href="https://dar.to/313Iv7W" style="text-decoration:none;">We Are Not a Stereotype: Breaking Down Asian American Bias</a> </li>
 <li><a href="https://dar.to/3082aEl" style="text-decoration:none;">Let’s Talk About Race with Nic Stone and Jodi Picoult</a></li>
 <li><a href="https://dar.to/3gPP190" style="text-decoration:none;">Let’s Talk About Race with Nic Stone and Brendan Kiely</a></li>
 <li><a href="https://dar.to/2AxBEto" style="text-decoration:none;">Talking to Kids about Racism in the Media</a></li>
@@ -194,6 +201,7 @@
 
 <h3>Podcasts</h3>
 <ul>
+<li><a href="https://dar.to/2NJ56ni" style="text-decoration:none;">Self-Evident Podcast: Asian America’s Stories</a></li>
 <li><a href="https://dar.to/3dB3ELj" style="text-decoration:none;">1619</a></li>
 <li><a href="https://dar.to/377Ck4X" style="text-decoration:none;">Code SW!TCH</a></li>
 <li><a href="https://dar.to/3cy3J0Y" style="text-decoration:none;">Intersectionality Matters!</a></li>
@@ -209,6 +217,7 @@
 
 <h3>Videos</h3>
 <ul>
+<li><a href="https://dar.to/317KKHq" style="text-decoration:none;">Asian Americans: PBS Docuseries</a></li>
 <li><a href="https://dar.to/2XylFVa" style="text-decoration:none;">Understanding My Privilege</a></li>
 <li>On Netflix: <a href="https://dar.to/2XCfEXD" style="text-decoration:none;">13th</a></li>
 <li>On Netflix: <a href="https://dar.to/2Mu17qj" style="text-decoration:none;">When They See Us</a></li>
@@ -264,6 +273,7 @@
 <br />
 <ul>
 <li><a href="https://dar.to/2U12Dof" style="text-decoration:none;">Social Justice for Kids</a></li>
+<li><a href="https://dar.to/2WpJ1KF" style="text-decoration:none;">Celebrating Asian Pacific American Heritage</a></li>
 <li><a href="https://dar.to/30PGj58" style="text-decoration:none;">Hoopla books on Talking to Kids about Race</a></li>
 <li><a href="https://dar.to/3eQsUgR" style="text-decoration:none;">Children's Books on Racism and Discrimination</a></li>
 <li><a href="https://dar.to/3eNfdPN" style="text-decoration:none;">Books Every Black Child Should Read</a></li>
@@ -291,6 +301,7 @@
 <br />
 <ul>
 <li><a href="https://dar.to/300k38b" style="text-decoration:none;">Books on Antiracism</a></li>
+<li><a href="https://dar.to/3lGkwoT" style="text-decoration:none;">Asian American and Pacific Islander Experience</a></li>
 <li><a href="https://dar.to/2AuVR3D" style="text-decoration:none;">These Comics are Antiracist</a></li>
 <li><a href="https://dar.to/2U4MiyP" style="text-decoration:none;">Conversations on Race for Adults</a></li>
 <li><a href="https://dar.to/2UVFwfe" style="text-decoration:none;">Audiobooks on Race for Adults</a></li>
