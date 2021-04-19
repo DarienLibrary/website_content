@@ -104,8 +104,8 @@ June 9th through November 17th
 <br />
 
 ### Questions?
-Please contact Susie Skerrett,<br />
-Film Librarian, at [sskerrett@darienlibrary.org](mailto:sskerrett@darienlibrary.org "Email Susie")
+Please contact Pat Sheary,<br />
+Head of Adult Programming [psheary@darienlibrary.org](mailto:psheary@darienlibrary.org "Email Pat")
 <br />
 <br />
 </div>
