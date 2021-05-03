@@ -1,52 +1,32 @@
 <div class="row">
 <div class="col-md-6">
 
-Whether you're a long-term gardener or new to the craft, we offer you the opportunity to try out new seeds. The Seed Library is just to the right of the Welcome Desk near the Post Road entrance to the Library. 
+### Explore Our Seed Library!
 
+Whether you're a long time gardener or just beginning to explore your green thumb, our Seed Library offers you the opportunity to try out new seeds!
+
+We love to see what our patrons are growing! Share your garden with us on social media by tagging us @darienlibrary and using the #LoveMyDarienLibrary on Twitter, Facebook, or Instagram. 
+<br />
+<br />
 </div>
+
 <div class="col-md-6">
 
-Share your garden with us on social media! Just tag us at @darienlibrary on Twitter, Facebook, or Instagram. 
-</div>
-</div>
-
+### How to Take Seeds
+1. Find the Seed Library to the right of the Welcome Desk near the Post Road entrance.
+2. Take a Mini Seed envelope; remember to use a different envelope for each seed variety.
+3. Label your envelope with the seed variety.
+4. Put seeds in your labeled envelope. Take 2-3 seeds for every plant you intend to grow this season. For example, if you want 5 tomato plants, take 10-15 seeds.
+5. Record in our guest book your name, email and if you took flower, vegetable and/or herb seeds.
+6. You're ready to get growing!
 <br />
-
-
-<div class="row">
-<div class="col-md-6">
-
-### How to Borrow
-Choose one of our Mini Seed envelopes and use a different envelope for each variety of seed you wish to borrow.
-
-Label your envelope with what you’re borrowing.
-
-Put seeds in your labeled envelope. Take 2-3 seeds for every plant you intend to grow this season. For example, if you want 5 tomato plants, take 10-15 seeds.
-
-Please let us know what you’re borrowing in the guest book.
-
-Thank you and happy gardening!
-<br />
-
-</div>
-<div class="col-md-6">
-
-### How to Donate
-You may donate seeds you grew or ones you purchased. Before donating, please review the <a href="#SeedProtocol">Seed Protocol and Guidelines for Returning Seeds</a>.
-
-If donating hybrid seeds, please label them clearly as being a hybrid.
-
-Enter the returned or donated seeds into the envelope and then add them to the guest book.
-
-Put seeds in the appropriate drawer. Seeds are organized by type and alphabetical.
 </div>
 </div>
-
-<br />
-<br />
 
 ### Seed Library Index
 
+Because our seed collection is constantly rotating, the following index may not represent what is currently available.
+</br>
 <div id="home" class="tab-pane fade in active">
 <div id="accordion-v1" class="panel-group acc-v1">
 <div class="panel panel-default">
@@ -498,40 +478,3 @@ Vegetables
 
 </div>
 </div>
-
-<a name="SeedProtocol" style="color:#fff;">Seed Protocol</a>
-
-### Seed Protocol
-We want people who take seed to get what was on the label and we want to protect from passing on disease. The following is our basic seed protocol.*
-<br />
-
-* Save from healthy plants. Even if a disease does not get passed on through the seed, we do not like to have some selection for disease resistance by only saving from healthy strong plants.
-
-* Save from a number of plants so that the seed has some genetic diversity in it. The quantity that is optimum depends on the type of plant. For self-pollinating plants, a minimum of 6 plants is necessary. For cross pollinating, you want to save from a much larger population.
-
-* If the plant cross pollinates, you want to make sure you keep it isolated so it stays “true to type." Check with a seed saving chart or book to get isolation distances.         
-
-* When you bring seeds to share, please label with as much information as you can.         
-
-_* The Seed Protocol is from the West County Seed Exchange_
-<br />
-<br />
- 
-
-### Guidelines for Returning Seeds
-
-Please do not share hybrid seeds. Hybrid, F1 or VF plants will not produce plants like the parent plant. They may produce something somewhat or very different, or they may produce nothing at all.
-
-Do not return seeds from the brassica (e.g. Broccoli, Cauliflower, Kale, Brussel Sprouts & Cabbage) or cucurbit (e.g. cucumbers, squash, melons) families unless you have taken appropriate steps to prevent cross-pollination.
-<br />
-
-* **Dry:** Make sure seeds have dried completely
-
-* **Clean:** Have seeds reasonably cleaned by removing as much of the chaff as possible.
-
-* **Properly saved:** Only return seeds that you know how to save properly. Super easy seeds like tomatoes, beans, peas and lettuce can be fairly reliably saved without cross-pollination and unintentional hybridization.
-
-* **Label:** Write as much information on your returning seed packet as possible.  Next year’s borrower only has what you have written on the envelope to help decide whether to plant or not.  The more information the better!!
-
- 
-_* The Guidelines for Returning Seeds are from the Richmond Grows Seed Lending Library_
