@@ -3,7 +3,7 @@ Darien Library is seeking a friendly, energetic, dedicated individual with excel
 <br />
 
 ### Duties & Responsibilities
-The part-time technology position is responsible for staffing the Help Desk in the Darien Library Power Library. This position will assist public and staff with their questions about any of our software and computing platforms in a professional and courteous manner, and should be ready to research answers using a variety of manuals and resources. The Help Desk staff member will assist patrons in getting started using the equipment in the Digital Media Lab (DML) and refer patron to further assistance using the DML manual and online and library resources. Additionally, this position will provide oversight for the Teen Room and may occasionally be called upon to provide assistance to teens and parents in that area. This position will also attend to other duties as assigned.
+The part-time Technology Assistant position is responsible for staffing the Technology Help Desk on the Second Level. This position will assist public and staff with their questions about any of our software and computing platforms in a professional and courteous manner, and should be ready to research answers using a variety of manuals and resources. In addition to assisting patrons in making use of the library's computers, network, and digital services, this position is responsible for setting up and tearing down audiovisual equipment for events taking place during shifts. This position will also attend to other duties as assigned.
 <br />
 <br />
 

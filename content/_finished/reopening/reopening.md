@@ -74,8 +74,10 @@ Saturday and Sunday<br />
 
 <a id="return"></a>
 <h3 style="color:#009623;">Table of Contents</h3>
+
 <strong>Services</strong>
 <ul>
+<li><a href="#may17">Changes Coming May 17th</a></li>
 <li><a href="#available">In-Person Services Available</a></li>
 <li><a href="#appt">Services Requiring an Appointment</a></li>
 <li><a href="#virtual">What Stays Virtual</a></li>
@@ -354,4 +356,60 @@ This will allow the returned items to sit in quarantine for three days so they c
 <br />
 <a href="#return">Return to the top of the page</a>
 <br />
+<br />
 </div>
+
+<hr>
+
+<h3 style="color:#009623;"><a id="may17"></a>Changes Coming May 17th</h3>
+Darien Library is thrilled to announce that starting on Monday, May 17th, we will resume normal hours including weekday evening hours. Below are details about what other regular activities and services will also resume that day. Thank you for your support over the past year.
+<br /> 
+<br />
+
+#### Normal Hours
+* Monday-Thursday: 9 a.m. to 9 p.m. 
+* Friday: 9 a.m. to 6 p.m. 
+* Saturday:  9 a.m. to 5 p.m. 
+* Sunday: 1 to 5 p.m. 
+
+The Children’s Library closes at 8 p.m. Monday-Thursday.  
+<br />
+
+<div class="row">
+<div class="col-md-6">
+
+#### What's New
+* No time limits for using the Library  
+* Unlimited holds  
+* Return items 24/7 through the materials handling system 
+* 60-minute computer access 
+* The return of some seating throughout the building 
+* No appointments needed to visit the Children’s Library 
+* Notary services resume  
+* Holds will continue to be picked up from the Community Room 
+* Outdoor events beginning this June and continued virtual events
+
+Since items may be returned 24 hours a day starting May 17th, we will resume late fines on June 1st.  
+<br />
+
+</div>
+<div class="col-md-6">
+
+#### Prioritizing Safety 
+The following safety measures continue:  
+
+* Masking inside the building 
+* Enhanced cleaning procedures 
+* Plexiglass at staffed service desks 
+* Limited seating 
+* Food and drinks may be enjoyed outside of the building 
+* Private study rooms are unavailable at this time.  
+<br />
+
+</div>
+</div>
+
+In the coming months, we look forward to bringing back study rooms and indoor events. Keep an eye on our website, [email newsletters](https://dar.to/2pZuw14 "email newsletters"), and social media (@darienlibrary) for the latest updates. 
+<br />
+<br />
+<a href="#return">Return to the top of the page</a> 

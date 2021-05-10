@@ -22,13 +22,6 @@ We offer a variety of study and meeting rooms to meet your needs. These rooms ar
 <br />
 <br />
 
-### Tutor Policy
-Darien Library recognizes the benefit to the students and parents of the community for tutoring to be allowed within the Library. The following procedures are intended to provide a balance between the use of the Library by tutors and their clients, and the use of the Library by other members of the community.
-
-[View the Tutor Policy](/tutor-policy "Tutor Policy")
-
-<br />
-
 </div>
 <div class="col-md-6">
 

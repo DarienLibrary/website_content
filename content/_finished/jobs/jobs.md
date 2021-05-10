@@ -5,6 +5,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
+### [Full-Time Systems Administrator](https://dar.to/3vAzHUg "Full-Time Systems Administrator")
+Darien Library seeks an intelligent, curious, and innovative technology professional to work in our User Experience department in managing Darien Library’s technology infrastructure. This position represents a unique opportunity to apply a wide range of skills and expertise in an exciting environment that is constantly changing and adapting to emerging trends. Darien Library holds itself to the highest possible standard of customer service, and we pride ourselves on providing a fulfilling and enriching experience to all who visit us either in person or online.
+<br />
+<br />
+
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />
