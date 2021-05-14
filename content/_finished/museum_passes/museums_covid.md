@@ -31,6 +31,49 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 </div>
 </div> -->
 
+
+
+<div class="col-md-4">
+
+### Beardsley Zoo 
+Connecticut's Beardsley Zoo is one of Connecticut's top family attractions with over 300 animals representing primarily North and South American species. <br />
+<!-- [Select date to visit the zoo](https://dar.to/2j4hL4b "Visit Beardsley Zoo")<br /> -->
+[View Beardsley Zoo's programs](https://dar.to/2j5d3mr "View Beardsley Zoo's programs list")<br />
+* Open 7 days a week from 9 a.m. to 4 p.m.
+* Pass is valid for $9 admissions per person for up to 6 guests. 
+* Online tickets aren't available. Show pass when you arrive.
+* Limited to one family per day. 
+* Cards are non-transferable.
+
+This pass is not a membership pass to the zoo. It only allows entrance to the grounds. 
+<br />
+</div>
+
+
+<div class="col-md-4">
+
+### Bruce Museum
+A regionally based, world-class institution highlighting art, science and natural history in more than a dozen changing exhibitions annually. The Bruce Museum has [reciprocal agreements](https://dar.to/2C4fxJZ "reciprocal agreements") with several museums.<br />
+<!-- [Select date to visit Bruce](https://dar.to/2j4ixhB "Visit the Bruce Museum")<br /> -->
+[View Bruce's exhibits](https://dar.to/2j1UyiM "View the Bruce Museum's exhibits")<br />
+* Open Tuesday-Sunday from 9:30 a.m. to 4:30 p.m., Tuesdays are free
+    * 9:30 to 10:30 a.m. is special access for people over 65 and those who are immunocompromised.
+    * 10:30 to 11:30 a.m. is special access to members
+* [Advance ticket required](https://dar.to/3mc6hs3 "Advance ticket required"): Use the Membership ID number on the pass. 
+* Each pass admits two adults and their children under the age of 18. 
+* Children under 5 are free.
+<br />
+</div>
+
+
+
+
+
+
+
+
+
+
 <div class="row">
 <div class="col-md-6">
 

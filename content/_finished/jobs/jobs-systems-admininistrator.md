@@ -47,7 +47,7 @@ This is a full-time position (37.5 hours/week) with an annual salary ranging fro
 ### Contact Information
 If you are ready to join the best library team in the world, we want to hear from you. To apply, please send your cover letter and resume to [agoodman@darienlibrary.org](mailto:agoodman@darienlibrary.org "Email Amanda L. Goodman").
 
-We will begin conducting interviews May 15, 2021.
+Applications accepted until position is filled.
 <br />
 <br />
 

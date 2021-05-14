@@ -1,8 +1,14 @@
-Darien Library exhibits artwork on a rotating basis in its Gallery on the Lower Level. Our desire is to offer the community an opportunity to benefit from viewing various forms of art in a cultural and educational setting. The Art Committee of Darien Library meets on an ongoing basis to review the work of interested artists. In order to assist us with our selection of artists, we ask them to submit slides, pictures, or samples of their work. A member of our art committee will contact you prior to this meeting.
+<div class="row">
+
+<div class="col-md-10 col-md-offset-1">
+
+Due to current COVID restrictions, Darien Library’s Art on View is hosted on the Library’s [Instagram account](https://dar.to/2lr3pGT "Instagram account"). The Library selects “Featured Artists” to showcase digitally on our social media channel. Our desire is to offer the community an opportunity to benefit from viewing various forms of art and to support local artists. 
+
+The Art Committee of Darien Library meets on an ongoing basis to review the work of interested artists. To submit artwork for consideration as an Instagram “Featured Artist,” please fill out the submission form below. A member of our art committee will contact you.
 
 [View the current Art On View exhibit](/art-on-view "Art On View") 
 
-<p>
+<!-- <p>
 <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseGuidelines" aria-expanded="false" aria-controls="collapseGuidelines">
 Art Exhibitor Guidelines
 </button>
@@ -60,6 +66,8 @@ The artist will pick up artwork from the library on the date agreed upon with th
 
 </div>
 </div>
-</div>
+</div> --> 
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/60546410344145"></script>
+</div>
+</div>
