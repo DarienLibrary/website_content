@@ -12,11 +12,10 @@ The Bloomberg Terminal, which tracks real-time financial market data, is an inva
 Darien Library is equipped with nine private [meeting rooms](/meeting-rooms "Meeting rooms") which may be reserved online. There are three large rooms which may be rented for your business meetings. Small meeting rooms are available for two hour blocks of time and may be reserved by Darien residents, those who work full-time in Darien, and [Friends](/friends "Friends of the Library") at the $300 level. Some rooms can be reserved up to a month in advance and are available to non-residents on a first-come, first-served basis. [Make your reservation](/meeting-rooms "Reserve a meeting room")
 <br />
 <br />
-
-### Business Center
+<!-- ### Business Center
 The [Business Center](/business-center "Business Center") is located on the Lower Level in the Power Library. The Center is fully equipped with copier/printers, a fax machine, a coil book binder, headphones, DVDs, and CDs. It is ready to meet the needs of business owners, students, and job searchers. All services and supplies are affordable and competitively priced for patrons. 
 <br />
-<br />
+<br /> -->
 
 ### Database Access
 Find information about businesses, financial data, career guidance, and industry journals through our [Business and Investing databases](/research/category/business-and-investing "Business and Investing databases"). Our other [research databases](/research "Research databases") are useful for searching thousands of journals. 
@@ -36,14 +35,13 @@ Our reference librarians are experts in finding articles and data relevant to yo
 A Notary Public is available at Darien Library free of charge during most normal hours of operation. Notaries witness and verify the signing of important documents and administer oaths. You will need to bring two forms of ID containing your signature (e.g. valid driver license, passport, credit card), one which must also have your photo. Please do not sign the documents prior to appearing before the Notary Public.   
 <br />
 <br />
-
-### Agati Media Station
+<!-- ### Agati Media Station
 The Agati Media Station is a collaborative work station outfitted with a large-screen computer well-suited for presentations and group projects. Amenities include a large table, a 50-inch monitor, connections for four laptops, WiFi, and power outlets. It is ideal for hosting small group presentations.
 <br />
-<br />
+<br /> -->
 
 ### Mailbox
-Skip the line at the post office and mail your documents at the Library. You will pass the blue mailbox as you walk into the building from the parking lot. We sell stamps at the Welcome Desk. Need more? You can buy stamps and envelopes in the Business Center on the Lower Level. 
+Skip the line at the post office and mail your documents at the Library. You will pass the blue mailbox as you walk into the building from the parking lot. We sell stamps at the Welcome Desk.
 <br />
 <br />
 

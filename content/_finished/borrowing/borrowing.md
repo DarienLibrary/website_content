@@ -13,7 +13,7 @@
 - The maximum overdue charge for most materials is $5.00 per item. Items not returned will be billed at the cost of replacement plus a $5.00 processing fee.
 - If a patrons’s fees exceed $50.00, the patron will be unable to check-out items or access some library services.
 
-We have a wide range of technology available for [check-out](/catalog/search/keyword?search=%2A&formats=equipment "Borrow technology") or to use while [in the Library](/technology "Library Technology"). For children's technology, see the Children's Library. For everything else, visit the Help Desk on the Lower Level.
+<!-- We have a wide range of technology available for [check-out](/catalog/search/keyword?search=%2A&formats=equipment "Borrow technology") or to use while [in the Library](/technology "Library Technology"). For children's technology, see the Children's Library. For everything else, visit the Help Desk on the Lower Level.-->
 </div>
 
 <div class="col-md-6">
@@ -24,8 +24,8 @@ We have a wide range of technology available for [check-out](/catalog/search/key
 
 If no one else has requested the material, we are happy to renew most materials up to five times. You can renew by:
 
-- Calling us at (203) 655-1234, press 2
-- Emailing us at [circ@darienlibrary.org](mailto:welcomedesk@darienlibrary.org "Email us")
+- Calling us at [(203) 669-5239](tel:2036695239 "Call the Welcome Desk")
+- Emailing us at [welcomedesk@darienlibrary.org](mailto:welcomedesk@darienlibrary.org "Email us")
 - Logging into [your account](/myaccount "My Account") on the website
 - Chat with us through our website (bottom right corner)
 - Within the _Libby_ or _Hoopla Digital_ apps for digital downloads
@@ -38,7 +38,7 @@ Connecticut residents may use their hometown library card at any public library 
 - Register for technology classes and children’s storytimes
 - Access e-Books, dowloadable audiobooks, magazines and research databases
 - Borrow technology equipment
-- Reserve [study rooms](/meeting-rooms "Study Rooms") and the [Digital Media Lab](/dml "Digital Media Lab")
+- Reserve [study rooms](/meeting-rooms "Study Rooms")
 
 </div>
 </div>

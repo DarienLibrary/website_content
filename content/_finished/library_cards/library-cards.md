@@ -24,12 +24,12 @@ You can still check out stuff from Darien Library. Just bring in your library ca
 * Downloadable e-Books, e-Audiobooks, magazines, movies, music, and TV shows
 * Reference and information services for adults and children
 * Special collections in business, law, local history, and genealogy
-* Internet access from multiple computer workstations via T-1 line
+* Internet access from multiple computer workstations
 * Interlibrary loan service
 * 24/7 access to an extensive list of electronic resources
 * Museum passes to locations in Connecticut and New York
 * Personal computers with software for adults and children
-* Reserve study rooms, Digital Media Lab, and Bloomberg Terminal
+* Reserve study rooms and the Bloomberg Terminal
 * Display space that can be requested by artists and community groups
 * Technology education classes
 * Programs for all ages, including book discussions, storytimes, and summer reading programs

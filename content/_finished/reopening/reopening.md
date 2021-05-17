@@ -3,7 +3,7 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-WiFi is available in our courtyard. Darien Library is open to visitors for quick 30-minute browsing and computer access.
+Darien Library is open to visitors normal hours. Our programs are available virtually and we look forward to offering some in-person outdoor programs. 
 <br />
 <br />
 We do not have a date when full services and in-person programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state, and local regulations and guidance.
@@ -13,61 +13,6 @@ We do not have a date when full services and in-person programs will resume. The
 If you need assistance, please contact us by [email](mailto:askus@darienlibrary.org "Email us") or by calling [203-669-5236](tel:2036695236 "Call us").
 <br />
 <br />
-
-<h3 style="color:#009623;">Quick Info</h3>
-<div class="row">
-<div class="col-md-6">
-<strong>Library Hours</strong><br />
-Monday through Friday<br />
-9 a.m. to 5 p.m.<br />
-<br />
-Saturday and Sunday<br />
-1 to 5 p.m.
-<br />
-<br />
-<strong>Children's Library Hours</strong><br />
-By Appointment Only<br />
-<a href="/visitCL">Book an Appointment</a><br />
-<br />
-
-<strong>Teen Lounge Hours</strong><br />
-Monday through Friday<br />
-3 to 5 p.m.
-<br />
-
-Saturday<br />
-1 to 5 p.m.
-<br />
-<br />
-</div>
-<div class="col-md-6">
-<strong>Returns Accepted</strong><br />
-Monday through Friday<br />
-in the Community Room<br />
-9 a.m. to 5 p.m.<br />
-<br />
-Saturdays and Sundays<br />
-1 to 5 p.m.<br />
-<br />
-
-Saturdays and Sundays<br />
-via the outdoor return<br />
-9 a.m. to 5 p.m.<br />
-
-Saturday and Sunday<br />
-via the indoor return<br />
-1 to 5 p.m.
-<br />
-<br />
-<strong>Holds Pick-up</strong><br />
-Monday through Friday<br />
-9 a.m. to 5 p.m.<br />
-<br />
-Saturday and Sunday<br />
-1 to 5 p.m.
-<br />
-</div>
-</div>
 </div>
 
 <div class="col-md-4">
@@ -93,7 +38,6 @@ Saturday and Sunday<br />
 <br />
 <strong>Holds & Returns</strong>
 <ul>
-<li><a href="#holds">Placing Holds</a></li>
 <li><a href="#pickup">Community Room Pick-up</a></li>
 <li><a href="#returns">Returns</a></li>
 </ul>
@@ -117,11 +61,64 @@ We have completed our self-certification for reopening as required by the State 
 <hr>
 
 
+<h3 style="color:#009623;">Quick Info</h3>
+<div class="row">
+<div class="col-md-4">
+<strong>Library Hours</strong><br />
+Monday through Thursday* <br />
+9 a.m. to 9 p.m.<br />
+<br />
+Friday<br />
+9 a.m. to 6 p.m.<br />
+<br />
+Saturday<br />
+9 a.m. to 5 p.m.<br />
+Sunday<br />
+1 to 5 p.m.
+<br />
+
+* The Children's Library closes at 8 p.m.
+<br />
+<br />
+</div>
+<div class="col-md-4">
+
+<strong>Teen Lounge Hours</strong><br />
+Monday through Friday<br />
+3 to 5 p.m.
+<br />
+
+Saturday<br />
+1 to 5 p.m.
+<br />
+<br />
+</div>
+<div class="col-md-4">
+<strong>Returns Accepted</strong><br />
+<ul>
+<li>Outdoor drop: 24/7</li>
+<li>Indoor drop: when the building is open</li>
+</ul> 
+
+<br />
+<br />
+<strong>Holds Pick-up</strong><br />
+Monday through Friday<br />
+9 a.m. to 5 p.m.<br />
+<br />
+Saturday and Sunday<br />
+1 to 5 p.m.
+<br />
+</div>
+</div>
+<hr />
+
+
 <h3 style="color:#009623;"><a id="available"></a>In-Person Services Available</h3>
 
 * Borrowing of books, audiobooks, movies, magazines, and video games
 * Visits to the Children's Library and Teen Lounge to borrow materials
-* Access to public computers and internet for one 30-minute session per day
+* Access to public computers and internet
 * Scanning, printing, copying, and faxing
 * Resume reviews by virtual assistance
 * Reference assistance by phone or email is strongly encouraged
@@ -132,20 +129,20 @@ We have completed our self-certification for reopening as required by the State 
 <hr>
 
 
-<h3 style="color:#009623;"><a id="appt"></a>Services Requiring an Appointment</h3>
+<!-- <h3 style="color:#009623;"><a id="appt"></a>Services Requiring an Appointment</h3>
 
 * The Children's Library is open for 30-minute appointment with limited walk-ins allowed. If you arrive early, please wait outside the building until time for your appointment. <strong><a href="/visitCL">Book an appointment</a></strong>
-<!--* Notarizations: Please use our online <strong><a href="https://dar.to/2Dp2rcM">Notary Appointment form</a></strong>.-->
+<!--* Notarizations: Please use our online <strong><a href="https://dar.to/2Dp2rcM">Notary Appointment form</a></strong>.
 * Bloomberg Terminal: Residents may book the Bloomberg Terminal 5 business days in advance and non-residents may book an appointment for the same day by calling that day to check availability. Appointments can only be made via **[email](mailto:askus@darienlibrary.org "Email the Reference Desk")** or by calling **[203-669-5236](tel:2036695236 "Call the Reference Desk")**.
 
 <br />
 <a href="#return">Return to the top of the page</a>
 <br />
-<hr>
+<hr> -->
 
 <h3 style="color:#009623;"><a id="virtual"></a>What Stays Virtual</h3>
 
-* All programming and events will continue to be hosted online. 
+* All programming and events will continue to be hosted online unless otherwise noted.
 * Reference assistance by phone or email is strongly encouraged.
 * Book Groups advisory appointments.
 * Access to all the great digital content like e-Books, e-Audiobooks, movies, magazines, and music from **[Digital Darien](/digital "Digital Darien")** website.
@@ -162,10 +159,8 @@ We have completed our self-certification for reopening as required by the State 
 <h3 style="color:#009623;"><a id="not"></a>Services Not Available Currently</h3>
 
 * Book-a-Libarian assistance for Technology
-* Borrowing technology items including kits from the Children's Library and museum passes
-* Business Services: banner printing, custom print jobs, paper trimmers, laminating, typewriter use, and spiral binding
-* Digital Media Lab: VHS digitization, slide digitization, large format scanning, green screen, audio recording, video conferencing, and audiovisual editing
-* Notary appointments are suspended
+* Borrowing technology items including kits from the Children's Library
+* Business Services: banner printing, custom print jobs, paper trimmers, laminating, typewriter use
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -174,22 +169,17 @@ We have completed our self-certification for reopening as required by the State 
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
-* The Library will be open Monday through Friday from 9 a.m. to 5 p.m. and Saturdays & Sundays from 1 to 5 p.m.
-* Returns are accepted seven days a week in the Community Room when the building is open. The outdoor book return is open on Saturdays and Sundays from 1 to 5 p.m.
 * We are allowed 150 people in the building. Please be courteous with your time. 
 * Masks must be worn at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
-* The Children's Library is open for 30-minute appointment with limited walk-ins allowed. <strong><a href="/visitCL">Book an appointment</a></strong>
 * The Teen Lounge is open Monday-Friday from 3 to 5 p.m. and Saturdays from 1 to 5 p.m.
 * Visits to the Teen Lounge are limited to 30 minutes.
 * The video game systems and teen computers are unavailable.
 * The Lower Level of the Library will be closed. 
 * All study and meeting rooms are closed until further notice. 
-* Public computers are only available on the Second Level.
-* Computer usage is limited to one 30-minute session per day. 
-* Contactless checkouts with four self-checkouts available on the First Level. 
+* Public computers are available on the Second Level.
+* Contactless checkouts with three self-checkouts available on the First Level. 
 * Food and drinks must be taken to the courtyard to be enjoyed. 
-* Quiet phone calls (including online video chats) are allowed on the Research side (cemetery side) of the Second Level as long as headphones are worn for video chats. 
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -201,7 +191,6 @@ We have completed our self-certification for reopening as required by the State 
 * All study and meeting rooms
 * The Storytime Room, Toddler Room, and TEA Room in the Children's Library
 * Art Gallery on the Lower Level
-* The Technology Center, Power Library, Business Center, and Digital Media Lab
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -225,28 +214,13 @@ We care about your health and safety. Before reopening, we self-certified with t
 
 * Masks must be worn at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
-* Gloves will be provided and must be worn when using a public computer.
 * Social distancing of 6 feet is in effect. 
-* Entry to the building will be through the courtyard door on the parking lot side. 
-* One-way routes through the building will be indicated.
 * Food and drinks must be taken to the courtyard to be enjoyed. 
 
 <br />
 <a href="#return">Return to the top of the page</a>
 <br />
 <hr>
-
-<h3 style="color:#009623;"><a id="holds"></a>Placing Holds</h3>
-Due to the popular demand, holds will be limited to 5 per person for the time being.
-<br />
-<br />
-We appreciate your patience while you wait for your expected holds!
-<br />
-<br />
-<a href="#return">Return to the top of the page</a>
-<br />
-<hr>
-
 
 <h3 style="color:#009623;"><a id="pickup"></a>Community Room Pick-up</h3>
 To maintain a contactless holds pick-up system, we will place your requested items in the Community Room (auditorium). You will enter from the courtyard entrance and leave out the side drive entrance on the other side. 
@@ -262,7 +236,7 @@ To maintain a contactless holds pick-up system, we will place your requested ite
 <br />
 </div>
 <div class="col-xs-10 col-md-10">
-Place a hold on a book, audiobook, or movie <strong><a href="/catalog">from our website</a></strong>. Due to the high demand, holds will be limited to 5 per person for the time being.
+Place a hold on a book, audiobook, or movie <strong><a href="/catalog">from our website</a></strong>.
 <br />
 </div>
 </div>
@@ -284,7 +258,7 @@ Wait for the email to tell you the item(s) are available.
 <br />
 </div>
 <div class="col-xs-10 col-md-10">
-Come the next day (Monday-Friday) between 9 a.m. to 5 p.m. to pick-up your items from the Community Room. Or on Saturdays between 1 and 5 p.m.
+Come during open hours to pick-up your items from the Community Room. 
 <br />
 </div>
 </div>
@@ -323,35 +297,9 @@ If you need assistance, please call the Welcome Desk at <a href="tel:2036695239"
 <hr>
 
 <h3 style="color:#009623;"><a id="returns"></a>Returns</h3>
-Returns are accepted seven days a week! 
-<br />
-<br />
+Returns are accepted seven days a week! The outdoor drop is open 24/7 while the indoor drop is available when the building is open.
 
-<div class="row">
-<div class="col-md-4">
-<strong>Community Room</strong><br />
-Monday-Friday<br />
-9 a.m. to 5 p.m.<br />
-Saturday and Sundays from 1 to 5 p.m.<br />
-<br />
-</div>
-<div class="col-md-4">
-<strong>Outdoor Return</strong><br />
-Saturdays and Sundays<br />
-9 a.m. to 5 p.m.<br />
-<br />
-</div>
-<div class="col-md-4">
-<strong>Indoor Return</strong><br />
-Saturdays and Sundays<br />
-1 to 5 p.m.
-<br />
-<br />
-</div>
-</div>
-
-
-This will allow the returned items to sit in quarantine for three days so they can then be safely handled by staff. Items will be removed from your account after this three-day quarantine period. No late fines will incur.
+Late fines will be reinstated beginning June 1st.
 <br />
 <br />
 <a href="#return">Return to the top of the page</a>

@@ -40,7 +40,6 @@
 * Harris Room (meeting space)
 * Bloomberg Terminal and Finance Center
 * Classics Room
-* Agati Media Center
 * Fireplace
 
 *Mezzanine Level*
@@ -52,7 +51,6 @@
 * Power Library Computer Room
 * Business Center
 * Tech Center
-* Digital Media Lab
 * Teen Lounge
 * Art Galley
 

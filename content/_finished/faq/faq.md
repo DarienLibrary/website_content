@@ -183,7 +183,7 @@ On the Main Level, make a left at the Welcome Desk and walk through the stacks a
 
 * Children and Tween items may be picked up in the Children's Library.
 * Museum passes are at the Welcome Desk.
-* All other technology items may be obtained at the Help Desk on the Lower Level.
+<!-- * All other technology items may be obtained at the Help Desk on the Lower Level. -->
 <br />
 
 #### What are 14-day books?
@@ -465,12 +465,12 @@ Food & Drinks
 <div class="panel-body">
 
 #### Can I have food and drinks in the Library?
-Yes! We even have a cafe on the Main Level for your convenience. The only rooms where food and drinks are not permitted are the Digital Media Lab on the Lower Level and the Storytime Room. 
+Yes! We even have a cafe on the Main Level for your convenience. The only room where food and drinks are not permitted is the Storytime Room in the Children's Library. 
 <br />
 <br />
 
 #### Where is the water fountain?
-We have three water fountains located throughout the building. One by the Cafe, another by the bathrooms on the Lower Level, and one on the Mezzanine Level by the bathrooms.</div>
+We have three water fountains located throughout the building. One by the café, another by the bathrooms on the Lower Level, and one on the Mezzanine Level by the bathrooms.</div>
 </div>
 </div>
 
@@ -513,7 +513,7 @@ Faxing
 <div class="panel-collapse collapse" id="collapse-v3-One">
 <div class="panel-body">
 
-Faxes are 25¢ per page and needs to be paid for by coin. You can fax in the [Business Center](/business-center "Business Center") on the Lower Level and on the Second Level. 
+Faxes are 25¢ per page and needs to be paid for by coin. You can fax on the Second Level. 
 
 </div>
 </div>
@@ -530,7 +530,7 @@ Copying
 <div class="panel-collapse collapse" id="collapse-v3-Two">
 <div class="panel-body">
 
-To make copies, come down to the [Business Center](/business-center "Business Center").
+To make copies, go to the Second Level.
 * **8.5 x 11" and 8.5 x 14" pages:** 10¢ B&W or 25¢ Color
 * **11 x 17" pages:** 25¢ or 50¢ Color
 
@@ -555,14 +555,14 @@ Good news: you get 50¢ of free printing a day! After that, the cost are:
 * **8.5 x 11" and 8.5 x 14" pages:** 10¢ B&W or 25¢ Color
 * **11 x 17" pages:** 25¢ or 50¢ Color
 
-For banner and poster printing, please see the [Business Center](/business-center "Business Center").
+<!-- For banner and poster printing, please see the [Business Center](/business-center "Business Center").-->
 <br />
 <br />
 
 #### How do I print?
 You can print in three ways: 
 
-* Sign onto a Library computer on the Lower Level, in the Children's Library, or on the Second Level. 
+* Sign onto a Library computer in the Children's Library or on the Second Level. 
 * Visit the [Mobile Print Service](https://www.printeron.net/system/printspot/interface/select_file.jsp?url=dl/main&protocolSwitched=true "Mobile Print Service") page to upload your document.
 * Email your document from your laptop or phone to the wireless printer. For black and white prints, send your document to [dl-main-bw@printspots.com](mailto:dl-main-bw@printspots.com "Black and white prints") or send color documents to [dl-main-color@printspots.com](mailto:dl-main-color@printspots.com "Color prints").
 <br />
@@ -574,7 +574,7 @@ If you email or upload your document, you will need to visit the Second Level's 
 </div>
 </div>
 
-<div class="panel panel-default">
+<!--<div class="panel panel-default">
 <div class="panel-heading">
 <h4 class="panel-title">
 <a href="#collapse-v3-Four" data-parent="#accordion-v3" data-toggle="collapse" class="accordion-toggle">
@@ -593,11 +593,11 @@ Use the scanners in the Business Center or the Reference Room to scan your docum
 <br />
 
 #### Scan Photos
-Use a flatbed scanner to digitize your photos. If you have a lot of photos, the [Digital Media Lab](/dml "Digital Media Lab") may be a better option.
+Use a flatbed scanner to digitize your photos. 
 
 </div>
 </div>
-</div>
+</div>-->
 
 <div class="panel panel-default">
 <div class="panel-heading">
@@ -616,12 +616,12 @@ Nope! If you print, then you pay for your print outs.
 <br />
 
 #### Where are the computers?
-You can find computers on all floors _except_ for the Mezzanine Level. The computers in the Children's Library are only for children and likewise, the computers in the Teen Lounge are only for teens. For adults, go to the Second Level or to the Lower Level for the main computer rooms. 
+You can find computers on all floors _except_ for the Mezzanine Level. The computers in the Children's Library are only for children and likewise, the computers in the Teen Lounge are only for teens. For adults, go to the Second Level. 
 <br />
 <br />
 
 #### Can I get on a computer if I don't live in Darien?
-Yes! Please bring your hometown library card to the Welcome Desk to register it. If you're just stopping in for the day, bring your ID to the Lower Level or the Reference Desk on the Second Level. You will be issued a day pass. After that, please bring your hometown library card or consider becoming a [Friend of the Library](/friends "Friend of the Library").
+Yes! Please bring your hometown library card to the Welcome Desk to register it. If you're just stopping in for the day, bring your ID to the Help Desk or the Reference Desk on the Second Level. You will be issued a day pass. After that, please bring your hometown library card or consider becoming a [Friend of the Library](/friends "Friend of the Library").
 <br />
 <br />
 
@@ -706,7 +706,7 @@ The [Tween Tab iPads](/catalog/work/51230 "Tween Tab iPads") are great for older
 <br />
 
 #### Adults & Teens
-Borrow a [general iPad](/catalog/work/89368 "General iPad") from the Help Desk on the Lower Level. 
+Borrow a [general iPad](/catalog/work/89368 "General iPad") from the Help Desk on the Second Level. 
 
 </div>
 </div>
@@ -727,9 +727,6 @@ Makerspaces
 The Children's Library has the [TEA Room](/tearoom "TEA Room") makerspace for children in grades 3 to 6. It includes a 3D printer. We host librarian-led programs and children may use the room with their grown-up when the room is available. Contact the Children's Library at [203-669-5235](tel:203-669-5235 "203-669-5235") or send an [email](mailto:childrenslibrary@darienlibrary.org "email") to make a reservation. 
 <br />
 <br />
-
-#### Digital Media Lab
-For those 14 and up, the [Digital Media Lab](/dml "Digital Media Lab") is available. The DML is focused on digitizing video tapes, photos, slides, and negatives. You can also record and edit videos and audio. Some of the software avialble includes Pages, Numbers, Keynote, and Office 2016 Suite (Word, Excel, PowerPoint, OneNote). Contact the Help Desk at [203-669-5238](tel:2036695238 "203-669-5238") or send an [email](mailto:helpdesk@darienlibrary.org "email") to make a reservation.
 
 </div>
 </div>
@@ -821,8 +818,7 @@ We announce our new events in a few different locations. Pick the one that best 
 * The Library's [Events](/events "Events") page
 * Subscribe to the [email newsletter](/newsletter/subscribe "Subscribe to email")
 * Follow us on [Facebook](https://www.facebook.com/DarienLibrary/ "Darien Library on Facebook") or [Twitter](https://www.twitter.com/DarienLibrary/ "Darien Library on Twitter") (not all events are posted on social media)
-* The Friday Night Film can be heard on our voicemail each Friday. Just call [203-655-1234](tel:2036551234 "203-655-1234")
-* Digital signs on the Main Level show some upcoming events
+* A digital signs on the Main Level show some upcoming events
 * Brochures for select programs are available at the Welcome Desk. A calendar of children's events may be found in the Children's Library
 <br />
 

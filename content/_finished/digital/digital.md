@@ -127,7 +127,7 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 </div>
 </div> 
 
-<div class="row margin-bottom-20">
+<!-- <div class="row margin-bottom-20">
 <div class="col-md-6">
 
 <a href="https://dar.to/2oY1hgj"><img src="/uploads/logos/acorntv_logo.jpg" alt= "Acorn TV" /></a>
@@ -179,7 +179,7 @@ Relive favorite concerts or discover new ones with HD-quality streaming full-len
 [See Qello Concerts FAQs](https://dar.to/3jrNqXJ "Qello help")
 
 </div>
-</div>
+</div> -->
 
 <div class="text-center margin-bottom-50">
   <a name="help"></a><h2 class="title-v2 title-center">Check Out Help</h2>

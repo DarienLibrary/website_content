@@ -1,3 +1,8 @@
+### Darien Library Express Services
+We are not offering access to the TEA Room, study rooms, or meeting rooms until further notice due to the coronavirus outbreak. 
+<br />
+<br />
+
 <div class="tab-v1">
 <ul class="nav nav-tabs">
 <li class="active"><a href="#home" data-toggle="tab">Home</a></li>

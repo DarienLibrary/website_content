@@ -26,34 +26,6 @@ We are not offering study or meeting rooms until further notice due to the coron
 <div class="row">
 <div class="col-md-4 md-margin-bottom-50">
 
-#### Agati Media Station
-
-Capacity: 6 
-
-<img src="/uploads/library_building/interior/agati.jpg" alt="Agati Workstation" class="img-responsive margin-bottom-10" />
-
-The Agati Media Station is a collaborative workstation. This space is ideally suited for students working together or entrepreneurs presenting to clients. It is located on the Second Level. The Agati is located in the open air, not in an enclosed room.
-
-Amenities include a 50 inch monitor and connections for four laptops.
-
-</div>
-
-<div class="col-md-4 md-margin-bottom-50">
-
-#### Traver Room
-
-Capacity: 6 
-
-<img src="/uploads/library_building/interior/pla_study.jpg" alt="Power Library Conference Room" class="img-responsive margin-bottom-10" />
-
-The Traver Room is ideal for a small meeting or study group. You can print and copy your papers next door in the Business Center. It is located on the Lower Level inside the Power Library. 
-
-Cellphone reception is very weak as it's underground.
-
-</div>
-
-<div class="col-md-4 md-margin-bottom-50">
-
 #### Harris Writer's Room
 
 Capacity: 8 
@@ -65,10 +37,6 @@ The Harris Writer's Room is great for quiet working groups! From this room you a
 Cellphone use is permitted.
 
 </div>
-</div>
-
-
-<div class="row margin-bottom-50">
 <div class="col-md-4 md-margin-bottom-50">
 
 #### Lautenbach Writer's Room
@@ -82,8 +50,39 @@ The Lautenbach Writer's Room features seclusion for the talkative work group. Wi
 Cellphone use is permitted.
 
 </div>
+<!--<div class="col-md-4 md-margin-bottom-50">
+
+#### Agati Media Station
+
+Capacity: 6 
+
+<img src="/uploads/library_building/interior/agati.jpg" alt="Agati Workstation" class="img-responsive margin-bottom-10" />
+
+The Agati Media Station is a collaborative workstation. This space is ideally suited for students working together or entrepreneurs presenting to clients. It is located on the Second Level. The Agati is located in the open air, not in an enclosed room.
+
+Amenities include a 50 inch monitor and connections for four laptops.
+
+</div>-->
 
 <div class="col-md-4 md-margin-bottom-50">
+
+#### Traver Room
+
+Capacity: 6 
+
+<img src="/uploads/library_building/interior/pla_study.jpg" alt="Power Library Conference Room" class="img-responsive margin-bottom-10" />
+
+The Traver Room is ideal for a small meeting or study group. 
+
+Cellphone reception is weak as it's underground.
+
+</div>
+</div>
+
+
+<div class="row margin-bottom-50">
+
+<div class="col-md-4">
 
 #### Quiet Study Room
 
