@@ -1,3 +1,7 @@
+Every day we appreciate having opportunities to connect people with stories that reflect their own experiences. Darien is a better place to call home thanks to our Asian American and Pacific Islander neighbors, colleagues, and friends. The Library celebrates year-round the vibrant cultural heritage of AAPI members. We are honored to be part of the continuous process of building a more inclusive community together.
+
+<br />
+
 <a name="History"></a>
 <div class="row">
 <div class="col-md-5">
@@ -144,7 +148,6 @@ Songs curated by Karyn.
 </div>
 </div>
 
-### Resources
 * [Website by the U.S. Government/](https://dar.to/2WoRQEJ "Website by the U.S. Government")
 * [UCLA Asian American Studies Center](https://dar.to/3bj4gpY "UCLA Asian American Studies Center")
 * [NASA's video celebrating AAPI employees](https://dar.to/3y4aQui "NASA's video celebrating AAPI employee")

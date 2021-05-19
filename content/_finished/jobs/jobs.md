@@ -5,6 +5,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
+### [Full-Time Adult Programmer](https://dar.to/3bDskUA "Full-Time Adult Programming Librarian")
+Darien Library (CT) seeks a dynamic, community-minded individual to join our Adult Programming department as an Adult Programmer. The successful candidate is highly collaborative, creative, and flexible, and dedicated to providing exciting programming and book groups for patrons. They are a forward-thinking professional who is enthusiastic about the breadth of library programming.
+<br />
+<br />
+
 ### [Full-Time Systems Administrator](https://dar.to/3vAzHUg "Full-Time Systems Administrator")
 Darien Library seeks an intelligent, curious, and innovative technology professional to work in our User Experience department in managing Darien Library’s technology infrastructure. This position represents a unique opportunity to apply a wide range of skills and expertise in an exciting environment that is constantly changing and adapting to emerging trends. Darien Library holds itself to the highest possible standard of customer service, and we pride ourselves on providing a fulfilling and enriching experience to all who visit us either in person or online.
 <br />
