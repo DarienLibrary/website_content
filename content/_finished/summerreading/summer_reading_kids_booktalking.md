@@ -1,41 +1,65 @@
 <div class="text-center margin-bottom-40">
-<h2 class="title-v2 title-center">Summer Reading: June 21st - August 14th</h2>
+<h2 class="title-v2 title-center">The Great Darien Road Trip: Summer Reading Challenge<br/>June 21st - August 14th </h2> 
+
 </div>  
 
 <div class="row">
 <div class="col-md-6">
 
-Happy Summer! This year, you'll be able to participate in Darien Library's Summer Reading program by [logging your reading online](https://dar.to/2Vbxijj "Logging your reading online") or by using the paper log. All ages can sign up and read together this summer. 
+Starting June 21st, there are two ways to sign up for our Summer Reading Challenge; **online** through [Beanstack](https://dar.to/2Vbxijj) or **in person at the Library**. Every child who signs up gets to pick out a free book for their personal library! 
+<br />
+<br />
 
-The Summer Reading Registration Guide explains how to sign up online to track your reading.
+### Pre-Reader Challenge
+Is your child not reading yet? They can sign up for our Pre-Reader Challenge! It is similar to the K to 6 Challenge, but its challenges focus on early literacy skills to build a foundation for reading.
+<br />
+<br />
 
+### Prizes
+For both age groups, every challenge completed equals one raffle ticket to enter into one of our many prize baskets. If your child completes all the challenges on the map by August 14th, they will be entered into the Grand Prize drawing! Each bonus challenge completed equals one extra raffle ticket for the prize baskets. 
+<br />
+<br />
 </div>
 <div class="col-md-6">
 
 <div class="row">
 <div class="col-md-6">
 <p>
-<a href="https://dar.to/37Hy3pk" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2262B1;">Summer Reading Registration Guide</a>
+<a href="https://dar.to/3cbx18b" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2262B1;">Digital Registration Guide</a>
 </p>
 <br />
 </div>
 <div class="col-md-6">
 <p>
-<a href="https://dar.to/2Vbxijj" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2262B1;">Sign Up for Summer Reading</a>
+<a href="https://dar.to/2Vbxijj" class="btn-u btn-primary" style="text-decoration:none; color:#fff; background-color:#2262B1;">Sign Up for Digital Summer Reading</a>
 </p>
 <br />
 </div>
 </div>
 
 
+
+</div>
+<div class="row">
+<div class="col-md-6">
+Coming soon...exciting virtual and outdoor programs, and more book suggestions to help complete those reading challenges!
+<br />
+<br />
+
+### Registered Last Year?
+Did you play online last year for Summer Reading? There's no reason to create a new account! You may look up your account using the email address you used then. If you need assistance, please send us an email at [childrenslibrary@darienlibrary.org](mailto:childrenslibrary@darienlibrary.org "Email the Children's Library"). 
+
 </div>
 </div>
+</div>
+
+
+<div class="margin-bottom-30"></div>
+
 
 <div class="text-center margin-bottom-40">
 <h2 class="title-v2 title-center">Books You'll Love</h2>
 </div> 
-
-<div class="margin-bottom-30"></div>
 
 <div class="row">
 <div class="col-md-4" style="background-color:#46c267; border: solid 3px #fff;">
@@ -46,7 +70,7 @@ The Summer Reading Registration Guide explains how to sign up online to track yo
 <br />
 <br />
 
-<a href="https://dar.to/3wFdyVj" style="color:#fff;">List of books for Kindergarten - First Grade</a>
+<a href="https://dar.to/3wFdyVj" style="color:#fff;">Suggested books for Kindergarten - First Grade</a>
 <br />
 <br />
 </div>
@@ -58,7 +82,7 @@ The Summer Reading Registration Guide explains how to sign up online to track yo
 <br />
 <br />
 
-<a href="https://dar.to/3c0tObv" style="color:#fff;">List of books for Second - Third Grade</a>
+<a href="https://dar.to/3c0tObv" style="color:#fff;">Suggested books for Second - Third Grade</a>
 
 <br />
 </div>
@@ -70,7 +94,7 @@ The Summer Reading Registration Guide explains how to sign up online to track yo
 <br />
 <br />
 
-<a href="https://dar.to/3c3b4IG" style="color:#fff;">List of books for Fourth - Fifth Grade</a>
+<a href="https://dar.to/3c3b4IG" style="color:#fff;">Suggested books for Fourth - Fifth Grade</a>
 
 <br />
 </div>

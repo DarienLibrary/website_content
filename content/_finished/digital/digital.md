@@ -127,6 +127,54 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 </div>
 </div> 
 
+<div class="row margin-bottom-20">
+<div class="col-md-6">
+
+<a href="https://dar.to/3fOyzYb"><img src="/uploads/logos/comicsplus_logo_adults.jpg" alt= "ComicsPlus for Adults" /></a>
+ 
+### ComicsPlus for Adults
+
+[View the ComicsPlus for Adults Catalog](https://dar.to/3fOyzYb "ComicsPlus for Adults")
+
+There are no limits on how many comics you may borrow and no waits. Download comics may be read offline on your computer, tablet, or phone. The adult collection includes materials that may not be suitable for younger readers.
+
+* Comics
+* Manga
+* Graphic Novels
+
+Download the _LibraryPass_ app to your mobile device from the Apple or Android app store. 
+
+**Important:** Login with your Darien Library card and enter the last four digits of your card number in the PIN field.
+
+[Get ComicsPlus Help](https://dar.to/3uSKLLC "ComicsPlus help")
+
+
+</div>
+<div class="col-md-6">
+
+<a href="https://dar.to/3z1RRAW"><img src="/uploads/logos/comicsplus_logo_adults.jpg" alt= "ComicsPlus for Kids & Teens" /></a>
+
+### ComicsPlus for Kids & Teens
+
+[View the ComicsPlus for Adults Catalog](https://dar.to/3z1RRAW "ComicsPlus for Kids & Teens")
+
+There are no limits on how many comics you may borrow and no waits. Download comics may be read offline on your computer, tablet, or phone. This collection is suitable for all ages.
+
+* Comics
+* Manga
+* Graphic Novels
+
+Download the _LibraryPass_ app to your mobile device from the Apple or Android app store. 
+
+**Important:** Login with your Darien Library card and enter the last four digits of your card number in the PIN field.
+
+[Get ComicsPlus Help](https://dar.to/3uSKLLC "ComicsPlus help")
+<br />
+<br />
+
+</div>
+</div> 
+
 <!-- <div class="row margin-bottom-20">
 <div class="col-md-6">
 

@@ -32,8 +32,8 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 </div> -->
 
 
-
-<div class="col-md-4">
+<div class="row">
+<div class="col-md-6">
 
 ### Beardsley Zoo 
 Connecticut's Beardsley Zoo is one of Connecticut's top family attractions with over 300 animals representing primarily North and South American species. <br />
@@ -42,15 +42,14 @@ Connecticut's Beardsley Zoo is one of Connecticut's top family attractions with 
 * Open 7 days a week from 9 a.m. to 4 p.m.
 * Pass is valid for $9 admissions per person for up to 6 guests. 
 * Online tickets aren't available. Show pass when you arrive.
-* Limited to one family per day. 
+* Limited to one family per day (up to 6 people in their own family). 
 * Cards are non-transferable.
 
 This pass is not a membership pass to the zoo. It only allows entrance to the grounds. 
 <br />
 </div>
 
-
-<div class="col-md-4">
+<div class="col-md-6">
 
 ### Bruce Museum
 A regionally based, world-class institution highlighting art, science and natural history in more than a dozen changing exhibitions annually. The Bruce Museum has [reciprocal agreements](https://dar.to/2C4fxJZ "reciprocal agreements") with several museums.<br />
@@ -58,20 +57,15 @@ A regionally based, world-class institution highlighting art, science and natura
 [View Bruce's exhibits](https://dar.to/2j1UyiM "View the Bruce Museum's exhibits")<br />
 * Open Tuesday-Sunday from 9:30 a.m. to 4:30 p.m., Tuesdays are free
     * 9:30 to 10:30 a.m. is special access for people over 65 and those who are immunocompromised.
-    * 10:30 to 11:30 a.m. is special access to members
+    * 10:30 to 11:30 a.m. is special access to members-only (this pass is a member's card)
 * [Advance ticket required](https://dar.to/3mc6hs3 "Advance ticket required"): Use the Membership ID number on the pass. 
 * Each pass admits two adults and their children under the age of 18. 
 * Children under 5 are free.
 <br />
 </div>
+</div>
 
-
-
-
-
-
-
-
+<hr />
 
 
 <div class="row">
@@ -143,16 +137,21 @@ The museum contains a wealth of city history and includes paintings, sculptures,
 * Includes a 10 percent discount at the gift shop.
 <br />
 </div>
-<!--<div class="col-md-6">
+<div class="col-md-6">
 
 ### New-York Historical Society
 Founded in 1804, the museum is New York's first museum. It works to preserve and share the multi-layered society and history of one of America's oldest cities.<br /> 
-[Select date to visit NY Historical Society](https://dar.to/2j4ftlD "Visit Museum of the City of New York")<br />
+<!--[Select date to visit NY Historical Society](https://dar.to/2j4ftlD "Visit Museum of the City of New York")<br />-->
 [View the latest exhibits](https://dar.to/2j48LMt "View the New York Historical Society's exhibits")<br />
 * [Check hours](https://dar.to/3sIjT0H "Check New-York Historical Society's Hours")
 * [Timed tickets](https://dar.to/3wcibXA "Timed tickets") are recommended. 
 * This pass offers free admission for two adults and four children under the age of 18. 
-</div> -->
+</div>
+</div>
+
+<hr />
+
+<div class="row">
 <div class="col-md-6">
 
 ### Stamford Museum & Nature Center
@@ -167,6 +166,17 @@ Enjoy a day at the museum, manision, galleries, Heckscher Farm, playground, and 
 * Free admission to the Observatory and Astronomy Nights programs. 
 * Free parking. 
 * 50% discount on admission to all Family Festival Weekends. 
+<br />
+</div>
+<div class="col-md-6">
+
+### Wadsworth Atheneum
+The nation's oldest public art museum, the Wadsworth Atheneum houses more than 50,000 works spanning 5,000 years. Collections include Renaissance and Baroque paintings, African-American art and Hudson River School.<br /> 
+<!-- [Select date to visit Wadsworth](https://dar.to/2j2Knux "Visit Wadsworth Antheneum")<br /> -->
+[View the latest exhibits](https://dar.to/3wdjd5L "View Wadsworth's latest exhibits")<br />
+* Admission is free at this time, so no pass is needed. 
+* [Check hours](https://dar.to/3dh7LNK "Check Wadsworth Atheneum's Hours")
+* [Advanced tickets required](https://dar.to/39tUtwn "Advanced tickets required for Wadsworth")
 <br />
 </div>
 </div>
@@ -204,21 +214,6 @@ _Artists from the exhibition, Women of Sweetgrass, Cedar and Sage, friends and c
 </div>
 </div> 
 <hr class="g-my-40"> -->
-<div class="row">
-<div class="col-md-6">
-
-### Wadsworth Atheneum
-The nation's oldest public art museum, the Wadsworth Atheneum houses more than 50,000 works spanning 5,000 years. Collections include Renaissance and Baroque paintings, African-American art and Hudson River School.<br /> 
-<!-- [Select date to visit Wadsworth](https://dar.to/2j2Knux "Visit Wadsworth Antheneum")<br /> -->
-[View the latest exhibits](https://dar.to/3wdjd5L "View Wadsworth's latest exhibits")<br />
-* Admission is free at this time, so no pass is needed. 
-* [Check hours](https://dar.to/3dh7LNK "Check Wadsworth Atheneum's Hours")
-* [Advanced tickets required](https://dar.to/39tUtwn "Advanced tickets required for Wadsworth")
-<br />
-</div>
-</div>
-
-<hr />
 
 <div class="row">
 <div class="col-md-8">
