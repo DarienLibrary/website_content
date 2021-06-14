@@ -3,7 +3,7 @@
 
 ### Computers & Internet
 
-We have fifty public computers available throughout the Library. The computers are primarily on the Second Level. You are guaranteed one hour session every day. Bring your laptop, tablet, or phone in to enjoy access to open or WPA-enabled [WiFi](/wifi "WiFi").
+We have seventeen public computers available on the Second Level. You are guaranteed one hour session every day. Bring your laptop, tablet, or phone in to enjoy access to open or WPA-enabled [WiFi](/wifi "WiFi").
 
 [View the Library Internet Use Policy](/internet-use "Library Internet Use Policy")
 <br />
@@ -40,7 +40,7 @@ We're not all play, we also help you work. The [Business Center](/business-cente
 ### Software 
 Programs available on all PC computers:
 
-* Operating System: Windows 10
+* Operating System: Windows 7
 * Office 2016 (Excel, PowerPoint, Publisher, and Word)
 * Adobe CS 5.5 (Photoshop, InDesign, Illustrator)
 * Adobe Acrobat Pro X

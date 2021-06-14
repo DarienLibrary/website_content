@@ -13,9 +13,9 @@
 <div class="row">
 <div class="col-md-8">
 
-<p style="font-size:1.25em !important;">Come away with us and escape on a Literary Road Trip for our annual Adult Summer Reading program. There is no need to pack your bags. You only need your imagination to travel near and far…with reading challenges, special events, and amazing prizes!</p>
+<p style="font-size:1.25em !important;">Come away with us and escape on a Literary Road Trip for our annual Adult Summer Reading program. Forget the luggage, you only need your imagination to travel near and far...with this year's reading challenge, special events, and amazing prizes.</p>
 
-<p style="font-size:1.25em !important;">Your summer reading adventure starts June 21st and we will reach our final destination on August 14th. Patrons can <a href="https://dar.to/3ifssuX">play online</a> or pick up their game cards at Darien Library’s Welcome Desk. Patrons can play as many times as they want.</p>
+<p style="font-size:1.25em !important;">The trip starts on Monday, June 21st and concludes on Friday, August 14th. You can <a href="https://dar.to/3ifssuX">play online</a> or pick up your game cards at Darien Library's Welcome Desk. Patrons can play up to 12 times.</p>
 <br />
 </div>
 <div class="col-md-4">
@@ -29,12 +29,7 @@
 </div>
 <div class="col-xs-12 col-md-12">
 <p>
-<a href="https://dar.to/3igxnfd" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#007299;">Download Game Card</a>
-</p>
-</div>
-<div class="col-xs-12 col-md-12">
-<p>
-<a href="https://dar.to/2BkR8lj" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#007299;">Online Tutorial</a>
+<a href="https://dar.to/3vknW3M" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#007299;">Download Game Card</a>
 </p>
 </div>
 </div>
@@ -77,6 +72,7 @@ The book has been featured in the _New York Times_ and on the cover of _BookPage
 </div>
 <hr />
 
+<a id="prizes"></a>
 <div class="container content">
 <div class="text-center margin-bottom-50">
 <h2 class="title-v2 title-center" style="color: #25235e; font-weight: 900;">Grand Prizes</h2>
@@ -85,29 +81,29 @@ The book has been featured in the _New York Times_ and on the cover of _BookPage
 
 <div class="row">
 <div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/2020_adult_summer_reading_header.png" alt="It's always a good time for a book!" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/asr_2021_weekend_web.png" alt="The Weekend Getaway Prize" />
 <br />
-<caption><strong>The Weekend Getaway Prize</strong>, including a weekender bag, UGG travel kit, Kindle Paperwhite, two travel mugs, and books!</caption>
-<br />
-<br />
-</div>
-<div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/2020_adult_summer_reading_header.png" alt="It's always a good time for a book!" />
-<br />
-<caption><strong>The Beach Bound Bag</strong>, including a Scout tote, Kindle Paperwhite, travel water bottles, towels, sunscreen, and a Darien Library baseball hat.</caption>
+<caption><strong>The Weekend Getaway Prize</strong>, including a weekender bag, UGG travel kit, Kindle Paperwhite, two travel mugs, and more.</caption>
 <br />
 <br />
 </div>
 <div class="col-md-4">
-<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/2020_adult_summer_reading_header.png" alt="It's always a good time for a book!" />
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/asr_2021_beach_web.png" alt="The Beach Bound Bag" />
 <br />
-<caption><strong>The Gourmet Picnic Basket</strong>, including a full four-place setting, Kindle Paperwhite, and gift certificate to Aux Delices.</caption>
+<caption><strong>The Beach Bound Bag</strong>, including a Scout tote, Kindle Paperwhite, travel water bottles, towels, sunscreen, and more.</caption>
+<br />
+<br />
+</div>
+<div class="col-md-4">
+<img class="img-responsive center-block" src="/uploads/departments/readers_advisory/summer_reading/asr_2021_picnic_web.png" alt="The Gourmet Picnic Basket" />
+<br />
+<caption><strong>The Gourmet Picnic Basket</strong>, including a full four-place setting, Kindle Paperwhite, gift certificate to Aux Delices, and more.</caption>
 <br />
 <br />
 </div>
 </div>
 
-For more information check out our [Adult Summer Reading FAQs](#faqs) or learn how to register online with our [Frequent Asked Questions sheet](https://dar.to/2BkR8lj "FAQs sheet").
+For more information check out our [Adult Summer Reading FAQs](#faqs).
 
 <hr>
 
@@ -117,10 +113,11 @@ For more information check out our [Adult Summer Reading FAQs](#faqs) or learn h
 
 **June 21st through August 14th**<br />
 
-This year there are two ways to play: Register to play online OR pick up a game card in-person!
+This year there are three ways to play: 
 
-* [Register online](https://dar.to/3ifssuX "Register online"). Check the [Frequent Asked Questions sheet](https://dar.to/2BkR8lj "FAQs sheet") for more information on how to play online. 
-* Or pick up your game cards at the Welcome Desk (starting June 21st) or [download a game card](https://dar.to/3x16ylS "Download a Game Card").
+* [Register to play online](https://dar.to/3ifssuX "Register online") 
+* [Download the game card](https://dar.to/3vknW3M "Download a Game Card")
+* Pick up a game card in-person at the Welcome Desk
 <br />
 
 #### Once you have registered online or picked up your game card: 
@@ -128,7 +125,7 @@ This year there are two ways to play: Register to play online OR pick up a game 
 * Complete any three challenges for an opportunity to win.
 * Log your challenges online or return your game card to the Library between June 21st and August 14th, and you will be entered into weekly book giveaways, in addition to the grand prize raffles.
 * Every completed game card and online ticket badge is a submission to win one of our three incredible prizes.
-* Play as many times as you wish.
+* Play up to 12 times.
 * The grand prize drawings will be held on Monday, August 17th.
 <br />
 
@@ -136,7 +133,7 @@ This year there are two ways to play: Register to play online OR pick up a game 
 <div class="col-md-6">
 
 #### Not playing online?
-If playing with a game card instead of online, submit your entry by taking a photo of your completed game card and sending it to [vgrubbs@darienlibrary.org](mailto:vgrubbs@darienlibrary.org "Email Virginia") with the subject heading “Game Card.”
+Return your game card to the Library or submit your entry by taking a photo of your completed game card and email it to [vgrubbs@darienlibrary.org](mailto:vgrubbs@darienlibrary.org "Email Virginia") with the subject heading “Game Card.”
 <br />
 <br />
 
@@ -144,16 +141,16 @@ If playing with a game card instead of online, submit your entry by taking a pho
 <div class="col-xs-7 col-md-8">
 <h2 style="color: #25235e; font-weight: 900;">Reading Inspiration</h2>
 
-* [Audiobooks](https://dar.to/2ZOJpWi "Audiobooks")
-* [East Coast beach setting](https://dar.to/2R6Rfpf "Books with an East Coast beach setting")
-* [Historical Fiction](https://dar.to/2MJqrJ9 "Historical Fiction")
-* [Memoir/Biographies](https://dar.to/2MGF5Rm "Memoir/Biographies")
-* [Items about Travel](https://dar.to/2XMoced "Items about Travel")
-* [_New York Times_ bestsellers](https://dar.to/2WC7A6q "New York Times bestsellers")
-* [Books by Female Authors](https://dar.to/2ZanRS5 "Books by Female Authors")
-* [Mystery and Thrillers](https://dar.to/2ZanRS5 "Mystery and Thrillers")
-* [Staff Favorites](https://dar.to/2ZanRS5 "Staff Favorites")
-* [Summer Reads Display](https://dar.to/2ZanRS5 "Summer Reads Display")
+* [Audiobooks](https://www.darienlibrary.org/list/926 "Audiobooks")
+* [East Coast beach setting](https://www.darienlibrary.org/list/927 "Books with an East Coast beach setting")
+* [Historical Fiction](https://www.darienlibrary.org/list/928 "Historical Fiction")
+* [Memoir/Biographies](https://www.darienlibrary.org/list/929 "Memoir/Biographies")
+* [Items about Travel](https://www.darienlibrary.org/list/932 "Items about Travel")
+* [_New York Times_ bestsellers](https://www.darienlibrary.org/list/930 "New York Times bestsellers")
+* [Books by Women Authors](https://www.darienlibrary.org/list/934 "Books by Women Authors")
+* [Mystery and Thrillers](https://www.darienlibrary.org/list/933 "Mystery and Thrillers")
+* [Staff Favorites](https://www.darienlibrary.org/list/935 "Staff Favorites")
+* [Best of Summer Reads](https://www.darienlibrary.org/list/936 "Best of Summer Reads")
 <br />
 </div>
 <div class="col-xs-5 col-md-4">
@@ -165,19 +162,14 @@ If playing with a game card instead of online, submit your entry by taking a pho
 </div>
 
 <div class="row">
-<div class="col-xs-12 col-md-4">
+<div class="col-xs-12 col-md-6">
 <p>
 <a href="https://dar.to/3ifssuX" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#25235e">Play Online</a>
 </p>
 </div>
-<div class="col-xs-12 col-md-4">
+<div class="col-xs-12 col-md-6">
 <p>
-<a href="https://dar.to/3igxnfd" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#007299;">Download Game Card</a>
-</p>
-</div>
-<div class="col-xs-12 col-md-4">
-<p>
-<a href="https://dar.to/2BkR8lj" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#007299;">Online Tutorial</a>
+<a href="https://dar.to/3vknW3M" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#007299;">Download Game Card</a>
 </p>
 </div>
 </div>
@@ -192,9 +184,11 @@ If playing with a game card instead of online, submit your entry by taking a pho
 </div>
 
 #### Do I have to play online?
-* You may continue to pick-up print game cards at the library. We will have these available at the Library starting June 21st. You can also [download a PDF of the game card](https://dar.to/3x16ylS "download a PDF of the game card") and play. 
-* Once you have completed three of the challenges, take a photo of your completed card with your contact information and email it to [vgrubbs@darienlibrary.org](mailto:vgrubbs@darienlibrary.org "Email Virginia") with the subject heading “Game Card” to enter the raffles. 
-* Once you complete a game card, you may print another card or pick up one from the Library and play again. 
+No, we would love to see you at the Library. Please stop by and pick up a game card from the Welcome Desk starting June 21st. Or if you prefer [download a PDF of the game card](https://dar.to/3vknW3M "download a PDF of the game card") and play.  
+
+Once you have completed three challenges return the card to the Library or take a photo of your completed game card including your contact information and email it to [vgrubbs@darienlibrary.org](mailto:vgrubbs@darienlibrary.org "Email Virginia") with the subject heading "Game Card." 
+
+Play again for more chances to win!
 <hr>
 
 #### Are the challenges the same online as what are on the physical game card I can pick up in the Library? 
@@ -203,18 +197,27 @@ Yes, while the online experience might feel a bit different, the challenges are 
 <hr>
 
 #### How many times can I play? 
-* You may play up to twelve times. All game cards are entered into the grand prize raffle. 
+You may play up to 12 times. All game cards are entered into the weekly raffle for a free book and for the grand prizes. 
 <hr>
 
 #### Can I play both online and by picking up the game cards? 
-Yes, but to make it fair to all, only twelve game cards will be entered into the grand prize raffles. 
+Yes, but to make it fair to all, only 12 game cards will be entered into the grand prize raffles. 
+<hr />
+
+#### Is there an app?
+The website is designed to be mobile friendly so you don't need to install an app! If you would like to download the app, you can find the Beanstack app on the iOS and Android app stores.
 <hr>
 
 #### When are the raffles and what are the prizes?  
-Yes, you can download Beanstack apps for both iOS and Android. The website is also designed to be mobile friendly. 
+On every Friday, between June 21st and August 14th we will hold a drawing for a free book. The three grand prize winners will be notified on Monday, August 17th.
+
+This year's [grand prizes](#prizes) are: 
+* Weekend Getaway Tote
+* Beach Bound Bag
+* Gourmet Picnic Basket 
 <hr>
 
-#### Can I register family members under one account? 
+#### Can I register family members under one account on Beanstack? 
 Yes, you can register all of your family members through the registration dashboard and easily toggle between members. 
 <hr>
 
