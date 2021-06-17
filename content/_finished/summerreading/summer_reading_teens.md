@@ -2,18 +2,18 @@
 <div class="col-md-6">
 
 <div class="text-center margin-bottom-40">
-<h2 class="title-v2 title-center">Teen Summer Challenge 2020</h2>
+<h2 class="title-v2 title-center" style="color: #894C52;">Teen Summer Challenge 2021</h2>
 </div>  
 
-Welcome to the unforgettable summer of 2020. We know you miss hanging out with your friends, but might be running out of things to do in all your free time. We've got you covered. [Grab a book](https://dar.to/2rwHAsg "Grab a book"), join us at one of our [digital programs](#events "Digital programs"), or reach out for reading recommendations from [your librarians](mailto:morobona@darienlibrary.org "Email Mia") (who miss you too!)
+We’re so excited to have you back in the Library this summer! We’ll still have some virtual events, but we’re adding outdoor programs for maximum summer fun. And, as always, we have plenty of great reading recommendations for you. [Grab a book](https://dar.to/3wRVAPC "Grab a book") or download an [e-Book](https://dar.to/3augAAn "Download an e-Book"), join us at one of our [events](https://dar.to/2Q59qcR "Events"), or reach out for reading recommendations from [your librarians](mailto:morobona@darienlibrary.org "Email Mia") Can’t wait to see you!
 
 We're offering prizes for everyone who completes a set number of challenges in this year's event. To join, you'll want to follow the steps below and sign up at online. 
 
-The Middlesex Middle School Reading Ambassadors have selected 15 books you may want to pick up. You can watch the video or [download the PDF](https://dar.to/2U5XUS9 "Download the Darien Library Booktalking List"). A huge thank you to the 6th and 7th grade Reading Ambassadors for sharing their favorite books for Summer Reading 2020! 
+The Middlesex Middle School Reading Ambassadors have selected 19 books you may want to pick up. You can watch the video or [download the PDF](https://dar.to/35q0nfB "Download the Darien Library Booktalking List"). A huge thank you to the 6th and 7th grade Reading Ambassadors for sharing their favorite books for Summer Reading 2021! 
 
 </div>
 <div class="col-md-6">
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/430829887?autoplay=0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/558655101?autoplay=0&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
 <br />
 
@@ -42,15 +42,15 @@ We've gone virtual! You can join this year's challenge by signing up online. Tee
 
 <h2 style="color: #894C52;">Reading Challenge</h2>
 
-Complete all 20 of our Reading Challenges to win a $10 gift card! The challenges can be found on the back of the brochure which you can download below. Pick up a paper copy at the Library. 
+Complete any 10 of the 15 Reading Challenges to win a $10 gift card. If you complete all 15, you'll win a suprise gift! Pick up a paper copy of the game card at the Library. 
 <br />
 <br />
 
 <p>
-<a href="https://dar.to/3g9eJEb" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Reading Challenge Brochure</a>
+<a href="https://dar.to/35tsWsw" class="btn-u btn-primary" style="text-decoration:none; color:#fff;">Download Reading Challenge Game Card</a>
 </p>
 <br />
-<a href="https://dar.to/3fHHFTK">List of books suggestions</a> or <a href="https://dar.to/2U5XUS9">PDF</a>
+<a href="https://dar.to/3wRVAPC">List of books suggestions</a> or <a href="https://dar.to/35q0nfB">PDF</a>
 <br />
 <br />
 
@@ -60,9 +60,8 @@ Complete all 20 of our Reading Challenges to win a $10 gift card! The challenges
 <h2 style="color: #894C52;">Prizes</h2>
 When you complete a number of challenges, you win a prize!
 
-* 10 challenges: A free book
-* 15 challenges: An ice cream coupon to Gofer
-* 20 challenges: A $10 gift card to Amazon or [Barrett Bookstore](https://dar.to/2TUKaIw "Barrett Bookstore")
+* 10 challenges: A $10 gift card to Amazon or [Barrett Bookstore](https://dar.to/2TUKaIw "Barrett Bookstore")
+* 15 challenges: A surprise!
 <br />
 <!-- <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2019_saturn.jpg" alt="Put a ring on it" />
 <br /> -->
@@ -71,7 +70,7 @@ When you complete a number of challenges, you win a prize!
 </div>
 
 <!-- <img class="img-responsive center-block" src="/uploads/departments/youth/summer_reading/2018_teen_summer_reading_train.jpg" alt="Train to Darien" /> -->
-
+<!-- 
 <hr>
 <a name="events"></a>
 <div class="row">
@@ -161,17 +160,7 @@ Join us for a digital craft project. Learn how to use bleach to tie dye your clo
 </div>
 </div>
 </div>
-</div>
-
-
-
-
-
-
-
-
-
-
+</div> -->
 
 
 <div class="margin-bottom-20"></div>
