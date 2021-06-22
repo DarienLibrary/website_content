@@ -84,8 +84,12 @@ Sunday<br />
 <div class="col-md-4">
 
 <strong>Teen Lounge Hours</strong><br />
-Monday through Friday<br />
-3 to 6 p.m.
+Monday through Thursday<br />
+1 to 8 p.m.
+<br />
+
+Friday<br />
+1 to 6 p.m.
 <br />
 
 Saturday and Sunday<br />
@@ -103,11 +107,7 @@ Saturday and Sunday<br />
 <br />
 <br />
 <strong>Holds Pick-up</strong><br />
-Monday through Friday<br />
-9 a.m. to 5 p.m.<br />
-<br />
-Saturday and Sunday<br />
-1 to 5 p.m.
+* When the building is open. See the Library's hours.
 <br />
 </div>
 </div>
@@ -172,7 +172,7 @@ Saturday and Sunday<br />
 * We are allowed 150 people in the building. Please be courteous with your time. 
 * Masks must be worn at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
-* The Teen Lounge is open Monday-Friday from 3 to 6 p.m. and Saturday and Sunday from 1 to 5 p.m.
+* The Teen Lounge is open Monday-Thursday from 1 to 8 p.m., Friday from 1 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.
 * The Lower Level of the Library will be closed. 
 * All study and meeting rooms are closed until further notice. 
 * Public computers are available on the Second Level.
