@@ -20,11 +20,6 @@ Darien Library is seeking a friendly, energetic, dedicated individual with excel
 <br />
 <br />
 
-### [Part-Time Teen Services Assistant](https://dar.to/2ROkfFD "Part-Time Teen Services Assistant")
-Darien Library seeks a friendly, curious, and motivated candidate to work in the Teen Services department. The Teen Library Assistant will work one-on-one with youth in our Teen Lounge, assist the Teen Services Librarian with programs for teens, and provide patrons with reader’s advisory services. The successful candidate has a passion for working with youth, can work collaboratively in a fast-paced, friendly environment, and embraces Darien Library’s “Kindness First” motto in both patron-facing service and staff interactions.
-<br />
-<br />
-
 **We are a _Library Journal_ Five-Star Library.**
 
 <div class="row margin-bottom-20">
