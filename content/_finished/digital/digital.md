@@ -127,6 +127,7 @@ If you are on a mobile device like your tablet or smartphone, you can download y
 </div>
 </div> 
 
+<a name="comicsplus"></a>
 <div class="row margin-bottom-20">
 <div class="col-md-6">
 
