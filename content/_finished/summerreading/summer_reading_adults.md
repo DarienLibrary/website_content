@@ -39,7 +39,7 @@
 
 <hr />
 
-<div class="container content">
+<!-- <div class="container content">
 <div class="text-center margin-bottom-50">
 <h2 class="title-v2 title-center" style="color: #25235e; font-weight: 900;">Meet the Author: Maggie Shipstead</h2>
 </div>
@@ -70,7 +70,7 @@ The book has been featured in the _New York Times_ and on the cover of _BookPage
 
 </div>
 </div>
-<hr />
+<hr /> -->
 
 <a id="prizes"></a>
 <div class="container content">

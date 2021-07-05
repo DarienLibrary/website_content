@@ -169,7 +169,6 @@ Saturday and Sunday<br />
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
-* We are allowed 150 people in the building. Please be courteous with your time. 
 * Masks must be worn at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
 * The Teen Lounge is open Monday-Thursday from 1 to 8 p.m., Friday from 1 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.

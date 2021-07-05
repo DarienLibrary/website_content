@@ -8,7 +8,7 @@
 
 All gifts to the Annual Fund are dedicated directly to library resources, including all of the books, DVDs, technology, learning resources, and programs for children, teens, and adults. The Annual Fund is a crucial ingredient of our success, since these funds are added to the operating income we generously receive from the Town.
 
-Our current fiscal year runs from July 1, 2020 to June 30, 2021 and any donation amount is appreciated. All donations are also tax-deductible.
+Our current fiscal year runs from July 1, 2021 to June 30, 2022 and any donation amount is appreciated. All donations are also tax-deductible.
 </div>
 <div class="col-md-5">
 
