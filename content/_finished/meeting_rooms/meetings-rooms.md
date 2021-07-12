@@ -66,7 +66,7 @@ Amenities include a 50 inch monitor and connections for four laptops.
 
 <div class="col-md-4 md-margin-bottom-50">
 
-#### Traver Room
+<!-- #### Traver Room
 
 Capacity: 6 
 
@@ -74,15 +74,7 @@ Capacity: 6
 
 The Traver Room is ideal for a small meeting or study group. 
 
-Cellphone reception is weak as it's underground.
-
-</div>
-</div>
-
-
-<div class="row margin-bottom-50">
-
-<div class="col-md-4">
+Cellphone reception is weak as it's underground. -->
 
 #### Quiet Study Room
 
@@ -96,6 +88,23 @@ This is a silent study space.
 
 </div>
 </div>
+
+
+<!-- <div class="row margin-bottom-50">
+<div class="col-md-4">
+
+#### Quiet Study Room
+
+Capacity: 2 
+
+<img src="/uploads/library_building/interior/mezzanine_study_room.jpg" alt="Mezzanine Study Room" class="img-responsive margin-bottom-10" />
+
+The Quiet Study Rooms are built for solitude! Two people may be in these rooms if they are doing silent study. The three Quiet Study Rooms are located on the Mezzanine Level of the Library.
+
+This is a silent study space.
+
+</div>
+</div>-->
 
 
 <a name="LargeGroups"></a>

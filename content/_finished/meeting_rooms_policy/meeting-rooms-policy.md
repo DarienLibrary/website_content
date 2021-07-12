@@ -2,10 +2,9 @@
 
 <h4><i class="fa fa-chevron-right"></i> Statement of Policy</h4>
 
-The Darien Library subscribes to Article IV of the Library Bill of Rights which states that facilities should be made available to the public served by the Library on an equitable basis, regardless of the beliefs or affiliations of individuals or groups requesting their use.
+The Darien Library subscribes to Article IV of the Library Bill of Rights which states that facilities should be made available to the public served by the Library on an equitable basis, regardless of the beliefs or affiliations of individuals or groups requesting their use. 
 
-The Darien Library considers the availability and use of its Meeting Rooms as an integral part of its service to the community. In that regard, Meeting Rooms are available, when not required for Library activities, to 
-qualifying Darien non-profit organizations, to Town of Darien Boards, Departments and Commissions, State of CT and United States governmental organizations, and to for-profit organizations for their own internal purposes only.
+The Darien Library considers the availability and use of its Meeting Rooms as an integral part of its service to the community. In that regard, Meeting Rooms are available, when not required for Library activities, to qualifying Darien non-profit organizations, to Town of Darien Boards, Departments and Commissions, State of CT and United States governmental organizations, and to for-profit organizations for their own internal purposes only. 
 
 <br />
 <h4><i class="fa fa-chevron-right"></i> Available Rooms</h4>
@@ -14,11 +13,11 @@ The following Meeting Rooms are available for rent on approval of submitted [onl
 
 * Community Room (fixed seating for 150, maximum seating for 171 people; room capacity 225)
 * Conference Room (maximum of 22 people seated at a conference table, or approximately 40 if seated for a presentation; room capacity 45)
+* Small Conference Room (maximum of 12 people)
 * Technology Training Center (maximum of 12 people)
 
 The following Study Rooms are available at no charge for reservation in advance by Darien residents, those who work full time in Darien, and non-resident Friends of the Darien Library at the $300 annual level. Contact the [Room Bookings Coordinator](mailto:lcalka@darienlibrary.org "Lois") or [Knowledge and Learning Staff](mailto:askus@darienlibrary.org "Reference"):
 
-* Power Library Traver Room (maximum of 6 people)
 * Second Floor Harris Room (maximum of 8 people)
 * Mezzanine Lautenbach Writer’s Room (maximum of 6 people)
 * Mezzanine Quiet Study Rooms (Three) (maximum of 2 people)
@@ -73,6 +72,10 @@ The Room Bookings Coordinator will work with applicants to determine their ident
 <td>$35/hr. (2 hour minimum)</td>
 </tr>
 <tr>
+<td>Small Conference Room</td>
+<td>$35/hr. (2 hour minimum)</td>
+</tr>
+<tr>
 <td>Technology Training Center</td>
 <td>$75/hr. (2 hour minimum)</td>
 </tr>
@@ -97,6 +100,10 @@ The Room Bookings Coordinator will work with applicants to determine their ident
 <tr>
 <td>Conference Room</td>
 <td>$125/hr. (2 hour minimum)</td>
+</tr>
+<tr>
+<td>Small Conference Room</td>
+<td>$100/hr. (2 hour minimum)</td>
 </tr>
 <tr>
 <td>Technology Training Center</td>
