@@ -1,8 +1,12 @@
-### Darien Library Express Services
-We are not offering study or meeting rooms until further notice due to the coronavirus outbreak. 
+<div class="alert alert-warning fade in">
 
+### Service Update
+We are not offering meeting room rentals until further notice due to the coronavirus outbreak. 
+</div>
+<br />
+<br />
 
-View <a href="#LargeGroups">Meeting Rooms for Rent</a>
+<!-- View <a href="#LargeGroups">Meeting Rooms for Rent</a>-->
 
 <div class="text-center margin-bottom-50">
 <h2 class="title-v2 title-center">Available for Small Groups</h2>
@@ -17,8 +21,7 @@ Need a place to study or have a meeting? We have a variety of spaces to meet you
 
 </div>
 <div class="col-xs-12 col-sm-8 col-md-3">
-<!--<a href="/request-study-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Request a Study Room</button></a> --> 
-We are not offering study or meeting rooms until further notice due to the coronavirus outbreak.
+<a href="/request-study-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Request a Study Room</button></a>
 </div>
 </div>
 
@@ -106,6 +109,8 @@ This is a silent study space.
 </div>
 </div>-->
 
+<br />
+<br />
 
 <a name="LargeGroups"></a>
 <div class="text-center margin-bottom-50">
@@ -120,7 +125,7 @@ These rooms may be rented for a fee per the [Meeting Rooms Policy](/meeting-room
 </div>
 <div class="col-xs-12 col-sm-8 col-md-3">
 <!-- <a href="/request-meeting-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply Online</button></a> -->
-We are not offering study or meeting rooms until further notice due to the coronavirus outbreak.
+We are not offering meeting room rentails until further notice due to the coronavirus outbreak.
 </div>
 </div>
 

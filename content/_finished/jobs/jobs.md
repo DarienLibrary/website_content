@@ -10,8 +10,8 @@ Darien Library (CT) seeks a dynamic, community-minded individual to join our Adu
 <br />
 <br />
 
-### [Full-Time Systems Administrator](https://dar.to/3vAzHUg "Full-Time Systems Administrator")
-Darien Library seeks an intelligent, curious, and innovative technology professional to work in our User Experience department in managing Darien Library’s technology infrastructure. This position represents a unique opportunity to apply a wide range of skills and expertise in an exciting environment that is constantly changing and adapting to emerging trends. Darien Library holds itself to the highest possible standard of customer service, and we pride ourselves on providing a fulfilling and enriching experience to all who visit us either in person or online.
+### [Part-Time Shelver](https://dar.to/3zgCsf9 "Part-Time Shelver")
+The Materials Management Department at Darien Library has a part-time position open on our shelving team. We are seeking an energetic and organized individual who will work efficiently to keep the Library collections in order.
 <br />
 <br />
 

@@ -3,7 +3,7 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-Darien Library is open to visitors normal hours. Our programs are available virtually and we look forward to offering some in-person outdoor programs. 
+Darien Library is open to visitors normal hours. Some of our programs are now available in-person outdoors. Most events continue to be held virtually.
 <br />
 <br />
 We do not have a date when full services and in-person programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state, and local regulations and guidance.
@@ -24,7 +24,6 @@ If you need assistance, please contact us by [email](mailto:askus@darienlibrary.
 <ul>
 <li><a href="#may17">Changes Coming May 17th</a></li>
 <li><a href="#available">In-Person Services Available</a></li>
-<li><a href="#appt">Services Requiring an Appointment</a></li>
 <li><a href="#virtual">What Stays Virtual</a></li>
 <li><a href="#not">Services Not Currently Available</a></li>
 </ul>
@@ -38,7 +37,6 @@ If you need assistance, please contact us by [email](mailto:askus@darienlibrary.
 <br />
 <strong>Holds & Returns</strong>
 <ul>
-<li><a href="#pickup">Community Room Pick-up</a></li>
 <li><a href="#returns">Returns</a></li>
 </ul>
 <br />
@@ -117,10 +115,9 @@ Saturday and Sunday<br />
 <h3 style="color:#009623;"><a id="available"></a>In-Person Services Available</h3>
 
 * Borrowing of books, audiobooks, movies, magazines, and video games
-* Visits to the Children's Library and Teen Lounge to borrow materials
+* Access to all collections throughout the building to borrow materials
 * Access to public computers and internet
 * Scanning, printing, copying, and faxing
-* Resume reviews by virtual assistance
 * Reference assistance by phone or email is strongly encouraged
 
 <br />
@@ -142,7 +139,7 @@ Saturday and Sunday<br />
 
 <h3 style="color:#009623;"><a id="virtual"></a>What Stays Virtual</h3>
 
-* All programming and events will continue to be hosted online unless otherwise noted.
+* Most programming and events will continue to be hosted online unless otherwise noted.
 * Reference assistance by phone or email is strongly encouraged.
 * Book Groups advisory appointments.
 * Access to all the great digital content like e-Books, e-Audiobooks, movies, magazines, and music from **[Digital Darien](/digital "Digital Darien")** website.
@@ -161,6 +158,7 @@ Saturday and Sunday<br />
 * Book-a-Libarian assistance for Technology
 * Borrowing technology items including kits from the Children's Library
 * Business Services: banner printing, custom print jobs, paper trimmers, laminating, typewriter use
+* Meeting room rentals
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -169,14 +167,14 @@ Saturday and Sunday<br />
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
-* Masks must be worn at all times and fully cover the nose and mouth. 
+* Masks must be worn in the Children's Library at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
 * The Teen Lounge is open Monday-Thursday from 1 to 8 p.m., Friday from 1 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.
 * The Lower Level of the Library will be closed. 
-* All study and meeting rooms are closed until further notice. 
+* All meeting rooms are closed until further notice. 
 * Public computers are available on the Second Level.
 * Contactless checkouts with three self-checkouts available on the First Level. 
-* Food and drinks must be taken to the courtyard to be enjoyed. 
+* No food or drinks are allowed in the Children's Library until further notice. 
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -185,7 +183,7 @@ Saturday and Sunday<br />
 
 <h3 style="color:#009623;"><a id="closed"></a>Closed Locations</h3>
 
-* All study and meeting rooms
+* All meeting rooms
 * The Storytime Room, Toddler Room, and TEA Room in the Children's Library
 * Art Gallery on the Lower Level
 
@@ -201,7 +199,7 @@ We care about your health and safety. Before reopening, we self-certified with t
 
 <h4>What We Are Doing</h4>
 
-* Staff will wear masks at all times and maintain a social distance of 6 feet.
+* Staff will maintain a social distance of 6 feet.
 * Frequent cleaning of the building and service points. 
 * Each staff desk will have Plexiglass installed on it.
 
@@ -209,17 +207,17 @@ We care about your health and safety. Before reopening, we self-certified with t
 
 <h4>What You Must Do</h4>
 
-* Masks must be worn at all times and fully cover the nose and mouth. 
+* Masks must be worn in the Children's Library at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
 * Social distancing of 6 feet is in effect. 
-* Food and drinks must be taken to the courtyard to be enjoyed. 
+* Food and drinks may be enjoyed everywhere but the Children's Library. 
 
 <br />
 <a href="#return">Return to the top of the page</a>
 <br />
 <hr>
 
-<h3 style="color:#009623;"><a id="pickup"></a>Community Room Pick-up</h3>
+<!-- <h3 style="color:#009623;"><a id="pickup"></a>Community Room Pick-up</h3>
 To maintain a contactless holds pick-up system, we will place your requested items in the Community Room (auditorium). You will enter from the courtyard entrance and leave out the side drive entrance on the other side. 
 
 <div class="margin-bottom-40"></div>
@@ -291,7 +289,7 @@ If you need assistance, please call the Welcome Desk at <a href="tel:2036695239"
 <br />
 <a href="#return">Return to the top of the page</a>
 <br />
-<hr>
+<hr> -->
 
 <h3 style="color:#009623;"><a id="returns"></a>Returns</h3>
 Returns are accepted seven days a week! The outdoor drop is open 24/7 while the indoor drop is available when the building is open.
@@ -343,18 +341,17 @@ Since items may be returned 24 hours a day starting May 17th, we will resume lat
 #### Prioritizing Safety 
 The following safety measures continue:  
 
-* Masking inside the building 
+* Masking inside the Children's Library
 * Enhanced cleaning procedures 
 * Plexiglass at staffed service desks 
-* Limited seating 
-* Food and drinks may be enjoyed outside of the building 
+* Food and drinks may be enjoyed everywhere but the Children's Library
 * Private study rooms are unavailable at this time.  
 <br />
 
 </div>
 </div>
 
-In the coming months, we look forward to bringing back study rooms and indoor events. Keep an eye on our website, [email newsletters](https://dar.to/2pZuw14 "email newsletters"), and social media (@darienlibrary) for the latest updates. 
+In the coming months, we look forward to bringing back meeting rooms and indoor events. Keep an eye on our website, [email newsletters](https://dar.to/2pZuw14 "email newsletters"), and social media (@darienlibrary) for the latest updates. 
 <br />
 <br />
 <a href="#return">Return to the top of the page</a> 
