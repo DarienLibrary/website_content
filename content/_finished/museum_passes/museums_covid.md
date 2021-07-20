@@ -1,5 +1,10 @@
+<div class="row">
+<div class="col-md-8">
+
 ### Changes to the Museum Passes Program Due to COVID-19
-Many of the museums that Darien Library usually offers passes for have yet to reopen or are not accepting library passes. Below are the museums that are open. We have also updated our museum passes program:  
+Several of the museums that Darien Library usually offers passes for have not reopened or are not accepting library passes at this time. Below are the museums that are open. 
+
+We have also updated our museum passes program:  
 
 * Museum passes are available on a first-come, first-served basis to Darien residents, those who work in Darien, or a Friend at the $300 level.  
 * Pass borrows must be 18 and up who have a Darien Library card. 
@@ -9,6 +14,17 @@ Many of the museums that Darien Library usually offers passes for have yet to re
 * It is your responsibility to check the museum's hours and when necessary, make an appointment.
 * View the rest of the <a href="#Steps">instructions</a>
 <br />
+</div>
+<div class="col-md-4 alert alert-warning fade in">
+
+### Free Admission
+Until September 21st, children age 18 and under plus one accompanying Connecticut resident adult can visit participating museums free of charge through the Connecticut Summer at the Museum program.
+
+[View list of participating museums](https://dar.to/3wXVndg "View list of participating museums")
+
+</div>
+</div>
+
 
 <hr />
 <!-- <div class="row margin-bottom-30">
