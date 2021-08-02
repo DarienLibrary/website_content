@@ -18,7 +18,7 @@ We have also updated our museum passes program:
 <div class="col-md-4 alert alert-warning fade in">
 
 ### Free Admission
-Until September 21st, children age 18 and under plus one accompanying Connecticut resident adult can visit participating museums free of charge through the Connecticut Summer at the Museum program.
+Until September 6th, children age 18 and under plus one accompanying Connecticut resident adult can visit participating museums free of charge through the Connecticut Summer at the Museum program.
 
 [View list of participating museums](https://dar.to/3wXVndg "View list of participating museums")
 
@@ -71,7 +71,7 @@ This pass is not a membership pass to the zoo. It only allows entrance to the gr
 A regionally based, world-class institution highlighting art, science and natural history in more than a dozen changing exhibitions annually. The Bruce Museum has [reciprocal agreements](https://dar.to/2C4fxJZ "reciprocal agreements") with several museums.<br />
 <!-- [Select date to visit Bruce](https://dar.to/2j4ixhB "Visit the Bruce Museum")<br /> -->
 [View Bruce's exhibits](https://dar.to/2j1UyiM "View the Bruce Museum's exhibits")<br />
-* Open Tuesday-Sunday from 9:30 a.m. to 4:30 p.m., Tuesdays are free
+* Open Tuesday-Sunday from 10 a.m. to 5 p.m., Tuesdays are free
     * 9:30 to 10:30 a.m. is special access for people over 65 and those who are immunocompromised.
     * 10:30 to 11:30 a.m. is special access to members-only (this pass is a member's card)
 * [Advance ticket required](https://dar.to/3mc6hs3 "Advance ticket required"): Use the Membership ID number on the pass. 
@@ -121,7 +121,7 @@ A modern art museum housed in a Frank Lloyd Wright building. The Guggenheim offe
 Visit American military ships and explore maritime history at Intrepid. You'll visit an aircraft carrier, a space shuttle, a submarine, and a record-breaking British Airways Concorde.<br /> 
 <!-- [Select date to visit Intrepid](https://dar.to/2j5lPBg "Visit Intrepid")<br /> -->
 [View the exhibits](https://dar.to/2j1WQyo "View Intrepid's exhibits")<br />
-* Hours: Thursday-Sunday from 10 a.m. to 5 p.m.
+* Hours: Monday-Sunday from 10 a.m. to 5 p.m.
 * This pass is for free admission for up to six people per day.
 <br />
 </div>
@@ -134,6 +134,7 @@ MoMA's renowned collection of modern and contemporary art includes Vincent van G
 * [Check hours](https://dar.to/3sFFUgK "Check MoMA's Hours")
 * Each pass admits five adults (children under 16 are free).
 * Each pass allows entrance to MoMA one hour before the museum opens to the public.
+* Pre-registion is not required. Just present the pass upon arrival.
 </br>
 </div>
 </div>
@@ -186,14 +187,14 @@ Enjoy a day at the museum, manision, galleries, Heckscher Farm, playground, and 
 </div>
 <div class="col-md-6">
 
-### Wadsworth Atheneum
+<!-- ### Wadsworth Atheneum
 The nation's oldest public art museum, the Wadsworth Atheneum houses more than 50,000 works spanning 5,000 years. Collections include Renaissance and Baroque paintings, African-American art and Hudson River School.<br /> 
-<!-- [Select date to visit Wadsworth](https://dar.to/2j2Knux "Visit Wadsworth Antheneum")<br /> -->
+[Select date to visit Wadsworth](https://dar.to/2j2Knux "Visit Wadsworth Antheneum")<br />
 [View the latest exhibits](https://dar.to/3wdjd5L "View Wadsworth's latest exhibits")<br />
 * Admission is free at this time, so no pass is needed. 
 * [Check hours](https://dar.to/3dh7LNK "Check Wadsworth Atheneum's Hours")
 * [Advanced tickets required](https://dar.to/39tUtwn "Advanced tickets required for Wadsworth")
-<br />
+<br /> -->
 </div>
 </div>
 

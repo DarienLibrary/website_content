@@ -5,8 +5,8 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time Adult Programmer](https://dar.to/3bDskUA "Full-Time Adult Programming Librarian")
-Darien Library (CT) seeks a dynamic, community-minded individual to join our Adult Programming department as an Adult Programmer. The successful candidate is highly collaborative, creative, and flexible, and dedicated to providing exciting programming and book groups for patrons. They are a forward-thinking professional who is enthusiastic about the breadth of library programming.
+### [Part-Time Reader's Advisor Assistant](https://dar.to/34tPIPU "Part-Time Reader's Advisor Assistant")
+Darien Library seeks a friendly, curious, and motivated individual to work as a part-time Reader’s Advisor Assistant in the Reader Services department. The successful candidate will work one-on-one with the public at our Welcome Desk and provide patrons with reader advisory services. The successful candidate will have excellent interpersonal skills, provide compassionate customer service to all library patrons, demonstrate a love of books and reading, and work collaboratively in a fast-paced, friendly environment.
 <br />
 <br />
 

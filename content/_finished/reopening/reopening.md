@@ -105,7 +105,7 @@ Saturday and Sunday<br />
 <br />
 <br />
 <strong>Holds Pick-up</strong><br />
-* When the building is open. See the Library's hours.
+When the building is open. See the Library's hours.
 <br />
 </div>
 </div>
@@ -167,6 +167,7 @@ Saturday and Sunday<br />
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
+* It is strongly recommended that you wear a mask, in accordance with updated guidance from the Connecticut Department of Health.
 * Masks must be worn in the Children's Library at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
 * The Teen Lounge is open Monday-Thursday from 1 to 8 p.m., Friday from 1 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.
@@ -345,7 +346,6 @@ The following safety measures continue:
 * Enhanced cleaning procedures 
 * Plexiglass at staffed service desks 
 * Food and drinks may be enjoyed everywhere but the Children's Library
-* Private study rooms are unavailable at this time.  
 <br />
 
 </div>

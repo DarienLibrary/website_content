@@ -1,13 +1,18 @@
-Darien Library (CT) seeks a friendly, curious, and motivated candidate to work as a part-time Reader’s Advisor Assistant in the Reader Services department. The successful candidate will work one-on-one with the public at our Welcome Desk and provide patrons with reader advisory services. 
-
-The successful candidate will have excellent interpersonal skills, provide compassionate customer service to all library patrons, demonstrate a love of books and reading, and work collaboratively in a fast-paced, friendly environment.
+Darien Library seeks a friendly, curious, and motivated individual to work as a part-time Reader’s Advisor Assistant in the Reader Services department. The successful candidate will work one-on-one with the public at our Welcome Desk and provide patrons with reader advisory services. The successful candidate will have excellent interpersonal skills, provide compassionate customer service to all library patrons, demonstrate a love of books and reading, and work collaboratively in a fast-paced, friendly environment.
 <br />
+<br />
+
+### Hours
+* Mondays from 1 to 6 p.m.
+* One or two weekends per month: Saturday 9 a.m. to 5 p.m. or 12 noon to 5 p.m. _and_ Sunday from 1 to 5 p.m. 
+* Additional hours subbing weekdays/week nights may also be available.
 <br />
 
 ### Duties & Responsibilities
 * Staff an active Welcome Desk.
 * Provide exemplary hospitality to our library patrons and perform a variety of public-facing circulation duties such as check-outs and registering patrons for library cards.
-* Participate in departmental tasks related to the Welcome Desk including shelving books, answering patron emails and phone calls.
+* Participate in departmental tasks related to the Welcome Desk including shelving books, answering patron emails, and phone calls.
+* Participate in departmental tasks related to Reader Services including writing book reviews for our Note to Shelf monthly newsletter and recommending books for Book Matchmaker patrons.
 * Maintain up-to-date knowledge of newly published books and confidently share a passion for books with patrons and fellow staff members.
 * Assist with digital technology.
 * Other duties as assigned.
@@ -16,26 +21,22 @@ The successful candidate will have excellent interpersonal skills, provide compa
 ### Qualifications
 * Bachelor’s degree preferred.
 * Demonstrate strong customer service orientation; provide prompt, accurate, and friendly service.
+* A love of books and reading and the ability to recommend books to library patrons.
 * Excellent oral and written communication skills.
 * Willingness to learn, take initiative, and follow through on tasks.
 * A love of books and reading and the ability to recommend books to library patrons.
 * Works well, both independently and collaboratively, as part of the Reader Services team.
-* Computer proficiency with Microsoft Suite, Google Applications, and emerging digital technology. ILS experience a plus.
+* Computer proficiency with Microsoft Suite, Google Applications, and emerging digital technology. Experience using and navigating an online library catalog/ILS a plus.
 * Fluency in a language other than English desirable.
 <br />
 
-### Hours
-This is a part time position with no benefits that will include two weekends per month (Saturday from 9 a.m. to 5 p.m. or 12 noon to 5 p.m. and Sunday from 1 to 5 p.m.). Additional hours subbing weekdays/week nights may also be available.
-<br />
-<br />
-
 ### Salary 
-$15 an hour
+$17.50 an hour
 <br />
 <br />
 
 ### Contact Information
-Email a cover letter and copy of your resume to Patricia Tone, Head of Reader Services, [ptone@darienlibrary.org](mailto:ptone@darienlibrary.org "Patricia Tone"). **Applications are due by Friday, October 23rd.**
+Email a cover letter and copy of your resume to Patricia Tone, Head of Reader Services, [ptone@darienlibrary.org](mailto:ptone@darienlibrary.org "Patricia Tone"). **Applications are due by Monday, August 30th.**
 <br />
 <br />
 
