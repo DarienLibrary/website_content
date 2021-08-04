@@ -3,7 +3,7 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-Darien Library is open to visitors normal hours. Some of our programs are now available in-person outdoors. Most events continue to be held virtually.
+Darien Library is open to visitors normal hours. Some of our programs are now available in-person outdoors. Most events continue to be held virtually. Marks are required at all times while in the building and must fully cover your mouth and nose at all times.
 <br />
 <br />
 We do not have a date when full services and in-person programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state, and local regulations and guidance.
@@ -167,15 +167,14 @@ When the building is open. See the Library's hours.
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
-* It is strongly recommended that you wear a mask, in accordance with updated guidance from the Connecticut Department of Health.
-* Masks must be worn in the Children's Library at all times and fully cover the nose and mouth. 
+* Marks are required to be worn at all times while within the Library in accordance with updated guidance from the Connecticut Department of Health.
 * Children under age 12 must remain with a caregiver at all times. 
 * The Teen Lounge is open Monday-Thursday from 1 to 8 p.m., Friday from 1 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.
 * The Lower Level of the Library will be closed. 
 * All meeting rooms are closed until further notice. 
 * Public computers are available on the Second Level.
 * Contactless checkouts with three self-checkouts available on the First Level. 
-* No food or drinks are allowed in the Children's Library until further notice. 
+* No food or drinks are allowed in the Library until further notice. 
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -208,10 +207,10 @@ We care about your health and safety. Before reopening, we self-certified with t
 
 <h4>What You Must Do</h4>
 
-* Masks must be worn in the Children's Library at all times and fully cover the nose and mouth. 
+* Masks must be worn in the Library at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
 * Social distancing of 6 feet is in effect. 
-* Food and drinks may be enjoyed everywhere but the Children's Library. 
+* Food and drinks are not allowed within the building at this time.
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -342,10 +341,10 @@ Since items may be returned 24 hours a day starting May 17th, we will resume lat
 #### Prioritizing Safety 
 The following safety measures continue:  
 
-* Masking inside the Children's Library
+* Masking is required while in the building
 * Enhanced cleaning procedures 
 * Plexiglass at staffed service desks 
-* Food and drinks may be enjoyed everywhere but the Children's Library
+* Food and drinks are not allowed in the building at this time
 <br />
 
 </div>
