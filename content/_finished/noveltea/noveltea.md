@@ -1,6 +1,14 @@
 <div class="container">
 
 <div class="row">
+<div class="col-md-12">
+<img class="img-responsive box-shadow shadow-effect-2" src="/uploads/departments/readers_advisory/novel_tea_header_2021.png" alt="Brit Bennett" />
+<br />
+<em style="color: #AEA9A9; font-size:70%; float: right;">Photo by Emma Trim</em>
+</div>
+</div>
+
+<!-- <div class="row">
 <div class="col-xs-7 col-md-8" style="padding-top: 30px;">
 
 <h2 style="font-size:3.5vw; line-height: 1.7;"><span style="background-color: #2E21C7; padding:3px 7px 3px 7px; color:#fff;">The Sixth Annual Novel Tea</span> <br /><span style="background-color: #FF4C02; padding:3px 7px 3px 7px; color:#fff;">Featuring Brit Bennett:</span> <br /><em style="background-color: #1F5C38; padding:3px 20px 7px 7px; color:#fff;">The Vanishing Half</em></h2>
@@ -16,9 +24,9 @@
 <br />
 </div>
 </div>
-</div>
+</div> -->
 
-## Wednesday, October 27th @ Wee Burn Country Club
+<h2><span style="display: inline-block;">Wednesday, October 27th</span> <span style="display: inline-block;">@ Wee Burn Country Club</span></h2>
 <p style="font-size:1.2em !important;">from 11 a.m. to 2 p.m.</p>
 
 <br />
@@ -34,7 +42,7 @@
 </div>
 <div class="col-md-4 col-md-offset-1">
 
-<a href="#Purchase"><button class="btn-u btn-u-lg" style="background-color:#FF4C02" type="button">Purchase Tickets</button></a>
+<a href="#Purchase"><button class="btn-u btn-block" style="background-color:#FF4C02; font-weight:bold; font-size:1.2em !important;" type="button">Purchase Tickets</button></a>
 <br />
 
 <strong>Wee Burn Country Club</strong><br />
@@ -66,7 +74,7 @@ Lunch will be served at 12 noon
 </div> 
 <div class="col-xs-12 col-md-4">
 
-## Named a Best Best of 2020 by
+## Named a Best Book of 2020 by
  
 <ul>
 <li> <em style="font-size:1.2em !important;">The New York Times</em></li>
@@ -108,7 +116,7 @@ Lunch will be served at 12 noon
 <div class="row">
 <div class="col-md-6">
 
-<h2 style="color: #2E21C7;">The Novel Tea Benefits Darien Library</h2>
+<h2 style="color: #2E21C7;">Benefits Darien Library</h2>
 
 <p style="font-size:1.2em !important;">All funds raised from The Novel Tea will be dedicated to Darien Library resources, including technology, purchasing new books, and supporting programs and guest speakers.</p>
 
@@ -148,36 +156,18 @@ Lunch will be served at 12 noon
 </div>
 </div>
 </div>
-    <!--<div class="col-xs-6 col-md-6">
-        <a href="http://www.newcanaandarienmag.com/"><img class="img-responsive center-block" src="/uploads/departments/mallory/play/moffly_logo.jpg" alt="Moffly Media" /></a>
-        <br />
-        <br />
-        <a href="https://dar.to/2Q0FKMI"><img class="img-responsive center-block" src="/uploads/darien_community/david_harvey_jewelers.jpg" alt="David Harvey Jewelers" /></a>
-        <br />
-        <br />
-    </div>
-    <div class="col-xs-6 col-md-6">
-        <a href="https://dar.to/31046NI"><img class="img-responsive center-block" src="/uploads/logos/dr_bank_300.jpg" alt="DR Bank" /></a>
-        <br />
-        <br />
-        <br />
-        <img class="img-responsive center-block" src="/uploads/logos/the_wyper_family_author_fund.jpg" alt="The Wyper Family Author Fund" />
-        <br />
-        <br />
-    </div>
 </div>
-<div class="row">
-    <div class="col-md-12">
-        <img class="center-block" style="max-height: 80px; height 100%; width: autor;" src="/uploads/departments/mallory/play/darien_library_logo_300px.png" alt="Darien Library" />
-    </div>
-
-</div>-->
 
 <hr class="devider devider-dotted"></hr>
 
 <a name="Purchase" color="#fff"></a>
-<h2 style="color: #2E21C7;">Purchase Tickets</h2>
 
+<div class="row">
+<div class="col-md-12">
+<h2 style="color: #2E21C7;">Purchase Tickets</h2>
+<p style="font-size:1.2em !important;">Sponsor and Benefactor Tables are currently available for purchase, and single tickets will be on sale pending availability in September.</p>
+</div>
+</div>
 
 <div id="bbox-root"></div>
 
