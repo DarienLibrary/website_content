@@ -116,6 +116,7 @@ When the building is open. See the Library's hours.
 
 * Borrowing of books, audiobooks, movies, magazines, and video games
 * Access to all collections throughout the building to borrow materials
+* Study rooms for individuals or small groups
 * Access to public computers and internet
 * Scanning, printing, copying, and faxing
 * Reference assistance by phone or email is strongly encouraged
@@ -325,6 +326,7 @@ The Children’s Library closes at 8 p.m. Monday-Thursday.
 * No time limits for using the Library  
 * Unlimited holds  
 * Return items 24/7 through the materials handling system 
+* Study rooms for individuals and small groups (added in July)
 * 60-minute computer access 
 * The return of some seating throughout the building 
 * No appointments needed to visit the Children’s Library 

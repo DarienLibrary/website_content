@@ -5,6 +5,11 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
+### [Full-Time Head of Materials Management](https://dar.to/3fD0XMn "Full-Time Head of Materials Management")
+Darien Library (CT) seeks an experienced, committed, and effective library professional to lead the Materials Management staff as a full-time Department Head. This position represents a unique opportunity to apply a wide range of skills and expertise in the areas of acquisitions, cataloging, and materials handling. Reporting to the Assistant Director, Operations, the Head of Materials Management collaborates closely across departments and participates actively as a member of the Leadership Team. They consistently demonstrate kindness and compassion while holding their direct reports responsible for maintaining the standards of their department and the Library.
+<br />
+<br />
+
 ### [Part-Time Reader's Advisor Assistant](https://dar.to/34tPIPU "Part-Time Reader's Advisor Assistant")
 Darien Library seeks a friendly, curious, and motivated individual to work as a part-time Reader’s Advisor Assistant in the Reader Services department. The successful candidate will work one-on-one with the public at our Welcome Desk and provide patrons with reader advisory services. The successful candidate will have excellent interpersonal skills, provide compassionate customer service to all library patrons, demonstrate a love of books and reading, and work collaboratively in a fast-paced, friendly environment.
 <br />

@@ -5,7 +5,7 @@
 ### Resume Review
 The Reference librarians are happy to review the resumes and suggest improvements for residents, those who work in Town, and Friends. [Request an appointment](/book-librarian "Request an appointment"). In the comments, include some information about the job to which you are applying. This information will help us look for opportunities to tailor your resume to that specific position. <br />
 
-Please check the [calendar](/events/adults "Events calendar") for the next résumé and job application drop-in. 
+<!-- Please check the [calendar](/events/adults "Events calendar") for the next résumé and job application drop-in.-->
 <br />
 <br />
 
@@ -34,7 +34,7 @@ Databases are not just for finding articles! We offer access to premium [career 
 <br />
 
 ### Notary 
-Need to get your papers for work notarized? The Library tries to have a Notary Public available during all opening hours. On the weekends, please call ahead to make sure someone is available before coming in. [Check which types of ID](/notaries "Check which types of ID") you will need.
+Need to get your papers for work notarized? Please call the Library to schedule an appointment for a notarization at [203-669-5236](tel:2036695236 "Call us for a notary appointment").[Check which types of ID](/notaries "Check which types of ID") you will need.
 
 </div>
 </div>
