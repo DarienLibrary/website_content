@@ -144,29 +144,6 @@ Booklists<br />
 </div>
 
 
-<div class="row">
-<div class="col-md-9">
-
-### Visit the Children's Library by Appointment
-
-The Children's Library is open for 30-minute appointments. Review the available appointment slots and select the one that works best for you. Please only select one slot per day. If you arrive early, please wait outside the building until time for your appointment.
-<br />
-<br />
-Children under age 12 must remain with a caregiver at all times. The Storytime Room, Toddler Room, and TEA Room in the Children's Library will be closed until further notice.
-
-<br />
-</div>
-<div class="col-md-3">
-<a href="/visitCL"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Book an Appointment</button></a>
-<br />
-<br />
-Each appointment is 30-minutes long. 
-</div>
-</div>
-</div>
-
-<hr>
-
 <a name="activities"></a>
 <div class="margin-bottom-50">
 

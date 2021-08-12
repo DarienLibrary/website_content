@@ -7,26 +7,28 @@ Every day we appreciate having opportunities to connect people with stories that
 <div class="col-md-5">
 
 ### History of Hispanic Heritage Month
-The United States celebrates Hispanic Heritage Month from September 15th through October 15th each year. "It is with special pride that I call the attention of my fellow citizens to the great contribution to our national heritage made by our people of Hispanic descent" ([Proclamation 3869](https://dar.to/2VVDCyn "Proclaimation 4650") by President Lyndon B. Johnson in 1968). The celebration was then extended to a month in 1989 as announced by President George H.W. Bush in [Proclamation 6021](https://dar.to/3BtKfs0 "Proclamation 6021"). 
+The United States celebrates Hispanic Heritage Month from September 15th through October 15th each year. "It is with special pride that I call the attention of my fellow citizens to the great contribution to our national heritage made by our people of Hispanic descent" ([Proclamation 3869](https://dar.to/2VVDCyn "Proclaimation 4650") by President Lyndon B. Johnson in 1968). The celebration was then extended to a month in 1989 by President George H.W. Bush in [Proclamation 6021](https://dar.to/3BtKfs0 "Proclamation 6021"). 
 
 <!-- Visit Darien Library through the month of May to view our AAPI Heritage Month book displays. -->
 <br />
 <br />
 
 </div>
-<div class="col-md-5">
+<div class="col-md-4">
 
-### Momentous Occasions
-* 1513: Juan Ponce de León arrived in (future) Florida
-* 1513: [Vasco Núñez de Balboa](https://dar.to/2UC8gN5 "Vasco Núñez de Balboa") sees the Pacific Ocean
-* 1528: Start of the [Narváez expedition](https://dar.to/3hQIBJf)
-* 1565: The first permanment European settlement is [St. Augustine, Florida](https://dar.to/3BCtScW "St. Augustine, Florida") founded
+### Independence Day Declarations
+* Chile: September 18, 1810
+* Costa Rica: September 15, 1821
+* El Salvador: September 15, 1821
+* Guatemala: September 15, 1821
+* Honduras: September 15, 1821
+* Mexico: September 16, 1810
+* Nicaragua: September 15, 1821
 
-_Need help on choosing a subject area here. There doesn't appear to be a "clear cut" list of immigrants from different countries to the U.S. like there was with AAPI month. Help!_
 <br />
 <br />
 </div>
-<div class="col-md-2">
+<div class="col-md-3">
 
 ### Table of Contents
 
@@ -51,43 +53,96 @@ _Need help on choosing a subject area here. There doesn't appear to be a "clear 
 
 <div class="row">
 <div class="col-md-3">
-<img class="img-responsive center-block" src="/uploads/departments/adults/gordon_hirabayashi.jpg" alt="Gordon Hirabayashi" />
+<img class="img-responsive center-block" src="/uploads/departments/adults/yuyi_morales.jpg" alt="Yuyi Morales" />
 <br />
-<strong>?</strong>
-<p>https://library.ivytech.edu/hispanicheritage/peopleyoushouldknow
-</p>
-<a href="https://dar.to/3hq6pDZ">Source</a>
+<strong>Yuyi Morales</strong>
+<p>Mexican American Morales is a <a href="https://dar.to/3jF6Jy4">children's fantasy book</a> author and illustrator. She won the 2015 Caldecott Honor for <em>Viva Frida</em>. She has won numerous other awards for work and has worked on 16 books.</p>
+<a href="https://dar.to/3AAllpC">Source</a>
 <br />
-<br />
-</div>
-
-<div class="col-md-3">
-<img class="img-responsive center-block" src="/uploads/departments/adults/vicki_draves.jpg" alt="Vicki Draves" />
-<br />
-<strong>Vicki Draves</strong>
-<p>Filipino-English American Draves won two gold medals at the 1948 Summer Olympics in London in addition to her five United States diving championships. She was the first Asian American to win gold.</p>
-<a href="https://dar.to/2SA5ztT">Source</a>
-<br />
-</div>
-
-<div class="col-md-3">
-<img class="img-responsive center-block" src="/uploads/departments/adults/kalpana_chawla.jpg" alt="Kalpana Chawla" />
-<br />
-<strong>Kalpana Chawla</strong>
-<p>Indian American astronaut and engineer Chawla was the primary robotic arm operator on Space Shuttle Columbia and was aboard during the 2003 disaster. She was the first woman of Indian descent in space.</p>
-<a href="https://dar.to/2R5TiwU">Source</a>
+Photo by <a href="https://dar.to/2VQYCqi">Larry D. Moore</a> via <a href="https://dar.to/2LYnWSg">CC BY-SA 4.0</a>
 <br />
 <br />
 </div>
 
 <div class="col-md-3">
-<img class="img-responsive center-block" src="/uploads/departments/adults/frank_wu.jpg" alt="Frank Wu" />
+<img class="img-responsive center-block" src="/uploads/departments/adults/oscar_issac.jpg" alt="Oscar Issac" />
 <br />
-<strong>Frank Wu</strong>
-<p>Chinese American science fiction and fantasy artist and filmaker Wu has won the Hugo Award for Best Fan Artist four times. He also works in patent law and contributed spaceship designs for the video game <em>Revolution 60</em>.</p>
-<a href="https://dar.to/3hdQokz">Source</a>
+<strong>Oscar Issac</strong>
+<p>Guatemalan American Issac is an actor who has appeared in 45 movies, 5 television shows, 3 video games, 1 podcast, and 6 plays. He has been nominated and won numerous awards including a Golden Globe for "Show Me a Hero."</p>
+<a href="https://dar.to/3yAtd9Q">Source</a>
 <br />
-Photo by <a href="https://dar.to/3uAaGs9">Nihonjoe</a> via <a href="https://dar.to/3vTzED3">CC BY 3.0</a>
+Photo by <a href="https://dar.to/3iFyYOa">Gage Skidmore</a> via <a href="https://dar.to/2XjG8iN">CC BY-SA 3.0</a>
+<br />
+<br />
+</div>
+
+<div class="col-md-3">
+<img class="img-responsive center-block" src="/uploads/departments/adults/isabel_allende.jpeg" alt="Isabel Allende" />
+<br />
+<strong>Isabel Allende</strong>
+<p>Chilean American Allende is a <a href="https://dar.to/3AAdEQ5">writer</a> who was named by the <em>Latin American Herald Tribune</em> as "the world's most widely read Spanish-language author" with 25 novels. She was a 2014 receipient of the Presidential Medal of Freedom.</p>
+<a href="https://dar.to/3jNtgZD">Source</a>
+<br />
+Photo by <a href="https://dar.to/3CHU1HB">Lesekreis</a> via <a href="https://dar.to/2LYnWSg">CC BY-SA 4.0</a>
+<br />
+<br />
+</div>
+
+<div class="col-md-3">
+<img class="img-responsive center-block" src="/uploads/departments/adults/george_melendez_wright.jpg" alt="George Meléndez Wright" />
+<br />
+<strong>George Meléndez Wright</strong>
+<p>Salvandorian American Wright who thought of and conducted a survey of animals for the National Park Service. He died in a car accident at age 31. "Had he lived, Wright likely would have become one of America’s most influential conservationists."</p>
+<a href="https://dar.to/2VLJPxe">Source</a>
+<br />
+<br />
+</div>
+</div>
+
+<br />
+<br />
+
+<div class="row">
+<div class="col-md-3">
+<img class="img-responsive center-block" src="/uploads/departments/adults/steve_van_buren.jpg" alt="Steve Van Buren" />
+<br />
+<strong>Steve Van Buren</strong>
+<p>Honduran American Van Buren was a halfback for the Philadelphia Eagles from 1944 to 1951. He held NFL records for rushing attempts, rushing yards ,and rushing touchdowns at his retirement in 1951. He was a coach and is listed in several Halls of Fame.</p>
+<a href="https://dar.to/3iDaO6C">Source</a>
+<br />
+<br />
+</div>
+
+<div class="col-md-3">
+<img class="img-responsive center-block" src="/uploads/departments/adults/ellen_ochoa.jpg" alt="Ellen Ochoa" />
+<br />
+<strong>Ellen Ochoa</strong>
+<p>Mexican American Ochoa is an engineer, was the first Hispanic woman in space, and was the director of the Johnson Space Center. She currently serves as a committee chair for the National Medal of Technology and Innovation.</p>
+<a href="https://dar.to/3jLjAiz">Source</a>
+<br />
+<br />
+</div>
+
+<div class="col-md-3">
+<img class="img-responsive center-block" src="/uploads/departments/adults/ricardo_a_olea.jpg" alt="Ricardo Antonio Olea" />
+<br />
+<strong>Ricardo Antonio Olea</strong>
+<p>Chilean American Olea is a research mathematical statistician with the United States Geological Survey. His interests range across a number of geostatistics including energy resources assessment, lithostratigraphy, and marine geology among others.</p>
+<a href="https://dar.to/3jNtgZD">Source</a>
+<br />
+Photo by <a href="https://dar.to/3lZg5rl">Salani</a> via <a href="https://dar.to/2XjG8iN">CC BY-SA 3.0</a>
+<br />
+<br />
+</div>
+
+<div class="col-md-3">
+<img class="img-responsive center-block" src="/uploads/departments/adults/rita_moreno.jpg" alt="Rita Moreno" />
+<br />
+<strong>Rita Moreno</strong>
+<p>Puerto Rican Moreno is an actress, singer, and dancer. She has won an Emmy, a Grammy, an Oscar, and a Tony. Her most iconic role was as Maria in "West Side Story" in 1961. She has received the Presidential Medal of Freedom and the Natioinal Medal of Arts.</p>
+<a href="https://dar.to/3jFq9mE">Source</a>
+<br />
+Photo by <a href="https://dar.to/3AxrdQi">DVSROSS</a> via <a href="https://dar.to/3lSdCyP">CC BY 2.0</a>
 <br />
 <br />
 </div>
@@ -108,30 +163,29 @@ Photo by <a href="https://dar.to/3uAaGs9">Nihonjoe</a> via <a href="https://dar.
 
 ### Music
 
-<iframe src="https://open.spotify.com/embed/playlist/0JxIJ0E1mnJmCZputanKnP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/67q9ocB7mJ4UShnjqabFlJ" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 <br />
-Songs curated by Karyn.
+Playlist curated by María.
 <br />
 <br />
 </div>
 <div class="col-md-4">
 
 ### Books
-* [AAPI Experiences](https://dar.to/3lGkwoT "Books on AAPI Experiences")
-* [AAPI Heritage Month](https://dar.to/2QWjdHt "APPI Heritage Month Books")
-* [Children's Books by and About AAPIs](https://dar.to/3ez7gk7 "Children's Books by and About AAPIs")
-* [Adult Books by AAPIs](https://dar.to/3o1UE8b "Adult Books by AAPIs")
+* [Children's Books](https://dar.to/3lTCKW0 "Children's Books for Hispanic Heritage Month")
+
+[Replace these with new booklists for this group?]
+_* [AAPI Experiences](https://dar.to/3lGkwoT "Books on AAPI Experiences")_
+_* [AAPI Heritage Month](https://dar.to/2QWjdHt "APPI Heritage Month Books")_
+_* [Adult Books by AAPIs](https://dar.to/3o1UE8b "Adult Books by AAPIs")_
 <br />
 </div>
 <div class="col-md-4">
 
 ### Learn a Language
-* [Arabic](https://dar.to/33AqCPd "Arabic")
-* [Korean](https://dar.to/3vVEoZ3 "Learn Korean")
-* [Japanese](https://dar.to/3f0wyGw "Learn Japanese")
-* [Mandarin (Chinese)](https://dar.to/3f5Lfbu "Learn Chinese Mandarin")
-* [Vietnamese for adults](https://dar.to/33FItV0 "Vietnamese for Adults")
-* [Vietnamese for kids](https://dar.to/3hlWyPB "Vietnamese for kids")
+* [Portuguese](https://dar.to/3fWJnmO "Portuguese")
+* [Spanish: Self-learning](https://dar.to/2VNcYIf "Spanish: self-learning")
+* [Spanish: Study and teaching](https://dar.to/3fUDYfL "Spanish: study and teaching)")
 </div>
 </div>
 
@@ -144,7 +198,8 @@ Songs curated by Karyn.
 </div>
 </div>
 
-* [Website by the U.S. Government/](https://dar.to/2WoRQEJ "Website by the U.S. Government")
-* [UCLA Asian American Studies Center](https://dar.to/3bj4gpY "UCLA Asian American Studies Center")
-* [NASA's video celebrating AAPI employees](https://dar.to/3y4aQui "NASA's video celebrating AAPI employee")
-* [PBS videos](https://dar.to/3vUD8oT "PBS videos")
+* [Website by the U.S. Government](https://dar.to/34mKi8H "Website by the U.S. Government")
+* [Latino Center at the Smithsonian](https://dar.to/3CPkN10 "Latino Center at the Smithsonian")
+* [The Hispanic Museum & Library](https://dar.to/2VDPOEp "The Hispanic Museum & Library")
+* [NASA celebrating Hispanic Heritage Month](https://dar.to/3lUHElF "NASA celebrating Hispanic Heritage Month")
+* [PBS videos](https://dar.to/3jJ16iB "PBS videos")

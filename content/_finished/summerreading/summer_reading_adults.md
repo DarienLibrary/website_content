@@ -15,7 +15,7 @@
 
 <p style="font-size:1.25em !important;">Come away with us and escape on a Literary Road Trip for our annual Adult Summer Reading program. Forget the luggage, you only need your imagination to travel near and far...with this year's reading challenge, special events, and amazing prizes.</p>
 
-<p style="font-size:1.25em !important;">The trip starts on Monday, June 21st and concludes on Friday, August 14th. You can <a href="https://dar.to/3ifssuX">play online</a> or pick up your game cards at Darien Library's Welcome Desk. Patrons can play up to 12 times.</p>
+<p style="font-size:1.25em !important;">The trip starts on Monday, June 21st and concludes on Saturday, August 14th. You can <a href="https://dar.to/3ifssuX">play online</a> or pick up your game cards at Darien Library's Welcome Desk. Patrons can play up to 12 times.</p>
 <br />
 </div>
 <div class="col-md-4">
