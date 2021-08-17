@@ -15,11 +15,6 @@ Darien Library seeks a friendly, curious, and motivated individual to work as a 
 <br />
 <br />
 
-### [Part-Time Shelver](https://dar.to/3zgCsf9 "Part-Time Shelver")
-The Materials Management Department at Darien Library has a part-time position open on our shelving team. We are seeking an energetic and organized individual who will work efficiently to keep the Library collections in order.
-<br />
-<br />
-
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />
