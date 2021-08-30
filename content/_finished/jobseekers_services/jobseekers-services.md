@@ -3,7 +3,7 @@
 <div class="col-md-6">
 
 ### Resume Review
-The Reference librarians are happy to review the resumes and suggest improvements for residents, those who work in Town, and Friends. [Request an appointment](/book-librarian "Request an appointment"). In the comments, include some information about the job to which you are applying. This information will help us look for opportunities to tailor your resume to that specific position. <br />
+Darien Library is happy to offer resume review services through [JobNow](https://dar.to/3sTlBx1 "Access JobNow"). JobNow’s resume experts will identify grammatical and stylistic errors and provide you with constructive comments regarding the effectiveness of your resume and cover letter. These services are all available at no charge to you. Just use your Darien Library card to get started.<br />
 
 <!-- Please check the [calendar](/events/adults "Events calendar") for the next résumé and job application drop-in.-->
 <br />

@@ -11,24 +11,6 @@ The United States celebrates Hispanic Heritage Month from September 15th through
 
 <!-- Visit Darien Library through the month of May to view our AAPI Heritage Month book displays. -->
 <br />
-<br />
-
-</div>
-<div class="col-md-4">
-
-### Independence Day Declarations
-* Chile: September 18, 1810
-* Costa Rica: September 15, 1821
-* El Salvador: September 15, 1821
-* Guatemala: September 15, 1821
-* Honduras: September 15, 1821
-* Mexico: September 16, 1810
-* Nicaragua: September 15, 1821
-
-<br />
-<br />
-</div>
-<div class="col-md-3">
 
 ### Table of Contents
 
@@ -38,6 +20,14 @@ The United States celebrates Hispanic Heritage Month from September 15th through
 <li><a href="#Celebrate">Celebrate With Us</a></li>
 <li><a href="#Resources">Resources</a></li>
 </ul>
+
+<br />
+<br />
+
+</div>
+<div class="col-md-7">
+
+<img class="img-responsive center-block" src="/uploads/departments/adults/hispanic_heritage_month_english.jpg" alt="Celebrate Hispanic and Latinx Voices" />
 
 </div>
 </div>
@@ -161,12 +151,15 @@ Photo by <a href="https://dar.to/3AxrdQi">DVSROSS</a> via <a href="https://dar.t
 <div class="row">
 <div class="col-md-4">
 
-### Music
+### Independence Day Declarations
+* Chile: September 18, 1810
+* Costa Rica: September 15, 1821
+* El Salvador: September 15, 1821
+* Guatemala: September 15, 1821
+* Honduras: September 15, 1821
+* Mexico: September 16, 1810
+* Nicaragua: September 15, 1821
 
-<iframe src="https://open.spotify.com/embed/playlist/67q9ocB7mJ4UShnjqabFlJ" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-<br />
-Playlist curated by María.
-<br />
 <br />
 </div>
 <div class="col-md-4">
@@ -179,27 +172,51 @@ _* [AAPI Experiences](https://dar.to/3lGkwoT "Books on AAPI Experiences")_
 _* [AAPI Heritage Month](https://dar.to/2QWjdHt "APPI Heritage Month Books")_
 _* [Adult Books by AAPIs](https://dar.to/3o1UE8b "Adult Books by AAPIs")_
 <br />
-</div>
-<div class="col-md-4">
+<br />
 
 ### Learn a Language
 * [Portuguese](https://dar.to/3fWJnmO "Portuguese")
 * [Spanish: Self-learning](https://dar.to/2VNcYIf "Spanish: self-learning")
 * [Spanish: Study and teaching](https://dar.to/3fUDYfL "Spanish: study and teaching)")
+<br />
+</div>
+<div class="col-md-4">
+
+### Music
+
+<iframe src="https://open.spotify.com/embed/playlist/67q9ocB7mJ4UShnjqabFlJ" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<br />
+Playlist curated by María.
+<br />
+<br />
 </div>
 </div>
 
 <br />
 
 <a name="Resources"></a>
-<div class="container content">
+<!-- <div class="container content">
 <div class="text-center margin-bottom-50">
 <h2 class="title-v2 title-center">Resources</h2>
 </div>
-</div>
+</div> --> 
+
+<div class="row">
+<div class="col-md-4">
+
+### Resources
 
 * [Website by the U.S. Government](https://dar.to/34mKi8H "Website by the U.S. Government")
 * [Latino Center at the Smithsonian](https://dar.to/3CPkN10 "Latino Center at the Smithsonian")
 * [The Hispanic Museum & Library](https://dar.to/2VDPOEp "The Hispanic Museum & Library")
 * [NASA celebrating Hispanic Heritage Month](https://dar.to/3lUHElF "NASA celebrating Hispanic Heritage Month")
 * [PBS videos](https://dar.to/3jJ16iB "PBS videos")
+
+<br />
+</div>
+<div class="col-md-8">
+
+<img class="img-responsive center-block" src="/uploads/departments/adults/hispanic_heritage_month_spanish.jpg" alt="Celebrate Hispanic and Latinx Voices" />
+
+</div>
+</div>

@@ -3,6 +3,8 @@
 
 Do you want to join Darien Library? That's great! We're glad to have you here. To check out materials or use a computer, you need to have a library card. It's a quick and easy process. Just come to the Welcome Desk when you first enter the Library to get started. 
 
+**New** [You can sign up online!](/signup "Sign up for a library card online")
+
 <br />
 
 ### To get a Darien Libary Card
@@ -20,7 +22,6 @@ You can still check out stuff from Darien Library. Just bring in your library ca
 
 ### Benefits of Membership
 * Multiple copies of the latest bestsellers
-* State-of-the-art technology center
 * Downloadable e-Books, e-Audiobooks, magazines, movies, music, and TV shows
 * Reference and information services for adults and children
 * Special collections in business, law, local history, and genealogy
@@ -28,7 +29,6 @@ You can still check out stuff from Darien Library. Just bring in your library ca
 * Interlibrary loan service
 * 24/7 access to an extensive list of electronic resources
 * Museum passes to locations in Connecticut and New York
-* Personal computers with software for adults and children
 * Reserve study rooms and the Bloomberg Terminal
 * Display space that can be requested by artists and community groups
 * Technology education classes

@@ -83,11 +83,11 @@ Sunday<br />
 
 <strong>Teen Lounge Hours</strong><br />
 Monday through Thursday<br />
-1 to 8 p.m.
+3 to 8 p.m.
 <br />
 
 Friday<br />
-1 to 6 p.m.
+3 to 6 p.m.
 <br />
 
 Saturday and Sunday<br />
@@ -170,7 +170,7 @@ When the building is open. See the Library's hours.
 
 * Marks are required to be worn at all times while within the Library in accordance with updated guidance from the Connecticut Department of Health.
 * Children under age 12 must remain with a caregiver at all times. 
-* The Teen Lounge is open Monday-Thursday from 1 to 8 p.m., Friday from 1 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.
+* The Teen Lounge is open Monday-Thursday from 3 to 8 p.m., Friday from 3 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.
 * The Lower Level of the Library will be closed. 
 * All meeting rooms are closed until further notice. 
 * Public computers are available on the Second Level.
