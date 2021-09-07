@@ -1,7 +1,7 @@
 <div class="row margin-bottom-10">
 <div class="col-md-4">
 
-For registration, book selection, reservations, guides, reviews and leader training contact the Book Group Team: [Marianne Paterniti and Pat Sheary](mailto:bookgroups@darienlibrary.org "Email Book Groups").
+For registration, book selection, reservations, guides, reviews and leader training contact the Book Group Team: [Marianne Paterniti, Joanne Gabriel, and Pat Sheary](mailto:bookgroups@darienlibrary.org "Email Book Groups").
 <br />
 <br />
 
@@ -29,7 +29,7 @@ Your child can start their own book club with one of our starter kits. Check out
 
 </div>
 <div class="col-md-8">
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/523970401?byline=0&portrait=0&texttrack=en" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/566641869?byline=0&portrait=0&texttrack=en" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 <br />
 <br />
 

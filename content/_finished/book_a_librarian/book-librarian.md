@@ -34,12 +34,10 @@ This service is limited to Darien residents, those employed full-time in Darien,
 * Genealogy & Family History
 * Journalism 101
 * Research and Fact-Checking
-* Resume Review
 <br />
 
 #### Technology
 * Basic Computer Help
-* Digitization: slides, negatives, VHS
 * Microsoft Word, PowerPoint, Excel
 * Social Media
 * Tablets and Smartphones 

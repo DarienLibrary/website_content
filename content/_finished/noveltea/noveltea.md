@@ -34,9 +34,9 @@
 <div class="row">
 <div class="col-md-7">
 
-<p style="font-size:1.2em !important;">Sponsor and Benefactor Tables are currently available for purchase, and single tickets will be on sale pending availability in September.</p>
+<p style="font-size:1.2em !important;">Single tickets as well as Sponsor and Benefactor Tables are now available for purchase. The Sponsor Table will have Brit Bennett seated at their table! Please indicate any seating requests in the Comments section of the form.</p>
 
-<p style="font-size:1.2em !important;">All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with Bret Bennett from 11:30 a.m. to 12 noon, and receive a signed copy of <em><a href="https://dar.to/2XXkGxO" style="text-decoration:none; color:#FF4C02;">The Vanishing Half</a></em>. Each table seats 10 people.</p>
+<p style="font-size:1.2em !important;">All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with Brit Bennett from 11:30 a.m. to 12 noon, and receive a signed copy of <em><a href="https://dar.to/2XXkGxO" style="text-decoration:none; color:#FF4C02;">The Vanishing Half</a></em>. Each table seats 10 people.</p>
 
 <br />
 </div>
@@ -165,7 +165,6 @@ Lunch will be served at 12 noon
 <div class="row">
 <div class="col-md-12">
 <h2 style="color: #2E21C7;">Purchase Tickets</h2>
-<p style="font-size:1.2em !important;">Sponsor and Benefactor Tables are currently available for purchase, and single tickets will be on sale pending availability in September.</p>
 </div>
 </div>
 

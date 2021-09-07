@@ -5,11 +5,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time Head of Materials Management](https://dar.to/3fD0XMn "Full-Time Head of Materials Management")
-Darien Library (CT) seeks an experienced, committed, and effective library professional to lead the Materials Management staff as a full-time Department Head. This position represents a unique opportunity to apply a wide range of skills and expertise in the areas of acquisitions, cataloging, and materials handling. Reporting to the Assistant Director, Operations, the Head of Materials Management collaborates closely across departments and participates actively as a member of the Leadership Team. They consistently demonstrate kindness and compassion while holding their direct reports responsible for maintaining the standards of their department and the Library.
-<br />
-<br />
-
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />

@@ -15,12 +15,14 @@ We have also updated our museum passes program:
 * View the rest of the <a href="#Steps">instructions</a>
 <br />
 </div>
-<div class="col-md-4 alert alert-warning fade in">
+<div class="col-md-4">
 
-### Free Admission
-Until September 6th, children age 18 and under plus one accompanying Connecticut resident adult can visit participating museums free of charge through the Connecticut Summer at the Museum program.
-
-[View list of participating museums](https://dar.to/3wXVndg "View list of participating museums")
+### Start Here
+* <a href="#Steps">View instructions</a>
+* [Join new exhibits mailing list](https://dar.to/2HWImat "Join mailing list")
+<!-- * [Search by Museum](https://dar.to/2lDqrul "Search by Museum") 
+* [Search by Date](https://dar.to/2lDn4mS "Search by Date")
+* [View or Cancel a Reservation](https://dar.to/2lDlZLS "View or Cancel a Reservation") -->
 
 </div>
 </div>
