@@ -34,9 +34,7 @@
 <div class="row">
 <div class="col-md-7">
 
-<p style="font-size:1.2em !important;">Single tickets as well as Sponsor and Benefactor Tables are now available for purchase. The Sponsor Table will have Brit Bennett seated at their table! Please indicate any seating requests in the Comments section of the form.</p>
-
-<p style="font-size:1.2em !important;">All guests of the Sponsor Table and Benefactor Tables will attend a “meet and greet” pre-reception with Brit Bennett from 11:30 a.m. to 12 noon, and receive a signed copy of <em><a href="https://dar.to/2XXkGxO" style="text-decoration:none; color:#FF4C02;">The Vanishing Half</a></em>. Each table seats 10 people.</p>
+<p style="font-size:1.2em !important;">Single tickets are currently available for purchase. Please indicate any seating requests in the Comments section of the form.</p>
 
 <br />
 </div>
