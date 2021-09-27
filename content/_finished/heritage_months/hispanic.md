@@ -166,11 +166,8 @@ Photo by <a href="https://dar.to/3AxrdQi">DVSROSS</a> via <a href="https://dar.t
 
 ### Books
 * [Children's Books](https://dar.to/3lTCKW0 "Children's Books for Hispanic Heritage Month")
-
-[Replace these with new booklists for this group?]
-_* [AAPI Experiences](https://dar.to/3lGkwoT "Books on AAPI Experiences")_
-_* [AAPI Heritage Month](https://dar.to/2QWjdHt "APPI Heritage Month Books")_
-_* [Adult Books by AAPIs](https://dar.to/3o1UE8b "Adult Books by AAPIs")_
+* [Hispanic Heritage Month Reads](https://dar.to/3trmptB "Books on Hispanic Heritage Month")
+* [More Hispanic Heritage Month Reads](https://dar.to/2XOjShc "More Selections")
 <br />
 <br />
 

@@ -1,25 +1,196 @@
+<div class="margin-bottom-40"></div>
+
+<div class="row">
+<div class="col-xs-9 col-md-8">
+
+<p>1000 Books Before Kindergarten is a fun way to encourage adults and children to read together and helps introduce children to as much vocabulary as possible before they enter kindergarten. Children who have experienced a larger vocabulary have a higher chance of success in kindergarten. The <a href="https://www.nytimes.com/2014/06/24/us/pediatrics-group-to-recommend-reading-aloud-to-children-from-birth.html?_r=0">American Academy of Pediatrics</a> recommends reading to infants, starting from birth to aid in brain development and vocabulary growth!</p>
+
+<br/>
+<h2 class="title-v2 title-center"> Don’t be overwhelmed by the number of books! </h2>
+
+<p>You can count the books you read over and over again, books you hear at storytime, audiobooks and books in different languages!</p>
+
+<p>To participate, stop by the Children's Desk at the Library to sign up. You will receive the 1-100 log, a growth chart with book suggestions and early literacy tips and a sticker! Once you and your child complete the first log together, bring it back to the Library for your next log, another sticker, and to check out more books. To keep motivation high, your child will earn special prizes when you submit the logs for your first 100 books, 500 books, and when you log all 1000 books! Any child who has not yet entered kindergarten can sign up.</p>
+<br />
+<br />
+</div>
+
+<div class="col-xs-3 col-md-4">
+<img class="img-responsive center-block" src="/uploads/departments/youth/1KB4K_Logo.png" rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="1000 Before Kindergarten" />
+<br />
+<br />
+</div>
+</div> 
+
+<h2 > Books to Get You Started </h2>
+
+<div class="row" style="border-left: 5px dashed #2B4C63; padding-top:5px;">
+<div class="col-xs-6 col-md-3">
+<p>
+<a href="https://www.darienlibrary.org/list/954" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#2B4C63;"><i class="fa fa-book fa-1x" style="color:#fff;" aria-hidden="true"></i>   Newborns (Birth-6 Months)</a>
+</p>
+<br />
+</div>
+<div class="col-xs-6 col-md-3">
+<p>
+<a href="https://www.darienlibrary.org/list/955" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#2B4C63;"><i class="fa fa-book fa-1x" style="color:#fff;" aria-hidden="true"></i>   Older Babies (6-18 Months)</a>
+</p>
+<br />
+</div>
+<div class="col-xs-6 col-md-3">
+<p>
+<a href="https://www.darienlibrary.org/list/956" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#2B4C63;"><i class="fa fa-book fa-1x" style="color:#fff;" aria-hidden="true"></i>   Toddlers (18-36 Months)</a>
+</p>
+<br />
+</div>
+
+
+<div class="col-xs-6 col-md-3">
+<p>
+<a href="https://www.darienlibrary.org/list/957" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#fff; background-color:#2B4C63;"><i class="fa fa-book fa-1x" style="color:#fff;" aria-hidden="true"></i>    Preschoolers (Ages 3-5)</a>
+<br />
+</div>
+</div>
+
+
+
+<a name="prereaders"></a>
+<div class="row" style="border-right: 5px dashed #2B4C63; border-top: 5px dashed #2B4C63; padding-top:5px;">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<div class="row" style="margin-top:20px;">
+</div>
+</div>
+
+<div class="col-md-11">
+<h2 style="font-size:2.1em;">Need a New Log?</h2>
+<h4>Did you lose your log? Do you need your next one and can't make it into the Library? 
+<br/><br/>Download your log by clicking on the button with the log number you need, but don't forget to bring back your completed logs into the Library to collect your prizes!</h4>
+<br />
+</div>
+
 <div class="row">
 
-<div class="col-md-10 col-md-offset-1">
 
-<img class="img-responsive center-block" src="/uploads/logos/100_before_one_owl_header.jpg" alt="100 Before One" />
+<div class="col-md-4">
 
-<div class="margin-bottom-20"></div>
+<img class="img-responsive center-block" src="/uploads/departments/youth/1KB4K_Log_imge.png" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);transform: rotate(-5deg);" alt="Reading Log" />
+<br />
+<br />
+<br />
+</div>
 
-The Children’s Library invites all parents of newborns to join the 100 Before One challenge. Help your baby become a lifelong reader by joining the challenge and reading 100 books before your baby’s first birthday. As related recently in a [New York Times article](http://www.nytimes.com/2014/06/24/us/pediatrics-group-to-recommend-reading-aloud-to-children-from-birth.html?_r=0), the American Academy of Pediatrics recommends reading to infants starting from birth to aid in brain development and vocabulary growth.
-
-Parents that register their babies for 100 Before One will receive a free tote bag, booklists, a DVD of baby rhymes, a Highlights baby magazine, and a folder to keep track of the books your child has heard.  After reading and listening to 25 books of your choice, parents return to Darien Library to receive their next blank list of 25 to fill in.
-
-Upon completion of the program, your baby will get to go home with a prize courtesy of the Library.
-
-Looking for some book recommendations for babies? We've got a great [list of baby books](/list/15 "Great books for babies") for the youngest of readers.
-
-<div class="margin-bottom-30"></div>
-
-<a href="https://dlchildrenslibrary.wufoo.com/forms/100-before-one-program/"><button class="btn-u btn-u-lg btn-u-dark-blue" type="button">Register your baby for 100 Before One</button></a>
-
+<div class="col-xs-6 col-md-3">
+<p>
+<a href="https://dar.to/3nKcwWO" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>   1-100</a>
+</p>
+<p>
+<a href="https://dar.to/2XE7Xmf" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    101-200</a>
+</p>
+<p>
+<a href="https://dar.to/3nJ35XF" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    201-300</a>
+</p><p>
+<a href="https://dar.to/2XCtonS" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    301-400</a>
+</p><p>
+<a href="https://dar.to/3hJsHQq" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    401-500</a>
+</p></div>
+<div class="col-xs-6 col-md-3">
+<p>
+<a href="https://dar.to/3CpK9kZ" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    501-600</a>
+</p><p>
+<a href="https://dar.to/3CklXjQ" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    601-700</a>
+</p><p>
+<a href="https://dar.to/3Aso6ti" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    701-800</a>
+</p><p>
+<a href="https://dar.to/3AmsJVS" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    801-900</a>
+</p>
+<p>
+<a href="https://dar.to/3zsT8A8" class="btn-u btn-primary btn-block" style="text-decoration:none; color:#000000; background-color:#F9BC5A;"><i class="fa fa-star fa-1x" style="color:#000000;" aria-hidden="true"></i>    901-1000</a>
+</p>
+</div>
 </div>
 
 </div>
+</div>
+</div>
+</div>
 
-<div class="margin-bottom-30"></div>
+
+<a name="kids"></a>
+<div class="row" style="border-left: 5px dashed #F9BC5A; border-bottom: 5px dashed #F9BC5A; border-top: 5px dashed #F9BC5A; padding-top:5px;">
+<div class="col-md-12">
+<div class="row">
+<div class="col-md-12">
+<div class="row" style="margin-top:20px;">
+
+<div class="col-md-11">
+<h2 style="font-size:2.1em;">Tell Me About the Prizes...</h2>
+<br />
+</div>
+
+
+
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4">
+
+<h3>Growth Chart</h3>
+<p>Just by signing up, you will receive an under the sea growth chart to mark your child's height. </p>
+<br />
+<h3>Magnet</h3>
+<p>Read 100 books and you get a cool magnet to put on your car or fridge.</p>
+<br />
+</div>
+<div class="col-md-4">
+
+<h3>Bag</h3>
+<p>Read 500 books and bring home a sturdy canvas tote bag to carry all your books.</p>
+<br />
+
+<h3>Book & Certificate</h3>
+<p>Read 1000 books and your child will take home a certificate for completing the program and a book!</p>
+<br />
+
+</div>
+
+<div class="col-md-4">
+<img class="img-responsive center-block" src="/uploads/departments/youth/1KB4K_Prizes.png" rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);" alt="Prizes" />
+</div>	
+		
+</div>
+</div>
+</div>
+
+<div class="margin-bottom-40"></div>
+<div class="text-center margin-bottom-40">
+</div> 
+
+<h2 class="title-v2"> Looking for more early literacy content? </h2>
+<p>Follow us on Instagram <a href="https://www.instagram.com/darienchildrenslibrary/">@DarienChildrensLibrary</a> for tips, book suggestions, songs and rhymes!
+<div class="row">
+<div class="col-md-4" style="background-color:#2B4C63; border: solid 3px #fff;">
+<br />
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/CSdFxEtFc4a/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/CSdFxEtFc4a/?utm_source=ig_embed&utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/CSdFxEtFc4a/?utm_source=ig_embed&utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Darien Children' Library (@darienchildrenslibrary)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+
+<br />
+
+</div>
+<div class="col-md-4" style="background-color:#F9BC5A; border: solid 3px #fff;">
+<br />
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/COytH-iFPq1/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/COytH-iFPq1/?utm_source=ig_embed&utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/COytH-iFPq1/?utm_source=ig_embed&utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Darien Children' Library (@darienchildrenslibrary)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+
+
+
+<br />
+</div>
+<div class="col-md-4" style="background-color:#2B4C63; border: solid 3px #fff;">
+<br />
+
+<blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/reel/CNGk04RlE61/?utm_source=ig_embed&utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/reel/CNGk04RlE61/?utm_source=ig_embed&utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg width="50px" height="50px" viewBox="0 0 60 60" version="1.1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink"><g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd"><g transform="translate(-511.000000, -20.000000)" fill="#000000"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/reel/CNGk04RlE61/?utm_source=ig_embed&utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Darien Children' Library (@darienchildrenslibrary)</a></p></div></blockquote> <script async src="//www.instagram.com/embed.js"></script>
+
+<br />
+</div>
+</div>
