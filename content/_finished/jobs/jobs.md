@@ -5,6 +5,10 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
+### [Full-Time Children’s Collection Development Coordinator Librarian](https://dar.to/3oEi5qi "Full-Time Children’s Collection Development Coordinator Librarian")
+Darien Library Children’s Librarians are creative, energetic, empathetic and enthusiastic. The Children’s Collection Development Coordinator Librarian will select and identify youth materials in print and non-print formats, develop and manage multiple collection budgets, and promote new and diverse titles to patrons.     
+<br />
+
 ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />
