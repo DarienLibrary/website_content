@@ -136,7 +136,7 @@ MoMA's renowned collection of modern and contemporary art includes Vincent van G
 * [Check hours](https://dar.to/3sFFUgK "Check MoMA's Hours")
 * Each pass admits five adults (children under 16 are free).
 * Each pass allows entrance to MoMA one hour before the museum opens to the public.
-* Pre-registion is not required. Just present the pass upon arrival.
+* Pre-registration is not required. Just present the pass upon arrival.
 </br>
 </div>
 </div>

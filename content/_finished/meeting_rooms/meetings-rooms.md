@@ -1,12 +1,4 @@
-<div class="alert alert-warning fade in">
-
-### Service Update
-Small group study rooms are available. Large group meeting rooms are not available until further notice.
-</div>
-<br />
-<br />
-
-<!-- View <a href="#LargeGroups">Meeting Rooms for Rent</a>-->
+View <a href="#LargeGroups">Meeting Rooms for Rent</a>
 
 <div class="text-center margin-bottom-50">
 <h2 class="title-v2 title-center">Available for Small Groups</h2>
@@ -124,8 +116,8 @@ These rooms may be rented for a fee per the [Meeting Rooms Policy](/meeting-room
 
 </div>
 <div class="col-xs-12 col-sm-8 col-md-3">
-<!-- <a href="/request-meeting-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply Online</button></a> -->
-We are not offering meeting room rentails until further notice due to the coronavirus outbreak.
+<a href="/request-meeting-room"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Apply Online</button></a>
+
 </div>
 </div>
 
@@ -174,8 +166,26 @@ Amenities include a backlit projection screen, cable TV access, and a sidebar co
   </div>
 </div>
 
-
 <div class="row margin-bottom-10">
+   <div class="col-xs-12 col-sm-4 col-md-10">
+
+#### Small Conference Room
+
+Capacity: 12
+
+  </div>
+</div>
+  <div class="row margin-bottom-30">
+ <div class="col-xs-12 col-sm-4 col-md-4">
+     <img src="/uploads/library_building/interior/small_conference_room_coming_soon.jpg" class="img-responsive" alt="Small Conference Room" />
+  </div>
+ <div class="col-xs-12 col-sm-8 col-md-8">
+
+The Small Conference Room provides groups of 12 or less with the space they need to have focused, in-depth discussions. Beautifully lit by a window that overlooks the Periodicals Room, this room is sunny throughout the year. The Small Conference Room is located on the Mezzanine Level of the Library.
+
+  </div>
+
+<!-- <div class="row margin-bottom-10">
    <div class="col-xs-12 col-sm-4 col-md-10">
 
 #### Technology Training Center
@@ -193,5 +203,5 @@ Capacity: 12
 The Technology Training Center is a powerful classroom for small groups. Students face a large screen at the front of the room where the teacher demonstrates their lesson. The small room is ideal for in-depth technology classes or for computer project work. The Technology Training Center is located on the Lower Level by the Power Library.
 
 Amenities include 12 PC computers outfitted with Adobe Creative Suite 5.5 and [many other programs](/technology "Computers & Technology"), an instructor's PC, the large wall-mounted television screen, and a podium.
-  </div>
+  </div> -->
 </div>
