@@ -3,23 +3,12 @@
 <div class="col-md-4">
 
 ### Officers
-Tamara Sload, President<br />
+Millyn Gaaserud, President<br />
 Emily Kroenlein, Vice President<br />
-Millyn Gaaserud, Treasurer<br />
+Karen S. Knapp, Treasurer<br />
 Kim Westcott, Secretary<br />
 Hutch Pegler, Member at Large<br />
 <br />
-<br />
-
-### Terms Expiring 2021
-Nicholas N. Branca<br />
-Alexandra Eising<br />
-Tamara Sload<br />
-Elena Whidden
-<br />
-<br />
-</div>
-<div class="col-md-4">
 
 ### Terms Expiring 2022
 Mike Cippoletti<br />
@@ -40,6 +29,12 @@ D. Jill McCammon<br />
 Diana Nehro<br />
 Min Selkowitz<br />
 <br />
+
+### Terms Expiring 2024
+Maggie Brown Domont<br />
+Adrienne Kelly<br />
+Tyler Kyle<br />
+Elena Whidden<br />
 <br />
 
 </div>

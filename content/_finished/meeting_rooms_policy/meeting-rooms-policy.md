@@ -1,4 +1,4 @@
-[Print this policy](/uploads/pdfs/policies/meeting_rooms_policy.pdf "Print this policy")<br />
+[Print this policy](/uploads/pdfs/policies/meeting_rooms_policy_covid.pdf "Print this policy")<br />
 
 <h4><i class="fa fa-chevron-right"></i> Statement of Policy</h4>
 
@@ -14,11 +14,11 @@ The following Meeting Rooms are available for rent on approval of submitted [onl
 * Community Room (fixed seating for 150, maximum seating for 171 people; room capacity 225)
 * Conference Room (maximum of 22 people seated at a conference table, or approximately 40 if seated for a presentation; room capacity 45)
 * Small Conference Room (maximum of 12 people)
-* Technology Training Center (maximum of 12 people)
+* _Temporarily Unavailable:_ Technology Training Center (maximum of 12 people)
 
 The following Study Rooms are available at no charge for reservation in advance by Darien residents, those who work full time in Darien, and non-resident Friends of the Darien Library at the $300 annual level. Contact the [Room Bookings Coordinator](mailto:lcalka@darienlibrary.org "Lois") or [Knowledge and Learning Staff](mailto:askus@darienlibrary.org "Reference"):
 
-* Second Floor Harris Room (maximum of 8 people)
+* _Temporarily Unavailable:_ Second Floor Harris Room (maximum of 8 people)
 * Mezzanine Lautenbach Writer’s Room (maximum of 6 people)
 * Mezzanine Quiet Study Rooms (Three) (maximum of 2 people)
 
@@ -76,7 +76,7 @@ The Room Bookings Coordinator will work with applicants to determine their ident
 <td>$35/hr. (2 hour minimum)</td>
 </tr>
 <tr>
-<td>Technology Training Center</td>
+<td><em>Temporarily Unavailable:</em> Technology Training Center</td>
 <td>$75/hr. (2 hour minimum)</td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ The Room Bookings Coordinator will work with applicants to determine their ident
 <td>$100/hr. (2 hour minimum)</td>
 </tr>
 <tr>
-<td>Technology Training Center</td>
+<td><em>Temporarily Unavailable:</em> Technology Training Center</td>
 <td>$150/hr. (2 hour minimum)</td>
 </tr>
 <tr>
