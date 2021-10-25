@@ -8,7 +8,7 @@ The following policy outlines the use of the Library’s public computers and us
 
 <h4><i class="fa fa-chevron-right"></i> Accessing a Public Computer</h4>
 
-Library patrons with registered library cards may log in to a public computer using their library card barcode. Public computer use may be restricted based upon the standing of a patron's account. Library cards and the privileges they convey are not transferrable. Guest passes to log in to the public computers may be made available upon request. Patrons must provide a personal identity document (ID) with their name and photograph in order to receive a guest pass. The names of individuals to whom guest passes are issued are recorded. The Library reserves the right to refuse to issue a guest pass. Guest passes are not transferrable and expire at the end of the day.
+Library patrons with registered library cards may log in to a public computer using their library card barcode. Public computer use may be restricted based upon the standing of a patron's account. Library cards and the privileges they convey are not transferrable. Guest passes to log in to the public computers may be made available upon request. The names of individuals to whom guest passes are issued are recorded. The Library reserves the right to refuse to issue a guest pass. Guest passes are not transferrable and expire at the end of the day.
 <br />
 <br />
 
