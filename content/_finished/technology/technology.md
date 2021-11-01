@@ -10,14 +10,11 @@ We have seventeen public computers available on the Second Level. You are guaran
 <br />
 
 ### Technology to Take Home
+We offer technology for demonstrative use for children and adults. The WiFi hotspot will keep you connected on U.S. roads. [View the full list](/catalog/search/keyword?search=%2A&formats=equipment "View list of gadgets") of gadgets you may borrow. 
 
-Technology items you may borrow (e.g. iPads and projectors) is currently suspended.
+You may also [reserve](https://dar.to/3GoHhYp "Reserve") the projector, camcorder, and WiFi hotspot for specific dates.
 <br />
 <br />
-
-<!--We offer technology for demonstrative use and as well to keep you connected on the road with a WiFi hotspot. Borrow a Roku Media Center device to access Netflix and Hulu. Find out what your car's error message means. [View the full list](/catalog/search/keyword?search=%2A&formats=equipment "View list of gadgets") of gadgets you may borrow. 
-
-You may also [reserve](/reserve-tech "Reserve") the projector, projector screen, camcorder, tripod, and WiFi for specific dates.-->
 
 ### Wireless Printing
 Everyone may print wirelessly from home or in the Library using our [Mobile Print Service](https://dar.to/2gAeFAH "Mobile Print Service").You will need to visit the print release station on the second floor to complete your transaction. 

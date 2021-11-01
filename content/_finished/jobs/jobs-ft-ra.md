@@ -5,7 +5,7 @@ Darien Library seeks an enthusiastic, collegial, and motivated candidate to join
 
 ### Duties & Responsibilities
 
-* Staffing the Welcome Desk for three-to-four hours per day to provide extreme customer service to our library patrons and perform a variety of public-facing circulation duties.
+* Staffing the Welcome Desk for three-to-four hours per day to provide exemplary customer service to our library patrons and perform a variety of public-facing circulation duties.
 * Participating in departmental tasks related to the Welcome Desk, including weeding books, book displays, cash drawer count, patron emails and phone calls, creating content for the website, and making Readers’ Advisory tools.
 * Reading avidly and sharing your passion for reading with patrons and fellow staff members.
 * Offering confident Readers Advisory in-person and online.

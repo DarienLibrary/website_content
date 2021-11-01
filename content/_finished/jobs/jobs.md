@@ -14,10 +14,10 @@ Darien Library seeks an enthusiastic, collegial, and motivated candidate to join
 <br />
 <br />
 
-### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
+<!-- ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
 Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
 <br />
-<br />
+<br />-->
 
 **We are a _Library Journal_ Five-Star Library.**
 
