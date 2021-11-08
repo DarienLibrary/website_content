@@ -3,10 +3,10 @@
 <div class="col-md-6">
 <h2 style="color:#009623;">Welcome to Darien Library Express Services!</h2>
 
-Darien Library is open to visitors normal hours. Some of our programs are now available in-person outdoors. Most events continue to be held virtually. Marks are required at all times while in the building and must fully cover your mouth and nose at all times.
+Darien Library is open to visitors normal hours. Some of our programs are now available in-person outdoors. Most events continue to be held virtually. Masks are required at all times while in the building and must fully cover your mouth and nose at all times. Individuals with medical exemptions will be asked for documentation.
 <br />
 <br />
-We do not have a date when full services and in-person programs will resume. The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state, and local regulations and guidance.
+The health and safety of our community and patrons is our top priority and we will continue to abide by federal, state, and local regulations and guidance.
 <br />
 <br />
 
@@ -22,7 +22,6 @@ If you need assistance, please contact us by [email](mailto:askus@darienlibrary.
 
 <strong>Services</strong>
 <ul>
-<li><a href="#may17">Changes Coming May 17th</a></li>
 <li><a href="#available">In-Person Services Available</a></li>
 <li><a href="#virtual">What Stays Virtual</a></li>
 <li><a href="#not">Services Not Currently Available</a></li>
@@ -93,7 +92,6 @@ Friday<br />
 Saturday and Sunday<br />
 1 to 5 p.m.
 <br />
-<br />
 </div>
 <div class="col-md-4">
 <strong>Returns Accepted</strong><br />
@@ -117,9 +115,10 @@ When the building is open. See the Library's hours.
 * Borrowing of books, audiobooks, movies, magazines, and video games
 * Access to all collections throughout the building to borrow materials
 * Study rooms for individuals or small groups
+* Meeting room rentals
 * Access to public computers and internet
 * Scanning, printing, copying, and faxing
-* Reference assistance by phone or email is strongly encouraged
+* Reference assistance
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -141,7 +140,6 @@ When the building is open. See the Library's hours.
 <h3 style="color:#009623;"><a id="virtual"></a>What Stays Virtual</h3>
 
 * Most programming and events will continue to be hosted online unless otherwise noted.
-* Reference assistance by phone or email is strongly encouraged.
 * Book Groups advisory appointments.
 * Access to all the great digital content like e-Books, e-Audiobooks, movies, magazines, and music from **[Digital Darien](/digital "Digital Darien")** website.
 * Remote access to **[research resources](/research "Research resources")** like databases 
@@ -156,10 +154,9 @@ When the building is open. See the Library's hours.
 
 <h3 style="color:#009623;"><a id="not"></a>Services Not Available Currently</h3>
 
-* Book-a-Libarian assistance for Technology
-* Borrowing technology items including kits from the Children's Library
+* Book-a-Librarian assistance for Technology
+* Borrowing technology kits from the Children's Library
 * Business Services: banner printing, custom print jobs, paper trimmers, laminating, typewriter use
-* Meeting room rentals
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -168,11 +165,10 @@ When the building is open. See the Library's hours.
 
 <h3 style="color:#009623;"><a id="different"></a>What's Different</h3>
 
-* Marks are required to be worn at all times while within the Library in accordance with updated guidance from the Connecticut Department of Health.
+* Masks are required to be worn at all times while within the Library in accordance with updated guidance from the Connecticut Department of Health.
 * Children under age 12 must remain with a caregiver at all times. 
 * The Teen Lounge is open Monday-Thursday from 3 to 8 p.m., Friday from 3 to 6 p.m., and Saturday and Sunday from 1 to 5 p.m.
-* The Lower Level of the Library will be closed. 
-* All meeting rooms are closed until further notice. 
+* The Lower Level of the Library is closed except for the Teen Lounge for the hours cited above. 
 * Public computers are available on the Second Level.
 * Contactless checkouts with three self-checkouts available on the First Level. 
 * No food or drinks are allowed in the Library until further notice. 
@@ -184,7 +180,6 @@ When the building is open. See the Library's hours.
 
 <h3 style="color:#009623;"><a id="closed"></a>Closed Locations</h3>
 
-* All meeting rooms
 * The Storytime Room, Toddler Room, and TEA Room in the Children's Library
 * Art Gallery on the Lower Level
 
@@ -218,6 +213,24 @@ We care about your health and safety. Before reopening, we self-certified with t
 <br />
 <hr>
 
+<h3 style="color:#009623;"><a id="returns"></a>Holds & Returns</h3>
+Held items are available behind the Welcome Desk. Returns are accepted seven days a week! The outdoor drop is open 24/7 while the indoor drop is available when the building is open.
+
+Late fines were reinstated as of June 1, 2021.
+<br />
+<br />
+<a href="#return">Return to the top of the page</a>
+<br />
+<br />
+<hr >
+
+<h3 style="color:#009623;"><a id="returns"></a>Where to go for updates?</h3>
+
+In the coming months, we look forward to bringing back meeting rooms and indoor events. Keep an eye on our website, [email newsletters](https://dar.to/2pZuw14 "email newsletters"), and social media (@darienlibrary) for the latest updates. 
+<br />
+<br />
+<a href="#return">Return to the top of the page</a> 
+</div>
 <!-- <h3 style="color:#009623;"><a id="pickup"></a>Community Room Pick-up</h3>
 To maintain a contactless holds pick-up system, we will place your requested items in the Community Room (auditorium). You will enter from the courtyard entrance and leave out the side drive entrance on the other side. 
 
@@ -291,68 +304,3 @@ If you need assistance, please call the Welcome Desk at <a href="tel:2036695239"
 <a href="#return">Return to the top of the page</a>
 <br />
 <hr> -->
-
-<h3 style="color:#009623;"><a id="returns"></a>Returns</h3>
-Returns are accepted seven days a week! The outdoor drop is open 24/7 while the indoor drop is available when the building is open.
-
-Late fines will be reinstated beginning June 1st.
-<br />
-<br />
-<a href="#return">Return to the top of the page</a>
-<br />
-<br />
-</div>
-
-<hr>
-
-<h3 style="color:#009623;"><a id="may17"></a>Changes Coming May 17th</h3>
-Darien Library is thrilled to announce that starting on Monday, May 17th, we will resume normal hours including weekday evening hours. Below are details about what other regular activities and services will also resume that day. Thank you for your support over the past year.
-<br /> 
-<br />
-
-#### Normal Hours
-* Monday-Thursday: 9 a.m. to 9 p.m. 
-* Friday: 9 a.m. to 6 p.m. 
-* Saturday:  9 a.m. to 5 p.m. 
-* Sunday: 1 to 5 p.m. 
-
-The Children’s Library closes at 8 p.m. Monday-Thursday.  
-<br />
-
-<div class="row">
-<div class="col-md-6">
-
-#### What's New
-* No time limits for using the Library  
-* Unlimited holds  
-* Return items 24/7 through the materials handling system 
-* Study rooms for individuals and small groups (added in July)
-* 60-minute computer access 
-* The return of some seating throughout the building 
-* No appointments needed to visit the Children’s Library 
-* Notary services resume  
-* Holds will continue to be picked up from the Community Room 
-* Outdoor events beginning this June and continued virtual events
-
-Since items may be returned 24 hours a day starting May 17th, we will resume late fines on June 1st.  
-<br />
-
-</div>
-<div class="col-md-6">
-
-#### Prioritizing Safety 
-The following safety measures continue:  
-
-* Masking is required while in the building
-* Enhanced cleaning procedures 
-* Plexiglass at staffed service desks 
-* Food and drinks are not allowed in the building at this time
-<br />
-
-</div>
-</div>
-
-In the coming months, we look forward to bringing back meeting rooms and indoor events. Keep an eye on our website, [email newsletters](https://dar.to/2pZuw14 "email newsletters"), and social media (@darienlibrary) for the latest updates. 
-<br />
-<br />
-<a href="#return">Return to the top of the page</a> 

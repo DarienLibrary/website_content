@@ -4,15 +4,13 @@
 ### Changes to the Museum Passes Program Due to COVID-19
 Several of the museums that Darien Library usually offers passes for have not reopened or are not accepting library passes at this time. [Browse passes](https://dar.to/3EkHtGi "Browse passes") from the museums, nature centers, and Bradley Zoo that are currently open. You can also [join our new exhibits mailing list](https://dar.to/2HWImat "Join mailing list"). We quarterly send out an email listing our favorite current and upcoming exhibits. 
 
-We have also updated our museum passes program:  
-
-* Museum passes are available on a first-come, first-served basis to Darien residents, those who work in Darien, or a Friend at the $300 level.  
-* Pass borrows must be 18 and up who have a Darien Library card. 
-* The passes are available at the Welcome Desk when you first enter the building. 
-* You may call us at [203-669-5239](tel:2036695239 "Call the Welcome Desk") to inquire if a pass is available. If yes, we will hold it for you until the end of the day. 
-* Online reservations are not available. 
-* It is your responsibility to check the museum's hours and when necessary, make an appointment.
-* View the rest of the <a href="#Steps">instructions</a>
+* These passes are on a first-come, first-served basis to Darien residents, those who work in Darien, or a Friend at the $300 level who are age 18 and up.
+* Reserve a pass for the date before you will visit the destination and then pick it up at the Welcome Desk on the day of your reservation. 
+* Passes circulate for three days including the date the pass is borrowed. 
+* Your confirmation notice will include the due date and the pass is due back by 5 p.m. on the due date.
+* Return the pass to the Welcome Desk. Late fines are $10 per day. If a pass is lost, you will need to pay the full replacement cost. 
+* Only one pass per family is allowed at a time. 
+* You may not borrow the same pass more than once a week.
 <br />
 </div>
 <div class="col-md-4">

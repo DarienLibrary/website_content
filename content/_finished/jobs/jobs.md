@@ -5,10 +5,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time Children’s Collection Development Coordinator Librarian](https://dar.to/3oEi5qi "Full-Time Children’s Collection Development Coordinator Librarian")
-Darien Library Children’s Librarians are creative, energetic, empathetic and enthusiastic. The Children’s Collection Development Coordinator Librarian will select and identify youth materials in print and non-print formats, develop and manage multiple collection budgets, and promote new and diverse titles to patrons.     
-<br />
-
 ### [Full-Time Readers’ Advisor](https://dar.to/3CrI6gR "Full-Time Readers’ Advisor")
 Darien Library seeks an enthusiastic, collegial, and motivated candidate to join our dynamic Reader Services department, full-time. The successful candidate has a strong focus on customer service, a love of books and reading, and the ability to work collaboratively in a fast-paced, friendly environment. This position reports to Head of Reader Services.
 <br />
