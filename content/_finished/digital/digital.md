@@ -157,7 +157,7 @@ Download the _LibraryPass_ app to your mobile device from the Apple or Android a
 
 ### ComicsPlus for Kids & Teens
 
-[View the ComicsPlus for Adults Catalog](https://dar.to/3z1RRAW "ComicsPlus for Kids & Teens")
+[View the ComicsPlus for Kids & Teens Catalog](https://dar.to/3z1RRAW "ComicsPlus for Kids & Teens")
 
 There are no limits on how many comics you may borrow and no waits. Download comics may be read offline on your computer, tablet, or phone. This collection is suitable for all ages.
 
