@@ -2,7 +2,7 @@ The Materials Management Department at Darien Library has a part-time position o
 <br />
 
 ### Duties & Responsibilities
-The shelving team is responsible to manage all of the returned library materials (averaging 1000 per day) and return them to the shelves quickly, efficiently, and in good order. Our unique automated materials handling system helps by checking in and sorting items. Shelvers are responsible to learn how to work with the automated system and troubleshoot problems when they occur. Other duties include performing inventory projects and managing holds.
+The shelving team is responsible for managing all of the returned library materials (averaging 1000 per day) and returning them to the shelves quickly, efficiently, and in good order. Our unique automated materials handling system helps by checking in and sorting items. Shelvers are responsible to learn how to work with the automated system and troubleshoot problems when they occur. Other duties include performing inventory projects and managing holds.
 <br />
 <br />
 
@@ -12,7 +12,7 @@ The ideal candidate is friendly, helpful, and customer service oriented. They mu
 <br />
 
 ### Schedule
-This is a part time position that will include weekdays, evenings, and up to two weekends per month. Candidate must be prepared to work at least 10 hours per week, but will not exceed 29 hours per week. 
+This is a part-time position that will include weekdays, evenings, and up to two weekends per month. Candidate must be prepared to work at least 10 hours per week, but will not exceed 29 hours per week. 
 <br />
 <br />
 
@@ -22,7 +22,7 @@ $15/hour
 <br />
 
 ### Contact Information
-To apply, please send your cover letter and resume to Lois Calka, Head of Materials Management, at [lcalka@darienlibrary.org](mailto:lcalka@darienlibrary.org "Lois Calka").
+To apply, please send your cover letter and resume to Kate Frick, Head of Materials Management, at [kfrick@darienlibrary.org](mailto:kfrick@darienlibrary.org "Kate Frick").
 <br />
 <br />
 

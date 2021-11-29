@@ -171,7 +171,7 @@ When the building is open. See the Library's hours.
 * The Lower Level of the Library is closed except for the Teen Lounge for the hours cited above. 
 * Public computers are available on the Second Level.
 * Contactless checkouts with three self-checkouts available on the First Level. 
-* No food or drinks are allowed in the Library until further notice. 
+* Food an drinks are allowed only in the cafe area and courtyard until further notice. 
 
 <br />
 <a href="#return">Return to the top of the page</a>
@@ -206,7 +206,7 @@ We care about your health and safety. Before reopening, we self-certified with t
 * Masks must be worn in the Library at all times and fully cover the nose and mouth. 
 * Children under age 12 must remain with a caregiver at all times. 
 * Social distancing of 6 feet is in effect. 
-* Food and drinks are not allowed within the building at this time.
+* Food and drinks may be enjoyed in the cafe area or in the courtyard.
 
 <br />
 <a href="#return">Return to the top of the page</a>
