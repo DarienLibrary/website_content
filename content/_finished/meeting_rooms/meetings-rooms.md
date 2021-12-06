@@ -19,7 +19,7 @@ Need a place to study or have a meeting? We have a variety of spaces to meet you
 
 
 <div class="row">
-<!-- <div class="col-md-4 md-margin-bottom-50">
+<div class="col-md-4 md-margin-bottom-50">
 
 #### Harris Writer's Room
 
@@ -31,7 +31,7 @@ The Harris Writer's Room is great for quiet working groups! From this room you a
 
 Cellphone use is permitted.
 
-</div> -->
+</div>
 <div class="col-md-4 md-margin-bottom-50">
 
 #### Lautenbach Writer's Room

@@ -16,9 +16,9 @@ The following Meeting Rooms are available for rent on approval of submitted [onl
 * Small Conference Room (maximum of 12 people)
 * _Temporarily Unavailable:_ Technology Training Center (maximum of 12 people)
 
-The following Study Rooms are available at no charge for reservation in advance by Darien residents, those who work full time in Darien, and non-resident Friends of the Darien Library at the $300 annual level. Contact the [Room Bookings Coordinator](mailto:lcalka@darienlibrary.org "Lois") or [Knowledge and Learning Staff](mailto:askus@darienlibrary.org "Reference"):
+The following Study Rooms are available at no charge for reservation in advance by Darien residents, those who work full time in Darien, and non-resident Friends of the Darien Library at the $300 annual level. Contact the [Room Bookings Coordinator](mailto:kalfini@darienlibrary.org "Karyn") or [Knowledge and Learning Staff](mailto:askus@darienlibrary.org "Reference"):
 
-* _Temporarily Unavailable:_ Second Floor Harris Room (maximum of 8 people)
+* Second Level Harris Room (maximum of 8 people)
 * Mezzanine Lautenbach Writer’s Room (maximum of 6 people)
 * Mezzanine Quiet Study Rooms (Three) (maximum of 2 people)
 
