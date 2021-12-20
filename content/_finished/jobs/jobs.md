@@ -5,9 +5,8 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-
-### [Part-Time Shelver](https://dar.to/3zgCsf9 "Part-Time Shelver")
-We are seeking an energetic and organized individual who will work efficiently to keep the Library collections in order.
+### [Full-Time Custodian](https://dar.to/3oPxOTh "Full-Time Custodian")
+Darien Library seeks a full-time custodian. This individual covers all public and staff spaces, ensuring the highest standards of cleanliness and organization. Reporting to the Building Engineer, the Custodian is self-motivated and has the ability to work with a team of outsourced cleaners and Library staff members on a frequent basis.
 <br />
 <br />
 
