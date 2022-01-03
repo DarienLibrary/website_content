@@ -5,15 +5,15 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time Custodian](https://dar.to/3oPxOTh "Full-Time Custodian")
-Darien Library seeks a full-time custodian. This individual covers all public and staff spaces, ensuring the highest standards of cleanliness and organization. Reporting to the Building Engineer, the Custodian is self-motivated and has the ability to work with a team of outsourced cleaners and Library staff members on a frequent basis.
+### [Part-Time Knowledge and Learning Assistant](https://dar.to/32D6XS0 "Part-Time Knowledge and Learning Assistant")
+Darien Library seeks a friendly, energetic self-starter and life-long learner with excellent information-seeking and technology skills. The successful candidate will provide extraordinary customer service, research help, and tech support to Library users. The ideal candidate finds joy in helping others, is perpetually eager to learn new things, and is excited to work with people from all walks of life.
 <br />
 <br />
 
-<!-- ### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
-Darien Library is seeking a friendly, energetic, dedicated individual with excellent technology skills to join a first-class team of professionals to provide top-notch customer service and help desk support to library users.
+### [Part-Time Technology Help Desk Assistant](https://dar.to/2YsaZoi "Part-Time Technology Help Desk Assistant")
+Darien Library seeks a friendly, energetic, dedicated individual with excellent technology skills. The successful candidate will join a first-class team of professionals, and provide top-notch customer service and Help Desk support to Library users.
 <br />
-<br />-->
+<br />
 
 **We are a _Library Journal_ Five-Star Library.**
 
