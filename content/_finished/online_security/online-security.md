@@ -176,7 +176,7 @@ Two-factor authentication requires someone to have more than just your username 
 
 In most cases, you are texted a short code or you have an authentication app on your phone which you open and it will show you a code. You then enter the code into the website to finish logging in. This method adds an additional layer of complexity, but is very helpful in protecting your website accounts!
 
-Use a web search engine to look for the name of your website and two-factor authentication. For example: Facebook two-factor authentication. [View a list of sites](https://dar.to/2mBIGBS "View a list of sites") which offer two-factor authentication.
+Use a web search engine to look for the name of your website and two-factor authentication. For example: Facebook two-factor authentication. [View a list of sites](https://dar.to/3mThOhr "View a list of sites") which offer two-factor authentication.
 </div>
 </div>
 </div>

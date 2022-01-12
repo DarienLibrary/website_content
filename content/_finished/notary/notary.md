@@ -1,6 +1,9 @@
 <div class="row">
 	<div class="col-md-9">
 
+Our notary service is temporarily suspended. We will update this page when the service resumes. 
+
+<!--
 ### Make an Appointment
 Do you need your paperwork notarized? Our Notary Publics are available to notarize your documents free of charge. Please call the Library to schedule an appointment for a notarization at [203-669-5336](tel:2036695236 "Call the Reference Desk").
 <br /> 
@@ -35,7 +38,7 @@ Be sure the documents are complete and ready for signature. Please don't sign th
 
 If you need legal advice, please consult an attorney. The Notary Public is prohibited from helping you to prepare, complete, or understand legal documents.
 <br />
-<br />
+<br /> -->
 </div>
 
 <!-- <a name="appt"></a>

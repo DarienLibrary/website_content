@@ -1,12 +1,14 @@
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
 
-## Volunteer Income Tax Assistance (VITA) is Virtual
+## Volunteer Income Tax Assistance (VITA) is In-Person and Virtual
 <br />
 <div class="row">
 <div class="col-md-6">
 
-The Virtual VITA Tax-Aide program at Darien Library returns this year with a few changes to ensure the safety of all. An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a> and/or [watch a video](http://dar.to/35nkjju "watch a video") that explains their processes.
+The VITA Tax-Aide program at Darien Library returns this year with a few changes to ensure the safety of all. You may have your taxes prepared in person or online. 
+
+An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a> and/or [watch a video](http://dar.to/35nkjju "watch a video") that explains their processes.
 <br />
 <br />
 
@@ -18,18 +20,43 @@ The Virtual VITA Tax-Aide program at Darien Library returns this year with a few
 <div class="col-md-6">
 
 ### Key Dates
-* January 25th: Appointment registration opens
-* May 17th: Last day of this tax preparation service
-<!-- * January 29th: Scanning and data entry service begins -->
+* January 24th: Appointment registration opens
+* April 15th: Last day of this tax preparation service
 <br />
-
-<!-- A limited <a href="#appt">scanning and data entry service</a> -->
 
 _By clicking on the below button, you are leaving Darien Library's website. You are submitting your personal information at your own risk, and the Library is not liable for the security of your personal information._
 <br />
 <br />
 
-<a href="http://dar.to/3sRNXra"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Register for an Appointment</button></a>
+<a href="https://dar.to/3Gha4xI"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Pre-register for an Appointment</button></a>
+
+</div>
+</div>
+
+<hr />
+
+## In-Person Tax Preparation and Assistance
+<br />
+
+<div class="row">
+<div class="col-md-6">
+
+<h3>How does this work?</h3>
+<p>You will meet in person with a VITA preparer at Darien Library. It is strongly encouraged to call <a href="tel:8605908910">860-590-8910</a> to set up an appointment ahead of time. Bring all of your 2021 tax paperwork <a href="#docs">(list of docs)</a> and a photo ID to your appointment.</p>
+
+<p><a href="http://dar.to/2vLm4Ty">View directions</a> to Darien Library at 1441 Post Road.</p>
+<br />
+
+</div>
+<div class="col-md-6">
+
+### In-Person Days
+* Mondays from 1 to 7 p.m.
+* Fridays from 9 a.m. to 4 p.m.
+* Saturdays from 9 a.m. to 4 p.m.
+
+The appointments will be held on the Mezzanine level of Darien Library. Take the elevator to M or the stairs to the top floor. Make a left and your destination is at the end of the hallway.
+<br />
 
 </div>
 </div>
@@ -51,7 +78,7 @@ The tax preparers will strive to call you at a time of your choosing, but that c
 <div class="col-md-6">
 
 ### Who is eligible for Virtual VITA?
-At this time, VITA are able to assist people who are filing their current-year 2020 taxes as well as back taxes for the three prior years, (2019, 2018 and 2017). In addition, they can amend returns for all 4 tax years.
+At this time, VITA are able to assist people who are filing their current-year 2021 taxes as well as back taxes for the three prior years (2020, 2019 and 2018). In addition, they can amend returns for all 4 tax years.
 
 </div>
 </div>
@@ -67,9 +94,7 @@ At this time, VITA are able to assist people who are filing their current-year 2
 ### In-Person Appointments
 We strongly encourage you to have your returns prepared using the all-virtual filing method.  
 
-However, for those with minimal computer skills or who can’t elicit the help of family or friends, Darien Library will be offering limited in-person appointments by which your basic information and tax documents will be entered into the “Get Your Refund” system by the same group of IRS-certified volunteers we have partnered with for years. 
-
-Due to COVID restrictions, this service is very limited and appointments are required. Your return will be prepared remotely by Virtual VITA volunteers and arrangements will be made to deliver the finished return to you at a later date.        
+However, for those with minimal computer skills or who can’t elicit the help of family or friends, Darien Library will be offering limited in-person appointments by which your basic information and tax documents will be entered into the “Get Your Refund” system by the same group of IRS-certified volunteers we have partnered with for years.         
 <br />
 <br />
 
@@ -77,18 +102,12 @@ Due to COVID restrictions, this service is very limited and appointments are req
 <div class="col-md-6">
 
 ### Appointments
-You may start making your scanning appointments now. The first appointments will be on January 29th.
+You may start making your scanning appointments now. The first appointments will be on January 24th.
 
 * Fridays from 9 a.m. to 1 p.m.
 * Saturdays from 1 to 5 p.m. 
 <br />
 
-### Schedule Your Appointment
-Call the Reference Desk at [203-669-5236](tel:2036695236 "Call the Reference Desk"). 
-
-These appointments are for those who need help filling out an online form. You will need to bring all your <a href="#docs">tax-related documents</a> with you. 
-
-[View directions](http://dar.to/2vLm4Ty "View directions") to Darien Library at 1441 Post Road.
 </div>
 </div>
 <hr /> -->
@@ -102,8 +121,8 @@ You will need to fill out the survey on a smartphone or computer. You will also 
 <br />
 
 <a name="docs"></a>
-**What forms will I need to fill out the survey?**<br />
-The survey will ask you to submit pictures of all relevant tax forms and receipts for 2020 and a photo ID. Examples include: 
+**What forms will I need?**<br />
+Regardless of whether you will be meeting in-person or online, you will be asked you for all relevant tax forms and receipts for 2021. If your appointment is online, you will need to submit pictures of all relevant tax forms, receipts, and a photo ID. Examples include: 
 
 <div class="row">
 <div class="col-md-6">

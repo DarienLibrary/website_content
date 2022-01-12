@@ -38,7 +38,7 @@ The Darien Library observes and promotes a policy of equal employment opportunit
 
 <div class="row margin-bottom-20">
 	
-**We are a _Library Journal_ Five-Star Library.**
+**We are a _Library Journal_ Star Library.**
 
 <div class="col-md-3">
 <a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>

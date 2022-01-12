@@ -1,7 +1,7 @@
 <div class="row margin-bottom-30">
 <div class="col-md-6">
 
-Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. We are a _Library Journal_ Five-Star Library.
+Darien Library's staff are courteous, knowledgeable, and passionate about helping the community. We love our jobs so openings are rare. However, if we do have a position available, we will post it to this page. We are a _Library Journal_ Star Library.
 
 <br />
 

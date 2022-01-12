@@ -5,7 +5,6 @@ Darien Library seeks a friendly, energetic self-starter and life-long learner wi
 ### Duties & Responsibilities
 * Staff an active reference desk
 * Oversee activity in the adult Research, Magazine, and quiet study areas
-*
 * Utilize appropriate reference resources to connect patrons to the information they seek
 * Assist patrons with print and digital resources
 * Maintain a current knowledge of the Library’s electronic resources including databases and links from the Research page
@@ -46,7 +45,7 @@ The Darien Library observes and promotes a policy of equal employment opportunit
 
 <div class="row margin-bottom-20">
 
-**We are a _Library Journal_ Five-Star Library.**
+**We are a _Library Journal_ Star Library.**
 
 <div class="col-md-3">
 <a href="https://dar.to/2Re2Gd7"><img class="img-responsive" src="/uploads/logos/2018_top_places_to_work_award.jpg" alt="Top Workplace" /></a>
