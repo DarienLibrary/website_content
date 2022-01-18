@@ -1,27 +1,28 @@
 <div class="row">
 <div class="col-md-10 col-md-offset-1">
 
-## Volunteer Income Tax Assistance (VITA) is In-Person and Virtual
+## Free Tax Return Preparation: In Person and Virtual
 <br />
 <div class="row">
 <div class="col-md-6">
 
-The VITA Tax-Aide program at Darien Library returns this year with a few changes to ensure the safety of all. You may have your taxes prepared in person or online. 
-
-An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a> and/or [watch a video](http://dar.to/35nkjju "watch a video") that explains their processes.
+Darien Library has teamed up with SimplifyCT, the same group of IRS-certified volunteers that have been preparing your taxes for years, to again provide our community with the no cost, full-service AARP/VITA/IRS Volunteer Tax Assistance Program. The service will be available both on-site at Darien Library and virtually through a secure internet site.
 <br />
 <br />
 
-**Note:** One of the questions you will be asked is if you earn more than $66,000. Even if your income exceeds this amount, do not check this box. Virtual VITA will prepare your return irrespective of your income.
+### Who is eligible for these services?
+There are no age or income limits for these services, but special attention is given to seniors and low to moderate income households.
 
+<!-- An easy-to-use virtual filing system allows you to work with IRS-certified tax preparers from the comfort of your home. Please see VITA's <a href="#Security">security protocol</a> and/or [watch a video](http://dar.to/35nkjju "watch a video") that explains their processes.-->
 <br />
 
 </div>
 <div class="col-md-6">
 
 ### Key Dates
+* January 12th: Appointment registration opens
 * January 24th: Appointment registration opens
-* April 15th: Last day of this tax preparation service
+* April 16th: Last day of this tax preparation service
 <br />
 
 _By clicking on the below button, you are leaving Darien Library's website. You are submitting your personal information at your own risk, and the Library is not liable for the security of your personal information._
@@ -42,7 +43,7 @@ _By clicking on the below button, you are leaving Darien Library's website. You 
 <div class="col-md-6">
 
 <h3>How does this work?</h3>
-<p>You will meet in person with a VITA preparer at Darien Library. It is strongly encouraged to call <a href="tel:8605908910">860-590-8910</a> to set up an appointment ahead of time. Bring all of your 2021 tax paperwork <a href="#docs">(list of docs)</a> and a photo ID to your appointment.</p>
+<p>You will meet in person with an IRS-certified preparer at Darien Library. Appointments should be made ahead of time by calling <a href="tel:8605908910">860-590-8910</a>. You must bring all of your 2021 tax paperwork <a href="#docs">(see list of items below)</a>, a photo ID, and proof of your and your dependents' Social Security numbers.
 
 <p><a href="http://dar.to/2vLm4Ty">View directions</a> to Darien Library at 1441 Post Road.</p>
 <br />
@@ -69,81 +70,57 @@ The appointments will be held on the Mezzanine level of Darien Library. Take the
 <div class="col-md-6">
 
 ### How does this work?
-You will complete the online intake survey which will ask you to fill out basic personal information, upload photos of your tax forms, and choose a preferred interview time.  
+You can access the virtual option by going to [SimplifyCT.org](https://dar.to/3Gha4xI "SimplifyCT.org") and following directions to the “Get Your Refund” (GYR) virtual site. On this highly encrypted site (like that used by banks and brokerage houses, see protocol below), you will be taken through a series of screens in which you will enter personal information and upload images of your tax forms. Once completed, you will receive a phone call from an IRS-certified volunteer who will the guide you through the rest of the process.
+<br />
+<br />
 
-The tax preparers will strive to call you at a time of your choosing, but that cannot be guaranteed since it depends on counselor availability, that all paperwork was submitted, and other factors.  
+### What technology will I need?
+You will need to access to a smartphone or a tablet with a camera, or a computer with a scanner.
+
+<!-- ### Who is eligible for Virtual VITA?
+At this time, VITA are able to assist people who are filing their current-year 2021 taxes as well as back taxes for the three prior years (2020, 2019 and 2018). In addition, they can amend returns for all 4 tax years. -->
 <br />
 
 </div>
 <div class="col-md-6">
 
-### Who is eligible for Virtual VITA?
-At this time, VITA are able to assist people who are filing their current-year 2021 taxes as well as back taxes for the three prior years (2020, 2019 and 2018). In addition, they can amend returns for all 4 tax years.
+<a name="Security"></a>
 
+### What is the security protocol?
+While no data security plan is 100% fail-safe, the following SimplifyCT's security policy is in place to provide the safest environment for our clients:
+
+* All taxpayer information sent to the GYR website is stored in an encrypted database protected from external networks.
+* The website will not permit any network connections without strong encryption protocols.
+* All connections are encrypted using SSL (Secure Sockets Layer) certificates.
+* Use of Google’s “Recaptcha” to protect against malicious bots.
+* Utilization of a publicly registered domain name.
+* Implementation of an incident response plan that includes reporting security incidents to the IRS.
 </div>
 </div>
 <hr />
 
-<!-- 
-<a id="appt"></a>
-## Scanning and Data Entry Service
-<br />
-<div class="row">
-<div class="col-md-6">
-
-### In-Person Appointments
-We strongly encourage you to have your returns prepared using the all-virtual filing method.  
-
-However, for those with minimal computer skills or who can’t elicit the help of family or friends, Darien Library will be offering limited in-person appointments by which your basic information and tax documents will be entered into the “Get Your Refund” system by the same group of IRS-certified volunteers we have partnered with for years.         
-<br />
-<br />
-
-</div>
-<div class="col-md-6">
-
-### Appointments
-You may start making your scanning appointments now. The first appointments will be on January 24th.
-
-* Fridays from 9 a.m. to 1 p.m.
-* Saturdays from 1 to 5 p.m. 
-<br />
-
-</div>
-</div>
-<hr /> -->
-
-## Frequently Asked Questions
-<br />
-
-**What technology will I need?**<br />
-You will need to fill out the survey on a smartphone or computer. You will also need access to internet, as well as a working phone number and email address. 
-<br />
-<br />
-
 <a name="docs"></a>
-**What forms will I need?**<br />
-Regardless of whether you will be meeting in-person or online, you will be asked you for all relevant tax forms and receipts for 2021. If your appointment is online, you will need to submit pictures of all relevant tax forms, receipts, and a photo ID. Examples include: 
+
+### Forms Needed (For both On-Site and Virtual)
+In addition to photo ID and Social Security cards for all household members, tax documents such as:
 
 <div class="row">
 <div class="col-md-6">
 
-* Wages
-* Retirement income
-* Social Security benefits
-* Unemployment income
-* Self-employment income
-* Interest and dividend income
+* W-2s (Wages) 
+* 1099 INT/DIV (Interest and dividend income)
+* 1099Rs (Pensions, IRAs)
+* SSA-1099 (Social Security)
+* 1095-A (Health Insurance)
 
 </div>
 <div class="col-md-6">
 
-* Tuition statement
-* Car tax payment
-* Real estate tax payment
-* Child care payments
-* Personal business expenses
-* Access Health CT insurance
-
+* 1099-G (Unemployment)
+* 1099-NEC (Self-employment)
+* IRS Letter 6419 – If Advance Child Tax Credits Received
+* IRS Letter 6495 – Stimulus Recap
+* 2019 & 2020 tax returns if possible
 </div>
 </div>
 
@@ -151,7 +128,7 @@ If you are filing with a spouse and/or dependents(s), please upload all relevant
 <br />
 <br />
 
-**How much time will the process take?**<br />
+<!-- **How much time will the process take?**<br />
 Please give yourself at least 30 minutes to complete the survey, depending on your comfort with technology.
 
 After that a preparer and reviewer could take up to an hour with you depending upon the complexity of the return.
@@ -159,20 +136,8 @@ After that a preparer and reviewer could take up to an hour with you depending u
 <br />
 
 **What will I need for my phone appointment?**<br />
-All relevant tax forms and receipts for 2020, as well as the Social Security cards of yourself, your spouse, and any dependents. If you think you’ll receive a refund, please also have your bank account information on hand.
-<br />
-<hr />
+All relevant tax forms and receipts for 2021, as well as the Social Security cards of yourself, your spouse, and any dependents. If you think you’ll receive a refund, please also have your bank account information on hand.
+<br /> -->
 
-<a name="Security"></a>
-
-## VITA Security Protocol
-VirtualVITA, Inc. has teamed up with Code for America to utilize it's IRS Nationally approved  "Get Your Refund Website".  We strive to implement best practices and while no data security plan is 100% fail-safe, the following [Get Your Refund security protocols](http://dar.to/2Nuge75 "Get Your Refund security protocols") are in place to provide the safest environment for our clients:
-
-* All taxpayer information provided through the website is stored in an encrypted database protected from external networks.
-* The intake website will not permit any network connections without strong encryption protocols.
-* All connections are encrypted using SSL (Secure Sockets Layer) certificates.
-* Use of Google Recaptcha to protect against malicious bots.
-* Utilization of a publicly registered domain name.
-* Implementation of an incident response plan that includes reporting security incidents to the IRS.
 </div>
 </div>
