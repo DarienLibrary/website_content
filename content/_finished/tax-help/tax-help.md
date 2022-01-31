@@ -29,7 +29,7 @@ _By clicking on the below button, you are leaving Darien Library's website. You 
 <br />
 <br />
 
-<a href="https://dar.to/3Gha4xI"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Pre-register for an Appointment</button></a>
+<a href="https://dar.to/3Gha4xI"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Register for an Appointment</button></a>
 
 </div>
 </div>

@@ -43,7 +43,7 @@ Direct your students and parents to the Library for [educational programming](/e
 <br />
 
 ### Meeting Rooms
-Host your planning or parenting meetings in one of our many [meeting rooms](/meeting-rooms "Meeting rooms") or recommend the rooms to your students. The rooms range from silent study to group work that can accommodate up to eight patrons. The rooms are popular around midterms and finals, so [request](/request-study-room "Request a study room") a study room up a month in advance.
+Host your planning or parenting meetings in one of our many [meeting rooms](/meeting-rooms "Meeting rooms") or recommend the rooms to your students. The rooms range from silent study to group work that can accommodate up to eight patrons. The rooms are popular around midterms and finals, so [request](/request-study-room "Request a study room") a study room up 14 days in advance.
 
 </div>
 </div>

@@ -20,7 +20,7 @@ Darien Library seeks a friendly, energetic self-starter and life-long learner wi
 * Clear and direct oral and written communication skills.
 * Ability to type quickly and accurately.
 * Knowledge of Microsoft Office Suite, especially Outlook, Word, and Excel.
-* Bilingual candidates, or those with a functional knowledge of another language, are desirable.
+* Multilingual candidates, or those with a functional knowledge of another language, are desirable.
 <br />
 
 ### Hours
@@ -34,7 +34,7 @@ Salary meets CLA minimum requirements, and is commensurate with experience.
 <br />
 
 ### Contact Information
-Apply with a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Servicese, at [jobs@darienlibrary.org](mailto:jobs@darienlibrary.org "Email Brittany Netherton"). Please make your subject line _PT KLS Assistant._ Position will be open until filled.
+Apply with a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Services, at [jobs@darienlibrary.org](mailto:jobs@darienlibrary.org "Email Brittany Netherton"). Please make your subject line _PT KLS Assistant._ Position will be open until filled.
 <br />
 <br />
 
