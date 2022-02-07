@@ -24,6 +24,8 @@
 <br />
 <h3 style="font-weight: bolder;">Safe and Fun</h3>
 <p style="font-size:1.25em !important;"><strong>Advance registration is required.</strong> This advanced registration will ensure spacing between groups and a safe and fun experience for all.</p>
+
+<p style="font-size:1.25em !important;">Masks are required for all attendees regardless of vaccination status.</p>
 <br />
 <h3 style="font-weight: bolder;">Supports Darien Library</h3>
 <p style="font-size:1.25em !important;">All proceeds from Darien Library Mini Golf will go directly to the purchase of books, movies, and technology as well as the support of countless programming opportunities throughout the year.</p>
