@@ -1,5 +1,4 @@
 <div class="row margin-bottom-10">
-
 <div class="col-md-4">
 
 ### Officers
@@ -21,6 +20,9 @@ Hutch Pegler<br />
 Kim Westcott<br />
 <br />
 
+</div>
+<div class="col-md-4">
+	
 ### Terms Expiring 2023
 Jay Bennett<br />
 Emily Kroenlein<br />

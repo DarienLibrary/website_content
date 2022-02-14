@@ -38,7 +38,7 @@ $63,000. Salary includes generous vacation, sick, and personal leave. Ample oppo
 <br />
 
 ### Contact Information
-Email a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Services, at [jobs@darienlibrary.org](mailto:jobs@darienlibrary.org "Email Brittany Netherton") by Monday, February 7th. Please make your subject line _FT KLS Librarian_. 
+Email a cover letter and copy of your resume to Brittany Netherton, Head of Knowledge and Learning Services, at [jobs@darienlibrary.org](mailto:jobs@darienlibrary.org "Email Brittany Netherton") by Monday, February 14th. Please make your subject line _FT KLS Librarian_. 
 <br />
 <br />
 
