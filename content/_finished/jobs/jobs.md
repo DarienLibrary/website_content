@@ -15,12 +15,7 @@ Darien Library seeks a friendly, energetic, dedicated individual with excellent 
 <br />
 <br />
 
-### [Full-Time Reference and Instruction Librarian](https://dar.to/3FKlkS1 "Full-Time Reference and Instruction Librarian")
-A full-time Knowledge and Learning Services Librarian is a lifelong learner with a passion for information access, instruction, and knowledge management. Highly collaborative and innovative, they are a community-minded professional who embodies hospitality and empathy in all interactions.
-<br />
-<br />
-
-**We are a _Library Journal_ Five-Star Library.**
+**We are a _Library Journal_ Star Library.**
 
 <div class="row margin-bottom-20">
 <div class="col-md-6">
