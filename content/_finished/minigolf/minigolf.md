@@ -6,12 +6,13 @@
 
 <p style="font-size:1.25em !important;">9 a.m. to 5 p.m.</p>
 <p style="font-size:1.25em !important;">Darien Library @ 1441 Post Road</p>
+<br />
 </div>
 <div class="col-md-6">
-
-<a href="https://dar.to/3o0jbeY"><button class="btn-u btn-u-dark-blue btn-block" type="button" style="padding: 10px 0; font-size:1.4em; background-color: #4665a0;"><i class="fa fa-clock-o"></i>&nbsp;&nbsp; Reserve Your Tee Time</button></a>
-<br /><br />
-<p style="font-size:1.25em !important;">Cost: $5 per player</p>
+<p style="font-size:1.25em !important; font-weight: 900;">All Tee Times for Mini Golf are currently sold out.</p>
+<p style="font-size:1.25em !important;">To be placed on a waiting list for a tee time or if you have any questions about the event, please email Caroline at <a href="mailto:clopez@darienlibrary.org">clopez@darienlibrary.org</a></p>
+<!-- <a href="https://dar.to/3o0jbeY"><button class="btn-u btn-u-dark-blue btn-block" type="button" style="padding: 10px 0; font-size:1.4em; background-color: #4665a0;"><i class="fa fa-clock-o"></i>&nbsp;&nbsp; Reserve Your Tee Time</button></a>-->
+<!-- <p style="font-size:1.25em !important;">Cost: $5 per player</p>-->
 </div>
 </div>
 </div>
@@ -25,7 +26,6 @@
 <h3 style="font-weight: bolder;">Safe and Fun</h3>
 <p style="font-size:1.25em !important;"><strong>Advance registration is required.</strong> This advanced registration will ensure spacing between groups and a safe and fun experience for all.</p>
 
-<p style="font-size:1.25em !important;">Masks are required for all attendees regardless of vaccination status.</p>
 <br />
 <h3 style="font-weight: bolder;">Supports Darien Library</h3>
 <p style="font-size:1.25em !important;">All proceeds from Darien Library Mini Golf will go directly to the purchase of books, movies, and technology as well as the support of countless programming opportunities throughout the year.</p>
