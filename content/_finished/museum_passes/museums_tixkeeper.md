@@ -2,7 +2,7 @@
 <div class="col-md-8">
 
 ### Changes to the Museum Passes Program Due to COVID-19
-Museum hours may have changed or are requiring tickets reserved in advance before visiting. Please check their website for the latest information.[Browse passes](https://dar.to/3EkHtGi "Browse passes") from the museums, nature centers, and Beardsley Zoo that are currently open. 
+Museum hours may have changed or are requiring tickets reserved in advance before visiting. Please check their website for the latest information. [Browse passes](https://dar.to/3EkHtGi "Browse passes") from the museums, nature centers, and Beardsley Zoo that are currently open. 
 
 Darien Library offers free passes or discounted rates to museums, Beardsley Zoo, and nature centers.
 

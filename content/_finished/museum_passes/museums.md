@@ -1,15 +1,18 @@
-### Museum Passes are Unavailable at the Current Time
-Due to COVID-19, we are not circulating museum passes for the time being.
-<br />
-<br />
-
 <div class="row margin-bottom-30">
 <div class="col-md-9">
 
-NYC and Connecticut are home to some of the greatest museums in the country. Renaissance masterpieces, visionary modern art, and celebrations of great historical figures are an easy train or car ride away. As part of our continuing dedication to enriching the lives of our patrons, Darien Library is pleased to provide a variety of museum passes that will engage, excite, and inform you in a cultural learning experience.
-<br />
-<br />
+Darien Library is excited to offer free passes or discounted rates to museums, zoos, and cultural destinations in the CT area and New York City.
 
+### How It Works
+* One pass per family. Library card holder must be over the age of 18 years.
+* Only one pass may be checked out at a time. Limited to two per month per household.
+* Passes may be borrowed for 3 days.
+* Late fees are $10 per day. If a pass is lost, you will need to pay the full replacement cost which varies per pass.
+* Museum passes cannot be reserved. Our passes are offered on a first-come; first-served basis. Please call the Welcome Desk at [203-669-5239](tel:2036695239 "Call the Welcome Desk") to see which passes are available that day. We will hold the pass for 1 hour at the Welcome Desk.
+<br />
+Please check the museum and organization guidelines for opening times and capacity limits.
+<br />
+<br />
 </div>
 <div class="col-md-3">
 
@@ -26,68 +29,99 @@ NYC and Connecticut are home to some of the greatest museums in the country. Ren
 <div class="row">
 <div class="col-md-4">
 
+### American Museum of Natural History 
+One of the world’s preeminent scientific and cultural institutions, it is renowned for its exhibitions and scientific collections that cover the planet and world cultures.<br />
+
+* Each pass consists of 2 vouchers. 
+* Each voucher admits 1 guest and is valid for 1 ticket to a Special Exhibition. 
+* Children under 3 are free.
+* [Learn more](https://dar.to/31rK2Uj "Learn more about the American Museum of Natural History")
+
+Patrons must make an online reservation to enter the Museum lobby. At the Museum, visit the Membership Desk in the lobby to exchange the vouchers for a timed entry ticket into the museum and the special exhibit of their choice.
+
+Open Wednesday through Sunday.
+**Address**: [200 Central Park West, New York, NY, 10024](https://dar.to/3twSNwd "View directions to the American Museum of Natural History")
+**Phone:** [212-769-5100](tel:2127695100 "Call the American Museum of Natural History")
+<br />
+<div>
+
 ### Beardsley Zoo 
 Connecticut's Beardsley Zoo is one of Connecticut's top family attractions with over 300 animals representing primarily North and South American species. <br />
-<!-- [Select date to visit the zoo](https://dar.to/2j4hL4b "Visit Beardsley Zoo")<br /> -->
-[View Beardsley Zoo's programs](https://dar.to/2j5d3mr "View Beardsley Zoo's programs list")<br />
-* Pass is valid for $6 admissions per person for up to 6 guests. 
-* Limited to one family per day. 
-* Always present your photo ID with this card. 
-* Cards are non-transferable.
+
+* This pass is valid for $9 admissions per person for up to 6 guests.
+* If lost, the replacement fee is $150.
+* [View Beardsley Zoo's programs](https://dar.to/2j5d3mr "View Beardsley Zoo's programs list")
+
+**Address:** (https://dar.to/3Iz37bm "View directions to Beardsley Zoo")
+**Phone:** [203-394-6565](tel:2033946565 "Call Beardsley Zoo")
 <br />
 </div>
 
 <div class="col-md-4">
 
 ### Bruce Museum
-A regionally based, world-class institution highlighting art, science and natural history in more than a dozen changing exhibitions annually. The Bruce Museum has [reciprocal agreements](https://dar.to/2C4fxJZ "reciprocal agreements") with several museums.<br />
-<!-- [Select date to visit Bruce](https://dar.to/2j4ixhB "Visit the Bruce Museum")<br /> -->
-[View Bruce's exhibits](https://dar.to/2j1UyiM "View the Bruce Museum's exhibits")<br />
-* Each pass admits two adults and their children under the age of 18. 
+An art, science, and natural history exhibition space located in Greenwich.<br />
+
+* Each pass admits 2 adults and their children under the age of 18. 
 * Children under 5 are free.
+* If lost, the replacement fee is $65.
+* [View Bruce's exhibits](https://dar.to/2j1UyiM "View the Bruce Museum's exhibits")<br />
+
+Closed on Mondays.
+**Address:** [1 Museum Drive, Greenwich, CT 06830-7157](https://dar.to/3IGie36 "Directions to the Bruce Museum")
+**Phone:** [203-869-0376](tel:2038690376 "Call the Bruce Museum")
 <br />
 </div>
 <div class="col-md-4">
 
+### Guggenheim Museum
+A modern art museum housed in a Frank Lloyd Wright building. The Guggenheim offers reciprocity with The Brooklyn Museum of Art.<br />
 
-### CT State Parks
-Explore your backyard with this pass to Connecticut State Parks and Forest Recreation Areas. The pass will no longer be needed to cover parking fees at state parks and forests for CT residents, as all CT registered vehicles will be allowed in without a fee. <br />
-<!-- [Select date to visit CT State Parks](https://dar.to/2j23UuU "Visit CT State Parks")<br /> -->
-[View list of parks](https://dar.to/2j4gOZt "View list of parks")<br />
-The pass also covers the admission fee for two adults and four children at 
-* Dinosaur State Park in Rocky Hill 
-* Fort Trumbull State Park in New London
-* Gillette Castle State Park in East Haddam
+* Each pass admits 4 adults or students, plus $5 admission for a maximum of 2 additional guests. 
+* Children under 12 are admitted free. 
+* [View the latest exhibits](https://dar.to/2j2QyP8 "View Guggenheim's exhibits")
+
+Open Thursday through Monday.
+**Address:** [1071 5th Ave, New York, NY 10128](https://dar.to/3wDKQY2 "Directions to the Guggenheim Museum")
+**Phone:** [212-423-3500](tel:2124233500 "Call the Guggenheim Museum")
 <br />
+
 </div>
 </div>
 <div class="row">
 <div class="col-md-4">
 
-### CT's Old State House
-The 1796 National Historic Landmark is one of the nation's oldest state houses. Visitors can explore the Old State House's exhibit, Want Change?, which features historic figures from Connecticut's past demonstrating different ways to be engaged citizens.<br />
-<!-- [Select date to visit Old State House](https://dar.to/2j3WgAl "Visit Old State House")<br /> -->
-[Learn more](https://dar.to/2j5V67F "Learn more about the Old State House")<br />
-* Pass admits up to two adults and two children. 
-* General admission only.
-</br>
-</div>
-<div class="col-md-4">
+### Intrepid Sea, Air & Space Museum
+Visit American military ships and explore maritime history at Intrepid. You'll visit an aircraft carrier, a space shuttle, a submarine, and a record-breaking British Airways Concorde.<br /> 
 
-### Cooper Hewitt Museum
-Housed in the former home of Andrew Carnegie Cooper Hewitt Museum is devoted exclusively to historic and contemporary design.<br /> 
-<!-- [Select date to visit Cooper Hewitt](https://dar.to/2j3WhUV "Visit Cooper Hewitt")<br /> -->
-[View the latest exhibits](https://dar.to/2j3RGlD "View Cooper Hewitt's exhibits")<br />
-* Each pass admits two adults and children under the age of 18. 
+* This pass provides free admission for 2 adults and 2 children plus discounted guest tickets of $18 per adult and $13 per child. 
+* Access to the express, Members-only admission line. 
+* A valid library card must be presented with this pass at the museum.
+* If lost, the replacement fee is $500.
+* [View the exhibits](https://dar.to/2j1WQyo "View Intrepid's exhibits")
+
+**Address:** [Pier 86, W 46th St, New York, NY 10036](https://dar.to/3upzCDS "Directiont to the Intrepid Sea, Air & Space Museum")
+**Phone:** [212-245-0072](tel:2122450072 "Call the Intrepid Sea, Air & Space Musuem")
 <br />
+
 </div>
 <div class="col-md-4">
 
-### Earthplace
-Earthplace consists of a 62 acre wildlife sanctuary with trails, a natural history museum, a nature center and wildlife for public viewing.<br /> to historic and contemporary design.<br /> 
-<!-- [Select date to visit Earthplace](https://dar.to/2o6BZHK "Visit Cooper Hewitt")<br /> -->
-[Learn more](https://dar.to/2j4EVay "View Earthplace's events")<br />
-* This pass is good for free admission for four people.
+
+</div>
+<div class="col-md-4">
+
+### Museum of Modern Art
+MoMA's renowned collection of modern and contemporary art includes Vincent van Gogh's _The Starry Night_ and Andy Warhol's _Gold Marilyn Monroe_, along with works by Jackson Pollock, Jasper Johns, and many other great artists of our time.<br />
+
+* Each pass admits 5 adults (children under 16 are admitted for free) and discounted tickets of $5 per person for 5 additional guests.
+* 10% discount in MOMA Stores.
+* If lost, the replacement fee is $1,500.
+* [View the latest exhibits](https://dar.to/2j4fGoI "View MoMA's exhibits")
+<br />
+
+**Address:** [11 West 53 Street, Manhattan, New York, NY 10019](https://dar.to/3NjuMB0 "Directions to the Museum of Modern Art")
+**Phone:** [212-708-9400](tel:2127089400 "Call the Museum of Modern Art")
 <br />
 </div>
 </div>
@@ -126,119 +160,47 @@ _Artists from the exhibition, Women of Sweetgrass, Cedar and Sage, friends and c
 <div class="row">
 <div class="col-md-4">
 
-### The Frick Collection
-It is housed in the former residence of Henry Clay Frick. The collection includes some of the masterpieces of European painting, sculptures and furniture.<br /> 
-<!-- [Select date to visit The Frick](https://dar.to/2j4esKl "Visit The Frick Collection")<br /> -->
-[View the latest exhibits](https://dar.to/2j4Fj90 "View The Frick's exhibits")<br />
-* These two passes admit one adult each. 
-* Children under 10 are not permitted.
+### New York Botanical Garden
+A living museum and educational institution, the New York Botantical Garden was established in 1891 at Bronx Park in New York City.<br />
+
+* This pass admits 1 Library patron plus 1 guest.
+* Each group is responsible for their parking fee.
+* A valid Library card must be presented with this pass at the site.
+* Restrictions may apply to timed-ticketed elements of exhibitions; tickets are subject to availability.
+* If lost, the replacement fee is $1,000.
+* [Learn more](https://dar.to/3JBvOG8 "Learn more about the New York Botantical Garden")
+
+Closed on Mondays.
+**Address:** [2900 Southern Boulevard, Bronx, NY 10458](https://dar.to/3Iz6Vta "Visit the New York Botantical Garden")
+**Phone:** [718-817-8700](tel:7188178700 "Call the New York Botantical Garden")
 <br />
 </div>
-<div class="col-md-4">
-
-### Guggenheim Museum
-A modern art museum housed in a Frank Lloyd Wright building. The Guggenheim offers reciprocity with The Brooklyn Museum of Art.<br />
-<!-- [Select date to visit Guggenheim](https://dar.to/2j3D85G "Visit Guggenheim Museum")<br /> -->
-[View the latest exhibits](https://dar.to/2j2QyP8 "View Guggenheim's exhibits")<br />
-* Each pass admits four adults or students. 
-* Children under 12 are admitted free. 
-<br />
-</div>
-<div class="col-md-4">
-
-
-### Intrepid Sea, Air & Space Museum
-Visit American military ships and explore maritime history at Intrepid. You'll visit an aircraft carrier, a space shuttle, a submarine, and a record-breaking British Airways Concorde.<br /> 
-<!-- [Select date to visit Intrepid](https://dar.to/2j5lPBg "Visit Intrepid")<br /> -->
-[View the exhibits](https://dar.to/2j1WQyo "View Intrepid's exhibits")<br />
-* This pass is for free admission for up to six people per day.
-<br />
-</div>
-</div>
-<div class="row">
-<div class="col-md-4">
-
-### Museum of Modern Art
-MoMA's renowned collection of modern and contemporary art includes Vincent van Gogh's _The Starry Night_ and Andy Warhol's _Gold Marilyn Monroe_, along with works by Jackson Pollock, Jasper Johns, and many other great artists of our time. <br /> 
-<!-- [Select date to visit MoMA](https://dar.to/2xvvu7b "Visit MoMA")<br /> -->
-[View the latest exhibits](https://dar.to/2j4fGoI "View MoMA's exhibits")<br />
-* Each pass admits five adults (children under 16 are free).
-* Each pass allows entrance to MoMA one hour before the museum opens to the public.
-<br />
-</div>
-<div class="col-md-4">
-
-### Museum of the City of New York
-The museum contains a wealth of city history and includes paintings, sculptures, photographs, military and naval uniforms, theater memorabilia, manuscripts, ship models and rare books. <br /> 
-<!-- [Select date to visit Museum of the City of NY](https://dar.to/2j3DYzm "Visit Museum of the City of New York")<br /> -->
-[View the latest exhibits](https://dar.to/2j3Qdvy "View Museum of the City of New York's exhibits")<br />
-* This pass admits two adults and four children. 
-* Includes a 10 percent discount at the gift shop.
-<br />
-</div>
-<div class="col-md-4">
-
-
-### New-York Historical Society
-Founded in 1804, the museum is New York's first museum. It works to perserve and share the multi-layed society and history of one of America's oldest cities.<br /> 
-<!-- [Select date to visit NY Historical Society](https://dar.to/2j4ftlD "Visit Museum of the City of New York")<br /> -->
-[View the latest exhibits](https://dar.to/2j48LMt "View the New York Historical Society's exhibits")<br />
-* This pass offers free admission for two adults and four children under the age of 18. 
-<br />
-</div>
-</div>
-<div class="row">
 <div class="col-md-4">
 
 ### Stamford Museum & Nature Center
 Enjoy a day at the museum, manision, galleries, Heckscher Farm, playground, and Animal Embassy's live exotic animal exhibit. They are dedicated to the preservation and interpretation of art and popular culture, the natural and agricultural sciences, and history.<br /> 
-<!-- [Select date to visit Stamford Museum](https://dar.to/2j4H1Y0 "Visit Stamford Museum & Nature Center")<br /> -->
-[Learn more](https://dar.to/2j3S4Aw "Learn more about the Stamford Museum & Nature Center")<br />
-* Pass allows free admission for two adults, of the same household, and their children under the age of 18. 
-* Free admission to the Museum and its grounds, Bendel Mansion & Galleries, Heckscher Farm, Nature's Playground, and access to Animal Embassy's live exotic animal exhibit. 
-* Free admission to the Observatory and Astronomy Nights programs. 
-* Free parking. 
-* 50% discount on admission to all Family Festival Weekends. 
+
+* Pass allows free admission for 2 adults, of the same household, and their children under the age of 18. 
+* If lost, the replacement fee is $110.
+* [Learn more](https://dar.to/2j3S4Aw "Learn more about the Stamford Museum & Nature Center")
+
+**Address:** [39 Scofieldtown Rd, Stamford, CT 06903](https://dar.to/3IsKaHu "Directions to Stamford Museum & Nature Center")
+**Phone:** [203-977-6521](tel:2039776521)
 <br />
+
 </div>
 <div class="col-md-4">
 
 ### Stepping Stones Museum for Children
 Their mission is to broaden and enrich the educational opportunities for children ages ten and under and enhance their understanding of the world. Stepping Stones Museum for Children is a fun, colorful and engaging environment.<br /> 
-<!-- [Select date to visit Stepping Stones](https://dar.to/2j5mYJ4 "Visit Stepping Stones")<br /> -->
-[Learn more](https://dar.to/2j4CCEs "Learn more about Stepping Stones")<br />
-* Pass admits one free admission with each regular paid admission. 
+* Pass admits one free admission with each regular paid admission ($16 per adult, $16 per child, $12 per senior). 
+* Free for children under 1, members and active duty military personnel and their families in the same household.
 * A maximum of three free admissions will be available per party, per day. 
 * This pass may only be used by one party per day. 
-* No other discounts may be applied when this pass is used.
-<br />
-</div>
-<div class="col-md-4">
+* If lost, the replacement fee is $100.
+* [Learn more](https://dar.to/2j4CCEs "Learn more about Stepping Stones")
 
-### Wadsworth Atheneum
-The nation's oldest public art museum, the Wadsworth Atheneum houses more than 50,000 works spanning 5,000 years. Collections include Renaissance and Baroque paintings, African-American art and Hudson River School.<br /> 
-<!-- [Select date to visit Wadsworth](https://dar.to/2j2Knux "Visit Wadsworth Antheneum")<br /> -->
-[View the latest exhibits](https://dar.to/2j4lQ8j "View Wadsworth's latest exhibits")<br />
-* Pass admits two adults and two children. 
-* Valid for general admission.
-<br />
-</div>
-</div>
-
-<div class="row">
-<div class="col-md-8">
-<a name="Steps" color="#fff"></a>
-
-### To Check Out a Library Pass
-* You need to live in Darien, work full-time in Darien, or be a Friend at the $300 level
-* Passes may be picked up after 3 p.m. the day before your museum visit and then returned by 10 a.m. the day after. They are not renewable. 
-* Late fines are $10 per day. If a pass is lost, you will need to pay the full replacement cost.
-* Museum passes are very popular, so please cancel your reservation if you can't make it so that another patron can enjoy a visit to the museum. Otherwise, after not picking up two passes, you'll be unable to reserve any museum pass for six months. After that, you'll be able to reserve passes again. 
-* Some passes may not be valid to attend special events at that museum. If you have questions, contact that museum directly.
-* All passes are to picked up and returned to the Welcome Desk.
-* Please call or visit the website of the museum to verify their hours of operation.
-* You may reserve a pass online or call the Welcome Desk at 203-669-5239. Passes may be reserved up to 90 days in advance.
-* You may reserve two passes per month and no more than one at a time per household.
-
+**Address:** [Mathews Park, 303 West Ave, Norwalk, CT 06850](https://dar.to/3IAeGPR "Directions to Stepping Stones Musuem for Children")
+**Phone:** [203-899-0606](tel:2038990606 "Call Stepping Stones Museum for Children")
 </div>
 </div>

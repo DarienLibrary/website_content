@@ -1,5 +1,6 @@
+
 <div class="row">
-<div class="col-md-6">
+<div class="col-md-5 col-xs-7">
 
 ### Explore Our Seed Library!
 
@@ -9,8 +10,13 @@ We love to see what our patrons are growing! Share your garden with us on social
 <br />
 <br />
 </div>
+<div class="col-md-2 col-xs-5">
+<img class="img-responsive center-block" src="/uploads/logos/seed_library_logo_teal.png" alt="Darien Library Seed Library" />
+<br />
+<br />
+</div>
 
-<div class="col-md-6">
+<div class="col-md-5 col-xs-12">
 
 ### How to Take Seeds
 1. Find the Seed Library to the right of the Welcome Desk near the Post Road entrance.
