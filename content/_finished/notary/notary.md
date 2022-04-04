@@ -2,7 +2,7 @@
 <div class="col-md-9">
 
 ### Make an Appointment
-Do you need your paperwork notarized? Our Notary Publics are available to notarize your documents free of charge. Please call the Library to schedule an appointment for a notarization at [203-669-5336](tel:2036695236 "Call the Reference Desk").
+Do you need your paperwork notarized? Our Notary Publics are available to notarize your documents free of charge. Please call the Library to schedule an appointment for a notarization at [203-669-5236](tel:2036695236 "Call the Reference Desk").
 <br /> 
 
 _A Notary Public is a public servant appointed by state government to witness the signing of important documents and administer oaths._ 

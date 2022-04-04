@@ -3,7 +3,7 @@
 <div class="col-md-6">
 
 ### What's in the Book Groups email?
-Each month Marianne and Pat will send you a list of the latest books added to the [Books in a Bag collection](https://dar.to/2GVMaJG "Books in a Bag collection") for [Book Groups](https://dar.to/2nx3RaV "Book Groups"). They'll also select their two favorite events of the month which may be of interest to book groups. 
+Each month Marianne, Joanne, and Pat will send you a list of the latest books added to the [Books in a Bag collection](https://dar.to/2GVMaJG "Books in a Bag collection") for [Book Groups](https://dar.to/2nx3RaV "Book Groups"). They'll also select their two favorite events of the month which may be of interest to book groups. 
 <br />
 <br />
 
@@ -55,7 +55,7 @@ Each month Marianne and Pat will send you a list of the latest books added to th
 <br />
 
 ### Meet the Book Groups Team
-Hosted by Pat Sheary, Head of Adult Programming, and Marianne Paterniti, Book Groups Coordinator.
+Hosted by Marianne Paterniti, Book Groups Coordinator, Joanne Gabriel, Adult Programmer, and Pat Sheary, Head of Adult Programming.
 
 </div>
 </div>

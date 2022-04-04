@@ -2,25 +2,26 @@
 <div class="col-md-6">
 
 ### Computers & Internet
-
 We have seventeen public computers available on the Second Level. You are guaranteed one hour session every day. Bring your laptop, tablet, or phone in to enjoy access to open or WPA-enabled [WiFi](/wifi "WiFi").
 
 [View the Library Internet Use Policy](/internet-use "Library Internet Use Policy")
 <br />
 <br />
 
-### Technology to Take Home
-We offer technology for demonstrative use for children and adults. The WiFi hotspot will keep you connected on U.S. roads. [View the full list](/catalog/search/keyword?search=%2A&formats=equipment "View list of gadgets") of gadgets you may borrow. 
+### Printing
+Good news: you get 50¢ of free printing a day! After that, the cost are:
 
-You may also [reserve](https://dar.to/3GoHhYp "Reserve") the projector, camcorder, and WiFi hotspot for specific dates.
+* **8.5 x 11" and 8.5 x 14" pages:** 10¢ B&W or 25¢ Color
+* **11 x 17" pages:** 25¢ or 50¢ Color
+
+Sign onto a Library computer on the Second Level to begin your printing project. 
 <br />
 <br />
 
 ### Wireless Printing
-Everyone may print wirelessly from home or in the Library using our [Mobile Print Service](https://dar.to/2gAeFAH "Mobile Print Service").You will need to visit the print release station on the second floor to complete your transaction. 
+Everyone may print wirelessly from home or in the Library using our [Mobile Print Service](https://dar.to/2gAeFAH "Mobile Print Service"). You will need to visit the print release station on the Second Level to complete your transaction. 
 <br />
 <br />
-
 </div>
 
 <!-- <div class="col-md-4">
@@ -45,6 +46,15 @@ Programs available on all PC computers:
 * Internet Explorer
 * Mozilla Firefox
 * Windows Media Player
+
+<br />
+
+### Technology to Take Home
+We offer technology for demonstrative use for children and adults. [View the full list](/catalog/search/keyword?search=%2A&formats=equipment "View list of gadgets") of gadgets you may borrow. 
+
+You may also [reserve](https://dar.to/3GoHhYp "Reserve") the projector, camcorder, and WiFi hotspot for specific dates.
+<br />
+<br />
 
 </div>
 </div>

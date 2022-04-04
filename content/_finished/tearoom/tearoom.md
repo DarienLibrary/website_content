@@ -25,7 +25,7 @@ We offer classes in the TEA room on everything from circuitry to printmaking. Cl
 
 <div class="margin-bottom-20"></div>
 
-<a href="/tearoom-reserve"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Reserve the TEA Room</button></a>
+<!-- <a href="/tearoom-reserve"><button class="btn-u btn-u-lg btn-u-dark-blue btn-block" type="button">Reserve the TEA Room</button></a> --> 
 
 <br />
 <br />
@@ -153,7 +153,7 @@ _*The Lulzbot 3D Printer can be used during these appointment times_
 <div class="col-md-4">
 <div class="margin-bottom-50"></div>
 
-* Appointments are reserved on a first-come, first served basis.
+* Appointments are reserved on a first-come, first-served basis.
 
 * To find out more about reserving the TEA Room, please stop by the Children's Library or contact a children's librarian via [email](childrenslibrary@darienlibrary.org "Email the Children's Library") or [203-669-5235](tel:2036695235 "203-669-5235"). 
 
