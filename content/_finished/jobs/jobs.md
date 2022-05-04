@@ -5,11 +5,6 @@ Darien Library's staff are courteous, knowledgeable, and passionate about helpin
 
 <br />
 
-### [Full-Time Bookkeeper](https://dar.to/3OnvNbC "Full-Time Bookkeeper")
-Darien Library seeks a full-time accounting professional to join our administrative team. This individual will be responsible for daily bookkeeping, accounts payable and receivable, payroll, end-of-month reporting, reconciliations, audit preparation, and other related duties as assigned.
-<br />
-<br />
-
 ### [Part-Time Teen Services Assistant](https://dar.to/2ROkfFD "Part-Time Teen Services Assistant")
 Darien Library seeks a friendly, curious, and motivated candidate to work in the Teen Services department. In this position, the candidate will work one-on-one with youth in our Teen Lounge, assist the Teen Services Librarian with programs for teens, and provide patrons with reader advisory services. The successful candidate will have a passion for working with youth, the ability to work collaboratively in a fast-paced, friendly environment, and embrace Darien Library’s “Kindness First” motto in both external and internal service.
 <br />
