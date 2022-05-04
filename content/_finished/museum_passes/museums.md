@@ -7,10 +7,10 @@ Darien Library is excited to offer free passes or discounted rates to museums, z
 
 ## How It Works
 * Museum passes cannot be reserved. Our passes are offered on a first-come; first-served basis. Please call the Welcome Desk at [203-669-5239](tel:2036695239 "Call the Welcome Desk") to see which passes are available that day. We will hold the pass for 1 hour at the Welcome Desk.
+* Passes may be borrowed for 3 days. Please return to the Welcome Desk by 12 noon on day 3 (1 p.m. on Sundays)
 * One pass per family. Library card holder must be over the age of 18 years.
 * Only one pass may be checked out at a time. Limited to two per month per household.
-* Passes may be borrowed for 3 days.
-* Late fees are $10 per day. If a pass is lost, you will need to pay the full replacement cost which varies per pass.
+* Late fees are $5 per day. If a pass is lost, you will need to pay the full replacement cost which varies per pass.
 <br />
 Please check the museum and organization guidelines for opening times and capacity limits.
 <br />
@@ -40,6 +40,7 @@ One of the world’s preeminent scientific and cultural institutions, it is reno
 * Each pass consists of 2 vouchers. 
 * Each voucher admits 1 guest and is valid for 1 ticket to a Special Exhibition. 
 * Children under 3 are free.
+* If lost, the replacement fee is $65.
 * [Learn more](https://dar.to/31rK2Uj "Learn more about the American Museum of Natural History")
 
 Patrons must make an online reservation to enter the Museum lobby. At the Museum, visit the Membership Desk in the lobby to exchange the vouchers for a timed entry ticket into the museum and the special exhibit of their choice.
@@ -223,5 +224,22 @@ Their mission is to broaden and enrich the educational opportunities for childre
 
 **Address:** [Mathews Park, 303 West Ave, Norwalk, CT 06850](https://dar.to/3IAeGPR "Directions to Stepping Stones Musuem for Children")<br />
 **Phone:** [203-899-0606](tel:2038990606 "Call Stepping Stones Museum for Children")
+<br />
+<br />
+</div>
+<div class="col-md-6">
+
+## Wadsworth Atheneum
+The nation's oldest public art museum, the Wadsworth Atheneum houses more than 50,000 works spanning 5,000 years. Collections include Renaissance and Baroque paintings, African-American art and Hudson River School.
+
+* Each pass admits two adults. Youth under the age of 18 are admitted free. 
+* This pass may be used to register for daily public tours at no extra cost.
+* If lost, the replacement fee is $25.
+* [View current exhibits](https://dar.to/3wdjd5L "View current exhibits at the Wadsworth Atheneum")
+<br />
+Open Thursday through Sunday.<br />
+
+**Address:** [600 Main Street, Hartford, CT 06103](https://dar.to/3xPEIN0 "Directions to the Wadsworth Atheneum")<br />
+**Phone:** [860-278-2670](tel:8602782670 "Call the Wadsworth Atheneum")
 </div>
 </div>
